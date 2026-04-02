@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>1.3 Các tác vụ đầu tiên - Khóa học Antigravity</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <div class="progress-bar" id="progress"></div>
+    <div class="slide-deck" id="deck">
+
+        <div class="slide title-slide active">
+            <div class="slide-content">
+                <span class="module-badge">Module 1.3</span>
+                <h1>Các tác vụ đầu tiên</h1>
+                <p class="subtitle">Ba thao tác cốt lõi: Chỉnh sửa, Soạn thảo mới, và Tổng hợp thông tin.</p>
+                <div class="meta">
+                    <span class="meta-item"><span class="icon">⏱</span> 15-20 phút</span>
+                    <span class="meta-item"><span class="icon">▶️</span> Lệnh: <code>/start-1-3</code></span>
+                </div>
+            </div>
+        </div>
+
+        <div class="slide">
+            <div class="slide-content">
+                <h2>✏️ 1. Chỉnh sửa & Bổ sung (Append/Update)</h2>
+                <p><strong>Mục đích:</strong> Thêm tóm tắt, sửa lỗi, viết thêm nội dung vào file có sẵn.</p>
+                <pre><code>Đọc @ten_file.md và thêm phần tóm tắt ở cuối file</code></pre>
+                <h3>Quy trình</h3>
+                <ol class="steps">
+                    <li>Antigravity <strong>đọc file</strong></li>
+                    <li><strong>Đề xuất</strong> nội dung mới</li>
+                    <li>Bạn xem xét và nhấn <strong>Accept</strong> (Chấp nhận)</li>
+                    <li>File gốc được <strong>cập nhật</strong></li>
+                </ol>
+                <blockquote>
+                    <strong>Ví dụ:</strong> "Đọc <code>@ghi_chu_cuoc_hop.txt</code> và thêm mục 'Việc cần làm' vào cuối,
+                    liệt kê ai phải làm gì."
+                </blockquote>
+            </div>
+        </div>
+
+        <div class="slide">
+            <div class="slide-content">
+                <h2>🔄 2. Soạn thảo Văn bản mới (Transform)</h2>
+                <p><strong>Mục đích:</strong> Biến ghi chú lộn xộn → Email chuyên nghiệp, Tờ trình, Công văn.</p>
+                <pre><code>Đọc @file_nguon.md và tạo file mới tên file_moi.md định dạng theo [kieu_van_ban]</code></pre>
+                <h3>Quy trình</h3>
+                <ol class="steps">
+                    <li>Antigravity <strong>đọc</strong> file nháp/ghi chú</li>
+                    <li><strong>Viết lại</strong> thành văn bản chỉn chu trong file mới</li>
+                    <li>File gốc <strong>giữ nguyên</strong> (để đối chiếu)</li>
+                </ol>
+                <blockquote>
+                    <strong>Ví dụ:</strong> "Đọc <code>@y_tuong_tiec.txt</code> và tạo file mới
+                    <code>ke_hoach_tiec.md</code>, trình bày dưới dạng tờ trình gửi Sếp."
+                </blockquote>
+            </div>
+        </div>
+
+        <div class="slide">
+            <div class="slide-content">
+                <h2>📊 3. Tổng hợp thông tin (Synthesize)</h2>
+                <p><strong>Mục đích:</strong> Đọc nhiều file → 1 báo cáo tổng hợp duy nhất.</p>
+                <pre><code>Phân tích tất cả file trong thư mục @ten_thu_muc và tạo file bao_cao_tong.md</code></pre>
+                <h3>Quy trình</h3>
+                <ol class="steps">
+                    <li>Antigravity <strong>đọc toàn bộ</strong> file trong thư mục</li>
+                    <li>Tìm các <strong>điểm chung, con số quan trọng</strong></li>
+                    <li>Viết ra một <strong>báo cáo tóm tắt duy nhất</strong></li>
+                </ol>
+            </div>
+        </div>
+
+        <div class="slide">
+            <div class="slide-content">
+                <h2>🔍 Quy trình Duyệt/Sửa với AI</h2>
+                <p>AI sẽ <strong>không tự ý sửa file</strong> ngay. Luôn đi qua bước kiểm duyệt:</p>
+                <ol class="steps">
+                    <li><strong>Đề xuất:</strong> AI hiện ra bản nháp (phần thêm mới có màu xanh)</li>
+                    <li><strong>Xem xét:</strong> Bạn đọc lướt qua</li>
+                    <li><strong>Quyết định:</strong></li>
+                </ol>
+                <div class="compare-grid">
+                    <div class="compare-box good">
+                        <h4>✅ Ưng ý?</h4>
+                        <p>Nhấn <strong>Accept</strong> hoặc <span class="kbd">Ctrl</span>+<span
+                                class="kbd">Enter</span></p>
+                    </div>
+                    <div class="compare-box bad">
+                        <h4>❌ Chưa ổn?</h4>
+                        <p>Gõ thêm lệnh: "Viết ngắn gọn hơn" hoặc nhấn <strong>Reject</strong></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="slide">
+            <div class="slide-content">
+                <h2>💡 Bí quyết ra lệnh (Best Practices)</h2>
+                <h3>Hãy cụ thể</h3>
+                <div class="compare-grid">
+                    <div class="compare-box bad">
+                        <h4>❌ Mơ hồ</h4>
+                        <p>"Viết cái này hay hơn."</p>
+                    </div>
+                    <div class="compare-box good">
+                        <h4>✅ Cụ thể</h4>
+                        <p>"Đọc <code>@bao_cao.doc</code> và sửa lại văn phong cho chuyên nghiệp, kiểm tra lỗi chính
+                            tả."</p>
+                    </div>
+                </div>
+                <h3>Luôn cung cấp ngữ cảnh</h3>
+                <div class="compare-grid">
+                    <div class="compare-box bad">
+                        <h4>❌ Thiếu</h4>
+                        <p>"Làm báo cáo đi."</p>
+                    </div>
+                    <div class="compare-box good">
+                        <h4>✅ Đủ</h4>
+                        <p>"Đọc <code>@so_lieu_thang_5.xlsx</code> và <code>@nhan_xet.txt</code> rồi tạo báo cáo tổng
+                            kết tháng."</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+    <nav class="nav-bar">
+        <div class="nav-left"><a href="index.html" class="home-link">🏠 Mục lục</a></div>
+        <div class="nav-center"><span class="slide-counter"><span id="current">1</span> / <span
+                    id="total"></span></span></div>
+        <div class="nav-right">
+            <button class="nav-btn" id="prevBtn" onclick="prevSlide()">← Trước</button>
+            <a href="module-1-4.html" class="nav-btn primary" id="nextBtn" onclick="return nextSlide(event)">Tiếp →</a>
+        </div>
+    </nav>
+
+    <script>
+        const slides = document.querySelectorAll('.slide'); let current = 0; const total = slides.length; document.getElementById('total').textContent = total;
+        function showSlide(n) { slides.forEach((s, i) => { s.classList.remove('active', 'prev'); if (i === n) s.classList.add('active'); else if (i < n) s.classList.add('prev'); }); current = n; document.getElementById('current').textContent = n + 1; document.getElementById('prevBtn').disabled = n === 0; const nb = document.getElementById('nextBtn'); if (n === total - 1) { nb.textContent = 'Bài tiếp →'; nb.href = 'module-1-4.html'; } else { nb.textContent = 'Tiếp →'; nb.removeAttribute('href'); } document.getElementById('progress').style.width = ((n + 1) / total * 100) + '%'; }
+        function nextSlide(e) { if (current < total - 1) { if (e) e.preventDefault(); showSlide(current + 1); return false; } return true; }
+        function prevSlide() { if (current > 0) showSlide(current - 1); }
+        document.addEventListener('keydown', e => { if (e.key === 'ArrowRight' || e.key === ' ') { e.preventDefault(); nextSlide(e); } else if (e.key === 'ArrowLeft') { e.preventDefault(); prevSlide(); } });
+        showSlide(0);
+    </script>
+</body>
+
+</html>

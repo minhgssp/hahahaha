@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>0.3 Mở Thư mục Khóa học - Khóa học Antigravity</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <div class="progress-bar" id="progress"></div>
+    <div class="slide-deck" id="deck">
+
+        <!-- SLIDE 1: Title -->
+        <div class="slide title-slide active">
+            <div class="slide-content">
+                <span class="module-badge">Module 0.3</span>
+                <h1>Mở Thư mục Khóa học</h1>
+                <p class="subtitle">Việc này giống như bạn mở một quyển sách ra để bắt đầu đọc vậy.</p>
+                <div class="meta">
+                    <span class="meta-item"><span class="icon">⏱</span> 5 phút</span>
+                    <span class="meta-item"><span class="icon">📋</span> Đã cài Antigravity (Module 0.2)</span>
+                </div>
+            </div>
+        </div>
+
+        <!-- SLIDE 2: Hướng dẫn -->
+        <div class="slide">
+            <div class="slide-content">
+                <h2>📂 Hướng dẫn từng bước</h2>
+                <h3>Bước 1: Tìm nút "Open Folder"</h3>
+                <ol class="steps">
+                    <li>Nhìn lên góc trên cùng bên trái → menu <strong>File</strong></li>
+                    <li>Chọn <strong>Open Folder...</strong></li>
+                    <li>Hoặc phím tắt: <span class="kbd">Ctrl</span>+<span class="kbd">K</span> rồi <span
+                            class="kbd">Ctrl</span>+<span class="kbd">O</span> (Windows) | <span
+                            class="kbd">Cmd</span>+<span class="kbd">O</span> (Mac)</li>
+                </ol>
+                <h3 style="margin-top:24px">Bước 2: Chọn thư mục Khóa học</h3>
+                <ol class="steps">
+                    <li>Tìm đến nơi lưu khóa học (thường trong <code>Downloads</code> hoặc <code>Documents</code>)</li>
+                    <li>Chọn thư mục <code>antigravity_course_vn</code></li>
+                    <li>Nhấn <strong>Select Folder</strong> (hoặc <strong>Open</strong>)</li>
+                </ol>
+            </div>
+        </div>
+
+        <!-- SLIDE 3: Kiểm tra -->
+        <div class="slide">
+            <div class="slide-content">
+                <h2>✅ Kiểm tra & Xử lý sự cố</h2>
+                <p>Sau khi mở xong, danh sách bài học hiện ở cột bên trái (Sidebar):</p>
+                <ul>
+                    <li>📁 Module 0_Getting_Started</li>
+                    <li>📁 Module 1_Fundamentals</li>
+                    <li>📁 Module 2_Advanced_PM_Work</li>
+                </ul>
+                <div class="callout callout-warning" style="margin-top:24px">
+                    <span class="callout-icon">❓</span>
+                    <div>
+                        <strong>"Tôi không thấy cột bên trái"</strong><br>
+                        Bấm vào biểu tượng 2 tờ giấy (Explorer) ở cạnh trái cùng.
+                    </div>
+                </div>
+                <div class="callout callout-info">
+                    <span class="callout-icon">🔄</span>
+                    <div>
+                        <strong>"Tôi mở nhầm thư mục"</strong><br>
+                        Không sao! Chỉ cần vào File → Open Folder... và chọn lại.
+                    </div>
+                </div>
+                <div class="callout callout-tip">
+                    <span class="callout-icon">🎉</span>
+                    <div><strong>Chúc mừng!</strong> Bạn đã chuẩn bị xong. Bắt đầu bài học đầu tiên tại TaskFlow!</div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+    <nav class="nav-bar">
+        <div class="nav-left"><a href="index.html" class="home-link">🏠 Mục lục</a></div>
+        <div class="nav-center"><span class="slide-counter"><span id="current">1</span> / <span
+                    id="total"></span></span></div>
+        <div class="nav-right">
+            <button class="nav-btn" id="prevBtn" onclick="prevSlide()">← Trước</button>
+            <a href="module-1-1.html" class="nav-btn primary" id="nextBtn" onclick="return nextSlide(event)">Tiếp →</a>
+        </div>
+    </nav>
+
+    <script>
+        const slides = document.querySelectorAll('.slide');
+        let current = 0;
+        const total = slides.length;
+        document.getElementById('total').textContent = total;
+        function showSlide(n) {
+            slides.forEach((s, i) => { s.classList.remove('active', 'prev'); if (i === n) s.classList.add('active'); else if (i < n) s.classList.add('prev'); });
+            current = n; document.getElementById('current').textContent = n + 1; document.getElementById('prevBtn').disabled = n === 0;
+            const nb = document.getElementById('nextBtn');
+            if (n === total - 1) { nb.textContent = 'Bài tiếp →'; nb.href = 'module-1-1.html'; } else { nb.textContent = 'Tiếp →'; nb.removeAttribute('href'); }
+            document.getElementById('progress').style.width = ((n + 1) / total * 100) + '%';
+        }
+        function nextSlide(e) { if (current < total - 1) { if (e) e.preventDefault(); showSlide(current + 1); return false; } return true; }
+        function prevSlide() { if (current > 0) showSlide(current - 1); }
+        document.addEventListener('keydown', e => { if (e.key === 'ArrowRight' || e.key === ' ') { e.preventDefault(); nextSlide(e); } else if (e.key === 'ArrowLeft') { e.preventDefault(); prevSlide(); } });
+        showSlide(0);
+    </script>
+</body>
+
+</html>

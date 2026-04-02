@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>1.4 Templates & Workflows - Khóa học Antigravity</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <div class="progress-bar" id="progress"></div>
+    <div class="slide-deck" id="deck">
+
+        <div class="slide title-slide active">
+            <div class="slide-content">
+                <span class="module-badge">Module 1.4</span>
+                <h1>Mẫu (Templates) &<br>Quy trình (Workflows)</h1>
+                <p class="subtitle">Bước chuyển mình từ "Người làm việc" sang "AI/Automation PM".</p>
+                <div class="meta">
+                    <span class="meta-item"><span class="icon">⏱</span> 15 phút</span>
+                    <span class="meta-item"><span class="icon">▶️</span> Lệnh: <code>/start-1-4</code></span>
+                </div>
+            </div>
+        </div>
+
+        <div class="slide">
+            <div class="slide-content">
+                <h2>📄 1. Mẫu (Templates) — "Khuôn đúc"</h2>
+                <p>Template = file chứa <strong>khung sườn sẵn</strong> với các chỗ trống <code>[dien_vao_day]</code>
+                </p>
+                <h3>Tại sao cần Template?</h3>
+                <ul>
+                    <li>⚡ <strong>Nhanh:</strong> Không phải nghĩ cấu trúc, chỉ cần điền nội dung</li>
+                    <li>✅ <strong>Chuẩn:</strong> Đảm bảo mọi văn bản đúng quy định công ty</li>
+                    <li>🤝 <strong>Dễ chuyển giao:</strong> Sarah (HR) có thể dùng template của bạn mà không cần hỏi lại
+                    </li>
+                </ul>
+                <h3>Cách tạo</h3>
+                <ol class="steps">
+                    <li>Tạo file mới (ví dụ <code>mau_email_bao_cao.md</code>)</li>
+                    <li>Viết khung sườn chuẩn</li>
+                    <li>Thay nội dung thay đổi bằng biến số: <code>{TEN_DU_AN}</code>, <code>{NGAY_THANG}</code></li>
+                </ol>
+                <blockquote>"Đọc <code>@mau_email_bao_cao.md</code> và điền thông tin từ
+                    <code>@ghi_chu_cuoc_hop.txt</code> vào đó."</blockquote>
+            </div>
+        </div>
+
+        <div class="slide">
+            <div class="slide-content">
+                <h2>⚙️ 2. Quy trình (Workflows) — "Dây chuyền sản xuất"</h2>
+                <p>Workflow = tập hợp các bước hướng dẫn AI/nhân viên <strong>làm việc theo trình tự</strong>.</p>
+                <p>File Workflow nằm trong <code>.agent/workflows/</code></p>
+                <h3>Ví dụ: Workflow "Viết tin tuyển dụng"</h3>
+                <ol class="steps">
+                    <li>Đọc yêu cầu từ Sếp (File ghi chú)</li>
+                    <li>Đọc Mẫu tin tuyển dụng chuẩn</li>
+                    <li>Điền thông tin vào mẫu</li>
+                    <li>Kiểm tra các từ khóa cấm kỵ (Rule)</li>
+                </ol>
+                <h3>Sức mạnh của Command</h3>
+                <blockquote>
+                    Thay vì gõ <strong>10 dòng lệnh</strong> mỗi lần, bạn chỉ gõ: <code>/viet-tin-tuyen-dung</code>
+                </blockquote>
+            </div>
+        </div>
+
+        <div class="slide">
+            <div class="slide-content">
+                <h2>🏋️ Bài tập Thực hành</h2>
+                <p>Tạo một <strong>Mẫu Email Báo cáo Tuần</strong> cho team Sales:</p>
+                <ol class="steps">
+                    <li><strong>Tạo mẫu:</strong> File <code>mau_bao_cao_sales.md</code> gồm các mục: Doanh số, Khách
+                        hàng mới, Khó khăn</li>
+                    <li><strong>Dùng mẫu:</strong> Yêu cầu AI đọc <code>@Sales_Data.csv</code> và điền số liệu vào đó
+                    </li>
+                </ol>
+                <div class="callout callout-tip">
+                    <span class="callout-icon">💡</span>
+                    <div>
+                        <strong>Nhớ:</strong> Người làm việc viết email mỗi khi có sự vụ.<br>
+                        <strong>AI/Automation PM:</strong> Tạo <strong>Mẫu email</strong> để dùng mãi mãi!
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+    <nav class="nav-bar">
+        <div class="nav-left"><a href="index.html" class="home-link">🏠 Mục lục</a></div>
+        <div class="nav-center"><span class="slide-counter"><span id="current">1</span> / <span
+                    id="total"></span></span></div>
+        <div class="nav-right">
+            <button class="nav-btn" id="prevBtn" onclick="prevSlide()">← Trước</button>
+            <a href="module-1-5.html" class="nav-btn primary" id="nextBtn" onclick="return nextSlide(event)">Tiếp →</a>
+        </div>
+    </nav>
+
+    <script>
+        const slides = document.querySelectorAll('.slide'); let current = 0; const total = slides.length; document.getElementById('total').textContent = total;
+        function showSlide(n) { slides.forEach((s, i) => { s.classList.remove('active', 'prev'); if (i === n) s.classList.add('active'); else if (i < n) s.classList.add('prev'); }); current = n; document.getElementById('current').textContent = n + 1; document.getElementById('prevBtn').disabled = n === 0; const nb = document.getElementById('nextBtn'); if (n === total - 1) { nb.textContent = 'Bài tiếp →'; nb.href = 'module-1-5.html'; } else { nb.textContent = 'Tiếp →'; nb.removeAttribute('href'); } document.getElementById('progress').style.width = ((n + 1) / total * 100) + '%'; }
+        function nextSlide(e) { if (current < total - 1) { if (e) e.preventDefault(); showSlide(current + 1); return false; } return true; }
+        function prevSlide() { if (current > 0) showSlide(current - 1); }
+        document.addEventListener('keydown', e => { if (e.key === 'ArrowRight' || e.key === ' ') { e.preventDefault(); nextSlide(e); } else if (e.key === 'ArrowLeft') { e.preventDefault(); prevSlide(); } });
+        showSlide(0);
+    </script>
+</body>
+
+</html>

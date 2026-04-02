@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>2.3 Báo cáo Chiến lược - Khóa học Antigravity</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <div class="progress-bar" id="progress"></div>
+    <div class="slide-deck" id="deck">
+
+        <div class="slide title-slide active">
+            <div class="slide-content">
+                <span class="module-badge">Module 2.3</span>
+                <h1>Tổng hợp Báo cáo<br>Chiến lược</h1>
+                <p class="subtitle">Bài học "Trùm cuối" — biến "núi thông tin" thành "một trang giấy" (One-pager) sắc
+                    bén.</p>
+                <div class="meta">
+                    <span class="meta-item"><span class="icon">⏱</span> 40 phút</span>
+                    <span class="meta-item"><span class="icon">▶️</span> Lệnh: <code>/start-2-3</code></span>
+                </div>
+            </div>
+        </div>
+
+        <div class="slide">
+            <div class="slide-content">
+                <h2>📊 Quy trình Báo cáo Chiến lược</h2>
+                <ol class="steps">
+                    <li><strong>Gom tin (Gather):</strong> Thu thập báo cáo từ Sales, HR, Marketing</li>
+                    <li><strong>Lọc tin (Filter):</strong> "Đọc <code>@Sales_Report.md</code> và lấy 3 điểm nổi bật
+                        nhất"</li>
+                    <li><strong>Tổng hợp (Combine):</strong> Kết hợp thành 1 tài liệu: Tình hình → Vấn đề → Giải pháp
+                    </li>
+                    <li><strong>Đánh giá (Review):</strong> Đóng vai Sếp để soi lại — "Có quá dài không? Đủ số liệu
+                        chưa?"</li>
+                </ol>
+                <div class="callout callout-info">
+                    <span class="callout-icon">⭐</span>
+                    <div>Kỹ năng quan trọng nhất của quản lý cấp trung = <strong>Tổng hợp (Synthesis)</strong></div>
+                </div>
+            </div>
+        </div>
+
+        <div class="slide">
+            <div class="slide-content">
+                <h2>🎯 Ví dụ: Báo cáo Quý 1 cho HĐQT</h2>
+                <ol class="steps">
+                    <li><strong>Context:</strong> <code>@Sales_Data.csv</code> + <code>@HR_Status.md</code> +
+                        <code>@Marketing_Results.md</code></li>
+                    <li><strong>Filter:</strong> "Tóm tắt ngắn gọn tình hình từng bộ phận"</li>
+                    <li><strong>Combine:</strong> "Viết báo cáo Quý 1 gửi HĐQT. Nhấn mạnh doanh thu tăng nhưng chi phí
+                        HR cũng tăng."</li>
+                    <li><strong>Review:</strong> "Đóng vai Sếp khó tính, soi lỗi báo cáo này" → Tự tin gửi đi!</li>
+                </ol>
+                <div class="callout callout-tip">
+                    <span class="callout-icon">⏰</span>
+                    <div><strong>Tiết kiệm 4 giờ</strong> so với copy-paste từ 3 file và sửa văn phong!</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="slide">
+            <div class="slide-content">
+                <h2>💡 Thực hành Tốt nhất</h2>
+                <div class="compare-grid">
+                    <div class="compare-box good">
+                        <h4>💪 Ngắn gọn là sức mạnh</h4>
+                        <ul>
+                            <li>Sếp bận rộn → không đọc quá 2 trang</li>
+                            <li>Dùng biểu đồ minh họa</li>
+                            <li>Tóm tắt tối đa</li>
+                        </ul>
+                    </div>
+                    <div class="compare-box good">
+                        <h4>🎯 Luôn có Đề xuất</h4>
+                        <ul>
+                            <li>❌ "Doanh số giảm" (chỉ nêu vấn đề)</li>
+                            <li>✅ "Doanh số giảm → Đề xuất tăng chiết khấu 5%"</li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="callout callout-tip">
+                    <span class="callout-icon">🎉</span>
+                    <div><strong>Chúc mừng!</strong> Bạn đã hoàn thành 3 kỹ năng quản lý cốt lõi. Tiếp theo: Kỹ năng mở
+                        rộng!</div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+    <nav class="nav-bar">
+        <div class="nav-left"><a href="index.html" class="home-link">🏠 Mục lục</a></div>
+        <div class="nav-center"><span class="slide-counter"><span id="current">1</span> / <span
+                    id="total"></span></span></div>
+        <div class="nav-right">
+            <button class="nav-btn" id="prevBtn" onclick="prevSlide()">← Trước</button>
+            <a href="module-2-4.html" class="nav-btn primary" id="nextBtn" onclick="return nextSlide(event)">Tiếp →</a>
+        </div>
+    </nav>
+
+    <script>
+        const slides = document.querySelectorAll('.slide'); let current = 0; const total = slides.length; document.getElementById('total').textContent = total;
+        function showSlide(n) { slides.forEach((s, i) => { s.classList.remove('active', 'prev'); if (i === n) s.classList.add('active'); else if (i < n) s.classList.add('prev'); }); current = n; document.getElementById('current').textContent = n + 1; document.getElementById('prevBtn').disabled = n === 0; const nb = document.getElementById('nextBtn'); if (n === total - 1) { nb.textContent = 'Bài tiếp →'; nb.href = 'module-2-4.html'; } else { nb.textContent = 'Tiếp →'; nb.removeAttribute('href'); } document.getElementById('progress').style.width = ((n + 1) / total * 100) + '%'; }
+        function nextSlide(e) { if (current < total - 1) { if (e) e.preventDefault(); showSlide(current + 1); return false; } return true; }
+        function prevSlide() { if (current > 0) showSlide(current - 1); }
+        document.addEventListener('keydown', e => { if (e.key === 'ArrowRight' || e.key === ' ') { e.preventDefault(); nextSlide(e); } else if (e.key === 'ArrowLeft') { e.preventDefault(); prevSlide(); } });
+        showSlide(0);
+    </script>
+</body>
+
+</html>

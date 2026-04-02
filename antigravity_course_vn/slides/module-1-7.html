@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>1.7 Khái niệm Cốt lõi - Khóa học Antigravity</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <div class="progress-bar" id="progress"></div>
+    <div class="slide-deck" id="deck">
+
+        <div class="slide title-slide active">
+            <div class="slide-content">
+                <span class="module-badge">Module 1.7</span>
+                <h1>Phân biệt các<br>Khái niệm Cốt lõi</h1>
+                <p class="subtitle">Knowledge, Workflow, Skill, Rule — 4 trụ cột điều khiển Antigravity.</p>
+                <div class="meta">
+                    <span class="meta-item"><span class="icon">⏱</span> 20 phút</span>
+                    <span class="meta-item"><span class="icon">📋</span> Module 1.6</span>
+                </div>
+            </div>
+        </div>
+
+        <div class="slide">
+            <div class="slide-content">
+                <h2>📊 Bảng So sánh Nhanh</h2>
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Khái niệm</th>
+                            <th>Là gì?</th>
+                            <th>Ví dụ</th>
+                            <th>Câu hỏi phân biệt</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td><strong>Knowledge</strong></td>
+                            <td>Dữ liệu tĩnh để AI đọc</td>
+                            <td>Wiki công ty, Tài liệu SP</td>
+                            <td>"Cần <em>biết</em> gì?"</td>
+                        </tr>
+                        <tr>
+                            <td><strong>Workflow</strong></td>
+                            <td>Quy trình step-by-step</td>
+                            <td>"Viết case study", "Nghiên cứu thị trường"</td>
+                            <td>"Làm <em>gì, theo thứ tự nào</em>?"</td>
+                        </tr>
+                        <tr>
+                            <td><strong>Skill</strong></td>
+                            <td>Bộ knowledge + rules chi tiết</td>
+                            <td>Quy tắc lượng hóa, format trích dẫn</td>
+                            <td>"Làm <em>thế nào, chi tiết ra sao</em>?"</td>
+                        </tr>
+                        <tr>
+                            <td><strong>Rule</strong></td>
+                            <td>Luật lệ bắt buộc</td>
+                            <td>Không teencode, Think-out-loud</td>
+                            <td>"Bị <em>ràng buộc</em> gì?"</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+        <div class="slide">
+            <div class="slide-content">
+                <h2>🧩 Chi tiết từng Khái niệm</h2>
+                <div class="compare-grid">
+                    <div class="compare-box good">
+                        <h4>🧠 Knowledge — "Cái Đầu"</h4>
+                        <p>Thư viện của AI. Lưu trong <code>knowledge/</code></p>
+                        <p>Dùng <code>@</code> mention để AI đọc.</p>
+                    </div>
+                    <div class="compare-box good">
+                        <h4>🗺️ Workflow — "Bản Đồ"</h4>
+                        <p>Quy trình step-by-step. Lưu trong <code>.agents/workflows/</code></p>
+                        <p>User chủ động gọi bằng <code>/ten_workflow</code></p>
+                    </div>
+                </div>
+                <div class="compare-grid" style="margin-top:12px">
+                    <div class="compare-box good">
+                        <h4>📚 Skill — "Bộ Tri thức"</h4>
+                        <p>Bộ knowledge + rules chi tiết. Lưu trong <code>skills/ten-skill/SKILL.md</code></p>
+                        <p>AI tự áp dụng khi phát hiện context phù hợp.</p>
+                    </div>
+                    <div class="compare-box good">
+                        <h4>⚖️ Rule — "Hiến Pháp"</h4>
+                        <p>Tối thượng, áp dụng mọi nơi. Lưu trong <code>.agent/rules/</code></p>
+                        <p>AI tự động đọc khi khởi động.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="slide">
+            <div class="slide-content">
+                <h2>👨‍🍳 Ví dụ: Bếp Trưởng</h2>
+                <p>Tưởng tượng bạn là <strong>Bếp Trưởng</strong> (người tạo quy trình nấu ăn):</p>
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Khái niệm</th>
+                            <th>Ví dụ Bếp</th>
+                            <th>Vai trò PM</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td><strong>Knowledge</strong></td>
+                            <td>📖 Sách Dạy Nấu Ăn</td>
+                            <td>Người biên tập (Curator)</td>
+                        </tr>
+                        <tr>
+                            <td><strong>Workflow</strong></td>
+                            <td>📋 Steps: sơ chế → ướp → nấu → trình bày</td>
+                            <td>Kiến trúc sư (Architect)</td>
+                        </tr>
+                        <tr>
+                            <td><strong>Skill</strong></td>
+                            <td>🧪 Chi tiết: gia vị gì, tỷ lệ, nhiệt độ</td>
+                            <td>Nhà nghiên cứu (Researcher)</td>
+                        </tr>
+                        <tr>
+                            <td><strong>Rule</strong></td>
+                            <td>🧼 "Rửa tay trước khi nấu"</td>
+                            <td>Nhà làm luật (Lawmaker)</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+        <div class="slide">
+            <div class="slide-content">
+                <h2>⚡ Deep Dive: Skill vs Workflow</h2>
+                <div class="callout callout-tip">
+                    <span class="callout-icon">⚠️</span>
+                    <div>Nắm vững sự khác biệt này <strong>TRƯỚC KHI</strong> bắt đầu. Không được gộp lẫn.</div>
+                </div>
+                <table>
+                    <thead>
+                        <tr>
+                            <th></th>
+                            <th>Workflow</th>
+                            <th>Skill</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td><strong>Là gì</strong></td>
+                            <td>Quy trình step-by-step</td>
+                            <td>Bộ knowledge + rules chi tiết</td>
+                        </tr>
+                        <tr>
+                            <td><strong>Khi nào gọi</strong></td>
+                            <td>User chủ động gọi</td>
+                            <td>AI tự áp dụng khi phát hiện context</td>
+                        </tr>
+                        <tr>
+                            <td><strong>Ẩn dụ nấu ăn</strong></td>
+                            <td>Steps: sơ chế → ướp → nấu → trình bày</td>
+                            <td>Chi tiết: gia vị, tỷ lệ, nhiệt độ</td>
+                        </tr>
+                        <tr>
+                            <td><strong>Tương tác</strong></td>
+                            <td>Gọi skills tại các bước cụ thể</td>
+                            <td>Được nhiều workflow gọi chung</td>
+                        </tr>
+                    </tbody>
+                </table>
+                <div class="compare-grid" style="margin-top:16px">
+                    <div class="compare-box good">
+                        <h4>✅ Quy tắc vàng</h4>
+                        <p>• 1 workflow gọi nhiều skill<br>• 1 skill được nhiều workflow dùng chung<br>• Skill KHÔNG chứa step-by-step<br>• Workflow KHÔNG chứa rules chi tiết</p>
+                    </div>
+                    <div class="compare-box good">
+                        <h4>🧭 Câu hỏi phân biệt</h4>
+                        <p>• "Làm gì, theo thứ tự nào?" → <strong>Workflow</strong><br>• "Làm thế nào, chi tiết ra sao?" → <strong>Skill</strong></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="slide">
+            <div class="slide-content">
+                <h2>🏋️ Bài tập Phân loại</h2>
+                <p>Hãy phân loại các yêu cầu sau:</p>
+                <table>
+                    <thead>
+                        <tr>
+                            <th>#</th>
+                            <th>Yêu cầu</th>
+                            <th>Đáp án</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>1</td>
+                            <td>"Tài liệu giới thiệu sản phẩm mới"</td>
+                            <td><strong>Knowledge</strong> 🧠</td>
+                        </tr>
+                        <tr>
+                            <td>2</td>
+                            <td>"Quy trình xử lý khiếu nại 4 bước"</td>
+                            <td><strong>Workflow</strong> 🗺️</td>
+                        </tr>
+                        <tr>
+                            <td>3</td>
+                            <td>"Tra cứu tỷ giá thời gian thực"</td>
+                            <td><strong>Skill</strong> 🤖</td>
+                        </tr>
+                        <tr>
+                            <td>4</td>
+                            <td>"Tất cả email phải có chữ ký chuẩn"</td>
+                            <td><strong>Rule</strong> ⚖️</td>
+                        </tr>
+                    </tbody>
+                </table>
+                <div class="callout callout-tip">
+                    <span class="callout-icon">🚀</span>
+                    <div>Bạn không chỉ "dùng" — bạn là người <strong>tạo ra</strong> chúng để chuyển giao cho đồng
+                        nghiệp!</div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+    <nav class="nav-bar">
+        <div class="nav-left"><a href="index.html" class="home-link">🏠 Mục lục</a></div>
+        <div class="nav-center"><span class="slide-counter"><span id="current">1</span> / <span
+                    id="total"></span></span></div>
+        <div class="nav-right">
+            <button class="nav-btn" id="prevBtn" onclick="prevSlide()">← Trước</button>
+            <a href="module-1-8.html" class="nav-btn primary" id="nextBtn" onclick="return nextSlide(event)">Tiếp →</a>
+        </div>
+    </nav>
+
+    <script>
+        const slides = document.querySelectorAll('.slide'); let current = 0; const total = slides.length; document.getElementById('total').textContent = total;
+        function showSlide(n) { slides.forEach((s, i) => { s.classList.remove('active', 'prev'); if (i === n) s.classList.add('active'); else if (i < n) s.classList.add('prev'); }); current = n; document.getElementById('current').textContent = n + 1; document.getElementById('prevBtn').disabled = n === 0; const nb = document.getElementById('nextBtn'); if (n === total - 1) { nb.textContent = 'Bài tiếp →'; nb.href = 'module-1-8.html'; } else { nb.textContent = 'Tiếp →'; nb.removeAttribute('href'); } document.getElementById('progress').style.width = ((n + 1) / total * 100) + '%'; }
+        function nextSlide(e) { if (current < total - 1) { if (e) e.preventDefault(); showSlide(current + 1); return false; } return true; }
+        function prevSlide() { if (current > 0) showSlide(current - 1); }
+        document.addEventListener('keydown', e => { if (e.key === 'ArrowRight' || e.key === ' ') { e.preventDefault(); nextSlide(e); } else if (e.key === 'ArrowLeft') { e.preventDefault(); prevSlide(); } });
+        showSlide(0);
+    </script>
+</body>
+
+</html>

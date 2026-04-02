@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>1.5 Chế độ Fast & Planning - Khóa học Antigravity</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <div class="progress-bar" id="progress"></div>
+    <div class="slide-deck" id="deck">
+
+        <div class="slide title-slide active">
+            <div class="slide-content">
+                <span class="module-badge">Module 1.5</span>
+                <h1>Chế độ Fast & Planning</h1>
+                <p class="subtitle">Hai "bộ não" của AI: Phản hồi nhanh vs. Suy nghĩ sâu.</p>
+                <div class="meta">
+                    <span class="meta-item"><span class="icon">⏱</span> 15 phút</span>
+                    <span class="meta-item"><span class="icon">▶️</span> Lệnh: <code>/start-1-5</code></span>
+                </div>
+            </div>
+        </div>
+
+        <div class="slide">
+            <div class="slide-content">
+                <h2>⚡ Fast Mode — "Người thực thi nhanh nhẹn"</h2>
+                <p>AI lao vào làm việc <strong>ngay lập tức</strong> mà không nghĩ quá nhiều.</p>
+                <ul>
+                    <li><strong>Đặc điểm:</strong> Tốc độ cao, phản hồi ngắn gọn</li>
+                    <li><strong>Khi nào dùng:</strong></li>
+                </ul>
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Tác vụ phù hợp</th>
+                            <th>Ví dụ</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>Sửa lỗi chính tả</td>
+                            <td>"Sửa lỗi chính tả trong đoạn này"</td>
+                        </tr>
+                        <tr>
+                            <td>Dịch đoạn văn ngắn</td>
+                            <td>"Dịch sang tiếng Anh: 'Xin chào'"</td>
+                        </tr>
+                        <tr>
+                            <td>Viết email đơn giản</td>
+                            <td>"Viết email cảm ơn khách hàng"</td>
+                        </tr>
+                        <tr>
+                            <td>Fact-check</td>
+                            <td>"Dân số Việt Nam bao nhiêu?"</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+        <div class="slide">
+            <div class="slide-content">
+                <h2>🧠 Planning Mode — "Nhà chiến lược sâu sắc"</h2>
+                <p>AI <strong>dừng lại, suy nghĩ, lên kế hoạch</strong> trước khi thực hiện.</p>
+                <ul>
+                    <li><strong>Đặc điểm:</strong> Chậm hơn, suy nghĩ kỹ (Think-out-loud)</li>
+                    <li><strong>Khi nào dùng:</strong> Lập kế hoạch, viết PRD, phân tích phức tạp, code</li>
+                </ul>
+                <h3>Quy trình "Suy nghĩ"</h3>
+                <ol class="steps">
+                    <li><strong>Analyze:</strong> Hiểu rõ yêu cầu</li>
+                    <li><strong>Plan:</strong> Vạch ra các bước cần làm</li>
+                    <li><strong>Execute:</strong> Làm từng bước một</li>
+                    <li><strong>Verify:</strong> Tự soát lỗi</li>
+                </ol>
+            </div>
+        </div>
+
+        <div class="slide">
+            <div class="slide-content">
+                <h2>🔄 Cách chuyển đổi Chế độ</h2>
+                <p>Quan trọng nhất là <strong>cách đặt câu hỏi (Prompting)</strong>:</p>
+                <div class="compare-grid">
+                    <div class="compare-box bad">
+                        <h4>⚡ Muốn Fast</h4>
+                        <p>Ra lệnh trực tiếp, ngắn gọn.</p>
+                        <blockquote>"Viết báo cáo đi."<br>→ AI viết lung tung, thiếu chiều sâu</blockquote>
+                    </div>
+                    <div class="compare-box good">
+                        <h4>🧠 Muốn Planning</h4>
+                        <p>Yêu cầu "Hãy suy nghĩ kỹ", "Phân tích chi tiết".</p>
+                        <blockquote>"Đóng vai chuyên gia. Đọc <code>@Sales_Data.csv</code>. Phân tích xu hướng. Lập dàn
+                            ý. Viết báo cáo chi tiết."</blockquote>
+                    </div>
+                </div>
+                <div class="callout callout-tip">
+                    <span class="callout-icon">💡</span>
+                    <div>Bạn sẽ thấy <strong>sự khác biệt khổng lồ</strong> về chất lượng đầu ra giữa Fast và Planning!
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+    <nav class="nav-bar">
+        <div class="nav-left"><a href="index.html" class="home-link">🏠 Mục lục</a></div>
+        <div class="nav-center"><span class="slide-counter"><span id="current">1</span> / <span
+                    id="total"></span></span></div>
+        <div class="nav-right">
+            <button class="nav-btn" id="prevBtn" onclick="prevSlide()">← Trước</button>
+            <a href="module-1-6.html" class="nav-btn primary" id="nextBtn" onclick="return nextSlide(event)">Tiếp →</a>
+        </div>
+    </nav>
+
+    <script>
+        const slides = document.querySelectorAll('.slide'); let current = 0; const total = slides.length; document.getElementById('total').textContent = total;
+        function showSlide(n) { slides.forEach((s, i) => { s.classList.remove('active', 'prev'); if (i === n) s.classList.add('active'); else if (i < n) s.classList.add('prev'); }); current = n; document.getElementById('current').textContent = n + 1; document.getElementById('prevBtn').disabled = n === 0; const nb = document.getElementById('nextBtn'); if (n === total - 1) { nb.textContent = 'Bài tiếp →'; nb.href = 'module-1-6.html'; } else { nb.textContent = 'Tiếp →'; nb.removeAttribute('href'); } document.getElementById('progress').style.width = ((n + 1) / total * 100) + '%'; }
+        function nextSlide(e) { if (current < total - 1) { if (e) e.preventDefault(); showSlide(current + 1); return false; } return true; }
+        function prevSlide() { if (current > 0) showSlide(current - 1); }
+        document.addEventListener('keydown', e => { if (e.key === 'ArrowRight' || e.key === ' ') { e.preventDefault(); nextSlide(e); } else if (e.key === 'ArrowLeft') { e.preventDefault(); prevSlide(); } });
+        showSlide(0);
+    </script>
+</body>
+
+</html>

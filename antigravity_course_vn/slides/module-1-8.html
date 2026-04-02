@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>1.8 Làm chủ Workspace - Khóa học Antigravity</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <div class="progress-bar" id="progress"></div>
+    <div class="slide-deck" id="deck">
+
+        <div class="slide title-slide active">
+            <div class="slide-content">
+                <span class="module-badge">Module 1.8</span>
+                <h1>Làm chủ Không gian<br>Làm việc (Workspace)</h1>
+                <p class="subtitle">Quản lý Artifacts, an toàn dữ liệu, và Turbo Mode.</p>
+                <div class="meta">
+                    <span class="meta-item"><span class="icon">⏱</span> 20 phút</span>
+                    <span class="meta-item"><span class="icon">▶️</span> Lệnh: <code>/start-1-8</code></span>
+                </div>
+            </div>
+        </div>
+
+        <div class="slide">
+            <div class="slide-content">
+                <h2>📁 Workspace là gì?</h2>
+                <p>Trong Antigravity, <strong>1 Workspace = 1 Thư mục Windows</strong>.</p>
+                <ul>
+                    <li>Mở <code>C:\Tai_Lieu\Du_An_A</code> → Đó là một Workspace</li>
+                    <li>Mở <code>D:\Ca_Nhan\Blog</code> → Đó là Workspace khác</li>
+                </ul>
+                <div class="callout callout-warning">
+                    <span class="callout-icon">⚠️</span>
+                    <div>
+                        <strong>Quy tắc bất di bất dịch:</strong>
+                        <ul>
+                            <li>Đừng đổi tên thư mục gốc khi đang mở Antigravity</li>
+                            <li>Mọi file nằm <strong>thực sự trong máy tính</strong> (không phải trên mây)</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="slide">
+            <div class="slide-content">
+                <h2>🧠 Artifacts — "Bộ não thứ hai" của AI</h2>
+                <p>AI tự động tạo tài liệu quản lý trong <code>.gemini/brain</code>:</p>
+                <div class="compare-grid">
+                    <div class="compare-box good">
+                        <h4>📋 Task List (<code>task.md</code>)</h4>
+                        <p>Danh sách việc cần làm.</p>
+                        <p><em>"Cho tôi xem danh sách nhiệm vụ hiện tại"</em></p>
+                        <p>→ Giúp bạn và AI không bị lạc đường</p>
+                    </div>
+                    <div class="compare-box good">
+                        <h4>📝 Walkthrough (<code>walkthrough.md</code>)</h4>
+                        <p>Nhật ký công việc.</p>
+                        <p><em>"Tổng hợp lại những gì đã làm hôm nay"</em></p>
+                        <p>→ Dùng để báo cáo sếp</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="slide">
+            <div class="slide-content">
+                <h2>🛡️ An toàn Dữ liệu & Turbo Mode</h2>
+                <h3>Backup</h3>
+                <ul>
+                    <li>🔄 <strong>Backup thường xuyên:</strong> Copy thư mục dự án ra chỗ khác (hoặc dùng Git)</li>
+                    <li>🔍 <strong>Kiểm tra trước khi Apply:</strong> Đọc kỹ nội dung thay đổi (phần màu xanh/đỏ)</li>
+                </ul>
+                <h3>Turbo Mode (Always Run)</h3>
+                <p>Cho phép AI tự làm chuỗi việc dài mà không hỏi xin phép từng bước.</p>
+                <div class="callout callout-warning">
+                    <span class="callout-icon">⚡</span>
+                    <div><strong>Cảnh báo:</strong> Chỉ bật khi bạn thực sự tin tưởng AI và đã backup dữ liệu!</div>
+                </div>
+                <div class="callout callout-tip">
+                    <span class="callout-icon">🎉</span>
+                    <div><strong>Bạn đã hoàn thành Module 1!</strong> Tiếp theo: Module 2.1 — Lập Kế hoạch & Đề xuất
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+    <nav class="nav-bar">
+        <div class="nav-left"><a href="index.html" class="home-link">🏠 Mục lục</a></div>
+        <div class="nav-center"><span class="slide-counter"><span id="current">1</span> / <span
+                    id="total"></span></span></div>
+        <div class="nav-right">
+            <button class="nav-btn" id="prevBtn" onclick="prevSlide()">← Trước</button>
+            <a href="module-2-1.html" class="nav-btn primary" id="nextBtn" onclick="return nextSlide(event)">Tiếp →</a>
+        </div>
+    </nav>
+
+    <script>
+        const slides = document.querySelectorAll('.slide'); let current = 0; const total = slides.length; document.getElementById('total').textContent = total;
+        function showSlide(n) { slides.forEach((s, i) => { s.classList.remove('active', 'prev'); if (i === n) s.classList.add('active'); else if (i < n) s.classList.add('prev'); }); current = n; document.getElementById('current').textContent = n + 1; document.getElementById('prevBtn').disabled = n === 0; const nb = document.getElementById('nextBtn'); if (n === total - 1) { nb.textContent = 'Bài tiếp →'; nb.href = 'module-2-1.html'; } else { nb.textContent = 'Tiếp →'; nb.removeAttribute('href'); } document.getElementById('progress').style.width = ((n + 1) / total * 100) + '%'; }
+        function nextSlide(e) { if (current < total - 1) { if (e) e.preventDefault(); showSlide(current + 1); return false; } return true; }
+        function prevSlide() { if (current > 0) showSlide(current - 1); }
+        document.addEventListener('keydown', e => { if (e.key === 'ArrowRight' || e.key === ' ') { e.preventDefault(); nextSlide(e); } else if (e.key === 'ArrowLeft') { e.preventDefault(); prevSlide(); } });
+        showSlide(0);
+    </script>
+</body>
+
+</html>

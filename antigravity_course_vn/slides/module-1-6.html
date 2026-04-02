@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>1.6 Thiết lập Phong cách làm việc - Khóa học Antigravity</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <div class="progress-bar" id="progress"></div>
+    <div class="slide-deck" id="deck">
+
+        <div class="slide title-slide active">
+            <div class="slide-content">
+                <span class="module-badge">Module 1.6</span>
+                <h1>Thiết lập Phong cách<br>Làm việc (Project Rules)</h1>
+                <p class="subtitle">Dạy AI hiểu bối cảnh công ty và phong cách viết — thiết lập 1 lần, dùng mãi mãi.</p>
+                <div class="meta">
+                    <span class="meta-item"><span class="icon">⏱</span> 15-20 phút</span>
+                    <span class="meta-item"><span class="icon">▶️</span> Lệnh: <code>/start-1-6</code></span>
+                </div>
+            </div>
+        </div>
+
+        <div class="slide">
+            <div class="slide-content">
+                <h2>📜 Project Rules là gì?</h2>
+                <p>Là các tập tin nằm trong <code>.agent/rules/</code>. Antigravity <strong>tự động đọc</strong> mỗi khi
+                    bắt đầu trò chuyện.</p>
+                <h3>Lợi ích</h3>
+                <ul>
+                    <li>🎯 <strong>Nhất quán:</strong> AI luôn dùng đúng từ ngữ công ty</li>
+                    <li>⏰ <strong>Tiết kiệm:</strong> Không mất công giải thích lại bối cảnh</li>
+                    <li>📏 <strong>Chuẩn hóa:</strong> Email, báo cáo luôn đúng phong cách</li>
+                </ul>
+                <h3>Cách tạo nhanh</h3>
+                <ol class="steps">
+                    <li>Tạo thư mục <code>.agent/rules/</code></li>
+                    <li>Tạo file <code>noi_quy.md</code></li>
+                    <li>Viết các quy tắc → Lưu lại → AI học ngay!</li>
+                </ol>
+            </div>
+        </div>
+
+        <div class="slide">
+            <div class="slide-content">
+                <h2>📝 Nên đưa gì vào Quy tắc?</h2>
+                <div class="compare-grid">
+                    <div class="compare-box good">
+                        <h4>📖 Từ điển Doanh nghiệp</h4>
+                        <ul>
+                            <li>Dùng "Đối tác" thay cho "Khách hàng"</li>
+                            <li>Gọi "Văn phòng Chính" thay vì "Trụ sở"</li>
+                            <li>Sếp tổng tên: Nguyễn Văn A</li>
+                        </ul>
+                    </div>
+                    <div class="compare-box good">
+                        <h4>👥 Danh sách Nhân sự</h4>
+                        <ul>
+                            <li>Sarah (HR): Tuyển dụng, Kỹ tính</li>
+                            <li>Mike (Sales): Doanh số, Ngắn gọn</li>
+                            <li>Alex (CEO): Tổng quan</li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="compare-grid" style="margin-top:12px">
+                    <div class="compare-box good">
+                        <h4>✍️ Phong cách Viết</h4>
+                        <ul>
+                            <li>Luôn xưng hô "Anh/Chị"</li>
+                            <li>Có mục "Đề xuất giải pháp"</li>
+                            <li>Văn phong: Chuyên nghiệp, tích cực</li>
+                        </ul>
+                    </div>
+                    <div class="compare-box good">
+                        <h4>⚖️ Nguyên tắc Bất di bất dịch</h4>
+                        <ul>
+                            <li>Tiếng Việt chuẩn mực</li>
+                            <li>Không teencode, không lóng</li>
+                            <li>Luôn Think-out-loud</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="slide">
+            <div class="slide-content">
+                <h2>💡 Best Practices & Xử lý sự cố</h2>
+                <div class="compare-grid">
+                    <div class="compare-box bad">
+                        <h4>❌ Dài dòng</h4>
+                        <p>"Tôi muốn bạn hãy cố gắng viết sao cho nó thật là hay và chuyên nghiệp nhé..."</p>
+                    </div>
+                    <div class="compare-box good">
+                        <h4>✅ Rõ ràng</h4>
+                        <p>"Văn phong: Chuyên nghiệp, Ngắn gọn, Đi thẳng vào vấn đề."</p>
+                    </div>
+                </div>
+                <h3>Tổ chức file</h3>
+                <pre><code>.agent/rules/
+├── tu_dien.md         # Từ vựng
+├── nhan_su.md         # Danh sách người
+└── phong_cach.md      # Quy định viết lách</code></pre>
+                <div class="callout callout-warning">
+                    <span class="callout-icon">⚠️</span>
+                    <div><strong>"AI vẫn không nhớ?"</strong> — Kiểm tra file có nằm đúng trong
+                        <code>.agent/rules/</code> không. Đuôi phải là <code>.md</code>.</div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+    <nav class="nav-bar">
+        <div class="nav-left"><a href="index.html" class="home-link">🏠 Mục lục</a></div>
+        <div class="nav-center"><span class="slide-counter"><span id="current">1</span> / <span
+                    id="total"></span></span></div>
+        <div class="nav-right">
+            <button class="nav-btn" id="prevBtn" onclick="prevSlide()">← Trước</button>
+            <a href="module-1-7.html" class="nav-btn primary" id="nextBtn" onclick="return nextSlide(event)">Tiếp →</a>
+        </div>
+    </nav>
+
+    <script>
+        const slides = document.querySelectorAll('.slide'); let current = 0; const total = slides.length; document.getElementById('total').textContent = total;
+        function showSlide(n) { slides.forEach((s, i) => { s.classList.remove('active', 'prev'); if (i === n) s.classList.add('active'); else if (i < n) s.classList.add('prev'); }); current = n; document.getElementById('current').textContent = n + 1; document.getElementById('prevBtn').disabled = n === 0; const nb = document.getElementById('nextBtn'); if (n === total - 1) { nb.textContent = 'Bài tiếp →'; nb.href = 'module-1-7.html'; } else { nb.textContent = 'Tiếp →'; nb.removeAttribute('href'); } document.getElementById('progress').style.width = ((n + 1) / total * 100) + '%'; }
+        function nextSlide(e) { if (current < total - 1) { if (e) e.preventDefault(); showSlide(current + 1); return false; } return true; }
+        function prevSlide() { if (current > 0) showSlide(current - 1); }
+        document.addEventListener('keydown', e => { if (e.key === 'ArrowRight' || e.key === ' ') { e.preventDefault(); nextSlide(e); } else if (e.key === 'ArrowLeft') { e.preventDefault(); prevSlide(); } });
+        showSlide(0);
+    </script>
+</body>
+
+</html>

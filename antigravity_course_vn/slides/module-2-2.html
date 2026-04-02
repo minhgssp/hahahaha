@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>2.2 Phân tích Số liệu Kinh doanh - Khóa học Antigravity</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <div class="progress-bar" id="progress"></div>
+    <div class="slide-deck" id="deck">
+
+        <div class="slide title-slide active">
+            <div class="slide-content">
+                <span class="module-badge">Module 2.2</span>
+                <h1>Phân tích Số liệu<br>Kinh doanh</h1>
+                <p class="subtitle">Xử lý Excel đau đầu mà không cần nhớ một hàm nào. VLOOKUP? Pivot Table? Quên đi!</p>
+                <div class="meta">
+                    <span class="meta-item"><span class="icon">⏱</span> 30-40 phút</span>
+                    <span class="meta-item"><span class="icon">▶️</span> Lệnh: <code>/start-2-2</code></span>
+                </div>
+            </div>
+        </div>
+
+        <div class="slide">
+            <div class="slide-content">
+                <h2>📊 Quy trình Xử lý Dữ liệu 3 Bước</h2>
+                <ol class="steps">
+                    <li><strong>Khám phá (Discovery):</strong> Hỏi tổng quan, tìm điểm bất thường, nhận diện xu hướng
+                    </li>
+                    <li><strong>Phân tích sâu (Deep Dive):</strong> Chia nhỏ theo nhóm, so sánh hiệu quả, tìm nguyên
+                        nhân</li>
+                    <li><strong>Báo cáo & Đề xuất (Report):</strong> Tổng hợp bảng biểu, đề xuất giải pháp, báo cáo Sếp
+                    </li>
+                </ol>
+                <pre><code>Phân tích file @Sales_Data.csv để tìm [điều bạn muốn biết]</code></pre>
+                <div class="callout callout-info">
+                    <span class="callout-icon">💡</span>
+                    <div>Không cần công thức phức tạp. Chỉ cần <code>@</code> mention file và hỏi!</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="slide">
+            <div class="slide-content">
+                <h2>🔍 Sức mạnh của Phân khúc (Segmentation)</h2>
+                <p>Khi nhìn tổng thể, mọi thứ có vẻ ổn. Nhưng <strong>"ác quỷ nằm ở chi tiết"</strong>:</p>
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Góc nhìn</th>
+                            <th>Kết quả</th>
+                            <th>Hành động</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>Tổng thể</td>
+                            <td>Doanh thu tăng ✅</td>
+                            <td>Tốt rồi!</td>
+                        </tr>
+                        <tr>
+                            <td>Theo nhân viên</td>
+                            <td>Mike giảm ❌ / Sarah tăng gấp đôi ✅</td>
+                            <td>Xem lại Mike, học Sarah</td>
+                        </tr>
+                        <tr>
+                            <td>Theo vùng miền</td>
+                            <td>Lisa miền Tây — CSAT 3.5/5 ⚠️</td>
+                            <td>Cải thiện dịch vụ miền Tây</td>
+                        </tr>
+                    </tbody>
+                </table>
+                <blockquote>"Chia nhỏ theo từng nhân viên", "So sánh theo từng loại sản phẩm"</blockquote>
+            </div>
+        </div>
+
+        <div class="slide">
+            <div class="slide-content">
+                <h2>🎨 Báo cáo HTML Chuyên nghiệp</h2>
+                <p>Phân tích xong, bạn cần gửi Sếp:</p>
+                <div class="compare-grid">
+                    <div class="compare-box bad">
+                        <h4>❌ Không chuyên nghiệp</h4>
+                        <ul>
+                            <li>Gửi text chat? — Không!</li>
+                            <li>Gửi file CSV? — Sếp lười đọc!</li>
+                        </ul>
+                    </div>
+                    <div class="compare-box good">
+                        <h4>✅ Giải pháp: HTML Report</h4>
+                        <p>File <code>.html</code> đẹp mắt, có biểu đồ tương tác. Mở bằng Chrome/Edge là xem được!</p>
+                    </div>
+                </div>
+                <blockquote>"Hãy tổng hợp tất cả phân tích và biểu đồ thành một file báo cáo HTML duy nhất. Sử dụng
+                    thiết kế hiện đại."</blockquote>
+            </div>
+        </div>
+
+        <div class="slide">
+            <div class="slide-content">
+                <h2>🏋️ Bài tập & Xử lý sự cố</h2>
+                <h3>Bài tập</h3>
+                <ol class="steps">
+                    <li><strong>Phân tích:</strong> Đọc <code>@Sales_Data.csv</code> → Top 3 sản phẩm bán chạy</li>
+                    <li><strong>Biểu đồ:</strong> Vẽ biểu đồ cột doanh thu theo tháng</li>
+                    <li><strong>Đóng gói:</strong> Tạo <code>baocao_doanhthu.html</code> chứa phân tích + biểu đồ</li>
+                </ol>
+                <div class="callout callout-warning">
+                    <span class="callout-icon">⚠️</span>
+                    <div>
+                        <strong>"AI không đọc được Excel?"</strong> → Chuyển sang <code>.csv</code><br>
+                        <strong>"Số liệu sai sai?"</strong> → Định nghĩa rõ: "Lợi nhuận = Doanh thu - Chi phí"
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+    <nav class="nav-bar">
+        <div class="nav-left"><a href="index.html" class="home-link">🏠 Mục lục</a></div>
+        <div class="nav-center"><span class="slide-counter"><span id="current">1</span> / <span
+                    id="total"></span></span></div>
+        <div class="nav-right">
+            <button class="nav-btn" id="prevBtn" onclick="prevSlide()">← Trước</button>
+            <a href="module-2-3.html" class="nav-btn primary" id="nextBtn" onclick="return nextSlide(event)">Tiếp →</a>
+        </div>
+    </nav>
+
+    <script>
+        const slides = document.querySelectorAll('.slide'); let current = 0; const total = slides.length; document.getElementById('total').textContent = total;
+        function showSlide(n) { slides.forEach((s, i) => { s.classList.remove('active', 'prev'); if (i === n) s.classList.add('active'); else if (i < n) s.classList.add('prev'); }); current = n; document.getElementById('current').textContent = n + 1; document.getElementById('prevBtn').disabled = n === 0; const nb = document.getElementById('nextBtn'); if (n === total - 1) { nb.textContent = 'Bài tiếp →'; nb.href = 'module-2-3.html'; } else { nb.textContent = 'Tiếp →'; nb.removeAttribute('href'); } document.getElementById('progress').style.width = ((n + 1) / total * 100) + '%'; }
+        function nextSlide(e) { if (current < total - 1) { if (e) e.preventDefault(); showSlide(current + 1); return false; } return true; }
+        function prevSlide() { if (current > 0) showSlide(current - 1); }
+        document.addEventListener('keydown', e => { if (e.key === 'ArrowRight' || e.key === ' ') { e.preventDefault(); nextSlide(e); } else if (e.key === 'ArrowLeft') { e.preventDefault(); prevSlide(); } });
+        showSlide(0);
+    </script>
+</body>
+
+</html>

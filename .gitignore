@@ -1,0 +1,22 @@
+# AI Agent and IDE files
+.agent/
+.gemini/
+.vscode/
+.idea/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Build and Temp folders
+node_modules/
+dist/
+build/
+tmp/
+out/
+*.log
+
+# Sensitive info
+.env
+secret.json

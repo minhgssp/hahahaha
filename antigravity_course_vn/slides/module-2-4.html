@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>2.4 Nghiên cứu Web - Khóa học Antigravity</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <div class="progress-bar" id="progress"></div>
+    <div class="slide-deck" id="deck">
+
+        <div class="slide title-slide active">
+            <div class="slide-content">
+                <span class="module-badge">Module 2.4</span>
+                <h1>Nghiên cứu Web<br>(Web Browsing)</h1>
+                <p class="subtitle">Truy cập Internet thời gian thực — nắm bắt thông tin mới nhất ngay trong
+                    Antigravity.</p>
+                <div class="meta">
+                    <span class="meta-item"><span class="icon">⏱</span> 15 phút</span>
+                    <span class="meta-item"><span class="icon">▶️</span> Lệnh: <code>/start-2-4</code></span>
+                </div>
+            </div>
+        </div>
+
+        <div class="slide">
+            <div class="slide-content">
+                <h2>🌐 Khi nào dùng Web Browsing?</h2>
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Tình huống</th>
+                            <th>Ví dụ lệnh</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td><strong>🔍 Fact-Check</strong></td>
+                            <td>"Giá vàng hôm nay bao nhiêu?"</td>
+                        </tr>
+                        <tr>
+                            <td><strong>🏢 Nghiên cứu đối thủ</strong></td>
+                            <td>"Tìm 3 tính năng mới nhất của Notion"</td>
+                        </tr>
+                        <tr>
+                            <td><strong>📰 Tổng hợp tin tức</strong></td>
+                            <td>"Đọc VnExpress bài mới nhất về AI và tóm tắt"</td>
+                        </tr>
+                        <tr>
+                            <td><strong>📚 Học kỹ thuật mới</strong></td>
+                            <td>"Tìm tài liệu API công cụ X"</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+        <div class="slide">
+            <div class="slide-content">
+                <h2>🎯 Cách ra lệnh hiệu quả</h2>
+                <p>Đừng chỉ nói "Tìm kiếm X". Hãy <strong>cụ thể hóa mục đích</strong>:</p>
+                <h3>1. Tìm kiếm & Tóm tắt</h3>
+                <blockquote>"Tìm top 5 công cụ CRM tốt nhất 2024 và so sánh giá."</blockquote>
+                <h3>2. Truy cập trang cụ thể</h3>
+                <blockquote>"Truy cập vnexpress.net, đọc bài viết mới nhất về AI và tóm tắt."</blockquote>
+                <h3>3. Nghiên cứu sâu</h3>
+                <blockquote>"Tìm hiểu về Luật Giao dịch Điện tử 2023. Đọc ít nhất 3 nguồn và liệt kê 5 điểm thay đổi
+                    quan trọng nhất."</blockquote>
+
+                <div class="callout callout-tip">
+                    <span class="callout-icon">🏋️</span>
+                    <div><strong>Bài tập:</strong> Sếp Alex muốn biết về Notion — tìm 3 tính năng mới nhất, so sánh giá
+                        Enterprise với Asana.</div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+    <nav class="nav-bar">
+        <div class="nav-left"><a href="index.html" class="home-link">🏠 Mục lục</a></div>
+        <div class="nav-center"><span class="slide-counter"><span id="current">1</span> / <span
+                    id="total"></span></span></div>
+        <div class="nav-right">
+            <button class="nav-btn" id="prevBtn" onclick="prevSlide()">← Trước</button>
+            <a href="module-2-5.html" class="nav-btn primary" id="nextBtn" onclick="return nextSlide(event)">Tiếp →</a>
+        </div>
+    </nav>
+
+    <script>
+        const slides = document.querySelectorAll('.slide'); let current = 0; const total = slides.length; document.getElementById('total').textContent = total;
+        function showSlide(n) { slides.forEach((s, i) => { s.classList.remove('active', 'prev'); if (i === n) s.classList.add('active'); else if (i < n) s.classList.add('prev'); }); current = n; document.getElementById('current').textContent = n + 1; document.getElementById('prevBtn').disabled = n === 0; const nb = document.getElementById('nextBtn'); if (n === total - 1) { nb.textContent = 'Bài tiếp →'; nb.href = 'module-2-5.html'; } else { nb.textContent = 'Tiếp →'; nb.removeAttribute('href'); } document.getElementById('progress').style.width = ((n + 1) / total * 100) + '%'; }
+        function nextSlide(e) { if (current < total - 1) { if (e) e.preventDefault(); showSlide(current + 1); return false; } return true; }
+        function prevSlide() { if (current > 0) showSlide(current - 1); }
+        document.addEventListener('keydown', e => { if (e.key === 'ArrowRight' || e.key === ' ') { e.preventDefault(); nextSlide(e); } else if (e.key === 'ArrowLeft') { e.preventDefault(); prevSlide(); } });
+        showSlide(0);
+    </script>
+</body>
+
+</html>

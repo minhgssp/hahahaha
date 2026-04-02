@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>2.6 Tự động hóa Nâng cao - Khóa học Antigravity</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <div class="progress-bar" id="progress"></div>
+    <div class="slide-deck" id="deck">
+
+        <div class="slide title-slide active">
+            <div class="slide-content">
+                <span class="module-badge">Module 2.6</span>
+                <h1>Tự động hóa Nâng cao<br>Meta-Workflows</h1>
+                <p class="subtitle">Đỉnh cao: Dùng AI để viết quy trình cho AI — Reverse Engineering.</p>
+                <div class="meta">
+                    <span class="meta-item"><span class="icon">⏱</span> 30 phút</span>
+                    <span class="meta-item"><span class="icon">▶️</span> Lệnh: <code>/start-2-6</code></span>
+                </div>
+            </div>
+        </div>
+
+        <div class="slide">
+            <div class="slide-content">
+                <h2>🔄 Reverse Engineering</h2>
+                <p>Đỉnh cao của <strong>AI/Automation PM</strong> không phải viết quy trình thủ công.</p>
+                <div class="compare-grid">
+                    <div class="compare-box bad">
+                        <h4>❌ Cách truyền thống</h4>
+                        <p>Ngồi nghĩ quy trình → Viết file → Chạy thử</p>
+                    </div>
+                    <div class="compare-box good">
+                        <h4>✅ Cách Reverse Engineering</h4>
+                        <p>Làm thử 1 lần → Bảo AI "Xem lại và đóng gói thành quy trình"</p>
+                    </div>
+                </div>
+                <h3>Công cụ <code>/buildflow</code></h3>
+                <p>"Workflow tạo ra Workflow" — khi bạn gõ <code>/buildflow</code>, AI sẽ:</p>
+                <ol class="steps">
+                    <li><strong>Đọc lại lịch sử chat:</strong> Xem bạn vừa làm gì</li>
+                    <li><strong>Tách lọc bước:</strong> Bỏ các bước sai, giữ bước đúng</li>
+                    <li><strong>Đóng gói:</strong> Tự viết file <code>.agent/workflows/ten_quy_trinh.md</code></li>
+                </ol>
+            </div>
+        </div>
+
+        <div class="slide">
+            <div class="slide-content">
+                <h2>🏋️ Bài tập: Tạo Workflow <code>/learn</code></h2>
+                <h3>Bước 1: Làm mẫu (Teach by Doing)</h3>
+                <ol class="steps">
+                    <li>Tải file tài liệu mới (ví dụ <code>luat_moi_2025.pdf</code>)</li>
+                    <li>Yêu cầu AI đọc nó</li>
+                    <li>So sánh với quy trình cũ trong <code>.agent/workflows/</code></li>
+                    <li>Đề xuất cập nhật nếu có thay đổi</li>
+                </ol>
+                <h3>Bước 2: Đóng gói (Buildflow)</h3>
+                <blockquote>"Dựa trên quy trình vừa làm, hãy tạo workflow tên là <code>/learn</code>. Mục tiêu: Khi tôi
+                    đưa file mới, tự động đọc và cập nhật quy trình cũ."</blockquote>
+                <h3>Bước 3: Chạy thử</h3>
+                <p>Gõ <code>/learn</code> và xem AI tự làm việc! 🚀</p>
+            </div>
+        </div>
+
+        <div class="slide">
+            <div class="slide-content" style="text-align: center;">
+                <h2>🎓 Tổng kết Khóa học</h2>
+                <p style="font-size: 1.3rem; margin-bottom: 32px;">Bạn đã đi trọn hành trình:</p>
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Giai đoạn</th>
+                            <th>Vai trò</th>
+                            <th>Kỹ năng đạt được</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td><strong>Module 0</strong></td>
+                            <td>Người mới bắt đầu</td>
+                            <td>Cài đặt, mở workspace</td>
+                        </tr>
+                        <tr>
+                            <td><strong>Module 1</strong></td>
+                            <td>AI/Automation PM</td>
+                            <td>Giao việc AI, Templates, Rules, Core Concepts</td>
+                        </tr>
+                        <tr>
+                            <td><strong>Module 2</strong></td>
+                            <td>Architect (Kiến trúc sư)</td>
+                            <td>Tờ trình, Phân tích, Báo cáo, Tự động hóa</td>
+                        </tr>
+                    </tbody>
+                </table>
+                <div class="callout callout-tip" style="text-align: left;">
+                    <span class="callout-icon">🏆</span>
+                    <div>Khả năng <strong>"tự tạo công cụ"</strong> chính là sự khác biệt lớn nhất giữa bạn và người
+                        dùng AI thông thường!</div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+    <nav class="nav-bar">
+        <div class="nav-left"><a href="index.html" class="home-link">🏠 Mục lục</a></div>
+        <div class="nav-center"><span class="slide-counter"><span id="current">1</span> / <span
+                    id="total"></span></span></div>
+        <div class="nav-right">
+            <button class="nav-btn" id="prevBtn" onclick="prevSlide()">← Trước</button>
+            <a href="index.html" class="nav-btn primary" id="nextBtn" onclick="return nextSlide(event)">Tiếp →</a>
+        </div>
+    </nav>
+
+    <script>
+        const slides = document.querySelectorAll('.slide'); let current = 0; const total = slides.length; document.getElementById('total').textContent = total;
+        function showSlide(n) { slides.forEach((s, i) => { s.classList.remove('active', 'prev'); if (i === n) s.classList.add('active'); else if (i < n) s.classList.add('prev'); }); current = n; document.getElementById('current').textContent = n + 1; document.getElementById('prevBtn').disabled = n === 0; const nb = document.getElementById('nextBtn'); if (n === total - 1) { nb.textContent = '🏠 Về Mục lục'; nb.href = 'index.html'; } else { nb.textContent = 'Tiếp →'; nb.removeAttribute('href'); } document.getElementById('progress').style.width = ((n + 1) / total * 100) + '%'; }
+        function nextSlide(e) { if (current < total - 1) { if (e) e.preventDefault(); showSlide(current + 1); return false; } return true; }
+        function prevSlide() { if (current > 0) showSlide(current - 1); }
+        document.addEventListener('keydown', e => { if (e.key === 'ArrowRight' || e.key === ' ') { e.preventDefault(); nextSlide(e); } else if (e.key === 'ArrowLeft') { e.preventDefault(); prevSlide(); } });
+        showSlide(0);
+    </script>
+</body>
+
+</html>
