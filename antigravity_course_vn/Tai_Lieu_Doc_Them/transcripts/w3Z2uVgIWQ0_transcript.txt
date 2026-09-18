@@ -1,0 +1,112 @@
+Bây giờ mình sẽ bảo con AI tạo một cái skill để lần sau
+mình không cần phải trải qua những cuộc hội thoại và tốn token như
+thế này nữa. Mình chỉ cần bảo nó là OK,
+hãy tạo cho mình một bản PowerPoint với cái input là
+nó sẽ tạo y theo mẫu này
+Xin chào các bạn, hôm nay mình sẽ làm về AI skill.
+Lần trước mình làm về PowerPoint, nhưng mình thấy AI của mình tạo PowerPoint
+khá là xấu, nên hôm nay mình sẽ tạo một skill cho con AI
+của mình để nó tạo PowerPoint theo mẫu của mình đưa cho.
+Ok, let's do it. Đây là một bản kế hoạch,
+kế hoạch PowerPoint mà mình đã tạo ra.
+Thì bản kế hoạch này thì nó chỉ đề xuất là PowerPoint sẽ giống
+như thế nào. Đây là tiêu đề, tiêu đề chính,
+tiêu đề phụ, thông tin thêm, chia sẻ một số hình ảnh logo và
+slide 2 sẽ trông như thế nào,
+tổng quan về quan hệ đối tác rồi này kia,
+và dấu mốc quan trọng với Việt Nam, đó. Đây là chỉ là một
+cái bản kế hoạch PowerPoint gồm, 9 slide hay 10 slide,
+và slide cuối cùng để cảm ơn. Bây giờ mình sẽ bảo con AI
+của mình tạo theo một cái mẫu mà mình đã cho.
+Đây mình đang có một cái mẫu để cho cái
+bản PowerPoint này. Đây là mẫu mình tìm ở trên Canva.
+Thì cái mẫu này đơn giản là Project Research của trường South
+Fork University. Thì đó, thì nó có một số overview.
+Bây giờ mình sẽ bảo con AI của mình tạo cái PowerPoint theo cái
+mẫu này xem nó có làm được không nha. Ok,
+bây giờ mình sẽ bảo con AI của mình là từ bản kế hoạch
+PowerPoint Hãy tạo một cái Tạm
+một file powerpoint mới với mẫu này.
+Ok, nó đã tạo thành công cho mình một file mới tên là New
+Design để mình mở lên xem cái bản New Design này thế nào nha.
+Theo các bạn thấy, nó không phân biệt được cái mẫu đấy là như
+thế nào. Mình mở lên mà nó chỉ edit cái text vào PowerPoint thôi
+chứ nó không biết mẫu là như thế nào. Tại vì nhiều lúc
+AI nó cần khổng lồ. Nếu bạn chỉ provide mỗi
+mẫu và input thôi, nhiều lúc nó sẽ không làm
+được. Nên bây giờ mình đã có một file mới.
+Mình đã có kết quả của file này rồi.
+Bây giờ mình sẽ cho nó mở lên để cho nó hiểu
+được output kết quả cuối cùng sẽ như thế nào.
+Đây là mình sẽ bảo nó kết quả. Đây là mình muốn kết quả
+như thế này. Thì nó lên làm theo kết quả như thế này thay
+vì tạo mẫu text không. Bây giờ mình sẽ bảo nó tạo theo một
+cái file mới dựa theo cái mẫu kia và kết quả như mình muốn
+là trông như thế này để xem nó có làm được không nha.
+Bây giờ mình sẽ bảo nó là hãy dựa trên cái ví dụ output
+mà mình vừa chỉ dạy. Hãy dựa trên cái ví dụ output mà mình
+vừa bảo để tạo lại một bản từ bản kế hoạch và bạn phải
+tạo một file với hình mẫu là New Design.
+OK con AI của mình đã tạo cho mình một bản mới.
+Hãy mở bản mới xem nó trông như thế nào nha.
+Đây, vào PowerPoint. Nó tên là
+USA Vietnam New Designs.
+Ok, để cho mình mở lên. Đó,
+theo bạn thấy đây, bản mới của nó đẹp và hoàn thiện hơn rất
+là nhiều, khá là giống với bản mà mình cho làm bản
+mẫu. Đó,
+tuy nó vẫn còn nhiều lỗi là lỗi chỉnh sửa lại,
+thấy đây, có một số lỗi cần phải chỉnh sửa lại.
+Các chữ nó đè lên nhau tại vì nó không hiểu được tất cả
+mọi thứ, nó chỉ input file, input text vào đây thôi.
+Nhưng tuy cái bản này cần chỉnh sửa nhiều nhưng AI đã làm công
+việc khó nhất. Việc khó nhất của một công việc là bắt đầu công
+việc đó. Mà mình đã có AI bắt đầu hộ rồi nên chỉnh sửa
+sẽ dễ hơn rất là nhiều. OK.
+Và mình muốn tạo một skill để mình lần tiếp theo mình sẽ không
+phải làm tất cả những việc này nữa và bảo con AI phải hiểu
+cái output này như thế nào rồi, provide tất cả những detail rồi mọi
+thứ Bây giờ mình sẽ bảo con AI tạo một cái skill để lần
+sau mình không cần phải trải qua những cuộc hội thoại và tốn token
+như thế này nữa. Mình chỉ cần bảo nó là OK,
+hãy tạo cho mình một bản PowerPoint với cái input là
+nó sẽ tạo y theo mẫu này. Bây giờ mình sẽ bảo nó làm
+như thế nha, xem nó có làm được không. Bây giờ
+mình sẽ bảo nó là dựa trên cuộc đối thoại bên trên,
+hãy tạo cho mình một prompt để từ sau mình chỉ cần yêu cầu
+Input File Name Rồi bạn hãy dùng mẫu New Design và kết
+quả giống như 2 cái mẫu mà mình vừa cho,
+xem nó có làm được không nha. 2 cái mẫu kết quả giống như
+Output là 1 này. Và kết quả giống như,
+Với AI, khi bạn càng nhiều, càng Provide nhiều Input và Output thì kết
+quả càng chính xác. Thế nên, bạn hãy Provide nhiều Input và Output Bây
+giờ mình sẽ để nó tạo một cái prompt mới xem nó có làm
+được không. OK. Ok,
+con Gemini Pro 3.1 của mình đã tạo file mới
+cho mình. Đây là file nó đã tạo là một cái prompt.
+Để mình mở xem cái prompt này nói về cái gì nha. Đấy,
+cái prompt này là tạo PowerPoint tự động từ bản thiết kế mẫu New
+Design, Nice Design. Đây là nội dung của prompt đó và hướng
+dẫn cách sử dụng của prompt. Bây giờ mình sẽ thử.
+Bây giờ test được cái prompt này xem nó hoạt động như thế nào
+nha. Bây giờ mình đã có một cái. Bây giờ mình có
+một cái kế hoạch ờ, in PowerPoint của mình mình có một cái scrum
+master guide của mình lần trước. Bây giờ mình sẽ bảo nó tạo một
+cái ờ, bản PowerPoint từ cái scrum master guide này của mình
+Xem có hoạt động được không. Tạo
+prompt Tạo một PowerPoint
+từ cái bản Scrum Master Guide này của mình xem nó có hoạt động được không.
+Ok, nó đã tạo xong một bản PowerPoint cho mình để mình mở ra
+xem cái bản Scrum Master Guide này,
+PowerPoint này xem nó trông như thế nào nha. Ok,
+PowerPoint, Spin, Scrum Master Guide.
+Đó, bạn thấy không, bây giờ nó sẽ không còn một số lỗi như
+trước nữa. Bây giờ nó đã follow đúng cái pattern mà mình muốn
+dạy nó. Và nó khá là ok với mình,
+mình cần sửa lại một tí nữa là được. Ok,
+vậy đó là mình đã tạo một skill riêng cho mình để lần sau
+nó sẽ tạo bản PowerPoint đẹp theo ý của mình và mình sẽ không
+phải, ah, fix nó nữa. Đó,
+nếu bạn có ý tưởng nào hay, hãy comment bên dưới.
+Nếu thấy hay, hãy like, share, subscribe để mình có thêm động lực làm
+những video tiếp theo. Thank you!

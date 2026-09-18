@@ -1,0 +1,78 @@
+Bạn đang dùng Antigravity 2.0 mà không mở được file Word,
+Excel hay PowerPoint, video này dành cho bạn.
+Trong video này mình sẽ show cho bạn một skill chuyển đổi tất
+cả các file như là Office qua Markdown chỉ trong vài giây.
+Skill này dựa trên Tool Markitdown của Microsoft được hơn 150.000
+sao đánh giá ở trên GitHub. Qua về mình,
+mình là Nam, Senior Software Engineer tại FIS,
+top công ty fintech hàng đầu thế giới. 7 năm qua,
+mình đã tự động hóa toàn bộ Workflow văn phòng của mình,
+từ báo cáo cuộc họp đến quản lý team.
+Sau video này, bạn có thể chuyển đổi bất kỳ các file nào như
+là Word, Excel, PowerPoint, Image,
+PDF sang dạng Markdown, không cần cài đặt phức tạp.
+Demo skill của mình xem nó có thể làm gì nhé.
+Bây giờ mình sẽ chạy xem nó hoạt động như thế nào nha. OK,
+con Gemini của mình đã tự động hoàn thành xong
+skill này của mình. Bây giờ mình sẽ mở cái Overview Artifact này xem
+nha. OK, nó đã convert tất cả các file mà mình vừa show cho
+bạn thành dạng Markdown.
+Vậy Markitdown là gì? Markitdown là tool được viết bởi Microsoft, open
+source trên GitHub. Mình đã có bản tóm tắt về cái tool này.
+Cái tool này sẽ dùng Python để chuyển đổi mọi file như
+file Office, PDF,
+HTML, ảnh, audio, zip sang dạng cấu trúc Markdown sẵn sàng cho những
+hệ thống AI lớn để process.
+Cái này đơn giản thì nó sẽ có file đầu vào và chuyển
+hóa thành Markdown output, rồi sau đó sẽ dễ
+dàng hơn cho AI để xử lý. Các định dạng hỗ trợ của
+cái tool này thứ nhất là Word,
+Excel, PowerPoint, PDF, trang web,
+hình ảnh, audio, Archive, dữ liệu và YouTube Links.
+Tool này cực kỳ nhẹ, chạy trên mọi hệ điều hành như là Windows,
+Mac, Linux đều được. Đây là cái tool gốc.
+Mình đã chỉnh sửa thêm cái tool này một tí thành một cái skill
+ở trên Antigravity 2.0 của mình đây.
+Thành cái skill có tên là Markitdown.
+Đơn giản là mình đã update cái skill này.
+Cái skill này bây giờ, mình sẽ chỉ đơn giản là khi mình biến
+nó thành cái skill, mình sẽ đưa cho một file hoặc là
+folder, và cái skill này sẽ đọc tất cả các file ở trên folder
+đấy, chuyển thành tất cả thành dạng Markdown rồi tinh
+chỉnh làm sao cho đẹp và giống như những file mình đã input
+vào. Khi làm việc với Antigravity 2.0 mà không mở được file Word
+và một số file khác, mình khá là khó chịu nên mình đã tạo
+skill này. OK, bạn đã biết tool này hoạt động như thế nào rồi.
+Hãy demo thực tế nhé. Bây giờ mình sẽ mở Antigravity lên.
+Bây giờ mình sẽ gọi cái skill của mình là Markitdown. Rồi
+bây giờ mình đã chuẩn bị một folder có sẵn, có tất cả các
+file như là — đây là folder mình đã chuẩn bị, có tất cả
+file Word, Excel, PowerPoint hay PDF. Bây giờ mình sẽ chuyển tất cả các file
+này chỉ bằng một câu lệnh, chuyển thành dưới dạng Markdown, và mình sẽ
+làm việc với tất cả các file này ở trên Antigravity 2.0. Bây giờ
+mình sẽ nhập input folder project. Bây
+giờ mình sẽ chạy xem nó hoạt động như thế nào nha. OK,
+con Gemini của mình đã tự động hoàn thành xong
+skill này của mình. Bây giờ mình sẽ mở cái Overview Artifact này xem
+nha. OK, nó đã convert tất cả các file mà mình vừa show cho
+bạn thành dạng Markdown.
+Bây giờ mình sẽ mở từng file một nha. Đây là tất cả các
+file mà nó đã tạo cho mình. Đó,
+đẹp và giống như file Word của mình.
+Đây, mình sẽ mở file PDF đó.
+Bây giờ mình sẽ làm việc ở trên những cái file này.
+Giả sử là mình muốn chuyển đổi hoặc là thêm cái gì đó.
+Mình sẽ làm việc ở trên cái file này, như là thay 35.000 hoặc
+là sau đó. Sau khi làm xong, mình chỉ cần nói với con
+AI của mình là: "Hãy cập nhật file như đã chỉnh sửa ở trên
+file Markdown." Thế là nó sẽ tự động cập nhật tất cả các file
+và mình không cần phải sửa file Word nữa.
+Đó. Mình sẽ để skill và hướng dẫn cài đặt đầy
+đủ ở trên GitHub của mình. Bạn có thể vào đó tải về và
+làm theo là xong. Link ở dưới description nhé.
+Vậy là bạn đã có skill chuyển đổi mọi file như file Word,
+Excel, PowerPoint, Audio, Image sang dạng Markdown, không bị
+kẹt với Antigravity nữa, không còn cảnh không mở được file Office và phải chuyển qua chuyển lại.
+Nếu thích những video về tự động hóa kiểu này, hãy vào kênh PieLikeClaw
+của mình để xem thêm nha. Hẹn gặp bạn ở những video sau.
+Thank you.

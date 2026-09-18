@@ -1,0 +1,138 @@
+Bạn có muốn AI tự động đăng bài lên Facebook cho bạn mỗi ngày
+ở trên AntiGravity 2.0 mà không cần phải mở app,
+không cần code, hoặc là không tốn một đồng không?
+Trong video này mình sẽ cho bạn thấy cách mình làm điều đó bằng
+tính năng mới nhất Schedule Task ở trên AntiGravity 2.0.
+Tính năng này vừa mới được ra mắt tại Google I.O.
+2026. Mình là Nam, kỹ sư phần mềm cấp cao tại FIS Fortune 500
+và mình cũng là người quản lý và điều phối team.
+mình đã tự động hóa toàn bộ công việc đăng bài lên Facebook bằng
+AI Agent. Sau video này bạn sẽ hiểu thêm về các bước để tự
+động đăng bài lên Facebook. Như hình ảnh đây,
+tự động đăng bài lên Facebook bước 1 sẽ là Setup Agent.
+Facebook API, tạo ứng dụng trên Facebook Developer,
+cấp quyền và lấy Access Token.
+Bước thứ 2 là tạo Skill nội dung bài viết và Post
+Request thẳng đến Facebook Graph API.
+Bước thứ 3 là lên lịch, tự động, tự động lên mạng,
+tự viết bài và tự đăng thẳng lên Facebook. Ok,
+mình sẽ cho bạn thấy tính năng Schedule Task. Đây là tính năng mới
+được thêm vào của AntiGravity 2.0.
+Khi bạn mở AntiGravity 2.0 lên,
+bạn sẽ thấy sẽ có Schedule Tasks. Mình đang có 2 Tasks.
+Task đầu tiên của mình là Daily News, thì mỗi ngày nó sẽ chạy
+Daily Report để báo cáo, tạo một bản báo cáo cho mình mỗi ngày.
+Đây là mình có Skill Daily Report.
+Mình đang có 2 Skill Setup. Skill thứ đầu tiên là Daily Report,
+thì mỗi ngày nó sẽ lên mạng, nó sẽ tạo một bảng báo cáo
+dưới dạng HTML Daily cho mình mỗi ngày.
+Và skill thứ 2 là dựa trên cái bảng báo cáo đấy,
+nó sẽ viết một bài viết cho mình. Ok,
+Nó đã chạy cho Nó chạy cho mình ngày hôm nay 3 giờ trước.
+Đây là, Nó đã chạy bảng báo cáo Daily Report đây.
+Ngày hôm nay là ngày 7 tháng 6.
+Để mình mở lên xem nó như thế nào nha. Đây là bảng báo
+cáo nó đã tạo cho mình ngày hôm nay. Đầu tiên là nó có
+những vấn đề chính là Google ra mắt mô hình mới,
+Gemini và API cũ của DeepSync bị khai tử và Windows Autocopilot
+Scout. Bây giờ dựa trên bảng báo cáo này mình sẽ dùng
+skill nữa của mình là daily report để tạo một bảng bài
+post lên Facebook. Bây giờ mình sẽ chạy cái skill Community Post
+Generator Skill cho ngày hôm nay. Đây mình sẽ chạy như thế này,
+xem nó chạy được không.
+Nó tạo một bài post lên Facebook cho mình bằng cả tiếng Việt và tiếng Anh.
+Đây là bản tiếng Việt đây. Đó, nó sẽ như thế này cho ngày
+hôm nay và các tin tức chính về Deepseak,
+về Google và về Microsoft và đây là bản tiếng Anh nữa.
+Đó, đó là nó đã tạo một bài post,
+Theo các bạn thấy, nó thiếu một bước, bước cuối cùng là post bài
+lên Facebook và đó chính là bước mình sẽ làm ngày hôm nay Thực
+ra mình đã có skill này ở bên OpenClaw rồi,
+giờ mình thấy AntiGravity 2.0,
+ScheduleTask khá là tiện lợi nên mình sẽ tạo một skill y hệt như
+vậy. Skill này còn xịn hơn vì có cả browser là sub-agent.
+Skill này của mình sẽ Bây giờ mình sẽ mở skill ở trên OpenClaw
+nha. Đây skill facebook poster skill mình đã có ở trên Đây
+là bản OpenClaw của mình.
+Cách skill này hoạt động, thứ nhất là nó sẽ nhận nội dung bài
+viết hoặc là ảnh hoặc là video nếu có. Và nền tảng mình chọn
+sẽ một là Facebook hoặc là Instagram,
+hai sẽ là dùng access token của mình để xác nhận xác thực với
+Meta và gửi một cái request để post cái bài lên Meta,
+lên Facebook hoặc Instagram. Nếu nó có lỗi thì nó sẽ bảo lỗi cho
+mình. Đó, đây là skill mình đã tạo cho OpenClaw.
+Bây giờ mình sẽ copy cái skill này qua AntiGravity 2.0 và
+mình sẽ bảo nó xem chạy được không. Đây là mình đã đã copy
+qua cái folder trên AntiGravity 2.0 của mình.
+Bây giờ mình sẽ bảo nó chạy xem nó có chạy được không nha.
+Bây giờ mình sẽ mở AntiGravity 2.0 lên và mình sẽ bảo là hãy
+tạo một skill mới ở trên Agent Skill cho cái project này của mình.
+Và skill này phải giống như cái skill Social Media Poster
+Skill của mình và test xem nó có hoạt động được không.
+Bây giờ mình sẽ chạy xem Ok,
+nó bảo là nó đã tạo thành công một cái skill Social Media Poster
+cho mình Để mình check lại xem nó có hoạt động được không nha
+Check thử và đây nó đã tạo một skill mới Social Media Poster Skill
+cho mình Bây giờ mình sẽ thử xem,
+nó sẽ post xem bài này cho mình xem Hãy post cái bài Community
+Post Draft lên Facebook cho mình Ok,
+nó đã tạo cho mình thành công Skill Social Media Poster.
+Bây giờ mình sẽ sử dụng Skill Social Media Poster để đăng cái bài
+cho ngày hôm nay. Bây giờ mình sẽ bảo nó dùng Skill Social Media
+Poster cho ngày hôm nay xem nó hoạt động được không.
+Hãy dùng Skill Social Media Poster.
+Cho nó dùng, Hãy dùng Skill Social Media Poster cho ngày hôm nay xem
+nó hoạt động được không. Ok,
+nó đã đăng thành công lên cho mình rồi. Lên Facebook cho mình để
+mình mở, đứng lên xem nó có hoạt động không nha.
+Đó, đây là bài tiếng Việt, nó vừa đăng xong.
+Vừa đăng xong cho mình luôn. Và mình không cần phải mở,
+không phải tự đăng gì hết. Đó. Để đăng được như này thì
+bạn phải tạo một cái app ở trên Facebook
+Developer đây để lấy quyền và lấy access token.
+Mở lên bạn vào developer.facebook.app Bạn
+tạo một cái app mới, create a new app và mình đã tạo như
+là Nam Post đây và mình đã tạo cái ad
+này, rồi mình đã lấy cái quyền truy cập ở
+trên Use Cases và mình create một cái Create and Manage
+Ads with API và Manage Everything on Your Page Và mình sẽ
+vào Tools, Graph API Explorer Và
+mình lấy mấy quyền truy cập như là Page Manage Post,
+Page Reach Engagement, Page Show List Và mình sẽ lấy cái token này
+Cái token này sau khi mình lấy xong mình sẽ có quyền tự post
+bài lên Facebook cho mình Dựa trên token này và API
+request của mình thì nó sẽ tự động post bài lên Facebook cho mình
+luôn. và mình không cần phải mở app hoặc là ứng dụng hoặc là
+gì đó. Đó, đó là skill post lên Facebook cho mình.
+OK, mình đã có skill post lên Facebook,
+bây giờ mình sẽ tạo một cái form để mỗi ngày tạo một cái
+task ở trên Schedule Tasks. Mỗi ngày vào 9h sáng,
+nó sẽ đầu tiên, nó sẽ tự động lên mạng tìm kiếm thông tin
+mới nhất về AI, sau đó nó sẽ sử dụng skill viết bài,
+và cuối cùng nó sẽ chạy cái skill
+post lên Facebook cho mình. bây giờ mình sẽ tạo một cái New Schedule
+Task nha. Bây giờ mình sẽ tạo Daily Post Facebook.
+Xong rồi mình sẽ setup vào 9h sáng
+Và mình sẽ tạo một cái form là bước đầu tiên là mình sẽ
+sử dụng Daily API Report
+Generator Skill để chạy cái skill để lên mạng lấy thông tin mới
+nhất về AI Automation Tiếp theo,
+mình sẽ sử dụng Community Post Generator Skill cho ngày
+hôm nay. Bước cuối cùng là mình sẽ chạy Social Media Post Generator
+Skill cho kết quả từ bước thứ 2.
+Nó sẽ tự động post bài lên Facebook cho mình.
+Bây giờ mình chạy từ cái form này xem nó hoạt động như thế nào
+nha Bây giờ mình sẽ copy cái form này và mình vất vào cái
+whatsapp page mình đang sử dụng Để xem nó chạy được không Ok,
+nó đã post 1 bài khác cho mình ở trên facebook Xem nó post
+gì nha Đây mình mở nó lên xem nó post gì đây Đó,
+nó post 1 bài y hệt như vậy luôn Đó.
+Đó nó đã post 2 bài liên tiếp cho mình. đã có một AI
+Agent tự động đăng bài lên Facebook mỗi ngày cho bạn bằng AntiGravity 2.0
+từ việc lấy tin tức. Viết bài rồi đăng lên page tự động.
+Bạn lên lịch một lần là nó có thể chạy mãi mãi.
+Bạn không cần phải code, không cần phải phí,
+không cần phải mở máy. Nếu bạn thích video này thì hãy Like,
+Subscribe cho mình nha ở trên kênh PieLikeClaw.
+Mình sẽ làm nhiều video về Anti-Gravity 2.0.
+Cảm ơn bạn đã xem. Thank you!

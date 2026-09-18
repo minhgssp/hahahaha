@@ -1,0 +1,81 @@
+thấy file Word của mình rất là xấu và không có trình bày rất
+là xấu và không có bố cục rõ ràng. Mình chỉ vất tất cả
+những số liệu lên đây chứ Bây giờ mình sẽ nhờ AI của mình
+để chỉnh sửa tạo một file mới sao cho đẹp và có bố cục
+rõ ràng. Đây là file Word mới mà AI đã tạo cho mình.
+nó đã có tất cả header và demo và các loại
+hình, mốc trang, nó đã được format lại và chỉnh sửa
+lại đẹp hơn rất là nhiều.
+Chào các bạn, hôm nay mình sẽ chia sẻ cách tăng hiệu suất làm
+việc văn phòng lên gấp 10 lần mà không mất phí và cần kiến
+thức gì về AI. Qua về mình, mình là kỹ sư phần mềm cấp
+cao và mình cũng là người quản lý và điều phối các báo cáo,
+cuộc họp, hoạt động của team. Tất cả công việc văn phòng của mình
+đã được mình tự động hóa. Hôm nay mình sẽ chia sẻ về Antigravity,
+công cụ mới ra mắt của Google cuối năm ngoái, là phần mềm ai
+cũng nên có. Nếu bạn từng dùng qua AI một lần thì bạn cần
+Anti-Gravity. Đơn giản, Anti-Gravity là một nơi mà AI có thể
+truy cập vào, tạo và quản lý tất cả mọi thứ trên folder của
+bạn. Nếu bạn thấy hay, hãy chia sẻ với mọi người.
+Nhớ đăng Like, Subscribe để mình có thêm động lực làm những video tiếp
+theo. Let's install Antigravity.
+Đây là page chính thức của Antigravity Google.
+Bạn chỉ cần lên Google search Antigravity là ra.
+Bây giờ mình sẽ tải Antigravity.
+Và mình gặp phần Download. Cho Mac thì bạn sẽ download phần mềm này.
+Và cho Windows mình sẽ download x64. Và
+mình đã tải Antigravity rồi. Được bây giờ mình sẽ mở và cài đặt
+Antigravity. Đây là phần
+mềm Antigravity sau khi được tải,
+và mình sẽ mở và cài đặt nó. Accept the agreement.
+Next. Yes. Next,
+create a desktop icon. Next,
+install Antigravity.
+OK, Anti-Gravity của mình đã được setup thành công.
+Bây giờ mình sẽ mở lên và cài đặt nó. Ok,
+Welcome to Antigravity. Mình sẽ Next,
+và mình Start Fresh. Và mình chọn Line Model.
+Và mình chọn AI Driven Development.
+Và mình Next. Bây giờ mình phải sign in với Google account của
+mình. Let's sign in. Ok,
+bây giờ mình đã sign in thành công và mình mở lại Antigravity.
+Hẹn gặp lại bạn trong tiếp theo nhé! Next,
+OK. Bây giờ mình sẽ mở folder của mình và mình muốn làm
+việc cùng với Antigravity. Bây giờ mình sẽ mở folder document của mình.
+Ở trên folder document này mình đã có một file Word để chuẩn
+bị demo cho video ngày hôm nay.
+Đây là file Word của mình. Mình đã tải file Word Extension.
+nếu bạn không mở được file Word thì bạn hãy vào Extension và
+chọn Office, Office Viewer đây.
+Và bạn tải Office Viewer này và bạn sẽ có thể mở được tất
+cả những file của Office như Excel,
+Word, PDF và mọi thứ.
+Quay trở lại, mình sẽ,
+Đây là file Word của mình. Bạn có thể thấy file Word của mình
+rất là xấu và không có trình bày rất là xấu và không có
+bố cục rõ ràng. Mình chỉ vất tất cả những số liệu lên đây
+chứ mình không làm tất cả những edit và chỉnh sửa gì.
+Bây giờ mình sẽ nhờ AI của mình để chỉnh sửa tạo một file
+mới sao cho đẹp và có bố cục rõ ràng.
+Bây giờ mình sẽ mở Sonnet 4.6 và mình sẽ vào tạo một AI
+từ file Word này với bố cục làm đẹp.
+và làm cho phần trình bày đẹp hơn để xem con AI của mình
+có làm được không nha tạo một file mới từ file
+Word đây từ file Word này và
+bắt đầu để nó chạy Ok,
+con Gemini của mình đã tạo thành công một file mới.
+Bây giờ để xem xem nó đã làm những gì nha. Bây giờ nó
+đã đọc nội dung của file document này của mình và tạo một file
+mới, những thay đổi về thiết kế màu sắc,
+phông chữ, tiêu đề, Heading và Hyperlink,
+bảng biểu, dấu trang và bullet. và Highlight.
+Ok, để mình sẽ mở xem cái file mới,
+xem nó thay đổi như thế nào. Bây giờ mình sẽ mở Document và
+tìm file mới của mình là Demo Formatic.
+Đây là Demo Formatic, new file Word mà nó đã mới tạo cho mình.
+Đây là file Word mới mà AI đã tạo cho mình.
+nó đã có tất cả header và demo và các loại
+hình, mốc trang, nó đã được format lại và chỉnh sửa
+lại đẹp hơn rất là nhiều. Đó,
+đó là Anti-Gravity. Nếu bạn thấy hay,
+hãy like, subscribe để

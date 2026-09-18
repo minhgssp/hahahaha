@@ -1,0 +1,44 @@
+{
+  "id": "5JnobuoKgQQ",
+  "title": "Antigravity 2.0 Không Mở Được File Office? Đây Là Cách Fix Chỉ 1 Dòng",
+  "duration": "5:18",
+  "uploader": "PieLikeClaw",
+  "description": "🔥 Bạn đang xài Antigravity 2.0 mà không mở được file Word, Excel, PowerPoint?\nMình cũng từng bị vậy — và mình đã tạo ra skill Markitdown để giải quyết nó.\nSkill này dựa trên tool Markitdown của Microsoft, 150.000+ sao trên GitHub.\nChỉ 1 dòng lệnh — mọi file Office của bạn thành Markdown sạch đẹp, làm việc\ntrực tiếp trên Antigravity không cần chuyển qua chuyển lại.\n\nTrong video này mình demo skill Markitdown — tool open-source của Microsoft\nđược hơn 150K sao GitHub, được mình customize thành skill chạy ngay trên\nAntigravity 2.0. Bạn sẽ thấy cách chuyển đổi Word, Excel, PowerPoint, PDF\nsang Markdown — tất cả chỉ với 1 câu lệnh.\n\n👥 Tham gia group để tải skill và ủng hộ mình nha:\nhttps://www.skool.com/pielikeclaw-6181\nP/S: Bạn có thể liên hệ mình trên group để mình giúp cá nhân hóa skill của bạn nhé 👋\n\n0:00 Vấn đề — Antigravity không mở được file Office\n0:14 Giới thiệu Markitdown — Tool Microsoft 150K sao GitHub\n0:42 Demo lần 1 — Skill hoạt động thế nào\n1:07 Markitdown là gì? Các định dạng hỗ trợ\n2:00 Nam đã customize skill này ra sao\n2:53 Demo thực tế trên Antigravity 2.0\n4:26 Cách tải skill & Kết luận\n\n✅ Bạn sẽ thấy được gì?\n   → Skill Markitdown — chuyển đổi mọi file Office sang Markdown\n   → Cách tool Microsoft 150K sao GitHub hoạt động\n   → Demo thực tế: 1 dòng lệnh convert nguyên folder\n   → Customize của Nam để chạy ngay trên Antigravity 2.0\n   → Cách tải và cài đặt skill miễn phí\n\n💡 Cái hay nhất? Bạn không cần mở terminal phức tạp — gọi skill bằng chat\ntrên Antigravity, quăng nguyên folder vào, nó tự convert hết. Làm việc với\nfile Office trên Antigravity chưa bao giờ dễ đến thế.\n\n---\n🔔 Subscribe để không bỏ lỡ các video về A.I thực chiến tiếp theo!\n👍 Like nếu video này hữu ích với bạn nhé!\n\n👥 Tham gia facebook page để download setup prompt nha:\nhttps://www.facebook.com/profile.php?id=61563711617273\n\n#Markitdown #Microsoft #GitHub #Antigravity #AIViệtNam #TựĐộngHóa #OpenClaw #BaPie",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Vấn đề — Antigravity không mở được file Office",
+      "end_time": 14
+    },
+    {
+      "start_time": 14,
+      "title": "Giới thiệu Markitdown — Tool Microsoft 150K sao GitHub",
+      "end_time": 42
+    },
+    {
+      "start_time": 42,
+      "title": "Demo lần 1 — Skill hoạt động thế nào",
+      "end_time": 67
+    },
+    {
+      "start_time": 67,
+      "title": "Markitdown là gì? Các định dạng hỗ trợ",
+      "end_time": 120
+    },
+    {
+      "start_time": 120,
+      "title": "Nam đã customize skill này ra sao",
+      "end_time": 173
+    },
+    {
+      "start_time": 173,
+      "title": "Demo thực tế trên Antigravity 2.0",
+      "end_time": 266
+    },
+    {
+      "start_time": 266,
+      "title": "Cách tải skill & Kết luận",
+      "end_time": 318
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "jl5vTGFC5IQ",
+  "title": "AI Văn Phòng #1: Antigravity | X10 Hiệu Suất, Miễn Phí, 0 Kiến Thức AI",
+  "duration": "5:17",
+  "uploader": "PieLikeClaw",
+  "description": "🔥 Làm sao để tăng hiệu suất công việc văn phòng lên gấp 10 lần mà không tốn một đồng và không cần biết gì về AI? Đây là tập đầu tiên trong series AI Văn Phòng — nơi mình chia sẻ những công cụ AI miễn phí giúp bạn làm việc nhanh hơn, thông minh hơn.\n\nTrong tập này, mình giới thiệu Google Antigravity — AI agent miễn phí vừa ra mắt cuối năm ngoái. Bạn chỉ cần cài đặt, mở folder, và AI có thể truy cập, tạo, quản lý mọi thứ trên máy bạn. Trong demo, mình dùng Gemini Pro trên Antigravity để sửa một file Word cực kỳ lộn xộn — không có mục lục, không format — thành tài liệu chuyên nghiệp với bảng biểu, heading chuẩn chỉnh. Tất cả chỉ trong vài phút!\n\n👥 Tham gia group để tải skill và ủng hộ mình nha: https://www.skool.com/pielikeclaw-6181\nP/S: Bạn có thể liên hệ mình trên group để mình giúp cá nhân hóa skill của bạn nhé 👋\n\n0:00 Teaser: File Word lộn xộn → chuyên nghiệp sau khi AI sửa\n0:24 Antigravity là gì? AI agent miễn phí của Google\n1:06 Cài đặt Antigravity trên Windows\n2:14 Setup ban đầu & đăng nhập Google\n2:53 Mở folder & cài extension Office Viewer\n3:56 Mở file Word lộn xộn trước khi sửa\n4:20 Prompt Gemini Pro: \"sửa file này cho đẹp hơn\"\n4:32 Kết quả: File Word chuyên nghiệp, format chuẩn\n5:16 Tổng kết & lưu ý tài khoản miễn phí\n\n✅ Bạn sẽ học được gì?\n   → Cài đặt Google Antigravity trên Windows hoàn toàn miễn phí\n   → Setup ban đầu: chọn model, đăng nhập Google, cấu hình agent\n   → Cài extension Office Viewer để AI đọc được file Word, Excel, PDF\n   → Demo thực tế: AI sửa file Word lộn xộn thành tài liệu chuyên nghiệp\n   → Hiểu cách AI Agent làm việc với folder — không cần upload, không cần code\n\n💡 Cái hay nhất? Bạn không cần học prompt engineering, không cần biết code, không cần hiểu AI. Chỉ cần nói \"sửa file này cho đẹp hơn\" bằng tiếng Việt — AI tự đọc, tự phân tích, tự xuất file mới với format chuyên nghiệp. X10 hiệu suất là có thật!\n\n---\n🔔 Subscribe để không bỏ lỡ các video về AI thực chiến tiếp theo!\n👍 Like nếu video này hữu ích với bạn nhé!\n\n👥 Tham gia facebook page để download setup prompt nha:\nhttps://www.facebook.com/profile.php?id=61563711617273\n\n#AIVănPhòng #Antigravity #GoogleAI #AIAgent #TựĐộngHóa #AITiếngViệt #BaPie",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Teaser: File Word lộn xộn → chuyên nghiệp sau khi AI sửa",
+      "end_time": 24
+    },
+    {
+      "start_time": 24,
+      "title": "Antigravity là gì? AI agent miễn phí của Google",
+      "end_time": 66
+    },
+    {
+      "start_time": 66,
+      "title": "Cài đặt Antigravity trên Windows",
+      "end_time": 134
+    },
+    {
+      "start_time": 134,
+      "title": "Setup ban đầu & đăng nhập Google",
+      "end_time": 173
+    },
+    {
+      "start_time": 173,
+      "title": "Mở folder & cài extension Office Viewer",
+      "end_time": 236
+    },
+    {
+      "start_time": 236,
+      "title": "Mở file Word lộn xộn trước khi sửa",
+      "end_time": 260
+    },
+    {
+      "start_time": 260,
+      "title": "Prompt Gemini Pro: \"sửa file này cho đẹp hơn\"",
+      "end_time": 272
+    },
+    {
+      "start_time": 272,
+      "title": "Kết quả: File Word chuyên nghiệp, format chuẩn",
+      "end_time": 317
+    }
+  ]
+}

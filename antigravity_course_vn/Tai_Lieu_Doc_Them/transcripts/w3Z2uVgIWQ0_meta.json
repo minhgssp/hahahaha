@@ -1,0 +1,49 @@
+{
+  "id": "w3Z2uVgIWQ0",
+  "title": "AI Văn Phòng #6: Dạy AI Tạo PowerPoint Theo Mẫu | Không Tốn Token, Dùng Lại Vĩnh Viễn",
+  "duration": "7:40",
+  "uploader": "PieLikeClaw",
+  "description": "🔥 Bạn đã bao giờ bảo AI tạo PowerPoint, nó làm ra một đống chữ lộn xộn, không có\nthiết kế gì hết? Rồi bạn phải ngồi chat qua lại cả chục lần, tốn cả trăm token mà\nkết quả vẫn… xấu? Hôm nay mình sẽ chỉ bạn cách DẠY AI một kỹ năng riêng — để từ\nlần sau, 1 câu lệnh là có ngay PowerPoint đẹp theo đúng ý bạn!\n\nTrong video này, mình tạo một OpenClaw skill đầu tiên: dạy AI tạo PowerPoint tự\nđộng theo mẫu có sẵn. Mình bắt đầu với 1 bản kế hoạch PowerPoint và 1 mẫu thiết\nkế từ Canva. Lần đầu AI chỉ edit text vào slide trắng — nó không hiểu gì về thiết\nkế. Nhưng sau khi mình cho nó xem 1 file output mẫu, AI bắt đầu \"bắt chước\" và\ntạo ra PowerPoint đẹp hơn hẳn. Cuối cùng, mình lưu toàn bộ quy trình thành 1 skill\nđể dùng lại mãi mãi — test với dữ liệu mới vẫn ra kết quả chuẩn!\n\n👥 Tham gia group để tải skill và ủng hộ mình nha: https://www.skool.com/pielikeclaw-6181\nP/S: Bạn có thể liên hệ mình trên group để mình giúp cá nhân hóa skill của bạn nhé 👋\n\n0:00 Intro — Dạy AI một kỹ năng mới\n0:31 Bản kế hoạch + Mẫu Canva — input cho AI\n1:32 Lần 1: AI chỉ edit text, không hiểu thiết kế\n2:33 Dạy AI bằng ví dụ output — bí quyết quan trọng\n3:43 Lần 2: Kết quả đẹp hơn hẳn, đúng pattern\n4:28 Tạo skill để dùng lại vĩnh viễn\n6:11 Test với Scrum Master Guide — hoạt động ngon!\n7:21 Tổng kết — tiết kiệm token, dùng lại mãi mãi\n\n✅ Bạn sẽ học được gì?\n   → Cách dạy AI một kỹ năng mới: cho nó xem cả input lẫn output\n   → Tạo OpenClaw skill: biến hội thoại dài thành 1 câu lệnh đơn giản\n   → Bí quyết \"dạy bằng ví dụ\": AI cần thấy kết quả cuối cùng mới làm đúng\n   → Demo thực tế: từ bản kế hoạch thô → PowerPoint chuyên nghiệp\n   → Test skill với dữ liệu hoàn toàn mới — kết quả vẫn chuẩn pattern\n\n💡 Cái hay nhất? Bạn không cần biết code. Chỉ cần 1 lần dạy AI cách làm, lưu thành\n   skill, và từ đó bạn có 1 \"nhân viên AI\" chuyên làm PowerPoint — không lương,\n   không nghỉ phép, và không bao giờ cãi!\n\n---\n🔔 Subscribe để không bỏ lỡ các video về AI thực chiến tiếp theo!\n👍 Like nếu video này hữu ích với bạn nhé!\n\n👥 Tham gia facebook page để download setup prompt nha:\nhttps://www.facebook.com/profile.php?id=61563711617273\n\n#OpenClaw #AISkill #PowerPointAI #TựĐộngHóa #AITiếngViệt #BaPie",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Intro — Dạy AI một kỹ năng mới",
+      "end_time": 31
+    },
+    {
+      "start_time": 31,
+      "title": "Bản kế hoạch + Mẫu Canva — input cho AI",
+      "end_time": 92
+    },
+    {
+      "start_time": 92,
+      "title": "Lần 1: AI chỉ edit text, không hiểu thiết kế",
+      "end_time": 153
+    },
+    {
+      "start_time": 153,
+      "title": "Dạy AI bằng ví dụ output — bí quyết quan trọng",
+      "end_time": 223
+    },
+    {
+      "start_time": 223,
+      "title": "Lần 2: Kết quả đẹp hơn hẳn, đúng pattern",
+      "end_time": 268
+    },
+    {
+      "start_time": 268,
+      "title": "Tạo skill để dùng lại vĩnh viễn",
+      "end_time": 371
+    },
+    {
+      "start_time": 371,
+      "title": "Test với Scrum Master Guide — hoạt động ngon!",
+      "end_time": 441
+    },
+    {
+      "start_time": 441,
+      "title": "Tổng kết — tiết kiệm token, dùng lại mãi mãi",
+      "end_time": 460
+    }
+  ]
+}

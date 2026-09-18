@@ -1,0 +1,44 @@
+{
+  "id": "eo0rHohZTIk",
+  "title": "Không Cần Mở App, Antigravity 2.0 Vẫn Tự Đăng Facebook Cho Bạn Mỗi Ngày",
+  "duration": "9:02",
+  "uploader": "PieLikeClaw",
+  "description": "🔥 Bạn có muốn mỗi sáng thức dậy, Facebook Page của bạn đã có bài đăng mới — mà bạn không phải mở app, không phải gõ một chữ, không tốn một đồng? Video này mình sẽ cho bạn thấy cách mình làm điều đó bằng tính năng Scheduled Task trong Antigravity 2.0 — tính năng vừa ra mắt tại Google I/O 2026.\n\nMình là Nam, senior software engineer tại FIS. Mình đã tự động hóa toàn bộ việc đăng bài lên Facebook bằng A.I Agent — từ lấy tin tức, viết bài, đến đăng lên Page. Trong video này mình hướng dẫn từng bước: setup Facebook API, tạo skill tự động post bài, và lên lịch để nó chạy mãi  — tất cả trên Antigravity 2.0. Copy nguyên skill từ OpenClaw qua, xịn hơn vì có browser sub-agent.\n\n👥 Tham gia group để tải skill và ủng hộ mình nha:\nhttps://www.skool.com/pielikeclaw-6181\nP/S: Bạn có thể liên hệ mình trên group để mình giúp cá nhân hóa skill của bạn nhé 👋\n\n0:00 A.I tự động đăng Facebook — làm được không?\n0:19 Mình là Nam & Antigravity 2.0 là gì\n1:08 2 Skills chạy hàng ngày: Daily Report + Community Post\n2:59 Social Media Poster Skill — từ OpenClaw sang Antigravity\n5:44 Cách lấy Facebook Access Token (từng bước)\n6:49 Tạo Scheduled Task — lên lịch 9h sáng mỗi ngày\n8:18 Kết quả & Tổng kết\n\n✅ Bạn sẽ học được gì?\n   → Cách tạo Facebook App và lấy Access Token để post bài qua API\n   → Cách build skill Social Media Poster trên Antigravity 2.0 — không cần code\n   → Cách dùng Scheduled Task để A.I tự đăng bài mỗi sáng mà không cần mở máy\n   → Cách copy skill từ OpenClaw sang Antigravity 2.0\n   → Toàn bộ workflow: lấy tin tức → viết bài → đăng Facebook — tự động 100%\n\n💡 Cái hay nhất? Bạn lên lịch MỘT LẦN — nó chạy MÃI MÃI. Mỗi sáng 9h, A.I tự lên mạng lấy tin, tự viết bài song ngữ, tự đăng lên Page. Bạn chỉ cần ngồi uống cà phê và xem bài tự lên.\n\n---\n🔔 Subscribe để không bỏ lỡ các video về A.I thực chiến tiếp theo!\n👍 Like nếu video này hữu ích với bạn nhé!\n\n👥 Tham gia facebook page để download setup prompt nha:\nhttps://www.facebook.com/profile.php?id=61563711617273\n\n#Antigravity #FacebookAutomation #AIViệtNam #MetaAPI #TựĐộngHóa #BaPie",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "A.I tự động đăng Facebook — làm được không?",
+      "end_time": 19
+    },
+    {
+      "start_time": 19,
+      "title": "Mình là Nam & Antigravity 2.0 là gì",
+      "end_time": 68
+    },
+    {
+      "start_time": 68,
+      "title": "2 Skills chạy hàng ngày: Daily Report + Community Post",
+      "end_time": 179
+    },
+    {
+      "start_time": 179,
+      "title": "Social Media Poster Skill — từ OpenClaw sang Antigravity",
+      "end_time": 344
+    },
+    {
+      "start_time": 344,
+      "title": "Cách lấy Facebook Access Token (từng bước)",
+      "end_time": 409
+    },
+    {
+      "start_time": 409,
+      "title": "Tạo Scheduled Task — lên lịch 9h sáng mỗi ngày",
+      "end_time": 498
+    },
+    {
+      "start_time": 498,
+      "title": "Kết quả & Tổng kết",
+      "end_time": 542
+    }
+  ]
+}

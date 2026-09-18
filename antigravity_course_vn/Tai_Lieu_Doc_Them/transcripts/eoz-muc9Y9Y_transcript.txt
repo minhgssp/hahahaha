@@ -1,0 +1,153 @@
+7 ngày trước, Google đã làm một điều mà mình không thể ngờ tới.
+Họ đã tách Antigravity ra làm 2,
+là Antigravity IDE và Antigravity 2.0.
+Video này mình sẽ cho bạn thấy chính xác nó khác gì so với
+phiên bản cũ và những tính năng mới mà Google đã thêm vào.
+Mình là Nam, kỹ sư phần mềm cấp cao tại FIS,
+một trong những công ty fintech hàng đầu thế giới. Mình đã dùng Antigravity
+từ những ngày đầu để tự động hóa gần như toàn bộ công việc
+văn phòng của mình. nên khi Google ra bản 2.0 mình đã test ngay
+lập tức. Sau video này bạn sẽ biết chính xác Antigravity khác gì,
+những tính năng nào bạn cần dùng, và quan trọng hơn,
+bạn sẽ biết cách tận dụng để tiết kiệm hàng giờ làm việc
+mỗi tuần. Ok, hãy bắt đầu luôn nha.
+câu hỏi đầu tiên ai cũng thắc mắc là Antigravity 2.0 khác gì so
+với Antigravity IDE. Trước đây,
+Antigravity nó như là một cái IDE,
+Integrated Development Environment.
+Thay vào đó, bạn vào đó bạn sẽ thấy toàn bộ File,
+Folder, Code Editor. Nó mạnh nhưng mà nó chỉ dành cho dân lập trình.
+Nếu bạn không phải là dev, khi bạn mở nó lên bạn sẽ thấy
+chóng mặt. Khi bạn mở nó lên bạn sẽ thấy toàn là folder,
+file hoặc là config như thế này. Và mình nghĩ Google đã nhận ra
+điều đó. Họ nhận ra rằng AI không chỉ dành cho lập trình viên
+mà AI dành cho tất cả mọi người lên Antigravity 2.0 ra đời
+như một triết lý hoàn toàn khác. Thay vì đặt file folder ở trung
+tâm, họ đặt Google sẽ đặt AI ở trung tâm.
+bạn không cần phải mở File Folder lên để chỉnh sửa hay là làm
+gì mà bạn chỉ cần nói chuyện với AI AI sẽ toàn bộ
+hiểu và chỉnh sửa cho bạn. Nói ngắn gọn.
+Antigravity. Anti-Gravity IDE là dành cho dân lập trình hoặc là developer và Anti-Gravity
+2.0 là dành cho tất cả mọi người.
+để cài đặt Anti-Gravity 2.0 mình phải làm như thế nào?
+Bây giờ mình sẽ mở Google lên,
+vào phần Anti-Gravity Google và mình vào phần Download.
+Mình chỉ cần download cái file này cho Windows Mình sẽ tự động download
+AntiGravity 2.0 thay vì download AntiGravity IDE như trước
+đây. Sau khi bạn tải thành công,
+Bạn chỉ cần mở file của bạn lên và chạy cái file AntiGravity này.
+Sau khi setup xong, bạn sẽ có một cái ứng dụng Anti-Gravity như thế
+này. Ok, vậy mình có thể dùng nó để làm gì?
+Đây là 4 tính năng mới mình nghĩ bạn sẽ dùng hàng ngày.
+Đầu tiên, khi bạn mở Anti-Gravity lên,
+bạn chỉ cần tạo một folder, tạo một project mới.
+Cái project mới này dựa trên một folder của bạn.
+Bây giờ bạn sẽ chọn một folder. Mình sẽ chọn một folder ngẫu nhiên
+ở trên file của mình là Donghu Convert.
+và mình select folder và mình chỉ cần tạo cái folder là xong.
+Ok, mình đã tạo một cái folder. Bây giờ mình sẽ nói qua cho
+những tính năng mới mà Google vừa thêm vào.
+Tính năng đầu tiên là quản lý cấp phép của project.
+Sau khi bạn tạo một project, bạn có thể mở cái project này lên
+để bạn quản lý xem quyền cấp phép của project này thế nào.
+Bây giờ mình sẽ chọn project document của mình. Bạn có thể thấy đây,
+đây là agent setting. Đây là quản lý quyền cấp phép của cái project
+này. Bạn có thể chọn nó là full machine,
+có thể chạy tất cả comment của trên máy của bạn,
+có thể đọc và tất cả, quản lý tất cả các file của bạn.
+Và quyền cấp phép này là quyền Unrestricted là ta có thể chạy toàn
+bộ tất cả mọi thứ, không cần có những safety nào,
+bảo mật an toàn nào cả. Mình sẽ chạy chọn Unregistered trong
+cái project này của mình. Và đây là Agent Behavior tính năng quản
+lý xem agent của mình sẽ phải như thế nào sau khi
+mỗi lần mà nó muốn thay đổi hoặc là sửa hoặc là tạo những
+file thì nó có thể tự động hỏi mình hoặc là mình có thể
+cho nó quyền cấp phép luôn mình không cần phải trả lời những câu
+hỏi của nó nữa. mình đang để Always Approved không cần phải không cần
+phải hỏi mình nữa những tính năng quản lý cấp phép của project sẽ
+đến là đến Permission,
+rồi đến Customization. Đây là tính năng quản lý skill
+của cái project này của bạn. Như bạn thấy đây,
+cái project của mình đang có, document của mình đang có 3 skill mình
+đã tạo cho cái document này của mình.
+skill sẽ được tạo phải dựa trên cái pattern là .agent
+rồi đến skill rồi đến cái name của cái skill của bạn rồi đến
+cái skill MD là file skill của bạn đó mình đã tạo 3 skill
+cho cái folder này của mình để quản lý bộ chế Check này sẽ
+quản lý 3 cái skill này Ok,
+sau khi xong 2 tính năng đầu rồi, mình sẽ đến demo thực tế
+luôn. Bây giờ mình sẽ làm một cái Word, file Word ở trên cái
+document project này của mình. Mình giới thiệu sơ qua cái document này project
+của mình. Là mình có một folder document và mình có tất
+cả những file như là file Word, chương trình liên kết,
+file Excel, file PowerPoint. Bây giờ mình sẽ làm việc với file Excel
+này. Bây giờ mình sẽ bảo AI để preview cái
+file này. mình sẽ không thể đọc được file này.
+Bây giờ mình phải tạo một lệnh để con AI của mình để đọc
+cái file này. Bây giờ mình sẽ tạo một lệnh là hãy tạo một
+MD file để mình có thể để được xem thử cái file Excel này,
+xem nó có tạo cho mình được không anh nha Ok,
+nó đã tạo cho mình 1 cái file MD file để mình mở lên
+xem cái file Excel này của mình như thế nào nha Đây là cái
+file trong Excel của mình đây Nó đã tạo 1 số thứ như thế
+này Cột đầu tiên là cột sẽ như thế này,
+cột thứ 2 là như thế này Bây giờ mình sẽ thay đổi một
+số thứ ở trên cái pha Excel này của mình. Mình thấy cái tính
+năng này rất là hay với Google Antigravity.
+Bây giờ mình sẽ highlight cái đoạn này, mình sẽ bảo là thay vì
+34.000$ Bây giờ mình sẽ chuyển thành 20.000 đô,
+đó. Mình sẽ add cái comment này đây.
+Rồi tiếp theo mình sẽ làm một số thứ như là bảo nó là
+OK, nó sẽ tính số tiền này là,
+nó sẽ tính số tiền này là đây, tính số tiền tổng cộng là
+3.000 đô đây.
+Bây giờ mình sẽ bảo nó là Hãy explain cho mình cái value này.
+Ok, sau khi mình ad một số comment của mình vào cái file này
+xem, bây giờ mình sẽ bảo ChatGPT chạy xem nó sẽ chạy như
+thế nào nha. Nó sẽ có thể thay đổi từ 34.000 thành 20.000
+không hoặc là nó có thể explain cho mình xem cái số tiền
+này tại sao như vậy không. Ok,
+nó đã hoàn thành xong và nó đã bảo là nó đã sửa cái
+file dựa theo cái comment này của mình nó đã sửa cái file này
+từ của từ 34.000 thành 20.000 đô và nó đã trả lời
+là tại sao tổng nợ này là 3.067
+đô như này Tiền nợ này là tổng tiền nợ trả nợ của 1
+năm gồm nợ vay sinh viên là 1.671
+trên 1 năm và nợ vay mua xe là 1.396 trên 1 năm Ok,
+bây giờ mình sẽ mở cái file này ở trên folder của mình xem
+nó có thay đổi đúng hay không nha Ok,
+con AI của mình đã thay đổi cho mình từ 34.000 xuống còn 20.000
+đô và chính xác theo những gì mà mình đã sửa ở trên Markup
+File. Và đó là skill khi mà mình làm việc với AI
+qua Anti-Gravity. Ok,
+tính năng thứ cuối cùng của Anti-Gravity mới được thêm vào là tính năng
+đặt lịch Schedule Task. Hôm qua mình đã đặt một cái
+prompt đặt lịch một cái task là cứ mỗi 9 giờ sáng nó
+sẽ phải bật máy lên và kiểm tra giá vàng hôm nay ở trên
+kênh 24h.com giá vàng.
+Bây giờ mình sẽ mở lên xem hôm nay nó check giá vàng của
+mình như thế nào nha. Ok đây là giá vàng mà nó check cho
+mình hôm nay, là giá vàng SGC là 157.700
+và giá vàng bán là 160.700
+Đây là những giá vàng mà nó đã tự động lên mạng tìm kiếm
+giá vàng cho mình. Để tạo một task như thế này,
+bạn chỉ cần vào schedule task và bạn chỉ cần tạo một news và
+bạn muốn tên task như Ví dụ như là Website hoặc là cái gì
+đó Sau đó bạn chỉ cần tạo cho cái project này và mấy giờ
+bạn sẽ chạy, ví dụ mình sẽ chọn một chiều đi
+đúng không? Bây giờ mình sẽ chỉ cần viết cái prompt này,
+ví dụ lên mạng tìm kiếm cái gì đó,
+tìm kiếm Thời tiết ngày hôm nay.
+Đó. Chỉ cần tạo 1 task là add schedule là xong.
+Nó sẽ tự động tạo 1 task cho mình. và mỗi lần một
+tờ chiều nó sẽ lên mạng và tìm kiếm tờ tiết hôm nay như
+thế nào. Đó là bốn tính năng của AntiGravity.
+Vậy là bạn đã biết AntiGravity nó khác gì so với IDE cũ ra
+sao. Bốn tính năng mới bạn có thể dùng ngay hôm nay và Google
+đang đặt AI vào trung tâm. Và mình nghĩ đây mới chỉ là điều
+bắt đầu. Nếu bạn muốn tìm hiểu thêm về cách dùng AntiGravity hay
+để tự động hóa, Mình có những video hướng dẫn ở trên kênh của
+mình, PieLikeClaw. Mình còn làm nhiều video về Antigravity như
+là tạo web hay chỉnh sửa prompts. Để không bỏ lỡ video này,
+hãy đăng Like, Subscribe cho mình nha.
+Thank you.

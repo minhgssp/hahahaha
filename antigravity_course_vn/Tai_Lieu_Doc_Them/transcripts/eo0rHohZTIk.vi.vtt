@@ -1,0 +1,418 @@
+WEBVTT
+Kind: captions
+Language: vi
+
+00:00:00.000 --> 00:00:03.560
+Bạn có muốn AI tự động đăng bài lên Facebook cho bạn mỗi ngày
+
+00:00:03.561 --> 00:00:06.940
+ở trên AntiGravity 2.0 mà không cần phải mở app,
+
+00:00:07.180 --> 00:00:09.340
+không cần code, hoặc là không tốn một đồng không?
+
+00:00:09.700 --> 00:00:12.700
+Trong video này mình sẽ cho bạn thấy cách mình làm điều đó bằng
+
+00:00:12.701 --> 00:00:16.400
+tính năng mới nhất Schedule Task ở trên AntiGravity 2.0.
+
+00:00:16.740 --> 00:00:19.460
+Tính năng này vừa mới được ra mắt tại Google I.O.
+
+00:00:19.880 --> 00:00:24.040
+2026. Mình là Nam, kỹ sư phần mềm cấp cao tại FIS Fortune 500
+
+00:00:24.041 --> 00:00:26.540
+và mình cũng là người quản lý và điều phối team.
+
+00:00:26.541 --> 00:00:30.260
+mình đã tự động hóa toàn bộ công việc đăng bài lên Facebook bằng
+
+00:00:30.261 --> 00:00:33.800
+AI Agent. Sau video này bạn sẽ hiểu thêm về các bước để tự
+
+00:00:33.801 --> 00:00:36.640
+động đăng bài lên Facebook. Như hình ảnh đây,
+
+00:00:36.980 --> 00:00:39.580
+tự động đăng bài lên Facebook bước 1 sẽ là Setup Agent.
+
+00:00:40.021 --> 00:00:43.601
+Facebook API, tạo ứng dụng trên Facebook Developer,
+
+00:00:44.081 --> 00:00:46.161
+cấp quyền và lấy Access Token.
+
+00:00:46.601 --> 00:00:51.381
+Bước thứ 2 là tạo Skill nội dung bài viết và Post
+
+00:00:51.382 --> 00:00:53.781
+Request thẳng đến Facebook Graph API.
+
+00:00:54.441 --> 00:00:57.481
+Bước thứ 3 là lên lịch, tự động, tự động lên mạng,
+
+00:00:58.161 --> 00:01:01.581
+tự viết bài và tự đăng thẳng lên Facebook. Ok,
+
+00:01:01.881 --> 00:01:05.121
+mình sẽ cho bạn thấy tính năng Schedule Task. Đây là tính năng mới
+
+00:01:05.122 --> 00:01:08.041
+được thêm vào của AntiGravity 2.0.
+
+00:01:08.281 --> 00:01:10.341
+Khi bạn mở AntiGravity 2.0 lên,
+
+00:01:10.761 --> 00:01:13.903
+bạn sẽ thấy sẽ có Schedule Tasks. Mình đang có 2 Tasks.
+
+00:01:14.223 --> 00:01:18.143
+Task đầu tiên của mình là Daily News, thì mỗi ngày nó sẽ chạy
+
+00:01:18.144 --> 00:01:21.883
+Daily Report để báo cáo, tạo một bản báo cáo cho mình mỗi ngày.
+
+00:01:22.443 --> 00:01:24.743
+Đây là mình có Skill Daily Report.
+
+00:01:25.303 --> 00:01:29.803
+Mình đang có 2 Skill Setup. Skill thứ đầu tiên là Daily Report,
+
+00:01:30.083 --> 00:01:33.143
+thì mỗi ngày nó sẽ lên mạng, nó sẽ tạo một bảng báo cáo
+
+00:01:33.144 --> 00:01:35.443
+dưới dạng HTML Daily cho mình mỗi ngày.
+
+00:01:35.444 --> 00:01:38.763
+Và skill thứ 2 là dựa trên cái bảng báo cáo đấy,
+
+00:01:39.103 --> 00:01:41.203
+nó sẽ viết một bài viết cho mình. Ok,
+
+00:01:41.271 --> 00:01:43.397
+Nó đã chạy cho Nó chạy cho mình ngày hôm nay 3 giờ trước.
+
+00:01:43.857 --> 00:01:47.777
+Đây là, Nó đã chạy bảng báo cáo Daily Report đây.
+
+00:01:48.177 --> 00:01:50.417
+Ngày hôm nay là ngày 7 tháng 6.
+
+00:01:50.697 --> 00:01:54.317
+Để mình mở lên xem nó như thế nào nha. Đây là bảng báo
+
+00:01:54.318 --> 00:01:58.377
+cáo nó đã tạo cho mình ngày hôm nay. Đầu tiên là nó có
+
+00:01:58.378 --> 00:02:01.437
+những vấn đề chính là Google ra mắt mô hình mới,
+
+00:02:02.437 --> 00:02:07.957
+Gemini và API cũ của DeepSync bị khai tử và Windows Autocopilot
+
+00:02:07.958 --> 00:02:13.057
+Scout. Bây giờ dựa trên bảng báo cáo này mình sẽ dùng
+
+00:02:13.058 --> 00:02:18.297
+skill nữa của mình là daily report để tạo một bảng bài
+
+00:02:18.298 --> 00:02:23.038
+post lên Facebook. Bây giờ mình sẽ chạy cái skill Community Post
+
+00:02:23.039 --> 00:02:26.298
+Generator Skill cho ngày hôm nay. Đây mình sẽ chạy như thế này,
+
+00:02:26.738 --> 00:02:30.400
+xem nó chạy được không.
+
+00:02:30.401 --> 00:02:34.021
+Nó tạo một bài post lên Facebook cho mình bằng cả tiếng Việt và tiếng Anh.
+
+00:02:34.781 --> 00:02:38.661
+Đây là bản tiếng Việt đây. Đó, nó sẽ như thế này cho ngày
+
+00:02:38.662 --> 00:02:42.721
+hôm nay và các tin tức chính về Deepseak,
+
+00:02:42.861 --> 00:02:46.601
+về Google và về Microsoft và đây là bản tiếng Anh nữa.
+
+00:02:47.343 --> 00:02:50.103
+Đó, đó là nó đã tạo một bài post,
+
+00:02:51.723 --> 00:02:55.323
+Theo các bạn thấy, nó thiếu một bước, bước cuối cùng là post bài
+
+00:02:55.324 --> 00:02:59.163
+lên Facebook và đó chính là bước mình sẽ làm ngày hôm nay Thực
+
+00:02:59.164 --> 00:03:01.803
+ra mình đã có skill này ở bên OpenClaw rồi,
+
+00:03:02.223 --> 00:03:04.463
+giờ mình thấy AntiGravity 2.0,
+
+00:03:04.803 --> 00:03:08.343
+ScheduleTask khá là tiện lợi nên mình sẽ tạo một skill y hệt như
+
+00:03:08.344 --> 00:03:12.863
+vậy. Skill này còn xịn hơn vì có cả browser là sub-agent.
+
+00:03:13.303 --> 00:03:16.983
+Skill này của mình sẽ Bây giờ mình sẽ mở skill ở trên OpenClaw
+
+00:03:16.984 --> 00:03:22.124
+nha. Đây skill facebook poster skill mình đã có ở trên Đây
+
+00:03:22.125 --> 00:03:25.544
+là bản OpenClaw của mình.
+
+00:03:26.204 --> 00:03:29.264
+Cách skill này hoạt động, thứ nhất là nó sẽ nhận nội dung bài
+
+00:03:29.265 --> 00:03:33.324
+viết hoặc là ảnh hoặc là video nếu có. Và nền tảng mình chọn
+
+00:03:33.325 --> 00:03:35.484
+sẽ một là Facebook hoặc là Instagram,
+
+00:03:36.104 --> 00:03:40.384
+hai sẽ là dùng access token của mình để xác nhận xác thực với
+
+00:03:40.385 --> 00:03:46.044
+Meta và gửi một cái request để post cái bài lên Meta,
+
+00:03:46.224 --> 00:03:49.864
+lên Facebook hoặc Instagram. Nếu nó có lỗi thì nó sẽ bảo lỗi cho
+
+00:03:49.865 --> 00:03:52.524
+mình. Đó, đây là skill mình đã tạo cho OpenClaw.
+
+00:03:52.924 --> 00:03:58.544
+Bây giờ mình sẽ copy cái skill này qua AntiGravity 2.0 và
+
+00:03:58.545 --> 00:04:01.285
+mình sẽ bảo nó xem chạy được không. Đây là mình đã đã copy
+
+00:04:01.286 --> 00:04:04.365
+qua cái folder trên AntiGravity 2.0 của mình.
+
+00:04:04.865 --> 00:04:07.345
+Bây giờ mình sẽ bảo nó chạy xem nó có chạy được không nha.
+
+00:04:08.345 --> 00:04:13.145
+Bây giờ mình sẽ mở AntiGravity 2.0 lên và mình sẽ bảo là hãy
+
+00:04:13.146 --> 00:04:17.545
+tạo một skill mới ở trên Agent Skill cho cái project này của mình.
+
+00:04:18.825 --> 00:04:23.345
+Và skill này phải giống như cái skill Social Media Poster
+
+00:04:23.346 --> 00:04:25.945
+Skill của mình và test xem nó có hoạt động được không.
+
+00:04:25.946 --> 00:04:28.585
+Bây giờ mình sẽ chạy xem Ok,
+
+00:04:28.765 --> 00:04:32.225
+nó bảo là nó đã tạo thành công một cái skill Social Media Poster
+
+00:04:32.226 --> 00:04:35.105
+cho mình Để mình check lại xem nó có hoạt động được không nha
+
+00:04:35.585 --> 00:04:40.347
+Check thử và đây nó đã tạo một skill mới Social Media Poster Skill
+
+00:04:40.348 --> 00:04:42.487
+cho mình Bây giờ mình sẽ thử xem,
+
+00:04:42.607 --> 00:04:47.187
+nó sẽ post xem bài này cho mình xem Hãy post cái bài Community
+
+00:04:47.188 --> 00:04:50.827
+Post Draft lên Facebook cho mình Ok,
+
+00:04:50.987 --> 00:04:53.747
+nó đã tạo cho mình thành công Skill Social Media Poster.
+
+00:04:54.167 --> 00:04:57.787
+Bây giờ mình sẽ sử dụng Skill Social Media Poster để đăng cái bài
+
+00:04:57.788 --> 00:05:01.807
+cho ngày hôm nay. Bây giờ mình sẽ bảo nó dùng Skill Social Media
+
+00:05:01.808 --> 00:05:04.627
+Poster cho ngày hôm nay xem nó hoạt động được không.
+
+00:05:05.907 --> 00:05:08.027
+Hãy dùng Skill Social Media Poster.
+
+00:05:09.027 --> 00:05:13.507
+Cho nó dùng, Hãy dùng Skill Social Media Poster cho ngày hôm nay xem
+
+00:05:13.508 --> 00:05:15.827
+nó hoạt động được không. Ok,
+
+00:05:15.987 --> 00:05:19.127
+nó đã đăng thành công lên cho mình rồi. Lên Facebook cho mình để
+
+00:05:19.128 --> 00:05:21.727
+mình mở, đứng lên xem nó có hoạt động không nha.
+
+00:05:22.727 --> 00:05:24.807
+Đó, đây là bài tiếng Việt, nó vừa đăng xong.
+
+00:05:26.027 --> 00:05:29.007
+Vừa đăng xong cho mình luôn. Và mình không cần phải mở,
+
+00:05:29.687 --> 00:05:33.447
+không phải tự đăng gì hết. Đó. Để đăng được như này thì
+
+00:05:33.448 --> 00:05:39.448
+bạn phải tạo một cái app ở trên Facebook
+
+00:05:39.449 --> 00:05:43.488
+Developer đây để lấy quyền và lấy access token.
+
+00:05:44.588 --> 00:05:50.088
+Mở lên bạn vào developer.facebook.app Bạn
+
+00:05:50.089 --> 00:05:53.628
+tạo một cái app mới, create a new app và mình đã tạo như
+
+00:05:53.629 --> 00:05:58.268
+là Nam Post đây và mình đã tạo cái ad
+
+00:05:58.269 --> 00:06:02.928
+này, rồi mình đã lấy cái quyền truy cập ở
+
+00:06:02.929 --> 00:06:07.470
+trên Use Cases và mình create một cái Create and Manage
+
+00:06:07.471 --> 00:06:12.090
+Ads with API và Manage Everything on Your Page Và mình sẽ
+
+00:06:12.091 --> 00:06:16.930
+vào Tools, Graph API Explorer Và
+
+00:06:17.930 --> 00:06:21.250
+mình lấy mấy quyền truy cập như là Page Manage Post,
+
+00:06:21.570 --> 00:06:26.410
+Page Reach Engagement, Page Show List Và mình sẽ lấy cái token này
+
+00:06:26.411 --> 00:06:30.350
+Cái token này sau khi mình lấy xong mình sẽ có quyền tự post
+
+00:06:30.351 --> 00:06:34.970
+bài lên Facebook cho mình Dựa trên token này và API
+
+00:06:34.971 --> 00:06:38.690
+request của mình thì nó sẽ tự động post bài lên Facebook cho mình
+
+00:06:38.691 --> 00:06:43.151
+luôn. và mình không cần phải mở app hoặc là ứng dụng hoặc là
+
+00:06:43.152 --> 00:06:46.351
+gì đó. Đó, đó là skill post lên Facebook cho mình.
+
+00:06:46.711 --> 00:06:49.011
+OK, mình đã có skill post lên Facebook,
+
+00:06:49.391 --> 00:06:53.391
+bây giờ mình sẽ tạo một cái form để mỗi ngày tạo một cái
+
+00:06:53.392 --> 00:06:57.991
+task ở trên Schedule Tasks. Mỗi ngày vào 9h sáng,
+
+00:06:58.111 --> 00:07:01.771
+nó sẽ đầu tiên, nó sẽ tự động lên mạng tìm kiếm thông tin
+
+00:07:01.772 --> 00:07:05.271
+mới nhất về AI, sau đó nó sẽ sử dụng skill viết bài,
+
+00:07:05.272 --> 00:07:09.871
+và cuối cùng nó sẽ chạy cái skill
+
+00:07:09.872 --> 00:07:12.981
+post lên Facebook cho mình. bây giờ mình sẽ tạo một cái New Schedule
+
+00:07:12.982 --> 00:07:16.341
+Task nha. Bây giờ mình sẽ tạo Daily Post Facebook.
+
+00:07:16.342 --> 00:07:20.377
+Xong rồi mình sẽ setup vào 9h sáng
+
+00:07:20.378 --> 00:07:24.157
+Và mình sẽ tạo một cái form là bước đầu tiên là mình sẽ
+
+00:07:24.158 --> 00:07:29.157
+sử dụng Daily API Report
+
+00:07:29.158 --> 00:07:33.897
+Generator Skill để chạy cái skill để lên mạng lấy thông tin mới
+
+00:07:33.898 --> 00:07:36.657
+nhất về AI Automation Tiếp theo,
+
+00:07:36.777 --> 00:07:41.317
+mình sẽ sử dụng Community Post Generator Skill cho ngày
+
+00:07:41.318 --> 00:07:44.757
+hôm nay. Bước cuối cùng là mình sẽ chạy Social Media Post Generator
+
+00:07:44.758 --> 00:07:47.097
+Skill cho kết quả từ bước thứ 2.
+
+00:07:47.777 --> 00:07:49.897
+Nó sẽ tự động post bài lên Facebook cho mình.
+
+00:07:50.079 --> 00:07:53.079
+Bây giờ mình chạy từ cái form này xem nó hoạt động như thế nào
+
+00:07:53.080 --> 00:07:56.579
+nha Bây giờ mình sẽ copy cái form này và mình vất vào cái
+
+00:07:56.580 --> 00:08:01.759
+whatsapp page mình đang sử dụng Để xem nó chạy được không Ok,
+
+00:08:01.879 --> 00:08:05.539
+nó đã post 1 bài khác cho mình ở trên facebook Xem nó post
+
+00:08:05.540 --> 00:08:09.859
+gì nha Đây mình mở nó lên xem nó post gì đây Đó,
+
+00:08:10.299 --> 00:08:13.099
+nó post 1 bài y hệt như vậy luôn Đó.
+
+00:08:14.079 --> 00:08:18.218
+Đó nó đã post 2 bài liên tiếp cho mình. đã có một AI
+
+00:08:18.219 --> 00:08:22.638
+Agent tự động đăng bài lên Facebook mỗi ngày cho bạn bằng AntiGravity 2.0
+
+00:08:22.639 --> 00:08:26.979
+từ việc lấy tin tức. Viết bài rồi đăng lên page tự động.
+
+00:08:27.439 --> 00:08:30.139
+Bạn lên lịch một lần là nó có thể chạy mãi mãi.
+
+00:08:30.439 --> 00:08:32.759
+Bạn không cần phải code, không cần phải phí,
+
+00:08:33.199 --> 00:08:36.819
+không cần phải mở máy. Nếu bạn thích video này thì hãy Like,
+
+00:08:36.959 --> 00:08:40.019
+Subscribe cho mình nha ở trên kênh PieLikeClaw.
+
+00:08:40.199 --> 00:08:43.219
+Mình sẽ làm nhiều video về Anti-Gravity 2.0.
+
+00:08:44.039 --> 00:08:45.499
+Cảm ơn bạn đã xem. Thank you!
+

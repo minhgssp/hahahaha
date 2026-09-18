@@ -1,0 +1,340 @@
+WEBVTT
+Kind: captions
+Language: vi
+
+00:00:00.000 --> 00:00:03.719
+Bây giờ mình sẽ bảo con AI tạo một cái skill để lần sau
+
+00:00:03.720 --> 00:00:07.539
+mình không cần phải trải qua những cuộc hội thoại và tốn token như
+
+00:00:07.540 --> 00:00:09.739
+thế này nữa. Mình chỉ cần bảo nó là OK,
+
+00:00:09.899 --> 00:00:14.879
+hãy tạo cho mình một bản PowerPoint với cái input là
+
+00:00:14.880 --> 00:00:16.939
+nó sẽ tạo y theo mẫu này
+
+00:00:17.312 --> 00:00:19.892
+Xin chào các bạn, hôm nay mình sẽ làm về AI skill.
+
+00:00:20.312 --> 00:00:24.052
+Lần trước mình làm về PowerPoint, nhưng mình thấy AI của mình tạo PowerPoint
+
+00:00:24.053 --> 00:00:27.192
+khá là xấu, nên hôm nay mình sẽ tạo một skill cho con AI
+
+00:00:27.193 --> 00:00:30.672
+của mình để nó tạo PowerPoint theo mẫu của mình đưa cho.
+
+00:00:31.372 --> 00:00:34.652
+Ok, let's do it. Đây là một bản kế hoạch,
+
+00:00:35.132 --> 00:00:37.192
+kế hoạch PowerPoint mà mình đã tạo ra.
+
+00:00:37.752 --> 00:00:41.092
+Thì bản kế hoạch này thì nó chỉ đề xuất là PowerPoint sẽ giống
+
+00:00:41.093 --> 00:00:43.592
+như thế nào. Đây là tiêu đề, tiêu đề chính,
+
+00:00:43.712 --> 00:00:46.892
+tiêu đề phụ, thông tin thêm, chia sẻ một số hình ảnh logo và
+
+00:00:46.893 --> 00:00:49.172
+slide 2 sẽ trông như thế nào,
+
+00:00:49.452 --> 00:00:51.752
+tổng quan về quan hệ đối tác rồi này kia,
+
+00:00:52.372 --> 00:00:55.152
+và dấu mốc quan trọng với Việt Nam, đó. Đây là chỉ là một
+
+00:00:55.153 --> 00:00:58.753
+cái bản kế hoạch PowerPoint gồm, 9 slide hay 10 slide,
+
+00:00:58.973 --> 00:01:01.833
+và slide cuối cùng để cảm ơn. Bây giờ mình sẽ bảo con AI
+
+00:01:01.834 --> 00:01:05.213
+của mình tạo theo một cái mẫu mà mình đã cho.
+
+00:01:05.653 --> 00:01:10.333
+Đây mình đang có một cái mẫu để cho cái
+
+00:01:10.334 --> 00:01:14.473
+bản PowerPoint này. Đây là mẫu mình tìm ở trên Canva.
+
+00:01:16.893 --> 00:01:21.613
+Thì cái mẫu này đơn giản là Project Research của trường South
+
+00:01:21.614 --> 00:01:24.633
+Fork University. Thì đó, thì nó có một số overview.
+
+00:01:24.634 --> 00:01:28.393
+Bây giờ mình sẽ bảo con AI của mình tạo cái PowerPoint theo cái
+
+00:01:28.394 --> 00:01:32.073
+mẫu này xem nó có làm được không nha. Ok,
+
+00:01:32.453 --> 00:01:35.573
+bây giờ mình sẽ bảo con AI của mình là từ bản kế hoạch
+
+00:01:35.574 --> 00:01:41.875
+PowerPoint Hãy tạo một cái Tạm
+
+00:01:41.876 --> 00:01:45.355
+một file powerpoint mới với mẫu này.
+
+00:01:52.712 --> 00:01:56.752
+Ok, nó đã tạo thành công cho mình một file mới tên là New
+
+00:01:56.753 --> 00:02:01.352
+Design để mình mở lên xem cái bản New Design này thế nào nha.
+
+00:02:07.132 --> 00:02:10.712
+Theo các bạn thấy, nó không phân biệt được cái mẫu đấy là như
+
+00:02:10.713 --> 00:02:15.372
+thế nào. Mình mở lên mà nó chỉ edit cái text vào PowerPoint thôi
+
+00:02:15.373 --> 00:02:20.092
+chứ nó không biết mẫu là như thế nào. Tại vì nhiều lúc
+
+00:02:20.093 --> 00:02:24.734
+AI nó cần khổng lồ. Nếu bạn chỉ provide mỗi
+
+00:02:24.735 --> 00:02:29.654
+mẫu và input thôi, nhiều lúc nó sẽ không làm
+
+00:02:29.655 --> 00:02:32.614
+được. Nên bây giờ mình đã có một file mới.
+
+00:02:33.574 --> 00:02:35.594
+Mình đã có kết quả của file này rồi.
+
+00:02:36.774 --> 00:02:41.954
+Bây giờ mình sẽ cho nó mở lên để cho nó hiểu
+
+00:02:41.955 --> 00:02:44.194
+được output kết quả cuối cùng sẽ như thế nào.
+
+00:02:45.514 --> 00:02:48.894
+Đây là mình sẽ bảo nó kết quả. Đây là mình muốn kết quả
+
+00:02:48.895 --> 00:02:53.514
+như thế này. Thì nó lên làm theo kết quả như thế này thay
+
+00:02:53.515 --> 00:02:57.834
+vì tạo mẫu text không. Bây giờ mình sẽ bảo nó tạo theo một
+
+00:02:57.835 --> 00:03:01.895
+cái file mới dựa theo cái mẫu kia và kết quả như mình muốn
+
+00:03:01.896 --> 00:03:04.555
+là trông như thế này để xem nó có làm được không nha.
+
+00:03:07.155 --> 00:03:11.695
+Bây giờ mình sẽ bảo nó là hãy dựa trên cái ví dụ output
+
+00:03:11.696 --> 00:03:17.055
+mà mình vừa chỉ dạy. Hãy dựa trên cái ví dụ output mà mình
+
+00:03:17.056 --> 00:03:21.795
+vừa bảo để tạo lại một bản từ bản kế hoạch và bạn phải
+
+00:03:21.796 --> 00:03:24.055
+tạo một file với hình mẫu là New Design.
+
+00:03:27.819 --> 00:03:31.339
+OK con AI của mình đã tạo cho mình một bản mới.
+
+00:03:31.719 --> 00:03:34.319
+Hãy mở bản mới xem nó trông như thế nào nha.
+
+00:03:35.079 --> 00:03:39.999
+Đây, vào PowerPoint. Nó tên là
+
+00:03:40.000 --> 00:03:42.339
+USA Vietnam New Designs.
+
+00:03:43.039 --> 00:03:47.460
+Ok, để cho mình mở lên. Đó,
+
+00:03:48.400 --> 00:03:51.900
+theo bạn thấy đây, bản mới của nó đẹp và hoàn thiện hơn rất
+
+00:03:51.901 --> 00:03:56.920
+là nhiều, khá là giống với bản mà mình cho làm bản
+
+00:03:56.921 --> 00:03:58.960
+mẫu. Đó,
+
+00:03:59.060 --> 00:04:02.180
+tuy nó vẫn còn nhiều lỗi là lỗi chỉnh sửa lại,
+
+00:04:02.660 --> 00:04:05.500
+thấy đây, có một số lỗi cần phải chỉnh sửa lại.
+
+00:04:06.180 --> 00:04:08.920
+Các chữ nó đè lên nhau tại vì nó không hiểu được tất cả
+
+00:04:08.921 --> 00:04:11.940
+mọi thứ, nó chỉ input file, input text vào đây thôi.
+
+00:04:13.100 --> 00:04:16.440
+Nhưng tuy cái bản này cần chỉnh sửa nhiều nhưng AI đã làm công
+
+00:04:16.441 --> 00:04:19.660
+việc khó nhất. Việc khó nhất của một công việc là bắt đầu công
+
+00:04:19.661 --> 00:04:23.720
+việc đó. Mà mình đã có AI bắt đầu hộ rồi nên chỉnh sửa
+
+00:04:23.721 --> 00:04:27.000
+sẽ dễ hơn rất là nhiều. OK.
+
+00:04:28.162 --> 00:04:32.082
+Và mình muốn tạo một skill để mình lần tiếp theo mình sẽ không
+
+00:04:32.083 --> 00:04:36.402
+phải làm tất cả những việc này nữa và bảo con AI phải hiểu
+
+00:04:36.403 --> 00:04:41.082
+cái output này như thế nào rồi, provide tất cả những detail rồi mọi
+
+00:04:41.083 --> 00:04:45.122
+thứ Bây giờ mình sẽ bảo con AI tạo một cái skill để lần
+
+00:04:45.123 --> 00:04:48.982
+sau mình không cần phải trải qua những cuộc hội thoại và tốn token
+
+00:04:48.983 --> 00:04:51.402
+như thế này nữa. Mình chỉ cần bảo nó là OK,
+
+00:04:51.562 --> 00:04:56.542
+hãy tạo cho mình một bản PowerPoint với cái input là
+
+00:04:56.543 --> 00:05:00.482
+nó sẽ tạo y theo mẫu này. Bây giờ mình sẽ bảo nó làm
+
+00:05:00.483 --> 00:05:05.322
+như thế nha, xem nó có làm được không. Bây giờ
+
+00:05:05.323 --> 00:05:08.743
+mình sẽ bảo nó là dựa trên cuộc đối thoại bên trên,
+
+00:05:08.843 --> 00:05:11.843
+hãy tạo cho mình một prompt để từ sau mình chỉ cần yêu cầu
+
+00:05:11.844 --> 00:05:16.483
+Input File Name Rồi bạn hãy dùng mẫu New Design và kết
+
+00:05:16.484 --> 00:05:18.543
+quả giống như 2 cái mẫu mà mình vừa cho,
+
+00:05:18.983 --> 00:05:21.543
+xem nó có làm được không nha. 2 cái mẫu kết quả giống như
+
+00:05:21.544 --> 00:05:26.123
+Output là 1 này. Và kết quả giống như,
+
+00:05:26.843 --> 00:05:31.263
+Với AI, khi bạn càng nhiều, càng Provide nhiều Input và Output thì kết
+
+00:05:31.264 --> 00:05:36.043
+quả càng chính xác. Thế nên, bạn hãy Provide nhiều Input và Output Bây
+
+00:05:36.044 --> 00:05:38.923
+giờ mình sẽ để nó tạo một cái prompt mới xem nó có làm
+
+00:05:38.924 --> 00:05:42.813
+được không. OK. Ok,
+
+00:05:42.814 --> 00:05:47.096
+con Gemini Pro 3.1 của mình đã tạo file mới
+
+00:05:47.097 --> 00:05:51.316
+cho mình. Đây là file nó đã tạo là một cái prompt.
+
+00:05:51.716 --> 00:05:54.416
+Để mình mở xem cái prompt này nói về cái gì nha. Đấy,
+
+00:05:54.836 --> 00:05:59.336
+cái prompt này là tạo PowerPoint tự động từ bản thiết kế mẫu New
+
+00:05:59.337 --> 00:06:04.016
+Design, Nice Design. Đây là nội dung của prompt đó và hướng
+
+00:06:04.017 --> 00:06:09.156
+dẫn cách sử dụng của prompt. Bây giờ mình sẽ thử.
+
+00:06:09.177 --> 00:06:11.197
+Bây giờ test được cái prompt này xem nó hoạt động như thế nào
+
+00:06:11.198 --> 00:06:15.777
+nha. Bây giờ mình đã có một cái. Bây giờ mình có
+
+00:06:15.778 --> 00:06:20.157
+một cái kế hoạch ờ, in PowerPoint của mình mình có một cái scrum
+
+00:06:20.158 --> 00:06:23.097
+master guide của mình lần trước. Bây giờ mình sẽ bảo nó tạo một
+
+00:06:23.098 --> 00:06:27.717
+cái ờ, bản PowerPoint từ cái scrum master guide này của mình
+
+00:06:27.718 --> 00:06:33.117
+Xem có hoạt động được không. Tạo
+
+00:06:33.118 --> 00:06:36.857
+prompt Tạo một PowerPoint
+
+00:06:42.357 --> 00:06:45.857
+từ cái bản Scrum Master Guide này của mình xem nó có hoạt động được không.
+
+00:06:51.353 --> 00:06:54.753
+Ok, nó đã tạo xong một bản PowerPoint cho mình để mình mở ra
+
+00:06:54.754 --> 00:06:57.173
+xem cái bản Scrum Master Guide này,
+
+00:06:57.393 --> 00:07:01.833
+PowerPoint này xem nó trông như thế nào nha. Ok,
+
+00:07:01.834 --> 00:07:04.713
+PowerPoint, Spin, Scrum Master Guide.
+
+00:07:05.813 --> 00:07:09.433
+Đó, bạn thấy không, bây giờ nó sẽ không còn một số lỗi như
+
+00:07:09.434 --> 00:07:14.033
+trước nữa. Bây giờ nó đã follow đúng cái pattern mà mình muốn
+
+00:07:14.034 --> 00:07:18.233
+dạy nó. Và nó khá là ok với mình,
+
+00:07:18.313 --> 00:07:20.993
+mình cần sửa lại một tí nữa là được. Ok,
+
+00:07:21.593 --> 00:07:25.613
+vậy đó là mình đã tạo một skill riêng cho mình để lần sau
+
+00:07:25.614 --> 00:07:29.113
+nó sẽ tạo bản PowerPoint đẹp theo ý của mình và mình sẽ không
+
+00:07:29.114 --> 00:07:31.585
+phải, ah, fix nó nữa. Đó,
+
+00:07:31.745 --> 00:07:34.145
+nếu bạn có ý tưởng nào hay, hãy comment bên dưới.
+
+00:07:34.485 --> 00:07:37.725
+Nếu thấy hay, hãy like, share, subscribe để mình có thêm động lực làm
+
+00:07:37.726 --> 00:07:39.285
+những video tiếp theo. Thank you!
+

@@ -62,4 +62,39 @@ Thư mục này tổng hợp các bài viết chuyên đề được đúc kết
 
 ---
 
+### [Bài 09: AI Văn Phòng — X10 Hiệu Suất, Miễn Phí, 0 Kiến Thức Lập Trình](Bai_Doc_09_AI_Van_Phong_X10_Hieu_Suat_Khong_Can_Code.md)
+* **Thời lượng gốc:** 5 phút 17 giây (Chia sẻ bởi PieLikeClaw)
+* **Nội dung chính:** Bản chất của AI Agent trên máy tính so với Chatbot web, tại sao người không biết code vẫn có thể x10 năng suất văn phòng hoàn toàn miễn phí.
+* 🔗 [Xem video gốc trên YouTube](https://www.youtube.com/watch?v=jl5vTGFC5IQ)
+
+---
+
+### [Bài 10: Tự Động Tạo Slide PowerPoint Theo Mẫu Doanh Nghiệp (Không Tốn Token, Dùng Vĩnh Viễn)](Bai_Doc_10_Tu_Dong_Tao_Slide_PowerPoint_Theo_Mau_Doanh_Nghiep.md)
+* **Thời lượng gốc:** 7 phút 40 giây (Chia sẻ bởi PieLikeClaw)
+* **Nội dung chính:** Cách nạp file mẫu Slide Master của công ty vào AI Skill để tự động xuất file `.pptx` đúng logo, font chữ và nhận diện thương hiệu mà không tốn token thiết kế lại.
+* 🔗 [Xem video gốc trên YouTube](https://www.youtube.com/watch?v=w3Z2uVgIWQ0)
+
+---
+
+### [Bài 11: Giải Mã Sự Kiện Google Tách Antigravity Cho Người Dùng Phổ Thông](Bai_Doc_11_Giai_Ma_Suki_Google_Tach_Antigravity_Cho_Nguoi_Dung_Pho_Thong.md)
+* **Thời lượng gốc:** 10 phút 04 giây (Chia sẻ bởi PieLikeClaw)
+* **Nội dung chính:** Đột phá trong phiên bản Antigravity 2.0 khi loại bỏ rào cản kỹ thuật/terminal, đưa AI trở thành công cụ dễ dùng cho mọi đối tượng nhân viên văn phòng.
+* 🔗 [Xem video gốc trên YouTube](https://www.youtube.com/watch?v=eoz-muc9Y9Y)
+
+---
+
+### [Bài 12: Xử Lý Triệt Để Lỗi Không Mở Được File Office (.docx, .xlsx) Trong Antigravity](Bai_Doc_12_Xu_Ly_Triet_De_Loi_Khong_Mo_Duoc_File_Office_Trong_Antigravity.md)
+* **Thời lượng gốc:** 5 phút 18 giây (Chia sẻ bởi PieLikeClaw)
+* **Nội dung chính:** Giải thích nguyên nhân file nhị phân của Microsoft Office và 2 cách khắc phục triệt để: cài Extension Office Viewer hoặc nhờ AI cài đặt thư viện đọc ngầm.
+* 🔗 [Xem video gốc trên YouTube](https://www.youtube.com/watch?v=5JnobuoKgQQ)
+
+---
+
+### [Bài 13: Tự Động Hóa Hẹn Giờ Lên Lịch Đăng Bài Với Scheduled Tasks](Bai_Doc_13_Tu_Dong_Hoa_Lich_Trinh_Hen_Gio_Dang_Bai_Scheduled_Tasks.md)
+* **Thời lượng gốc:** 9 phút 02 giây (Chia sẻ bởi PieLikeClaw)
+* **Nội dung chính:** Ứng dụng tính năng Scheduled Tasks để thiết lập quy trình chạy ngầm mỗi sáng 9h: Tự cào tin tức công nghệ $\rightarrow$ Tự viết bài 2 thứ tiếng $\rightarrow$ Tự đăng lên Fanpage qua API.
+* 🔗 [Xem video gốc trên YouTube](https://www.youtube.com/watch?v=eo0rHohZTIk)
+
+---
+
 > 📂 *Toàn bộ tệp phụ đề gốc (transcript) dạng văn bản và ảnh chụp màn hình minh họa đã được lưu trữ tại `transcripts/` và `../assets/screenshots/video_frames/`.*

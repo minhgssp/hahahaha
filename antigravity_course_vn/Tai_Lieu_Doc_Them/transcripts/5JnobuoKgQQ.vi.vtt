@@ -1,0 +1,238 @@
+WEBVTT
+Kind: captions
+Language: vi
+
+00:00:00.299 --> 00:00:04.379
+Bạn đang dùng Antigravity 2.0 mà không mở được file Word,
+
+00:00:04.639 --> 00:00:07.399
+Excel hay PowerPoint, video này dành cho bạn.
+
+00:00:07.819 --> 00:00:10.779
+Trong video này mình sẽ show cho bạn một skill chuyển đổi tất
+
+00:00:10.780 --> 00:00:13.979
+cả các file như là Office qua Markdown chỉ trong vài giây.
+
+00:00:14.319 --> 00:00:18.839
+Skill này dựa trên Tool Markitdown của Microsoft được hơn 150.000
+
+00:00:18.840 --> 00:00:21.459
+sao đánh giá ở trên GitHub. Qua về mình,
+
+00:00:21.739 --> 00:00:24.639
+mình là Nam, Senior Software Engineer tại FIS,
+
+00:00:24.959 --> 00:00:27.579
+top công ty fintech hàng đầu thế giới. 7 năm qua,
+
+00:00:27.719 --> 00:00:30.419
+mình đã tự động hóa toàn bộ Workflow văn phòng của mình,
+
+00:00:30.779 --> 00:00:33.059
+từ báo cáo cuộc họp đến quản lý team.
+
+00:00:33.459 --> 00:00:36.759
+Sau video này, bạn có thể chuyển đổi bất kỳ các file nào như
+
+00:00:36.760 --> 00:00:39.299
+là Word, Excel, PowerPoint, Image,
+
+00:00:39.579 --> 00:00:42.780
+PDF sang dạng Markdown, không cần cài đặt phức tạp.
+
+00:00:42.789 --> 00:00:47.004
+Demo skill của mình xem nó có thể làm gì nhé.
+
+00:00:48.144 --> 00:00:51.655
+Bây giờ mình sẽ chạy xem nó hoạt động như thế nào nha. OK,
+
+00:00:51.855 --> 00:00:54.935
+con Gemini của mình đã tự động hoàn thành xong
+
+00:00:55.896 --> 00:00:59.676
+skill này của mình. Bây giờ mình sẽ mở cái Overview Artifact này xem
+
+00:00:59.677 --> 00:01:04.296
+nha. OK, nó đã convert tất cả các file mà mình vừa show cho
+
+00:01:04.297 --> 00:01:06.756
+bạn thành dạng Markdown.
+
+00:01:07.672 --> 00:01:12.292
+Vậy Markitdown là gì? Markitdown là tool được viết bởi Microsoft, open
+
+00:01:12.293 --> 00:01:16.032
+source trên GitHub. Mình đã có bản tóm tắt về cái tool này.
+
+00:01:16.412 --> 00:01:19.653
+Cái tool này sẽ dùng Python để chuyển đổi mọi file như
+
+00:01:19.654 --> 00:01:21.873
+file Office, PDF,
+
+00:01:22.073 --> 00:01:26.673
+HTML, ảnh, audio, zip sang dạng cấu trúc Markdown sẵn sàng cho những
+
+00:01:26.674 --> 00:01:29.553
+hệ thống AI lớn để process.
+
+00:01:30.133 --> 00:01:33.753
+Cái này đơn giản thì nó sẽ có file đầu vào và chuyển
+
+00:01:33.754 --> 00:01:38.293
+hóa thành Markdown output, rồi sau đó sẽ dễ
+
+00:01:38.294 --> 00:01:41.813
+dàng hơn cho AI để xử lý. Các định dạng hỗ trợ của
+
+00:01:41.814 --> 00:01:44.253
+cái tool này thứ nhất là Word,
+
+00:01:44.973 --> 00:01:47.393
+Excel, PowerPoint, PDF, trang web,
+
+00:01:47.593 --> 00:01:52.713
+hình ảnh, audio, Archive, dữ liệu và YouTube Links.
+
+00:01:53.213 --> 00:01:56.795
+Tool này cực kỳ nhẹ, chạy trên mọi hệ điều hành như là Windows,
+
+00:01:57.255 --> 00:02:00.115
+Mac, Linux đều được. Đây là cái tool gốc.
+
+00:02:00.395 --> 00:02:04.215
+Mình đã chỉnh sửa thêm cái tool này một tí thành một cái skill
+
+00:02:04.216 --> 00:02:06.635
+ở trên Antigravity 2.0 của mình đây.
+
+00:02:07.195 --> 00:02:10.835
+Thành cái skill có tên là Markitdown.
+
+00:02:11.115 --> 00:02:17.035
+Đơn giản là mình đã update cái skill này.
+
+00:02:17.535 --> 00:02:22.895
+Cái skill này bây giờ, mình sẽ chỉ đơn giản là khi mình biến
+
+00:02:22.896 --> 00:02:26.335
+nó thành cái skill, mình sẽ đưa cho một file hoặc là
+
+00:02:26.336 --> 00:02:30.795
+folder, và cái skill này sẽ đọc tất cả các file ở trên folder
+
+00:02:30.796 --> 00:02:35.637
+đấy, chuyển thành tất cả thành dạng Markdown rồi tinh
+
+00:02:35.638 --> 00:02:41.317
+chỉnh làm sao cho đẹp và giống như những file mình đã input
+
+00:02:41.318 --> 00:02:45.839
+vào. Khi làm việc với Antigravity 2.0 mà không mở được file Word
+
+00:02:45.840 --> 00:02:49.159
+và một số file khác, mình khá là khó chịu nên mình đã tạo
+
+00:02:49.160 --> 00:02:52.799
+skill này. OK, bạn đã biết tool này hoạt động như thế nào rồi.
+
+00:02:53.099 --> 00:02:56.159
+Hãy demo thực tế nhé. Bây giờ mình sẽ mở Antigravity lên.
+
+00:02:56.160 --> 00:03:00.339
+Bây giờ mình sẽ gọi cái skill của mình là Markitdown. Rồi
+
+00:03:00.340 --> 00:03:04.039
+bây giờ mình đã chuẩn bị một folder có sẵn, có tất cả các
+
+00:03:04.040 --> 00:03:08.140
+file như là — đây là folder mình đã chuẩn bị, có tất cả
+
+00:03:08.141 --> 00:03:12.720
+file Word, Excel, PowerPoint hay PDF. Bây giờ mình sẽ chuyển tất cả các file
+
+00:03:12.721 --> 00:03:16.560
+này chỉ bằng một câu lệnh, chuyển thành dưới dạng Markdown, và mình sẽ
+
+00:03:16.561 --> 00:03:20.980
+làm việc với tất cả các file này ở trên Antigravity 2.0. Bây giờ
+
+00:03:20.981 --> 00:03:26.080
+mình sẽ nhập input folder project. Bây
+
+00:03:26.081 --> 00:03:29.280
+giờ mình sẽ chạy xem nó hoạt động như thế nào nha. OK,
+
+00:03:29.480 --> 00:03:32.560
+con Gemini của mình đã tự động hoàn thành xong
+
+00:03:33.521 --> 00:03:37.301
+skill này của mình. Bây giờ mình sẽ mở cái Overview Artifact này xem
+
+00:03:37.302 --> 00:03:41.921
+nha. OK, nó đã convert tất cả các file mà mình vừa show cho
+
+00:03:41.922 --> 00:03:44.381
+bạn thành dạng Markdown.
+
+00:03:44.801 --> 00:03:47.541
+Bây giờ mình sẽ mở từng file một nha. Đây là tất cả các
+
+00:03:47.542 --> 00:03:49.821
+file mà nó đã tạo cho mình. Đó,
+
+00:03:50.781 --> 00:03:53.901
+đẹp và giống như file Word của mình.
+
+00:03:54.741 --> 00:03:57.241
+Đây, mình sẽ mở file PDF đó.
+
+00:03:57.941 --> 00:04:01.141
+Bây giờ mình sẽ làm việc ở trên những cái file này.
+
+00:04:01.341 --> 00:04:04.621
+Giả sử là mình muốn chuyển đổi hoặc là thêm cái gì đó.
+
+00:04:05.101 --> 00:04:09.921
+Mình sẽ làm việc ở trên cái file này, như là thay 35.000 hoặc
+
+00:04:09.922 --> 00:04:14.963
+là sau đó. Sau khi làm xong, mình chỉ cần nói với con
+
+00:04:14.964 --> 00:04:19.243
+AI của mình là: "Hãy cập nhật file như đã chỉnh sửa ở trên
+
+00:04:19.244 --> 00:04:23.003
+file Markdown." Thế là nó sẽ tự động cập nhật tất cả các file
+
+00:04:23.004 --> 00:04:25.563
+và mình không cần phải sửa file Word nữa.
+
+00:04:26.223 --> 00:04:30.943
+Đó. Mình sẽ để skill và hướng dẫn cài đặt đầy
+
+00:04:30.944 --> 00:04:34.603
+đủ ở trên GitHub của mình. Bạn có thể vào đó tải về và
+
+00:04:34.604 --> 00:04:36.963
+làm theo là xong. Link ở dưới description nhé.
+
+00:04:36.964 --> 00:04:41.643
+Vậy là bạn đã có skill chuyển đổi mọi file như file Word,
+
+00:04:41.883 --> 00:04:46.523
+Excel, PowerPoint, Audio, Image sang dạng Markdown, không bị
+
+00:04:46.524 --> 00:04:51.783
+kẹt với Antigravity nữa, không còn cảnh không mở được file Office và phải chuyển qua chuyển lại.
+
+00:04:53.944 --> 00:04:58.186
+Nếu thích những video về tự động hóa kiểu này, hãy vào kênh PieLikeClaw
+
+00:04:58.187 --> 00:05:01.886
+của mình để xem thêm nha. Hẹn gặp bạn ở những video sau.
+
+00:05:02.126 --> 00:05:02.526
+Thank you.
+
