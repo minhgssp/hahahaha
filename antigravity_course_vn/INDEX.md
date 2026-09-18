@@ -57,6 +57,18 @@ Khóa học được thiết kế theo phương pháp "Cầm tay chỉ việc", 
 
 ---
 
+## 📖 Tài Liệu Đọc Thêm & Video Thực Chiến Chuyên Sâu
+*Dành cho học viên muốn mở rộng góc nhìn và đào sâu kỹ năng thực chiến.*
+
+* 📄 **[Tổng quan Tuyển tập Bài đọc thêm (README.md)](Tai_Lieu_Doc_Them/README.md)**
+* 📑 **[Bài 01: Cách Dùng Antigravity Đúng Cách — Rule, Workflow & Skill](Tai_Lieu_Doc_Them/Bai_Doc_01_Quy_Tac_Dieu_Phoi_Rule_Workflow_Skill.md)**
+* 📑 **[Bài 02: Hướng Dẫn Tạo & Quản Lý Skill AI Từ A-Z](Tai_Lieu_Doc_Them/Bai_Doc_02_Huong_Dan_Tao_Va_Quan_Ly_Skill_Tu_A_Den_Z.md)**
+* 📑 **[Bài 03: Xu Hướng Agent-First & Tác Tử Con Chạy Song Song (Dynamic Sub-Agents)](Tai_Lieu_Doc_Them/Bai_Doc_03_Xu_Huong_Agent_First_Va_Dynamic_SubAgents.md)**
+* 📑 **[Bài 04: Hướng Dẫn Cào Dữ Liệu & Tự Động Hóa Thực Chiến Cùng AI Agent](Tai_Lieu_Doc_Them/Bai_Doc_04_Cao_Du_Lieu_Va_Tu_Dong_Hoa_Thuc_Chien.md)** *(Chia sẻ bởi Hoàng Đức Minh)*
+* 📊 **[Báo cáo Đánh giá Sư phạm Tích hợp Giáo trình](Tai_Lieu_Doc_Them/Danh_Gia_Tich_Hop_Giao_Trinh.md)**
+
+---
+
 > [!TIP]
 > **Mẹo học tập:** Bạn có thể nhấn `Ctrl` + `Click` (hoặc click chuột trực tiếp) vào bất kỳ bài học nào ở trên để mở bài học đó ngay trong Antigravity.  
 > Trong mỗi bài học đều có hướng dẫn lệnh `/start-...` để gọi Trợ giảng AI cùng thực hành!

@@ -1,0 +1,667 @@
+Chào mừng anh em đã đến với video ngày
+hôm nay. Google Anti Gravity từng là một
+ID khá là hot của Google được rất nhiều
+anh em đép tin dùng và sử dụng nhưng mà
+rất nhiều anh em không biết cách chưa sử
+dụng đúng cách và chưa tối ưu hết hiệu
+năng của con AI agent này khiến Output
+chưa được như ý muốn.
+Thì trong video ngày hôm nay em sẽ hướng
+dẫn mọi người cách sử dụng con AI agent
+này kết hợp với RU WF follow và skill để
+tối ưu được
+một kết quả như mong đợi.
+Thì trước hết thì mọi người phải có lên
+web và download con Anti Gravity này về.
+thì mọi người có thể lên web gõ download
+antigravity và truy cập vào trang web
+chính thức của Google như ở trên màn
+hình em đã share đây và bấm vào
+download.
+Ở đây thì sẽ có ba version cho các hệ
+điều hành khác nhau Maos, Windows và
+Linux. Thì hiện tại mình đang dùng B OS
+nên là mình sẽ download for Apple
+Silicon.
+Thì hiện tại ở đây thì em đã có cài đặt
+sẵn về anti Gravity rồi nên là em sẽ mở
+luôn lên để sử dụng và setup cho nó
+nhanh.
+Mọi người chỉ cần thực hiện down về và
+setup cài đặt bình thường để sử dụng
+antigravity nhé.
+Thì sau đấy thì mình sẽ khi mà download
+thành công và tải về thì mình sẽ có một
+giao diện như màn hình này thì giao diện
+của Antigravity này nó sẽ khá giống với
+X VS Code, Visual Studio Code nên là
+mình sẽ làm quen khá là nhanh.
+Trong này thì em đã thực hiện thiết
+các rule skill workfollow rồi. Và các
+thành phần này thì mình sẽ đi qua một
+vòng trước để tìm hiểu về nó và cách
+hoạt động của nó như thế nào.
+Thì hiện tại ở đây thì với ru thì đúng
+theo nghĩa của nó. Ru là gì? Ru chuyện
+khi dịch sang tiếng Anh nó cũng đã là
+luật rồi là thì đúng với nghĩa cái đen
+của nó thì nó là luật là một dàng buộc
+cố định cho con AI agent hoạt động. Khi
+mà mình tạo ra ru ấy thì con AI agent sẽ
+dựa vào cái ru này triển khai các tác
+các công việc mà được mình giao cho dựa
+trên cái xương sống là cái ru này. Thì ở
+đây em đã có viết à ở đây mình đã có
+viết về các một sẵn một ru với
+dep web thì ru này có các
+tính năng sau.
+Mọi người có thể đọc và tham khảo trước
+để hiểu về hơn về RU.
+Thì RU này thì hiểu nôm na với ngoài đời
+như kiểu là luật pháp của mình và ừ hoặc
+là trong công ty thì nó là luật và các ờ
+điều khoản cho công ty. Bắt buộc mình
+phải thực hành theo với mọi công việc.
+Đấy thì ở đây thì với một web design thì
+trong rule này nó đang đưa ra những cái
+quy luật để khi mà AI agent thực hiện
+tác sẽ luôn phải thực hiện theo những
+cái đấy. Thứ nhất là chuyên lý về thiết
+kế này. Hai bô cục này, khoảng cách. Ba
+là kiểu chữ bốn là hệ thống màu sắc. Cái
+thứ năm là hiệu ứng và chiều sâu của UI.
+Thứ sáu là hoạt ảnh và tương tác phi mô.
+Bảy là thiết kế đáp ứng. tám là mẫu
+thành phần giao diện và có các thêm nữa
+hình ảnh đa phương tiện và khả năng truy
+cập và tối ưu công cụ tìm kiếm cấu trúc
+của mã nguồn như nào đây thì đây là cơ
+bản thì là một ru của web design hoặc là
+với các
+app mobile thì mình cũng sẽ có những cái
+cấu trúc như kiểu clean architect mvm
+ờ các cách xử lý life cycle như thế nào.
+Đấy thì đấy là cơ bản là những cái bao
+quát, tổng quát mà gây dựng lên được web
+hoặc là gây dựng lên các app mobile thì
+đấy gọi là RU. Mình sẽ đặt ở trong RU là
+cái xương sống để con AI agent dựa theo
+đấy để phát triển lên được
+công việc của mình các web hoặc là các
+app mobile thì
+tiếp theo là đến Wordfollow. Workfollow
+thì ở đây workfollow là các bước, các
+quy trình mà con Asian AI thực hiện theo
+từng tính năng, từng future.
+Thì ở đây để lấy ví dụ kỹ hơn thì mình
+đã soạn sẵn một cái workflow là plan.
+Nghĩa là cái workflow này sẽ thực hiện
+theo kế hoạch mà theo kế hoạch ý tưởng
+mà bạn đưa ra cho con AI agent. Ví dụ
+mình có một ý tưởng là ờ hãy lên cho tôi
+một ờ landing page đi thì con khi mình
+gọi plan này ra thì nó sẽ thực hiện như
+thế nào? Thì thứ nhất, bước thứ nhất
+workfollow ấy nó sẽ liệt kê ra các bước.
+Thì cái quy trình plan này của mình nó
+có ba bước. Bước thứ nhất là lên
+brainstoring. Bắt buộc bắt buộc con AI
+agent phải thực hiện động não, thực hiện
+nghĩ suy nghĩ thh kinh về cái ý tưởng
+đấy. Làm như nào để đưa ra cho mình
+những cái câu hỏi liệt kê các US cần
+thiết ờ đưa ra ý tưởng cho mình để hoàn
+tiện được cái
+tác mà mình giao cho nó. Đây thì mọi
+người có thể đọc qua đây. Đây là lot
+learning liên quan. Learning phần
+learning này là mình phần mình đã thiết
+kế là khi mà con AI agent thực hiện xong
+tag thì nó sẽ tự nó sẽ thực hiện tóm tắt
+lại cái conversion đấy và thực hiện tóm
+tắt lại cái tag đấy để lưu lại làm một
+file learning.
+Sau đấy nếu mà có những cái tác mà nó
+liên quan tới cái phần learning mà đã
+thực hiện lưu ở định phần trước ấy thì
+nó sẽ gọi cho nó đọc thì nó sẽ hiểu hơn
+được cái context, hiểu hơn được cái code
+và cái report của mình hơn. Nó sẽ thực
+hiện brainstorming thực hiện lên kế
+hoạch ấy. Thì ở đây thì nó sẽ bước thứ
+hai thì nó sẽ gọi brainstoring này,
+skill này ra. Phần skill này thì em sẽ
+giới thiệu sau ở phần một chút nữa. Thì
+sau khi nó tìm hiểu về ý tưởng, thực
+hiện suy nghĩ kinh rồi lên kế hoạch thì
+nó sẽ đưa ra mình cho đưa mình cho mình
+một plan. plan sau khi mà đưa ra plan
+đấy thì nó sẽ
+thực hiện exc cái tag đấy. Sau verify
+sau đấy thì bước cuối cùng thì nó sẽ
+thực hiện lưu lại cái
+mà AI agent đấy đã thực hiện được. với
+cái code của mình và nó sẽ học lại nó sẽ
+tổng hợp lại một file learning để sau
+nếu mình có sử dụng hoặc là làm tới một
+cái chức năng nào đấy liên quan tới cái
+chức năng A B đã thực hiện ở trước thì
+con AI này sẽ tự động đắp vào đấy.
+Đây là plan mọi người có thể lên các
+plan khác như kiểu hỗ trợ ví dụ chuyển
+tội từ code A, ngôn ngữ code A sang code
+B thì bước một cần làm gì, bước hai cần
+làm gì, bước ba cần làm gì. Đấy thì đấy
+là work word work follow mọi người cần
+làm để thực hiện theo để con AI agent nó
+biết và thực hiện theo các bước đấy.
+Rồi thì đấy là cơ bản là về ờ group
+follow là như vậy. Thì bước thứ ba,
+skill. Skill ở đây là gì? Ờ skill ở đây
+là một cái
+năng lực đóng gói chuyên môn của con AI
+agent. Đó ví dụ là con AI này được lạp
+vào 1000 tỷ thứ của của các dòng code
+của các chuyên môn công nghệ thông tin
+nhưng mà khi mà nó sử dụng một tác ấy
+thì nó chỉ cần sử dụng một cái
+ừ kỹ năng cơ bản thôi hoặc ví dụ là nó
+làm web thì lúc đấy nó chỉ cần sử dụng
+cái kỹ năng của nó là web thôi. Nhưng mà
+vì nó đạp được quá nhiều thông tin, nó
+đang bị loãng thông tin nên là nó sẽ
+không sử dụng được đúng cái mà contex
+ngữ cảnh của nó để nó làm được cái ư tác
+mà mình đưa cho. Thế nên là mình sẽ tự
+định hướng cho nó những cái skill. Cái
+skill này là cái nhỏ nhỏ nhất về những
+chuyên môn. Ví dụ web có web design này,
+web code này, web review này, web debug
+này. Đấy thì mình sẽ define ra những cái
+skill đấy để dành cho riêng chuyên môn
+của con AI agent. Khi mình sử dụng mình
+gán vào thì con AI agent này nó sẽ làm
+việc được chuyên nghiệp hơn. Và đây để
+đi vào tìm hiểu sâu hơn nữa thì mình sẽ
+lại cũng đi vào những cái AI cái skill
+em đã chuẩn bị sẵn.
+Thì ở đây mình đang ờ với là một code
+thì mình đang có sự hay sử dụng những
+cái skill này. Và skill này tí mình sẽ
+chia sẻ lại cho mọi người. Skill này thì
+mình đang có sử dụng cái sử dụng mình sử
+dụng nhiều nhất đó chính là
+brainstorming. Thứ hai là code review và
+cái thứ ba là bug. Đấy thì giới thiệu
+qua và đọc qua về xem là cái skill này
+nó đã làm gì để làm gì. Thì skill đây
+thì cái skill này nó là tiếng Anh nhưng
+mà mình sẽ chuyển sang tiếng Việt rồi
+cho mọi người dễ đọc. Skill này có được
+cung cấp ở trên trang GH tí mình sẽ giới
+thiệu thêm. Giờ mình sẽ đi tìm hiểu là
+skill này dùng để làm gì đã. Thì skill
+này brainstoring đây. Descption của nó
+chuyển đổi một ý tưởng mơ hồ thành thiết
+kế đã được xác nhận thông qua lập luận
+có kỷ luật và cộng tác. Thì đấy thì cái
+description của này đã nói lên là để nó
+làm gì rồi là để nó chuyển cái ý tưởng m
+hồ của mình. Ví dụ mình chỉ cần mình có
+một cái ý tưởng là lên landing page đi
+nhưng mà nó sẽ đi chuyên sâu và phân
+tích là landing page này cần những thông
+tin gì, bán về sản phẩm gì, quảng cáo
+cho brand nào các thứ. Đây cái đ cái đấy
+thì đây thì đi vào thì bước đầu tiên là
+nó chuyển đổi ý tưởng thì thiết kế. thì
+đi vào mục đích. Mục đích ở đây là gì?
+Mục đích là chuyển đổi ý tượng thu thành
+thiết kế và đạ đặc tả rõ ràng đã được
+xác nhận
+thông qua chuyển thông qua đối thoại qua
+cấu trúc trước khi bắt đầu bất kỳ triển
+khai nào đấy. Khi mình gọi skill này ra
+thì nó sẽ thực hiện suy nghĩ hết xây
+dựng xây dựng cho mình các a
+lên kế hoạch cho mình chế độ hoạt động
+như nào quy trình. Quy trình ở đây thì
+nó gồm bảy bước thì mọi người có thể đọc
+thêm ở trong này để hiểu được là quy
+trình nó làm từng bước từng bước một để
+là hiểu và lên kế hoạch cho mình
+bảy bước. Đấy, sau khi xong, sau khi
+thiết kế xong các sau khi thực hiện theo
+quy trình trên xong bảy bước thì nó sẽ
+đưa ra cho mình một cái tài liệu
+ban giao. Và khi mà đã hoàn tất đủ các
+bước trên thì nó sẽ đánh giá tiêu chí
+thoát và thoát.
+tiêu chí thoát và đã đưa cho mình một
+plan ấy và để thoát khỏi vòng lạp không
+thình kinh nữa, không suy nghĩ nữa. Đây
+đây nó cũng có luôn là khi nào sử dụng
+đây. Ở đây thì sẽ có hai hướng ờ khi mà
+mình code thì một thứ nhất là mình có
+thể mình không biết gì về cái tác đấy
+thì mình có thể dùng mình cái tác đấy
+mình rất mơ hồ rất ít thông tin thì mình
+có thể sử dụng brainstoring nó sẽ vạch
+cho mình kế hoạch từ A đến Z. Cái quan
+trọng nhất là bạn phải trị ra được là
+mình cần làm gì, output của mình là gì
+thì đấy thì nó sẽ vạch một đường đi từ A
+đến B cho mình sau qua các dễ nhánh nó
+sẽ đi được đến B.
+Đấy thì là mình sẽ dùng skin này. Còn
+nếu mà mình ờ có ý tưởng, có lập luận
+logic rồi thì mình nên sẽ chia theo kiểu
+là ờ ừ mình hỏi nó để nó trả lời, để nó
+phân tích về các skill à về để nó phân
+tích về các tác, các ý tưởng đấy cho
+mình xem có chuẩn không, xem có clear
+không, xem có bị hỏng ở chỗ nào, thiếu
+cây ở chỗ nào không. Đấy, đây là các
+skill. Còn chức năng skill code review
+này thì nó cũng tương tự thôi. Nó chỉ là
+một d chức năng duy nhất là code review
+à nó review lại code của mình.
+Đây mọi người có thể lên đây đọc thử. Và
+những cái skill này không phải là do em
+tự à không phải do mình tự viết mà là do
+mình em lấy ở trên
+antiravity.
+Đây thì
+ừ mô hình skill này mình sẽ gửi lại tất
+cả mọi mọi người ở dưới video. Thì
+GitHub này repo này được 35.000 sao khá
+nhiều người tin tưởng và sử dụng và nó
+cung cấp tới 1435
+agent skill cho tất cả các anh em agent
+hoặc là ờ anh em làm văn phòng nhẹ nhàng
+thôi cũng có. Tất cả mọi skill đều có đủ
+hết ở trong này. Thì để clon được cái
+repo này về để sử dụng và add vào trong
+antiravity thì đây có tất cả clot code
+gemini
+code x antigravity thì đây mình đọc
+antigravity rồi thì mình có lấy cái dòng
+lệnh này
+mình vứt vào install
+và đợi nó chạy
+Đấy. Đây sau khi mà đã tải thành công
+thì sẽ thông có một thông báo là in
+installer to thư mục của mình thì mình
+sẽ giữ mình sẽ để phần này nhá. Đừng
+đừng đóng vội để tí mình sẽ có việc cần
+dùng đến th part này. Đây mình copy copy
+Ctrl C vào copy.
+Sau khi copy xong rồi thì mình đóng cũng
+được. Sau đó mình sẽ vào anti Gravity
+mình mở anti lên. Có một cái phần custom
+open antiravity user setting đây. Sau đó
+mình sẽ vào phần customization.
+Và đây mình sẽ thêm bấm nút S. Mình thêm
+cái part vừa được
+tải về được tải hết tất cả các skill về
+mình sử dụng. Mình bấm vào đây enter thì
+nó sẽ thêm tất cả các skill có trong cái
+mục chứa lại cho mình. Nghĩa là vừa mình
+xem trên repo là có 1400
+skill agent. Thì hiện tại là trong
+antigravity này của mình đã chứa được
+1400 skill rồi. Sau đó mình mình mới
+thực hiện reload lại. Lúc này là
+antiravity đã nhận rồi. Mình có thể ra
+ngoài này kiểm tra bật agent lên gõ thử
+xộc.
+Đây mình đã nhận được tất cả các skill ở
+trên repo rồi.
+Trong đấy cũng có skill brainstoring
+luôn. Brain Storing
+Brain
+đấy. Thì dựa vào các skill và các ru các
+workfollow đã thiết lập này thì mình đi
+luôn vào thực hiện demo một
+web landing page đi thực hiện luôn web
+cho nó nhanh. Thì mình thực hiện bước
+đầu tiên mình sẽ thường ấy là nếu mà ai
+hay sử dụng skill quen không sử dụng
+workfollow ấ thì mọi người cũng có thể
+sử dụng được. Mọi người có thể gọi luôn
+brainstoring. Brainstoring ra để sử dụng
+thực hiện lên kế hoạch. Thực hiện lên kế
+hoạch tặng
+cho tôi một landing page. Landing
+page để quảng bá sản phẩm.
+Đây mọi người có thể dùng skill này hoặc
+mọi người có thể dùng plan. Nếu mà mọi
+người đã viết plan chuẩn thì đây mình
+sục xộc xong rồi mình ghi plan ra. Thì
+plan ở đây trước mình đã viết cái gì?
+Vừa mình có giới cũng có giới thiệu qua
+với mọi người rồi. Ở đây là mình đã thêm
+một bước nữa trước khi mà lên
+brainstoring để hiểu kỹ hơn về context
+rồi kỹ hơn về repo mà hiện tại mình đang
+có thì nó thực hiện sẽ đọc lại cái các
+learning trước nó đã được học nếu mà
+repo mọi người đã có. Và bước thứ hai
+thì cũng nó sẽ gọi đến brainstoring
+thôi. Nó sẽ gọi đến cái skill này để
+thực hiện lên kế hoạch cho mình. Đây thì
+thì mình sẽ thử xem là khi áp dụng
+brinstoring thì nó sẽ đưa cho mình kết
+quả gì nhá.
+Đấy king face 1 brainstorming. Đấy nó
+cũng giải thích là landing page khoảng
+ba sản phẩm. Bước một sẽ load learning.
+Đấy đúng đúng theo workfollow luôn.
+Load learning liên quan xem là có
+learning nào có thể học được không.
+Khi đấy thì nó sẽ ờ không không học được
+tại vì cái project này trống mà mình
+chưa có thêm một file learning nào hết.
+Cũng chưa làm gì với project này cả. Thì
+đây thì sau khi nó thực hiện
+brainstoring xong thì nó sẽ báo trước
+khi bắt tay vào thiết kế. Đây mình có
+thể đọc nó sẽ đưa ra cho mình những cái
+câu hỏi
+nó đưa cho mình những cái câu hỏi để
+clear nhất được cái ý tưởng lên page của
+mình là page gì các thứ. Đấy thì nó hỏi
+mình bạn muốn có ba sản phẩm nào? Chọn
+một hoặc chi tiết mô tả. Đây mình thử
+đây mình chọn luôn. A tôi muốn khoảng ba
+ứng dụng nếu mà mình muốn thêm vào nhá
+mình đã chọn A rồi mình muốn thêm vào
+khoảng ba ứng dụng gì kỹ càng đi. Tôi c
+bảo tôi viết a vào xong viết tôi muốn ờ
+quảng
+bá ứng dụng
+mobile
+về dòng ờ
+ừ
+về dòng cleaner
+rồi
+Đây lúc này ví dụ lúc mình lên bừa
+Google mình lấy một ý tượng đi để cho
+web landing page nó đây Google Play
+Cleaner
+Đây mình có thể bảo lo thông tin 2A ghi
+ra câu hỏi 2A
+của tôi
+ở trên này
+vớt link vào đấy.
+Đấy.
+Cái 2 2. B 2B 2B.
+Tính năng chính của app là gì? Dọn giác
+tăng tốc loan. Đây 2B thì mình có thể
+chọn 1 2 3 4 1 2 3 4 5
+chọn hết
+2B chọn cả hạn
+C tại C
+phong cách thiết kế mong muốn
+neon
+sáng tối chuyên nghiệp stake hiệu ứng
+tôi sẽ chọn style phù hợp nhất
+Ok.
+Đấy, đã lấy được thông [âm nhạc] tin rồi
+theo cái link mà tôi mô tả. Đây những
+tổng hợp mọi người đọc kỹ những cái này
+để
+kết hợp được
+nút landing page chỉ cần một trang duy
+nhất download Google Play. Đấy thì ở đây
+mình sẽ nhận đúng. Ok trên đã đúng đúng
+mình ghi thế thôi.
+Vì mình không muốn thêm bớ session nào
+mà đây là kết quả mình đã ưng ý rồi thì
+mình bảo đúng. Còn nếu mà bạn muốn thêm
+bớt hoặc là muốn sửa gì thì mình có thể
+sửa luôn. Ở đây mình báo nó là chẳng hạn
+style mình không ưng là dark mode chẳng
+hạn không thích neon thì mình sẽ báo là
+chuyển cho tôi style khác hay gợi ý cho
+tôi 10 style. Đấy các text text text thì
+mình muốn chuyển đổi sang kiểu gì thì
+mình có thể bảo lo chuyển sang hoặc gợi
+ý cho tôi
+gợi ý cho tôi text ổn định nhất
+tối ưu nhất cho
+tag này.
+Đấy hiện tại giờ nó sẽ đang thình kinh.
+&gt;&gt; [âm nhạc]
+&gt;&gt; Đây thì sau khi thực hiện xong cái các
+bước trên thì nó sẽ tạo được một plan
+cho mình như thế này. Mình sẽ thực hiện
+review qua. Nếu mà ổn thì mình sẽ
+process tiếp cho AI agent thực hiện
+tiếp.
+Nếu mà không bạn thấy chưa ổn nhá thì
+mình sẽ t luôn vào đây. Comment in mình
+comment luôn vào đây để ai nó thực hiện
+sửa lại plan này cho mình. Đấy mình đọc
+mình đọc qua mình thấy ổn rồi. Process
+tiếp để AI dực hiện tiếp.
+&gt;&gt; Rồi sau khi thực hiện xong plan chain
+thì của AI agent đã đưa ra được kết quả
+hoàn thành landing landing page phone
+clean.
+Đây mình truy cập vào xem kết quả ra sao
+nhá.
+Đây đã thực hiện review trước rồi.
+Đây hiện tại đang có một lỗi ở đây.
+Download này
+sau đấy
+cũng khá là đẹp rồi chứ.
+Major
+download free à
+mình xem có được kết nối link này
+tổng thể về team app
+tex typography
+rất là ổn
+how it work
+download install
+tổng hợp các thông tin ở trên a Google
+Play xuống đây. What you say? Đây là các
+đánh giá của app.
+Web này mình thấy khá là ổn rồi. Thì còn
+một chút bấc nữa ở đây nữa thôi. Thì
+tiện đây thì nếu có bấc ở đây thì mình
+sẽ sử dụng luôn skill mà đã được vẽ và
+thực hiện vẽ lại ảnh này với PNG thôi.
+Không để ảnh
+có
+background như này được.
+Để mình bảo nó bảo AI agent.
+Đây mình sẽ accept lại cái đoạn code này
+và thực hiện bảo sẽ feedback team bug
+bấc cho tôi
+đây. Mọi người có thể gõ chữ bớ nhá để
+ra được rất nhiều các skill agent mình
+có thể thực hiện chứ không bắt buộc là
+sử dụng mỗi cái phbox và lật lệnh
+mình ở đây có thể iOS debug agent này
+hoặc là debuging state
+strategy này b hunter này
+đây nếu mọi người có làm web API thì có
+thể sử dụng được cái API Fing B này
+party này. Bry này. Đ đây mình sẽ sử
+dụng tạo bug
+để thực hiện team bug. Mình xin miêu tả
+cái bấc đấy. Chụp ảnh và miêu tả.
+Chụ ảnh lại
+bỏ lô
+hiện tại
+page trên
+page của tôi có
+một dòng text kèm với button download
+của một dòng text
+cam
+button download
+bị
+logo
+của page đè lên thực hiện
+tìm bớ
+và sửa giúp tôi
+đây để xem nó có sửa được không nhá
+Mình đã cung cấp bấc khá chi tiết rồi.
+Rồi đó là ba bước đã được fix đây. Giờ
+mình sẽ kiểm tra lại nhá. Xem bước đ fix
+th chưa.
+Lên tạ đi. Rồi ok thực hiện reload lại.
+Ok đã hết bớc.
+mượt như s
+rồi rất đẹp
+đấy. Mình vào là mình cũng muốn tải luôn
+ấy. Đây chỉ còn một lỗi nữa về ảnh thôi.
+Thì cái ảnh này thì AI nó đang tự diệt
+thì mình cũng có thể sửa được luôn nhá.
+Để mình thử bảo sửa thử bảo ai nó sửa
+xem có được không. Nếu mà không được thì
+các bạn chịu khó sang bên
+có thể là sang bên chat GVT hoặc là bên
+nào nó chuyên về hình ảnh hơn để mình
+gen hình ảnh này nhá. Xong rồi mình đưa
+cái hình ảnh này vào lại project để cho
+Aion nó xử lý thay cho luôn cho mình để
+mình không phải thay. Đây còn đâu là bây
+giờ mình sẽ thực hiện là bảo thằng này
+nó vẽ lại cái ảnh này xem nó có ổn
+không.
+Đây mình bật lên ảnh này mình kéo lại
+kéo đây cho nó và nó thực hiện xóa lên.
+thực hiện.
+Tôi sẽ thi kiểm tra xem nó có skill nào
+về cái remove background không.
+Remove background chẳng hạn. Background
+đây không có chỉ có back end thôi.
+No back end feedback không có. Vậy thì
+mình cứ bảo bỏ thôi nhá. thực hiện xóa
+nền đ nhẹ cho tôi
+rất là đẹp
+rồi. Ok mình Ctrl S lại nhá. Ctrl S lại
+xong rồi quay lại page này.
+Page đâu?
+Đây reload lại xem. Rồi bây giờ ảnh đã
+khá là đẹp rồi. Hài hóa với page mọi
+người có thể căn chỉnh thêm cho nó to
+thêm nào cho nó vừa ý hoặc xoay trái
+xoay phải. Đấy thì sau khi sử dụng xong
+AI để tạo landing page rồi thì mình sẽ
+lên plan các thứ để tạo được một cái ban
+landing page hoàn chỉnh. Rồi thì mình sẽ
+phải đảm bảo nó sẽ không có bấc đúng
+không? Thì mình sẽ thực hiện AI review
+lại. Mình sẽ gõ code review ở đây. Code
+review
+mình sẽ bảo là thực hiện
+review lại.
+review lại xem code đã tối ư chưa giúp
+tôi
+accept thay đổi trên đi
+để xem cái con AI agent này nó sẽ thực
+hiện như nào nhá.
+Đây tôi sẽ thực hiện review lại toàn bộ
+code base. Đọc lại các file trước
+rồi thực hiện review ra toàn bộ code
+base. Tạo báo cáo.
+Đây ở đây thì có những tím vẽ chín ISU
+nhưng mà không có cái ISU nào nặng cao
+cả. Đấy, ở đây thì sẽ có các si tầm
+trùng mình có thể sửa hoặc là nếu mà
+chưa gấp thì chưa cần sửa chỗ này. Đấy,
+nó cũng lên cho mình một code review
+mình có thể xem kỹ hơn ở trong này nữa.
+Code đang báo bị làm sao đây. Summary sẽ
+không có cái lỗi nào quá nguy hiểm cả.
+Chỉ chỉ có ba lỗi tầm trung thôi.
+Đọc kỹ hơn đ pha cod được index ra html
+82. Đây đang f
+priority.
+Đây mọi người có thể review lại cái dòng
+code à cái file này xong rồi bắt nó sửa
+những cái lỗi nào mà nó cao quá nó bị
+nghiêm trọng quá. Nếu mà chưa cần thiết
+cảm thấy như thế là ổn rồi, như thế là
+đủ dùng rồi thì thôi không cần đâu. Đấy
+có thể ok hoàn thành. Sau khi hoàn thành
+ở đây thì thường thì tôi sẽ sử dụng thêm
+một bước nữa là
+sử dụng thêm cái Asian AI learning này.
+Thì ở bước vừa rồi mình tạo plan ấy. Thì
+sau khi tạo xong plan thực XQ xong AI
+agent nó có thì AI nó có hỏi luôn cái
+bước đấy là bạn có thực muốn review
+không? À bạn có muốn lưu lại AI Learning
+không?
+Đây
+summary summary
+xác nhận đúng chưa?
+Tiện ứng dụng
+thực hiện face 2
+đây. Nếu mà nó quên nó không hỏi mình
+ấy.
+Đây là word follow rồi mà. Wordfollow
+mình thực hiện đên một t rồi mà. Thế có
+khi ai nó cũng bị mid là chuyện bình
+thường. Thì đây mình đã tạo một cái
+skill ở đây đó là cái à cái workfow AI
+learning.
+Thì trong này sẽ bắt con AI nó bent nó
+sẽ tóm tắt lại cái conversion conversion
+này của mình và sẽ thực hiện học lại
+viết lại một file MD để sau đấy nếu mà
+có những cái thay đổi cho con cho
+phần page landing page này thì con agent
+sẽ đọc vào đây trước để nó thực thi nó
+hiểu được context ngữ cảnh hơn. Đây mình
+sẽ tạo AI learning đây. Mình sẽ gọi
+thằng này ra AI Learning. Đấy mình sẽ có
+thể chỉ cần gọi như này thôi. Xong mình
+enter để cho nó học để xem sau đấy nó
+học xong thì nó sẽ như thế nào.
+Đấy nó học được nó sẽ tạo file learning
+mới này. Learning page
+kiểm tra xem vẫn chưa tạo xong.
+&gt;&gt; Rồi đã tạo xong đã thực hiện học xong
+cái
+conversion trên
+xem nào.
+Đây AI agent nó thực hiện chắc là mình
+tạo được dẫn nhầm đọc lại xem nào. A
+tìm chỗ P.
+Đây bây gi mình đang viết nhầm là lưu
+vào agent thì nó đang lưu và tạo ra một
+cái agent s đuôi sở cuối. Sau đấy mình
+sẽ chỉnh lại value thì nó sẽ tạo lên đây
+cho mình. Đấy
+xõ cái này đi thì lúc này đọc lại xem
+xem cáiing page này nó học được những
+cái gì.
+Architecture
+Dark neon planning page design system
+đấy. Ngày bao nhiêu chi tiết CS tổ chức
+thứ tự
+single page
+đấy bug và solution
+đấy nó lưu luôn lại cả bug mà b cách
+giải quyết này. CS CSS này. Vâng và cách
+đây là cách làm như nào? How to
+tạo landing page D neon cho app mobile
+xóa nền bằng ảnh Python ok nó có lưu lại
+luôn cái này này
+và đây
+đây nó lưu th lại hết thông tin cho mình
+để sau nếu mà mình có gặp lỗi hoặc này
+hoặc là cần sửa những cái gì lúc đấy nó
+chỉ cần đọc và landing page thôi là nó
+biết là mình sẽ đã thực hiện như thế nào
+để mà AI nó sẽ tối ưu hơn.
+Đấy thì bên trên bên trên là toàn bộ
+hướng dẫn của mình về cách sử dụng con
+AI agent của bên Google Anti Gravity.
+Nếu mọi người thấy hay thì cho mình một
+like nhé.

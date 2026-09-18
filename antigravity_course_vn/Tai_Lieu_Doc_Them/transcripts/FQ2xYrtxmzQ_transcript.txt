@@ -1,0 +1,1363 @@
+Thì cái chủ đề hôm nay á là mình sẽ trao
+đổi với nhau về Google Anti Gravity.
+Mình sẽ dùng cái công cụ Anti Gravity
+này để đi cào dữ liệu, đi craw dữ liệu
+trên các nền tảng website cũng như trên
+các nền tảng Facebook, YouTube, TikTok,
+Reddit. Không cần mình phải đăng nhập
+tài khoản luôn cả nhà thì mình vẫn có
+thể được cái data ở trên đó và kể cả cái
+phần comment ở phía dưới ha. Ok. Thì cái
+này là cái bước giới thiệu ban đầu để
+mọi người thấy là cái công cụ này nó
+ngoài chức năng vi coding á thì nó có
+thể làm được những cái chức năng khác để
+mọi người có thể hình dung. thì Minh sẽ
+mở lên cái công cụ này trước tiên là mở
+cho mọi người có cái tài liệu để mọi
+người thấy. Vì ở đây cũng chắc chắn có
+một số anh chị em chưa hình dung được
+cái công cụ này nó làm cái gì thì mình
+sẽ gửi luôn cho mọi người cái cái đường
+link này. Xong rồi mọi người nếu tiện
+thì mọi người cùng mở với Minh để mọi
+người nếu ai kịp thì mọi người cùng cùng
+chiất vào cái đường link để tải về thì
+Minh nói nó sẽ nhanh hơn.
+Đây là một cái công cụ hiểu cơ bản là
+khi nó ra mắt á thì mục đích đầu tiên là
+phục vụ cho cái việc pha coding à chủ
+yếu là vi code thôi ha. Đó là để nhắc
+nhở chính á. Nhưng mà sau đó thì trong
+cái quá trình mà mình sử dụng cũng như
+là số anh chị em mà mình tham khảo ở
+trên cộng đồng mạng á mình học hỏi được
+từ các anh chị trên cộng đồng nữa chứ
+không phải là mình tự khám phá. Và cũng
+nói chia sẻ thêm với cả nhà là mình hiện
+tại chưa có được một cái app nào từ cái
+ứng dụng antiravity này nha cả nhà. Mình
+không hề và cũng chưa hề viết được cái
+app nào trên này hết. Mình chỉ dùng cái
+Google A Studio để viết app thôi. Mình
+cũng có chia sẻ trên số cộng đồng nếu
+anh chị em biết. Đó cũng nói chia sẻ
+thật như vậy. Tuy nhiên á với cái ứng
+dụng à này thì mọi người thấy à mình đã
+chia sẻ ra có thể đi cào dữ liệu và làm
+được cái những cái việc nó cao cấp.
+Đây
+thì để mọi người tìm hiểu sâu hơn mọi
+người có thể đi vào cái đường link này.
+Trong này nó sẽ có một cái documentation
+này để tham khảo sâu hơn nếu anh chị có
+thời gian. Thì hôm nay Minh sẽ chỉ nói
+đôi nét về nó thôi. Thì để mọi người nắm
+ở trong cái công cụ này nó sẽ có những
+cái chức năng gì. À đó là cái model
+model AI gì vân vân ha. Thì mình ở đây
+mở tài liệu thôi, còn mình sẽ mở lu trực
+tiếp ở đây. Thì như ở đây á, ở trong này
+ha, mình mở lên đầu tiên cái giao diện
+này, mọi người click vào á, nếu chưa có
+cái app này, chưa có cái tool này mọi
+người vào trong cái mục là download được
+không ạ? Mọi người tải về nó như một cái
+ứng dụng, một cái software bình thường
+và có thể ứng dụng là cài được trên Mac
+OSOS, Windows và cả Linux.
+Tới đ bước này có có anh chị nào không
+kịp thì mình có thể đi ở trong cái phần
+tài liệu và sẽ có thấy ha. Thì click vào
+cái đường link này thì mọi người sẽ
+download về. Nó cũng khá là đơn giản
+trong cái việc cài đặt. Sau khi cài đặt
+xong á thì nó sẽ ra giao diện như thế
+này đó. Và nếu như mình sử dụng cái tài
+khoản, cái này là của Google nha cả nhà.
+Và nó sẽ sử dụng cái tài khoản của
+Gmail. Nếu như cả nhà mà sử dụng mail mà
+miễn phí á à thì cũng nhắc nhở nếu như
+mà mail miễn phí thì vẫn sử dụng được.
+Tuy nhiên tuy nhiên thì mọi người sẽ lưu
+ý ha ở chỗ này nó sẽ có cái phần là giới
+hạn. Cái số mà mình hiểu cơ bản nó giống
+như là cái cota mà nó cấp theo tuần theo
+ngày à mình hiểu nó giống như như cơ bản
+như vậy đi để mình hình dung là phiên
+bản miễn phí thì bị giới hạn và phiên
+bản trả phí là bản pro á. Nếu mà Gmail
+bản pro mình lock bằng cái Gmail mà Pro
+hoặc là Ultra thì cái số lượng radit
+này, cái số lượng cota này à nó sẽ cứ là
+sau mỗi 5 tiếng, sau mỗi 5 tiếng nó sẽ
+hồi lại một lần, phục hồi lại sau khi
+hết cái lượng Redit này mình làm việc á
+hết cái lượng toen ha cái cota này cứ
+sau mỗi 5 tiếng thì tất cả những cái tài
+liệu này đã được
+được Google họ họ để ở trên này rồi. Mọi
+người có thể tham khảo thêm. Ở đây nó để
+rất là rõ ha. được refresh every 5 giờ
+sau 5 tiếng là sẽ refresh lại một lần.
+Đó, đây là cái bản Google One có nghĩa
+là tương ứng với cái việc là Google mà
+mọi người đang dùng nếu mà phiên bản gọi
+là trả phí và bản pro hoặc là Ultra đó.
+Còn nếu mà phiên bản mà cá nhân ở đây là
+không có nói là ấy là miễn phí thì sẽ bị
+giới hạn. Có nghĩa là trung bình nó sẽ
+là
+đây nè. Quickly mọi người thấy không? Nó
+sẽ là quickly. hàng tuần nó bắt đầu nó
+mới gia hạn lại sau khi mà hết cái số
+lượng này. Vậy nên á thì nếu như anh chị
+em nào mà sử dụng mail miễn phí á thì
+mình sẽ bằng cách có thể là mình tren
+cái tài khoản sang một cái tài khoản
+Gmail khác nếu mà Gmail miễn phí được
+không cả nhà? Thì ở đây là Minh chia sẻ
+thêm với cả nhà về cái công cụ Antiv
+Gravity để hình dung ra thêm nó sử dụng
+tài khoản gì. Rồi vậy thì ở trong này nó
+có cái chia làm ba khung màn hình mà
+mình hôm qua mình có chia sẻ với mọi
+người á thì nếu như mà lần đầu tiên giao
+tiếp thì cũng giống như Minh cũng như
+ngày hôm qua ngày hôm kia đó Minh rất là
+bở ngỡ với cái giao diện này nhưng mà
+mình đã dành khá nhiều lần ngồi khá lâu
+với nó để tương tác và sau đó làm việc.
+Thì mọi người hình dung ha là bên này nó
+như một cái cửa sổ. Bình thường nếu mà
+mọi người làm việc giống như filew Excel
+gì đó mọi người có th một cái thư mục
+thì tốt nhất mọi người cứ hình dung nó
+giống như một cái filew đầu tiên cái đã.
+Mọi người tạo một cái thư mục có thể là
+thư mục làm việc là phòng bank là
+marketing. Tại vì lát nữa mình sẽ đề cập
+thêm ở trong cái thư mục ổ D mọi người
+để luôn là anti Gravity hoặc là thư mục
+gì đó mà nó dính chỉ tập trung cho những
+cái dữ liệu mà của antiravity. Mọi người
+hình dung trước cái đã. Còn sau này nếu
+mọi người đi chuyên sâu mọi người có thể
+tìm hiểu thêm trên các kênh YouTube hoặc
+là các kênh cộng đồng của group Facebook
+vân vân mọi người tìm hiểu sâu hơn. Đó
+thì ở đây là Minh đang mở ra một cái thư
+mục có nghĩa là Zoom tối thứ ba là Minh
+chưa động chạm vào và trong đó là Minh
+đã có làm thêm hai đến ba cái thư mục
+khác là Minh Tết trong đó là marketing.
+Ví dụ à Minh mở một cái thư mục
+marketing thì mọi người sẽ thấy nó là
+cái những cái dữ liệu mà Minh đã làm là
+để cả nhà cùng cùng xem qua
+ở trong đây nó sẽ có cái gì. Trong cái
+lúc mà mình mở cái thư mục marketing á
+là cái mà ngày hôm qua bắt đầu mình test
+á thì mọi người đợi ha. Trong đây nó sẽ
+có lượng dữ liệu gì thì bắt đầu nó lần
+phải có thời gian tải cho nên nó sẽ mất
+một chút thời gian mọi người thấy ha.
+One moment mình. Ok. Thì cái này mọi
+người bấm vào trong này nó sẽ bắt đầu mở
+ra chỗ này nè. Đây mọi người thấy ha.
+Đây là những cái file mà Minh đã tương
+tác với lại cái agent bên này để cho ra
+được cái dữ liệu bên này được không cả
+nhà? Và và đây là cái khung mà giao diện
+mà cửa sổ chính mà màn hình hiển thị. Ví
+dụ như bên này là cửa sổ giống Explorer
+là giống như cái cây mà Window Explorer
+giống như trên quản lý máy tính vậy
+thôi. Mọi người hình dung chưa ạ? Còn
+cái bên khung mà bên giữa là cái khung
+hiển thị. Đấy. Và cái khung bên tay phải
+á mình hiểu cơ bản đây chính là cái
+khung mà mình sẽ làm việc mà mình sẽ
+tương tác mình chat với lại cái AI. Tuy
+nhiên mọi người phải hình dung thêm cho
+mình trong cái tài liệu mình có để luôn.
+AI ở đây chính là AI Asian chứ nó không
+còn là AI đơn thuần như kiểu là một cái
+con AI mà chat GBT hay là AI Gerin. Nếu
+như cả nhà đã từng sử dụng cái con Z
+GenB ở đây không biết là có anh chị đã
+từng sử dụng hay chưa. Trước đây trong
+có một số buổi à Minh ở một cái buổi
+khác ở trong những cái buổi workshop
+cũng có Minh Từng chia sẻ về SB hay là
+Manus hoặc là con Flox thì đó là những
+cái con AI nó đã được tích hợp theo
+chuyển đổi là cái dạng lên Asian và nó
+khác nhau với cái AI cái kiểu mà gọi là
+truyền thống của mình á là chatbot là
+chat GPT đó gọi là chatbot nó chỉ là
+giống như tương tác hỏi và trả lời. Còn
+mọi người hỏi thì cứ tiếp tục trả lời.
+Còn với cái A chỉ với một câu firm mọi
+người ra lệnh thực thi thì nó sẽ thực
+thi đến cái đến ra kết quả thì thôi. Cái
+kiểu kiểu như vậy và nó điao nhiệm vụ
+giống như đây là một cái cái nhiệm vụ
+đây.
+Một cái nhiệm vụ thì mình đi sơ lược
+trước. Ví dụ như trong trường hợp này ờ
+đây để mọi người hình dung
+khi mình gõ một cái câu tr mình chỉ yêu
+cầu nó mình chỉ yêu cầu là đây đây nè là
+tìm kiếm 10 cái bài đăng mới nhất mình
+có để câu ở trong tài liệu không mọi
+người bắt đầu có thể cài cái này xong là
+mọi người log vào thử rồi mình sẽ đi
+từng bước với cả nhà thì ở đây mọi người
+thấy nè mình chỉ để cái câu này ban đầu
+mình không nói rõ là antiravity của cái
+nào thì lúc này nó hiểu đây là
+antiravity của một cái ứng dụng tên khác
+nó bị cùng tên sau đó mình yêu cầu lại
+và mình nói rõ hơn là cái này là
+antiravity của germin thì nó đã truy
+xuất và nó đưa cái dữ liệu về đúng cái
+trọng tâm ở bên này đây mọi người sẽ
+hình dung ra cái bài đăng thì nó nằm ở
+đây
+antiravity
+Facebook thì
+một câu lệnh thôi nhưng mà nếu với chat
+GBT hay là con Rock AI gerin nó không
+thể nào mà đi ừ gọi là cào dữ liệu và
+cũng như là tương tác để lấy hết sau đó
+báo cáo cho mọi người và thống kê ừ đồng
+thời cũng như là vẽ một cái hình luôn ừ
+tương tác à ra như một cái infographic
+bên trong cái documentation của Google
+đó mọi người mà mình có nhắc đến cái
+trong tài liệu họ có nói rất là rõ ha là
+bên trong cái nền tảng này được tích hợp
+luôn Nano Banana Pro. Được tích hợp luôn
+nano banana Pro. Cho nên khi mình yêu
+cầu nó tạo hình ảnh tạo infographic sau
+khi đã có này mình nói rất là rõ hãy tạo
+infographic nội dung bài viết này và
+chèn dưới báo cáo thì mọi người thấy sau
+khi đã có cái báo cáo rồi mình yêu cầu
+thì lúc này nó sẽ đưa cho mình luôn cái
+tổng hợp lại thành một infog chèn dưới
+này được không cả nhà? Vậy thì
+mình hình dung á với cái antiravity này
+á mọi người à anh chị em mà viết code
+như thế nào mình chưa rằng mình chưa làm
+chưa đụng tới. Tuy nhiên nếu như mọi
+người dùng cho cái mục đích là công việc
+ví dụ như nghiên cứu chuyên sâu hoặc là
+thiết lập những cái ứng dụng mà hồi nãy
+Minh có để ở trong cái tài liệu và cũng
+như cái bài đăng mà để mà mà trên cái
+Facebook mà sáng nay đó thì mọi người
+thấy cái tính năng nó hoàn toàn khác. Và
+mọi người cũng lưu ý thêm,
+mọi người lưu ý thêm trong cái quá trình
+mà tương tác, ví dụ như bây giờ Minh sẽ
+làm, Minh mở lại một cái thư mục mới và
+Minh cùng đi với mọi người để mọi người
+thấy cái khả năng mà automation mà tương
+tác của nó như thế nào.
+Đây. Ok, Minh mở lại cái thư mục mà Zoom
+tối thứ ba và Minh sẽ copy đúng với
+những gì mà mọi người hình dung nhé.
+để cho cả nhà cùng cùng à tương tác.
+Cũng có một cái điểm lưu ý nha cả nhà. À
+thì lúc này á ví dụ như Minh mở một cái
+YouTube và tìm các khóa học về Notion,
+mọi người có thể làm một cái thông tin
+bất kỳ. Đây đây thì đây là một cái câu
+lệnh mọi người thấy nó rất là đơn giản
+đúng không ạ? Trong cái quá trình mà
+nhập câu lệnh này vô nó tự động nó sẽ đi
+mở cái này n mọi người nó trong đây nó
+có một cái trình duyệt. Cái trình duyệt
+này gọi là của Google nó đã đính kèn vào
+ở trên này. Đây mở cho mọi người thấy
+nè. Mình mọi người bấm vào bắt đầu nó mở
+lên nè. Trình duyệt này không phải là
+của bên ngoài mình muốn mở cái trình
+duyệt gì thì mình mở mà nó sẽ tự động
+trong cái quá trình mà lúc mình yêu cầu
+cái này nó sẽ tự động mở cái trình duyệt
+local host của của antiravity lên và nó
+sẽ yêu cầu mình gì mọi người yêu cầu
+mình cài thêm một cái gọi là cái
+extension của antiity browser thì lúc
+này nó mới đi điều khiển gọi là tự động
+được để nó làm cái chức năng gọi là đi
+lấy dữ liệu hay là đi đọc thông tin được
+không cả nhà? Ok mọi người để ý nhé.
+Minh thử nè. Nó tự động nó sẽ mở cái này
+ra. Và một cái lưu ý nữa trong cái model
+này á ở đây Minh giới thiệu thêm trong
+cái model của
+của của của cái ô chat cái luồng chat
+này mọi người thấy nó sẽ có là Germini 3
+Pro high 2 high rồi low rồi flash
+cloudet hay là cloudet thinking
+thinking. Ở đây mình recommend với mọi
+người luôn recommend nhé. Mọi người lưu
+ý nè. Nếu như nếu như mọi người mà chỉ
+sử dụng hỏi những câu bình thường á thì
+mình cứ sử dụng mà germin flash đi cho
+nó nhanh. Còn nếu mà yêu cầu cái ứng
+dụng mà nó họ đòi hỏi phải cao cấp hơn á
+có nghĩa là nó có đi lấy cái thông tin
+đọc dữ liệu mà để viết giống như viết
+code hay là làm cái gì mà chuyên sâu quá
+thì mọi người đẩy lên luôn là 3 Pro 2.
+Tuy nhiên á ở trong cái các model này
+thì cái model mà cao nhất hiện nay là
+Cloud Opus 4.5. thinking thì
+ở trong cái quá trình mình chia sẻ mà
+nếu mình nói có cái gì điểm nào chưa
+đúng mà anh chị em mà đã sử dụng những
+anh chị mà đã sử dụng rồi mà thấy nó
+không đúng là mọi người cứ góp ý để mình
+biết á là Minh cũng muốn được cập nhật
+thêm về những cái thông tin này. Tuy
+nhiên với bản thân Minh á
+&gt;&gt; thì trong cái quá trình mình sử dụng á
+thì cái OB 4.5 là cái mà mình ra được
+cái kết quả mà mình ưng ý nhất sau khi
+mình thử nghiệm với hai ba cái model này
+được không cả nhà? Rồi thì ở đây mình sẽ
+lấy một cái flash để cho nó nhanh nha
+mọi người. Nhìn
+thì bắt đầu nó sẽ mở lên cái ô cái cái
+tự động nó sẽ open cái YouTube trong cái
+trình duyệt của cái cái cái này. Và bắt
+đầu đây là cái thao tác gọi là đúng
+nghĩa là nó sẽ tự động nó đi thực thi.
+Mọi người nhìn ha. Bên này nó vẫn đang
+là working và bên này bắt đầu nó sẽ tự
+động nó mở một cái ô lên.
+À trong cái quá trình mình trao đổi thì
+mọi người cứ để cho mình trình bày sau
+đó là sau khoảng 8 đến 8:30 sau cái lúc
+mình trình bày xong là Minh sẽ ngưng lại
+tít xíu để cho cả nhà mình cùng trao đổi
+với nhau ha. Đấy thì ở đây nó sẽ mở lên
+và nó đi nó tìm kiếm những cái từ gọi là
+mình sẽ yêu cầu các khóa học về Notion.
+Thì ở đây mọi người có thể yêu cầu nó rõ
+hơn. Có nghĩa là khóa học cơ bản hay là
+khóa học tiếng Anh hay là cái gì đó vân
+vân. Thì cái này mình chị đã tượng trưng
+để mọi người hình dung được không cả
+nhà?
+Ok, cảm ơn cả nhà. Thì ở trong cái này
+nó vẫn trong cái quá trình nó đang chạy.
+Mình sẽ nói thêm tí xíu trong cái luồng
+chat này trong quá trình nó chạy này,
+lâu lâu nó sẽ có nhảy lên một cái
+confirm nó yêu cầu mọi người nhá. Nó sẽ
+yêu cầu mọi người xác thực lại là nếu
+như nếu như nó không phải là mọi người
+để xong rồi nó automation là mọi người
+không cần nhìn đâu, không có đâu nhá.
+Lâu lâu nó sẽ yêu cầu mình tại vì nó can
+thiệp bằng cái ngôn ngữ Java nó ngôn ngữ
+à để nó đi đọc luôn được cái cái cái cái
+dữ liệu ở bên trong cái video này được
+luôn cả nhà. Nó đi đọc được luôn nếu như
+mình cái confirm mình muốn khai thác cái
+dữ liệu bên trong cũng như là khai thác
+luôn những cái comment ở bên trong. Vậy
+thì lúc này nó sẽ yêu cầu à cần can
+thiệp sâu hơn thì nó yêu cầu mình là hãy
+xác nhận lại confirm ở bên này được
+không cả nhà. Vậy nên á lâu lâu mọi
+người cũng để ý là thí dụ như treo máy
+để đó rồi chờ nó cuối buổi nó tổng hợp
+lại á thì mọi người cũng phải để ý là
+coi có thông báo gì hay không và mọi
+người nhớ bấm cho nó confirm lại để
+không thôi á là mọi người sẽ
+bỏ đi rồi mọi người quay lại thì lại
+thấy nó chưa có xong việc được không cả
+nhà? Thì đây là một trong những cái thao
+tác mà mọi người thấy không?
+Chỉ riêng cái việc này thôi, chỉ một câu
+lệnh thôi mà Anti Gravity đã có thể làm
+một cách gọi là auto tự động. Thật ra
+nếu mà anh chị có sử dụng cái chương
+trình gọi là Comet, mình đang sử dụng
+ứng dụng Comet. Nếu mà mọi người để ý
+cái Comet thì nó cũng làm được cái việc
+tương tự. Tuy nhiên cái anh này nó cao
+cấp hơn.
+Mọi người có thể tìm hiểu thêm ha. Tại
+vì ở đây là nó ứng dụng Asian nó khai
+thác sâu hơn. Cái thứ nhất à ngoài ra
+chat GPT cũng có một cái model mà cũng
+có thể là có cái trình diệt web mà để
+gọi là automation. Đó thì mọi người hồi
+sáng Minh thấy có một bạn cũng có hỏi về
+cái này nó khác nhau với chatt như thế
+nào
+được không ạ? Thì cái này mình nhắc nhở
+thêm mình trình bày thêm. Rồi ngoài ra á
+mọi người ở đây nếu mà trong cái quá
+trình mà cài đặt á mọi người lưu ý nè
+trong cái lúc mà cài về á mọi người hồi
+nãy có để ý không? Minh có một cái giao
+diện ở giữa này. Trong cái quá trình này
+nó đang vẫn đang chạy nha mọi người. Cái
+ô này vẫn đang chạy. Minh giới thiệu
+thêm với cả nhà ở trong cái khung này
+được không? Bên tay tay trái thì nó sẽ
+có một cái mục extension được không cả
+nhà? Mọi người lưu ý mọi người cài giúp
+mình thêm hai cái công cụ này. Một cái
+là Office Viewer và một cái là
+antiravity cota để làm gì ạ?
+À hồi nãy lúc mà mọi người có để mà cái
+giao diện mà mọi người thấy cái phần
+trình bày của mình ở trong này nè. Cái
+phần hồi nãy mình làm được cái báo cáo
+mà nó đi nó report của cái Facebook buộc
+phải có cái offic viewer này nó mới hiển
+thị cái file gọi là cái nội dung MD định
+dạng gọi là format down đó thì nó mới
+hiển thị lên được. Cái thứ nhất. Cái thứ
+hai cái antiravity cota này mục đích để
+làm cái gì? À mình để mục đích là để nếu
+mà mọi người không cài cái này vào á nó
+sẽ không hiển thị lên cái phần này thì
+mọi người sẽ không có đo lường được,
+mình không kiểm soát được là việc là
+mình đang sử dụng hàng ngày á là cái số
+lượng cota hiện nay của mình nè, cái
+model này còn bao nhiêu phần trăm. Thật
+ra cái này mình cài để mình quản lý mình
+kiểm soát thêm thôi chứ cũng tùy mọi
+người có nhu cầu thì mọi người cài không
+có nhu cầu mình có thể bỏ qua được không
+cả nhà? Vậy thì bây giờ mình sẽ đi qua
+luôn cái này đi để mọi người hình dung
+ha.
+nó sẽ có số lượng nó ít hơn thì mọi
+người sẽ hình dung coi cái câu chuyện gì
+sẽ xảy ra và Minh sẽ sử dụng lên cái
+model này để mọi người hình dung nó khác
+biệt như thế nào.
+Hãy truy cập à 10 bài đăng mới nhất.
+Đó thì cái công việc đó cũng chỉ là
+những cái làm như cái thao tác như hồi
+nãy mình có trình bày với cả nhà đó. Nó
+chỉ đơn giản là mình hình dung ra là
+mình đang muốn cái gì được không cả nhà?
+Mình đang muốn là khai thác dữ liệu từ
+cái nguồn dữ liệu nào thì mọi người đưa
+vào bên trong cái confirm như vậy.
+Rồi cứ như vậy thì mọi người tương tác
+trong quá trình đó là mọi người chờ được
+không cả nhà? Mọi người hình dung đây.
+Bắt đầu nó sẽ đi làm việc nè. Bắt đầu nó
+open cái ở đây nhá. Ở đây mọi người lưu
+ý nếu như trước đó mình đăng nhập mình
+login vào luôn cái tài khoản mà mà
+Facebook á mình log vào luôn thì nó có
+thể nó khai thác được sâu hơn. Ở đây nó
+có cảnh báo cho mình nha. Nó có cảnh báo
+đàng hoàng. Thật ra là nó vẫn đi lấy
+được nó vẫn cào được dữ liệu. Tuy nhiên
+mức độ mà nó cào được bao nhiêu phần
+trăm cái này là mình cũng để nói rõ đúng
+cả nhà nè. Nó cào được bao nhiêu phần
+trăm và có hết hay không. Thì mọi người
+cần phải check lại, double check lại sau
+khi nó trả thông tin về để tránh trường
+hợp là nó bị sót ở trong cái phần đây nè
+mọi người thấy không? Nó tự động nó đi.
+Mặc dù mình không cần lock tài khoản vào
+nó vẫn lấy được thông tin cho mình nhưng
+mà còn cái lượng mà content ở bên trong
+á có lấy được hết hay không thì mọi
+người cần phải double check lại. Tuy
+nhiên theo cái recommend của nó là nó
+yêu cầu mình lock cái tài khoản Facebook
+để có thể ờ vào bên trong mà không hạn
+chế.
+Kiểu như vậy. Và mọi người thấy không ạ?
+Ở đây nó sẽ khai thác bằng cách là nó đi
+vào từng cái bài viết một, từng cái
+thông tin để bắt đầu nó đi nó chiất và
+nó cào.
+Ok không cả nhà?
+Thì mình nghĩ là mọi người đang quan tâm
+đến cái vấn đề này. Tại vì hiện nay á
+cái việc mà đi raw đi cào dữ liệu này á
+nó cũng có những cái extension tuy nhiên
+nó vẫn có những cái hạn chế của nó. Còn
+với cái công cụ này á, sau khi mà nó ro
+được cái dữ liệu mình có thể nhé, mình
+có thể mình có thể mình cho nó dựa trên
+cái
+&gt;&gt; cái báo cáo này mình lập thành một cái
+flame content luôn cả nhà. Flame content
+cho cái inside mà mình đã khai thác
+được. Mình hình dung được không cả nhà?
+Và Minh đã triển khai thử. Và cái flame
+content đó mình cho khai luôn trong 1
+tháng cho cái kế hoạch của mình.
+À thì như vậy cũng với những cái câu
+lệnh cơ bản thôi. Cái câu lệnh đó thì
+mọi người ờ có thể hình dung rõ là sau
+khi xong cái này nè nó sẽ có gợi ý hoặc
+là mọi người có thể tự đánh ra là tôi
+muốn lập một cái content flank content
+gì đó cho cái insiz này thì lập tức nó
+sẽ dựa trên cái báo cáo này để nó lập ra
+một cái kế hoạch rất là chỉnh chu. Đấy
+là cái mà mọi người hình dung ra là bây
+giờ với AI agent nó sẽ khác biệt với AI
+mà chatbot. lúc trước như thế nào được
+không cả nhà? Mọi người sẽ không thể nào
+cùng một câu lệnh mà đưa qua bên kia mà
+yêu cầu nó làm được hết tất cả những cái
+việc này. Thì đây là cái antiravity nó
+có thể làm được việc này. Ngoài ra á thì
+giống như hồi sáng Minh có có trình bày
+với cả nhà ở đây á nó có thể tạo được
+luôn cái phần hình ảnh sau khi đã có cái
+report rồi. Một cái báo cáo mọi người
+nếu mà thấy chưa ổn mình muốn luôn báo
+cáo cho sếp ví dụ vậy nhé. mình có thể
+lập ra những cái phòng ban ví dụ như à
+phòng marketing, phòng gì
+nhân sự, phòng kinh doanh vân vân. Rồi
+sau đó là mình báo cáo lên sếp thì mình
+có thể tạo luôn trực tiếp hình ảnh giống
+như sáng mà mọi người đã follow Minh
+trên cái nền tảng Facebook để có thấy
+Minh đã có chụp lại cái màn hình đó là
+cái cái hình ảnh mà mình đưa lên.
+À tôi
+cái này trong quá trình nó chạy thì mình
+cứ để cho nó chạy tí xíu.
+Mọi người lưu ý ha. Ở trong đây mình có
+một cái phần nữa mình lấy của tham khảo
+từ cái của bạn Nguyễn Duy Tùng. Nếu mà
+anh chị em nào mà trên Facebook có thể
+tìm hiểu thêm cái Antia Gravity này á
+thì có thể se thêm cái Facebook của bạn
+Nguyễn Duy Tùng. Thì trong đó có chia sẻ
+một cái câu firm mà mình thấy khá là tâm
+đắc, khá là ưng ý và mình cũng có để
+trong này đó là kiểm tra cái độ an toàn
+của cái extension trước khi cài đặt được
+không cả nhà?
+Hiện nay mọi người cứ lấy cái extension
+mọi người cài vào trong những cái gọi là
+cái này nè cái extension cái add on rồi
+đó cái cài vào bên trong cái nền tảng
+này nhưng mọi người có hình dung được là
+mọi người đang bị thu thập dữ liệu ở mức
+độ bao nhiêu phần trăm hay không và thu
+thập đó cái việc đó bị có đáng lo hay
+không?
+Mọi người hình dung không ạ? Ở đây mọi
+người copy đúng cái phần này nè. Copy
+cái phần này
+mọi người cũng đưa vào cái ô chat này
+được không cả nhà? Sau khi đưa vào cái ô
+chat mọi người quay lại mở cái cái cái
+đường link này nè. Cái extension mà mọi
+người đang muốn cài là cái extension gì?
+Mọi người gõ vào cái đường link copy cái
+đường link đó.
+Cái này là mình đang mượn lại luôn 100%
+cái câu và cái nội dung của bạn Nguyễn
+Duy Tùng ha.
+Đấy mình sẽ lấy cái phần extension này
+được không cả nhà?
+Nghĩa là mọi người lưu ý ha à những anh
+chị em mình hay cài đặt những extension
+này á thì không phải lúc nào nó có cũng
+có rủi ro. Tuy nhiên á mọi người cần
+check trước, double check trước khi với
+công cụ này bây giờ nó là một agent nó
+rất là mạnh và nó có thể đi kiểm soát
+được à nó cào và nó đọc được là cái tỷ
+lệ bên trong đến mức độ đó luôn mọi
+người. Và mình đã check lại cái câu này
+rồi ha. Mọi người có thể thử thì với cái
+câu lệnh đó mọi người đây mọi người copy
+đúng cái dòng này sau khi mà vào cái
+extension này mọi người copy
+hãy qua bên cái a câu confirm này
+mọi người điền vào đây nè
+được không kể nha. Đấy mọi người điền
+vào đấy thì với cái phần này
+đưa thẳng qua bên cái antiravity này để
+cho cái con AI Asian nó hoạt động nó sẽ
+tự động nó đi nó đánh giá rồi nó thiên
+kinh rồi nó cào để nó đánh giá là cái
+extension này có lấy dữ liệu mình hay
+không và tỷ lệ lấy đó an toàn hay không.
+Đấy chính là cái phần mà mọi người mình
+sẽ lưu ý.
+À rồi bây giờ trong cái quá trình mà nó
+đang đ đang chạy cái này ha là Minh sẽ
+đi trả lời hoặc là Minh sẽ cùng giao lưu
+với mọi người để có một bạn Đặng Quốc
+Hùng có hỏi là à em tập trung lắm mà từ
+nãy giờ em chưa hình dung được cái ứng
+dụng con antiravity này làm việc gì
+luôn.
+Nếu như nếu như nhé với trường hợp mà
+các bạn làm về bên marketing, các bạn
+cần gọi là hoặc là đi nghiên cứu thị
+trường hoặc là đào sâu vào một cái mình
+á mình thì làm bên YouTube mình bên
+YouTube cũng không phải là chuyên sâu gì
+đâu cả nhà. Tuy nhiên á là mình muốn
+biết cái content, mình muốn đào sâu vào
+những cái mãng A, mãng B, mãng C. Như
+vậy thì nếu như nhé, nếu như bạn Hùng
+hình dung nếu như mình ngồi ở đây mà
+mình ngồi mà mình ngồi mình đi search
+bằng tay hay là đi hỏi chat GPT hay hỏi
+Gemini thì bạn nghĩ là mình sẽ mất bao
+nhiêu thời gian để bạn vào tất cả những
+cái nền tảng mà Facebook này ha tất cả
+những website này để lấy thông tin. Cái
+thứ nhất. Cái thứ hai là để mình biết
+được ở ngoài kia những cái bài đăng có
+liên quan về cái chủ đề này, mọi người
+đang nói về nó như thế nào, mọi người
+đang bàn tán về nó như thế nào? Hay là
+mọi người đang discuss với nó về cái chủ
+đề này như thế nào.
+Bạn bạn Hùng có hình dung kiện không ạ?
+Ok chưa cả nhà? Thì tới đây nè bắt đầu
+lưu ý nè.
+Ở đây bắt đầu nó đã cào ra xong rồi nè.
+Nó đã cào ra xong. Tuy nhiên nè mình mở
+ra cho mọi người xem nhé. nó đã cào ra
+xong nhưng mà nó chỉ được trình bày ở
+cái dạng bên này là của cái Aion nó
+trình bày mình sẽ kêu nó là hãy
+lưu
+lại là à nội dung này
+nội dung
+báo
+chỉnh
+rồi
+chấm md
+à cái định dạng mà md chính là định dạng
+mà gọi là mdown thì cái này nếu mà cả
+nhà chưa biết thì có thể search thêm
+giùm mình ở trên Google hoặc là hỏi các
+công cụ A2 nha cả nhà.
+Đấy thì ở đây á là sau khi mà cái bài
+phân tích nè mọi người nè nhìn nè à
+trong cái quá trình nó làm á thì mọi
+người cứ để cho nó mở ha cho nó đây đây
+cái cái là cái bài nó phân tích nó đánh
+giá nè.
+Tuyệt vời. Tôi đã hoàn thành việc tìm
+kiếm và thu nhập dữ liệu về 10 bài đăng
+mới nhất có liên quan đến antiravity. À
+đây là bản báo cáo phân tích các bài là
+tập trung về fanpage nè, hướng dẫn vi
+coding, chia sẻ kinh nghiệm thực tế vân
+vân. Thì bản thống kê chi tiết trong cái
+bản thống kê này nó sẽ thống kê luôn
+giúp mình á là ngày giờ đăng, loại bài
+đăng, lượt like cái bài này được bao
+nhiêu lượt like. Ví dụ như hồ thương
+tính.
+Cái này nó đang nằm ở bên cái khung mà
+của chat cho nên nó vẫn sẽ chưa hiển thị
+được. Giống như ban đầu mà mọi người
+nhìn thấy là nó trình bày dưới dạng MCO
+mà mình nói là mọi người cài cái ô offic
+viewer á nó sẽ hiển thị đó thì mọi người
+sẽ thấy nó rõ hơn. Còn bây giờ trước mắt
+thì nó đang đang
+à kích thước lại mọi người đợi ha nó
+đang generate để nó lưu lại thêm một cái
+file MC down nè. Rồi trong quá trình đó
+thì mình nói thêm để cho mọi người hình
+dung. Thì với cái nội dung này đây chúng
+ta sẽ phân tích ra được cho cái hiệu
+suất của bài đăng là hồ thương tính được
+không cả nhà? Với 92.000 hàng tổng lượt
+tương tác là bao gồm à có 646 lượt like
+và bao nhiêu đó được không cả nhà? Xu
+hướng nội dung nè, video review có tính
+gì đó là tính tương tác cao nhất, bài
+viết để hướng dẫn, thời điểm đăng đó tập
+trung nhiều, nội dung được quan tâm, kết
+luận khuyến nghị vân vân cộng đồng gì đó
+vân vân. Thì ở đây mọi người hình dung
+là nếu như mình làm việc bằng tay ở đây
+nhé, mình làm việc bằng tay mà mình ngồi
+mình đi mình cào hết cái đống mà gọi là
+để coi coi lượt tương tác nè, lượt like
+nè, rồi lượt comment. Mọi người có hình
+dung ra được ở đây là mình làm có nổi
+hay không? Đó là cái ý thứ nhất. Cái ý
+thứ hai
+à mọi người có thể lấy những extension ở
+trên cộng đồng mà mọi người tham gia vào
+những cái cộng đồng a á như mình thấy có
+anh anh Vương Nguyên Bình thì phải á có
+chia sẻ về những cái dạng mà làm cái
+extension để mà lấy cái cái cái cái cào
+cái là dạng content trên các nền tảng
+như là TikTok, YouTube hay Facebook hoặc
+là mình có thể lên đó mình lấy về để
+mình cào ra. Tuy nhiên mọi người thấy
+không? Khi mà mình sử dụng với Aent nó
+sẽ như thế nào đây cả nhà?
+Ừ. Nếu như lúc nãy mình không cài cái
+extension Office Viewer nó sẽ không ra
+cái này được không cả nhà?
+Đây và cái này mọi người hình dung nhé.
+Nó giống như mình hiểu là cơ bản là cái
+kiểu kiểu như của
+Few được không cả nhà? Nó có thể chỉnh
+sửa rồi tô đen, tô đậm, bôi đen, bôi đỏ
+để mà nó có thể chỉnh sửa lại được không
+cả nhà? Đây là cái offic viewer. Khi cái
+nội dung này nó trào về và nó trình bày
+bên này, bây giờ là mọi người sẽ thấy
+rất là rõ
+đó.
+Được không cả nhà ơi? Thì khi này á ở
+đây mọi người sẽ đánh giá được rất là
+nhanh cái bài đăng của anh này, bài đăng
+của anh kia, lượt tương tác bao nhiêu,
+tỷ lệ tương tác như thế nào và cái nội
+dung nào đang mang viral nhất được không
+cả nhà? Rồi thì ở cái tình huống này á
+mình sẽ yêu cầu nè, mình sẽ yêu cầu mình
+mình thấy bắt đầu nó có nè, nó để là bạn
+có thể mở file này là cái gì cái gì đó
+inside thực tế. Bây giờ ví dụ nhá.
+Ví dụ à mình sẽ yêu cầu nó là lập lập
+giúp mình luôn đi. À lập
+giúp tôi
+content plan
+cho inside.
+Mọi người khi trong quá trình làm mọi
+người có thể là cụ thể hơn hôm nay Minh
+chị chia sẻ mang tính chất là trao đổi
+cho nên mình sẽ đi nhanh và mình không
+cũng không có nhiều thời gian
+thử coi nó làm cái gì. Đấy mình chỉ
+tương tác như vậy thì lúc này nó sẽ bắt
+đầu nó lại đi tiếp tục
+nè. nó nó hỏi mình để mình nó muốn biết
+rõ hơn về cái nội dung rồi sau đó nó bắt
+đầu nó đi làm
+nó sẽ lật cho mình một cái content flame
+rồi mọi người thấy chỗ nào mà chưa được
+hay là như thế nào mọi người sẽ có cái
+tổng quan và mọi người chỉnh sửa tiếp ở
+trong này còn chi tiết là mọi người muốn
+làm mọi người có thể cái confirm nó rõ
+ràng hơn thì mọi người sẽ ra được cái
+kết quả mong muốn đúng với nhu cầu của
+mình hơn được không cả Nà
+&gt;&gt; anh Minh ơi, em hỏi trước.
+&gt;&gt; Ok. Ok. Ok.
+Ờ cái con này thì em đang thấy là nó phù
+hợp với lại cái nhu cầu mà mình muốn đi
+như kiểu là phân tích thị trường gọi là
+ờ giống như là khi mình làm YouTube hoặc
+mình xây kênh hoặc mình có thể đi search
+những cái
+chen đúng không anh?
+&gt;&gt; Ừ
+&gt;&gt; mình xem là cái cái cái ngách mà mình
+đang muốn làm á thì bây giờ mọi người
+đang làm như thế nào? có bài nào là hiệu
+quả đúng không? Mình có thể search ra
+cái ờ những cái kênh của đối thủ mà nó
+đang hiệu quả. Sau đó là mình sẽ nghiên
+cứu được vào từng cái link của những cái
+bài viết đấy hoặc là những cái video đấy
+đúng không?
+&gt;&gt; Đúng đúng đúng. Có nghĩa là ở đây mà anh
+anh sẽ quay lại cái trường hợp này. Hồi
+nãy là cái con antiraity nó sẽ tự động
+nó mở lên n mọi người nhìn nhé. nó sẽ tự
+động mở lên những cái size, những cái
+bài đăng rồi đây nó sẽ tự động vào đây.
+Nó tự động vào cái từng từng
+&gt;&gt; Ừ. Thế nó nghiên cứu đến cái phần nào là
+nó tự nó mở cái size đấy cho mình luôn
+&gt;&gt; Đúng đúng.
+Cái này về cái ứng dụng mà nếu mà mọi
+người dùng nhiều bên cái
+cái cái cái coap mà trước đây nếu mà mọi
+người đã từng dùng thì mọi người sẽ hình
+dung ra được cái cách làm hoặc là cái
+ứng dụng của một số cái nền tảng mà của
+chat GBT đấy. CH GPT nó sẽ cũng có một
+cái ứng dụng gọi là chuyên làm cái trình
+duyệt mà để đi automation đấy hoặc là
+con manus ngày xưa manus khi mà manus AI
+ra mắt cũng có cái vụ là automation cái
+kiểu này. Tuy nhiên á là với cái con
+antiravity này á nó sẽ có điểm mạnh hơn.
+Sau khi nó tự động nó lấy cái này về và
+nó tổng hợp lại thành một cái bài cho
+mình thì mình có thể lại tiếp tục tiếp
+tục ở đây nhá. Mình làm những cái việc
+là mình yêu cầu nó làm ờ ra được những
+cái inside hay là những cái báo cáo hay
+là những cái chi tiết. còn nhiều gấp hơn
+nhiều lần so những cái việc khác. Ví dụ
+tiếp một cái trường hợp khác ở trong
+này, mình đứng t trực tiếp ở trong cái
+luồng này. Mình muốn tương tác với một
+cái file khác, với một cái folder khác
+mà mình đang có. Ví dụ mình ở đây là
+mình đang nói chuyện với mọi người trong
+cái buổi tối Zoom hôm nay nhưng mà mình
+muốn link với cái dữ liệu của cái thư
+mục riêng của mình. Hay là ví dụ trực
+tiếp đi, cái phòng ban kinh doanh hay là
+phòng ban marketing họ muốn link, họ
+muốn nói chuyện với nhau để lấy dữ liệu
+trao đổi với nhau thì yêu cầu nó phải
+như thế nào đúng không ạ? Thì lúc này
+mình chỉ có việc tương tác là hãy gọp
+link, hãy mở cái này đây nè. Mình có thể
+yêu cầu nè. Đó, chỉ đến cái file trực
+tiếp mà cái file mình đang có hoặc là
+chỉ đến cái thư mục mà mình đang có ở
+trong cái trước đó nữa đấy. A+ mình sẽ
+đi đến được cái thư mục và cái tệp đó.
+Và mình yêu cầu à giữa cái file đang có
+và cái số liệu của nền tảng bên kia đang
+có. Mọi người hình dung không ạ? Giống
+như mình làm làm việc trong công ty đi.
+Ví dụ như bây giờ là nhân sự của tôi là
+bao nhiêu đây nè. Và bên bộ phận tài
+chính á báo cáo là hiện nay cái tài
+chính của tôi nè cái cái cái bộ phận tài
+chính kế toán của tôi hiện nay còn ngân
+sách bao nhiêu đây nè. Vậy thì nếu như
+với lượng dân sự này, với lượng tài
+chính này thì tôi còn khả năng là tết
+này thưởng ra chi thưởng được bao nhiêu?
+Mọi người hình dung kịp cái bài toán đ
+không ạ? Vậy thì lúc này á ở đây AI
+agent mình cái chỗ này mình có thể tương
+đác bằng cách đó luôn. Mình chỉ cần A+
+và mình yêu cầu nó. Thí dụ như bây giờ
+tôi muốn là bạn đối chiếu giúp tôi là
+giữa cái file này và cái ứng dụng kia.
+Đây mình sẽ mở ra. Mọi người thấy không?
+Đây là những cái mà file trước đó mình
+đang có nè.
+Đấy mình đã làm trước đó rồi sau đó mình
+yêu cầu đó là mình tương tác. Nhưng mà
+tại vì hai cái luồng này nó đang khác
+nhau. Mình không có có trình bày cho mọi
+người để nó nó ấy. Nhưng mà mọi người
+hình dung khi mà mọi người thử á mọi
+người có thể làm thì lúc này mọi người
+kêu nó so sánh báo cáo hoặc là gọp lại
+mệt lại đó hoặc là thêm hoặc là bớt nó
+làm được hết rồi sau đó cho ra một cái
+báo cáo mới để gửi xếp được không ạ?
+Cách làm nó là như vậy.
+Đây thì ở đây mọi người hình dung nè.
+bắt đầu nó ra được
+content flame nó sẽ tự động bắt đầu lúc
+này nó đã lưu
+được không ạ?
+Và cái content này mọi người có thể
+chỉnh sửa lại. Ở đây mình chỉ mới nói
+với nó một ý duy nhất thôi. Rồi bây giờ
+nó cho ra mình đây một cái kế hoạch chi
+tiết.
+Content là bốn chủ cộng chính là
+education rồi mục tích truyền cảm hứng
+gì đó. dựa trên cái bài đăng đó là bắt
+đầu mình à chi tiết ở đây là nó có những
+cái nội dung liên quan về cái vấn đề gì.
+À đó thì mọi người sẽ đi xem ha. Thì nó
+sẽ đi vào từng phần từng phần và thậm
+chí á là mọi người thấy là nó làm cho
+một cái bản kế hoạch là dài dài đăng
+đẳng. Ờ trong đây nó kêu gọi hành động
+như thế nào mọi người hình dung không ạ?
+Cái trụ cột chính của cái ngày thứ tư đó
+là cái gì và định dạng của nó là cái
+ngày này là cái gì? Thì cái buổi hôm nay
+á do mình sẽ đi nhanh cho nên mọi người
+sẽ vẫn chưa hình dung kiệt. Tuy nhiên là
+mình sẽ để cho mọi người có cái nhìn
+tổng quan về cái con AI Aan của Antia
+Gravity này. Nó không chỉ đơn giản chỉ
+là để mọi người gọi là là là tương tác
+giống như
+kiểu mà mọi người đang nghe là
+viết code vi coding vân vân. thì ở đây
+nó có thể làm được những cái việc này.
+Ok. Thì à
+cái cái cái đến đây thì chắc có lẽ Minh
+sẽ tạm ngưng để mọi người mình cùng giao
+lưu và mọi người mình đ cùng đặt câu
+hỏi. Thì không biết là mọi người có có
+có gì thắc mắc hay không. Tại vì trong
+cái phần tài liệu nhá thì Minh cũng có
+để thêm để mọi người nếu ai chưa chưa
+chưa chưa nắm thì mọi người cũng có thể
+lưu ý thêm những cái phần này mọi người
+lên trên cái kênh chính của cái cái kênh
+YouTube chính á của của này để tham khảo
+hoặc là search ở trên đó thêm nếu mọi
+người quan tâm được chưa không ạ. Còn
+cái documentation này á chính là cái
+đường dẫn chính mà cái này á nội dung
+này á nếu mà mọi người rành á thì như
+nãy mình có nói ở trong này có rất là
+nhiều cái tài liệu mà mình thấy á bản
+thân mình cũng phải nghiên cứu ở trong
+này thôi. Phải nghiên cứu thêm cả nhà
+chứ không có cái cái
+tài liệu hiện nay trên trên trên về cái
+này bằng tiếng Việt nhiều đâu. Đó. Đây
+mọi người có thể vào xem chi tiết hơn để
+nắm rõ ừ Aent thì trong này có bao nhiêu
+model và mỗi một model nó sẽ làm gì chi
+tiết. Đây mọi người thấy nè nó có nói
+nè.
+Đó. Rồi vậy thì Asian mod là cái gì? Thì
+trong đây nó có nói là convention nó
+liệt kê và các quy tắc rồi các nhiệm vụ
+thì ở trong này nó có sẽ liệt kê chi
+Rồi thì chắc có lẽ là tới đây thì mình
+tạm thời ngưng và mình cùng giao lưu với
+nhau tại vì theo kế hoạch là mình sẽ
+khoảng 9:00. Hôm nay mình sẽ ngưng
+à nếu mà cả nhà mình tiện thì mọi người
+cứ bật mic để mình trao đổi luôn cả nhà.
+Còn nếu mà ai mà chưa theo kịp thì có lẽ
+mình sẽ
+hẹn gặp với nhau trong một cái buổi
+buổi sau để mọi người mình cùng trao
+đổi. Còn hôm nay thì mọi người cứ bật
+mic và cùng cho giao lưu.
+&gt;&gt; Ủa anh anh Minh ơi nãy là vào là anh new
+anh tạo new một dự án rồi anh kêu nó làm
+các thao tác như là lên login Facebook
+sau đó rồi tìm content như vậy đúng
+không anh Minh? Hồi nãy là là do em đang
+ở lúc bằng điện thoại nên em chưa theo
+á.
+&gt;&gt; À đúng rồi đúng rồi. Tại vì ở trên điện
+thoại nhiều khi cái
+&gt;&gt; ờ em không nhìn được cái màn hình nên
+thành ra là bây giờ em mới on lên máy em
+mới thấy thì cái này cũng
+&gt;&gt; à đúng đúng đúng đúng đúng đúng. Nó hơi
+bất tiện. Nó hơi bất tiện. Đúng rồi đó
+Huy ơi. Có nghĩa là mình sẽ mình sẽ cài
+cái đặt ứng dụng này trên máy tính xong
+rồi mình Anh có gửi cái file tài liệu
+rồi ha. Thì trong đó đó thì trong đó là
+mình chỉ có new thôi. Mình mở cái new
+cái giống như là mở mới mở mới
+&gt;&gt; chứ cũng chẳng có làm gì đâu. Rồi sau đó
+là mình đưa cái phần câu lệnh mà mình
+muốn mình muốn thí dụ như là đi tìm dữ
+liệu về các khóa học liên quan về cái
+notion hay là các khóa học về AI hay là
+các khóa học gì đó vân vân. Đó là câu
+lệnh rất là bình thường. Kế đến thì nãy
+em có đưa thêm một cái việc là đi cào dữ
+liệu Facebook thì nó cũng tự động nó làm
+thì nó nó sẽ tự động nó mở các tab ra
+như thế này.
+&gt;&gt; À anh chọn model này là là là Zemini Pro
+luôn đúng không?
+&gt;&gt; Ờ thì hồi nãy em có trình bày đó trong
+cái phần mà nếu mà chọn model á nếu mà
+mình chọn mà pro á đối với những cái
+thao tác bình thường mình cứ chọn bản f
+cũng được. Ger cho nó nhanh. Còn nếu mà
+mình chọn à mình chọn mà mình muốn nó đi
+sâu hơn thì mình sẽ chọn lên pro.
+À còn nếu mà cái gì mà có liên quan đến
+ngôn ngôn ngữ gọi là lập trình mà chuyên
+và viết code và viết ứng dụng á thường
+luôn á là mọi người sẽ chọn đó là bản
+Germini Pro 2 hoặc là cái bản cloud á
+cloud gọi là cloud OB 4.5 á Thinking
+thì thì ở đây nè để mình mở lại cái cái
+cái này để cho mọi người thấy nhé.
+Marketing.
+Ok.
+À đây nó hỏi là mình có lưu
+mình có lưu lại cái này mình mở lại cái
+thư mục của mình
+để mọi người thấy được cái bài đăng của
+Minh mà lúc sáng là mọi người thấy mọi
+người hình dung ha.
+đây là cái tương tự giống như hồi sáng.
+À tuy nhiên á là mình sẽ mở thêm để cho
+mọi người hình dung cái câu chuyện là
+mình sẽ làm được những gì, mình thử
+những gì.
+Thì gần đó là mình đây. Hồi nãy là mình
+có nói với mọi người hãy check lại,
+double check lại cái extension đúng
+không bạn? Đây là mình sẽ làm nhanh để
+cho mọi người thấy nè. Sau khi kết quả
+là báo cáo đánh giá an toàn extension
+cloud use trcker
+thì nó báo về cho mình nè mọi người.
+Tổng quan extension nè được thiết kế để
+theo dõi lượng toen sử dụng trên
+cloud.ai đồng bộ hóa dữ liệu, kết quả
+phân tích bản nguồn mở. Dữ liệu được thu
+thập là extension này có thu thập và lưu
+trữ các thông tin sau để phục vụ tính
+đồng bộ. Nghĩa là mọi người hình dung
+khi mọi người cài bất cứ một cái app
+nào, bất cứ một extension nào, tác giả
+của cái người mà làm ra extension đó có
+thể họ đang à sử dụng một cái mã code để
+thu thập thông tin của mình được không
+cả nhà?
+Đó cho nên á không phải ứng dụng nào
+miễn phí. Ở đây mình không ám chỉ bất kỳ
+ai nếu anh em đang làm về code nha. Mình
+không ám chỉ bất kỳ ai hết. Tuy nhiên ý
+mình đang nói là nếu như cài đặt những
+cái extension hay những cái phần mềm mà
+mã nguồn nói chung là mở miễn phí thì
+mọi người cũng lưu ý là nên cân nhắc xem
+có cài đặt cái đó hay không vì không
+phải cái nào miễn phí là cũng tốt. À nó
+sẽ khai thác cái dữ liệu trên máy của
+mình được chung cả nhà. Và thì trong này
+nó có đây đề cập đến cái extension này
+có thu thập thì trong đây nó thống kê nè
+metadata, loại model mà mình đang sử
+dụng là cái gì và thời gian, cột móc,
+thiết bị đó sử dụng dữ liệu không được
+thu tập. Đây là những cái đoạn chat nó
+sẽ không thu tập nè. Quan trọng nhất là
+qua kiểm tra thì cái tension thì không
+có hành vi lấy cái dữ liệu là nội dung
+chat thì tôi không lấy. Ok không cả nhà?
+Thì kết luận lại là nó nói cái này là
+không phải là spyware,
+chức năng đúng cam kết được không? Đó
+thì cái câu lệnh đây mình sẽ mở lại cái
+luôn chat này. Mọi người bấm vào cái chỗ
+ô này nó sẽ có mở lại cái coi là cái cái
+cái lịch sử chat ha.
+À đây phân tích
+nè mọi người thấy nha. Mình cũng đánh
+giống như cái tài liệu mà mình đã gửi
+cho mọi người hãy lập kế hoạch tải về và
+kiểm tra extension sau có thu thập data
+người dùng và gửi về server của ngoại
+không.
+Rồi mình b cái cái tạo kết quả report
+ghi chi tiết các rủi ro an toàn cho
+người dùng nếu có được không cả nhà? Và
+mình copy cái đường link extension đó
+mình đến đây thì mọi người thấy không?
+Cái anh này anảnh sẽ đi làm việc và anh
+automation anảnh làm từ đầu đến đuôi
+cuối cùng anh trả về kết quả báo cáo cho
+mình. Nếu như cái AI bình thường sẽ
+không làm được việc này đâu.
+Đó thì như vậy mọi người hình dung ra
+được
+ờ cái câu chuyện em xin file tài liệu
+anh Minh ơi.
+À ok rồi bạn đợi một chút xíu
+mình sẽ gửi lại.
+Thì cái buổi hôm nay mục đích của Minh á
+là muốn chia sẻ thêm với cả nhà á nếu
+như mọi người đang quan tâm đến cái việc
+mà nghiên cứu thị trường hay là làm mở
+rộng hơn cho cái bệnh tư duy về trong
+cái việc là sử dụng AI agent thì có thể
+để ý đến cái công cụ Anti Gravity của
+Google được không cả nhà? Rồi cái phần
+trình bày của Minh tạm thời là hôm nay
+Minh sẽ ngưng ở đây và nếu mọi người có
+thắc mắc, mọi người có thêm câu hỏi mọi
+người có thể bật mic ạ để mình cùng giao
+lưu ạ.
+À ừ mình mình ghi chi tiết nội dung cụ
+thể rõ ra như mình có thể nói là cái ví
+dụ như cái bay đó là cái bay của của một
+cái đơn vị nào đó ví dụ như của một cái
+đơn vị là công ty hay là một cái cái cái
+tổ chức nào đó hay là tên nào đó cho nó
+rõ ràng để nó vào nó cào
+được không cả nhà? Vì hôm trước mình có
+dự một cái buổi chia sẻ của anh anh anh
+anh Nguyễn Duy Tùng thì hôm đó ảnh có
+thị phạm về một cái bay đó là của
+CocaCola
+duy nhất một cái trang thôi đó là của
+Coca thì sau đó cũng đi cào dữ liệu và
+để để
+xem thử các cái bên dưới á là mọi người
+đang có hứng thú về cái buổi mà
+cái cái cái sản phẩm mới hay không đó
+vân vân.
+À mọi người có thể bật mic lên và cùng
+cùng đặt câu hỏi thêm ạ.
+&gt;&gt; Alo chào anh Minh.
+&gt;&gt; Dạ dạ xin chào bạn.
+Tức là trong trong cái cái cái tính năng
+này thì mình có thể ví dụ như mình mình
+muốn tìm hiểu về một cái toàn bộ nội
+dung của một cái trang cá nhân của một
+người bạn mình chẳng hạn xem trước giờ
+bạn mình quan tâm những chủ đề gì chẳng
+hạn thì mình có thể thả cái link của
+trang cá nhân đấy vào rồi và mình yêu
+cầu nó cào toàn bộ ví dụ như là 1 năm 2
+năm hoặc là 1 2 tháng chẳng hạn là gần
+đây người đấy chia sẻ về nội dung gì
+kiểu như vậy mình có làm cụ thể được như
+vậy không?
+Ờ cũng xin thưa với anh Thịnh là hiện
+nay nhá mình cũng chưa thử đến cái
+trường hợp trường hợp cụ thể đó nhưng mà
+nhưng mà anh có thể thử giúp mình rồi
+cho mọi người cùng kết quả tại vì bản
+thân Minh hồi tối hôm qua đúng ra Minh
+chị test à chỉ những cái câu cơ bản đó
+đến thời điểm này luôn á là test về
+TikTok nè test về mạng xã hội Redbit nè
+mạng xã hội nè Facebook nè là chỉ những
+cái câu mà mình lấy cái bài đăng ở cái
+từ tháng 12 hay từ những cái thời gần
+nhất chứ còn hiện nay là mình cũng chưa
+đi lấy cái thông tin mà cào 1 năm hay là
+trên một bay cụ thể anh Tịnh ơi.
+&gt;&gt; Ok cảm ơn anh. Để mình thử xem sao.
+&gt;&gt; Ok anh. Ok anh. Đây Minh sẽ mở lại một
+cái báo cáo mà của
+cái cái cái
+trường hợp Minh đã đi đây.
+Cái này là của bên YouTube. Minh cũng đi
+lấy một cái chủ đề của kênh YouTube
+nè. À này cũng là của bên YouTube.
+Ok. thì hình như là nó chỉ có một số cái
+phần
+bài đăng
+à cái này kế hoạch cho một cái kế hoạch
+khác nữa. Vậy là cái bài lúc mà mình lấy
+ở trên cái
+chat đó mình không lưu lại cái phần của
+TikTok mà x reddit đây nè. đó mà sao X
+với Reddit thì mình lại không yêu cầu nó
+lưu ở dưới dạng bên bên bên bên bên
+file MD đây
+&gt;&gt; em thấy cái này mà anh làm kiểu một cái
+fanpage mà kiểu ngồi tổng hợp cái này
+hàng ngày đăng lên cũng thu hút nhiều
+vậy ta
+&gt;&gt; đúng
+&gt;&gt; anh làm chưa em nghĩ anh làm rồi
+&gt;&gt; chưa đâu chưa chư nhưng mà á là chỉ
+riêng cái việc mà từ hồi tối hôm qua lúc
+mà 10 giờ hơn mình thử đăng có một bài
+đó rồi sáng hôm nay nhưng mà nói như Huy
+á nha chỉ mình đăng đúng ba bài từ tối
+hôm qua đến nay thì lượt tương tác và
+lượt view của mình tăng đến gọi là sao
+ta chỉ trong một ngày duy nhất thôi tăng
+lên tới 60 s mươi mấy ngàn ta có nghĩa
+là tăng một mức độ kinh khủng chỉ để
+tương tác những cái dạng này thôi mọi
+người đang rất là quan tâm
+&gt;&gt; à em thấy anh Minh đăng vào các group đó
+đúng không anh
+81.000.
+Còn cái trang cá nhân á là đúng rồi,
+đúng rồi. Huy đăng trên một số cái nền
+tảng là chia sẻ trên các nền tảng các
+group á. Còn cái fanpage là mình chưa
+làm một cái gì hết á. Mình mình không có
+làm fanpage gì hết á.
+&gt;&gt; Ừ. Em thấy trang cá nhân thì vẫn của anh
+thì vẫn ít nhưng mà trong cái
+&gt;&gt; cái group thì nó lại ok. Mà trong mấy
+group là duyệt bài ok không anh? Anh
+thấy duyệt bài ổn không? Người ta kiểu
+mình đăng lên thì duyệt bài người ta cho
+nhiều.
+&gt;&gt; [tiếng cười]
+&gt;&gt; Cái này thì tùy thôi, tùy thôi. A
+Huy ơi, có nghĩa là tùy theo cái mức độ
+là mình đừng có spam, mình đừng có đưa
+lên những cái bài mà vi phạm chính sách
+cộng đồng thôi ha. Cái đó là nh
+&gt;&gt; em thấy nù trên bình dân học ai anh
+người ta comment quá trời nè mà anh chưa
+ré nè.
+&gt;&gt; Thật sự là quá nhiều à mình không có
+thời gian mà mà tại vì mình còn làm
+những cái việc khác nữa. Huy
+&gt;&gt; à. Dạ em tính là hướng này cũng ok á nha
+anh chị.
+&gt;&gt; Đúng đúng đúng. Thì đó là một trong
+những hướng đó đó là một trong những
+cách nhưng mà Huy có thể nghiên cứu để
+làm thêm một cái fanpage để làm những
+cái cộng đồng riêng của mình.
+&gt;&gt; Dạ. Trụ tính là bữa là bữa là cái cái
+cái về Phật pháp là một cái ha. Xong cái
+này nữa là hai cái có mà phân thân cái
+buổi buổi buổi buổi thứ hai thì em không
+có tham gia. Buổi thứ hai không biết anh
+chia sẻ gì.
+Ba
+trợ
+&gt;&gt; ờ hôm đó thì cũng chia sẻ gì để mình tự
+nhiên mình quên đây.
+&gt;&gt; Em cũng quên luôn. Em cũng nhớ em chỉ
+nhớ là anh có buổi chiều á thì em không
+tham gia được.
+&gt;&gt; Ừ. Ok.
+&gt;&gt; Dạ. cảm ơn.
+&gt;&gt; À
+lại tìm trên extension trên vậy anti này
+thì tìm ở chỗ nào? À để coi cái câu này
+ờ bạn định phải không ta? Bạn định là
+hay là bạn nào đang hỏi là tìm ở đâu? À
+à không bạn ấy trả lời rồi mọi người ơi
+thường group nào bàn luận sơm về vai
+code.
+Ok còn anh chị nào mình mình có câu hỏi
+mình tương tác nữa không cả nhà? Nếu mà
+trong trường hợp mà mình không còn câu
+hỏi á thì hôm nay Minh cũng xin tạm
+ngưng ở đây. Còn về ứng dụng mà vi
+coding thì hiện nay trên thị trường có
+rất là nhiều ha. à ngoài cái ứng dụng
+này tuy nhiên á là mình đang muốn đào
+sâu cho nên hôm nay mình phát hiện ra
+cái này hay nên cũng muốn chia sẻ với
+cộng đồng mọi người à các bạn quan tâm
+đến vấn đề về nghiên cứu hay research
+thị trường bằng cái công cụ antiraffiti
+này rất vui được mọi người tham dự cùng
+mình trong buổi tối hôm nay
+thì không biết còn anh chị nào có có
+quan tâm mọi người cứ bật mic còn nếu
+không còn gì thì à anh Chị em mình có
+thể óc ạ.
+&gt;&gt; Ok. Cảm ơn anh.
+&gt;&gt; Anh anh Sơn ơi, không biết là anh anh
+làm trong lĩnh vực nào ta?
+&gt;&gt; À mình làm về đào tạo với khai vấn, mình
+làm kinh doanh. Mình đang cũng tìm hiểu
+về cái này để làm một cái thương mại
+điện tử bên mảng nông nghiệp nữ Minh.
+&gt;&gt; Dạ. Tại vì
+thật ra á nếu như mà làm về những cái
+mảng này lúc trước á nha Minh có từng
+thử những cái công cụ như AI ví dụ như
+là của Flow X nè hay là Manus hay là
+Zenb thì không biết là anh đã đã có ứng
+dụng nhiều chưa thì em không rõ nhưng mà
+nếu mà mình sử dụng thì anh khai thác
+cho cái mãng đào tạo hay là mãng kinh
+doanh của anh em thấy rất là là là ok
+luôn tại vì riêng cái này nhá nếu mà
+mình đóng gói lại mà theo em á em đang
+sử dụng á mà em chỉ khai thác nếu mà mọi
+người để ý luôn mình chỉ mới làm từ đúng
+hồi tối hôm qua chứ mình chưa hề làm cái
+gì hơn mọi người nhé mình chỉ đi mới từ
+hồi tối hôm qua luôn đó
+bắt đầu chính xác là 10 giờ mấy phút hồi
+tối hôm qua mình mới đăng nếu mọi người
+nhìn lại bài đăng của mình thì mọi người
+thấy thì cái này nó thật sự nó rất là
+hữu ích
+à nếu nên nên nên nên sơn với mọi người
+có thể khai thác thêm
+ở trên cái nền tảng
+Dạ.
+&gt;&gt; Ừ, cảm ơn Minh. Hôm hôm nay mình nhìn
+cái nhóm này mình mới à nhìn cái bài của
+Minh trên nhóm AI Masterm ấ thì mình mới
+nhảy vào. Vì ngày xưa mình có tham gia
+một cái webinar của bạn Bình Vương
+Nguyên Bình ấy.
+&gt;&gt; Thì thì cái cách tiếp cận của Bình cũng
+hay nhưng mà nó hơi hơi dài.
+&gt;&gt; Thì mình thấy cái cái này là một cái
+công cụ rất là dễ dùng cho tất cả mọi
+người.
+&gt;&gt; Đúng. Trước đây mình có tham gia một cái
+buổi của anh Vương Nguyên Bình có chia
+sẻ về cách đi raw dữ liệu này. Có có xem
+cái buổi hôm đó đúng không? Chắc là buổi
+hôm đó qu cùng cùng một buổi đấy.
+[tiếng cười]
+&gt;&gt; Hôm nay có mình với Dũng Dũng dễ dãi. Ừ.
+&gt;&gt; Đấy cũng viết extension để viết ra những
+cái app nữa để đi lấy đó. Nhưng mà nó
+đúng là mình sau cái lần đó đi thì tới
+thời điểm này thì tới thời điểm này thì
+mình theo mình cái công cụ này là quá
+tuyệt vời luôn.
+Mình mình ngồi mình qua mình đã thử cũng
+khá khá rồi đó. Nếu mọi người nhìn thấy
+ờ ngoài cái này ra mình còn làm được rất
+là nhiều thứ
+đó. Nó có thể viết ra một cái app
+ở đây chia sẻ thêm nha. Ở đây mình có
+làm thử nhưng mà lúc đó nó chưa thành
+công thôi là nếu như mọi người có một
+cái dự án một cái ứng dụng phần mềm làm
+bên Google A Studio mọi người tải về
+được không? Bên Google A Studio mọi
+người tải về. Sau đó mọi người qua bên
+này file open nó lên. cái thư mục file
+đó lên thì bên này mình có thể tiếp tục
+mình thao tác và nó fit lỗi nhanh hơn
+bên Google AI Studio rất là nhiều rất
+nhiều luôn.
+À tại vì cái công cụ này nó chuyên dùng
+để cho mục đích là vi code cho nên nó đã
+cũng được tích hợp cái ô chat và cái
+những cái model rất là cao cấp này từ
+cái khả năng sửa lỗi. Tại vì trước đó là
+mình có coi có tham gia một cái cái buổi
+của một bạn nữa cũng đi fix lỗi ứng dụng
+của Google Air Studio á xóa đi những cái
+dòng code ngẫu nhiên ở trên Google i
+Studio. Sau đó lưu lại nó lỗi luôn nhé.
+Sau đó lưu lại mang về bên này và chỉ
+yêu cầu nó là hãy khắc phục cái lỗi cơ
+bản là bây giờ tôi đang là viết ứng dụng
+gì đó là khắc phục lỗi giúp tôi và tìm
+cái lỗi đó khắc phục. Nó chỉ chạy có tí
+xíu thôi là nó fit cái lỗi đó ngay.
+Yeah.

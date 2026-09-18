@@ -1,0 +1,152 @@
+Hello, chào mừng các bạn đã quay trở lại
+với kênh lập trình Full Stack. Trong
+video ngày hôm nay mình sẽ mang cho các
+bạn những thông tin mới nhất về
+Antiavity 2.0, một bảng cập nhật trong
+những ngày vừa qua của Google và được ra
+mắt ở trong sự kiện [âm nhạc] thường năm
+đó chính là Google IO 2026 ha các bạn
+ha. Nó nằm trong một cái hệ sinh thái
+của Google Antravity [âm nhạc] là
+Antigravity 2.0. Thì Google giới thiệu
+Antigravity 2.0 là một cái standalone
+desktop desktop application có nghĩa là
+một cái ứng dụng độc lập của desktop. Nó
+tập trung vào phát triển một cái thứ gọi
+là agent first. Đó các bạn là tất cả mọi
+thứ mọi thứ được thiết kế đều dành riêng
+cho agent để có thể chạy nhiều song song
+nhiều con agent cùng một lúc để giải
+quyết những cái những cái tas trên những
+cái project độc lập. Đấy đây nó có giới
+thiệu nè các bạn ha. Đấy thì cái UI của
+nó nó không còn là một cái ID code nữa
+và mình không thể viết code ở trên cái
+standalone desktop application này. Đó
+thì các bạn nhìn vào UI thì các bạn có
+thể đoán được đây chính là UI của cái
+thằng agent manager cũ ở trong cái ID cũ
+đó các bạn. Thấy các bạn thấy không? Thì
+ở đây agent first có nghĩa là sao? Nó sẽ
+tập trung vào
+&gt;&gt; [âm nhạc]
+&gt;&gt; agent. Agent nó sẽ làm việc tất cả mọi
+thứ mà các bạn không cần phải làm gì cả.
+Lúc trước thì nó là một ID và nó có một
+cái cửa sổ chat agent kế bên đó thì các
+bạn có thể về vừa viết code vừa sửa code
+vừa kêu [âm nhạc] agent from để mà làm
+việc. Thì lúc này vì tất cả mọi thứ đều
+tập trung cho agent nên là bạn sẽ không
+cần phải viết code nữa và agent nó sẽ
+làm tất cả mọi thứ dành cho bạn. Và ở
+trong phiên bản này nó khác với cái
+agent manager cũ đó chính là như
+[âm nhạc] sau. Đấy, ở đây nó có thứ gọi
+là dynamic sub agent mọi người. Nó có
+một cái trung tâm đó ai nè. Aent của bạn
+nó sẽ trở thành một cái trung tâm điều
+khiển nó có thể la nè, monitor cũng như
+là điều phối những cái hoạt động này. Ví
+dụ như mình from cho nó là một cái câu
+là explore the codebay using parallel
+sub agent và explain [âm nhạc]
+it to me in work through. Có nghĩa là
+sao? mình nói là hãy à khám phá cái code
+của mình bằng cách là chạy song song
+nhiều cái con sub agent có nghĩa là sub
+agent nghĩa là những cái con agent
+[âm nhạc] con đó các bạn và à giải thích
+cho mình ở trong một cái tài liệu work
+through. Vậy thì ở đây nó sẽ bắt đầu
+chạy ba cái con AI agent. Các bạn thấy
+không? Hay gọi là ba sub agent. Đầu tiên
+là một cái con để mà research về
+database. Một con research về API
+midware, một con research về cái cách
+khởi động foot trap cũng như là những
+cái [âm nhạc] những cái định nghĩa. Đấy
+thì ba con này nó sẽ cùng nhau làm việc
+song song để mà giải quyết những cái vấn
+đề phức tạp để tăng cái tốc độ ờ tăng
+cái tốc độ làm việc đó các bạn. Đấy các
+bạn có thể thấy nó giới thiệu ở đây. Đó
+và cuối cùng ba con này nó làm việc xong
+và nó sẽ tổng hợp kết quả và nó đưa ra
+một cái gì? Một cái work through đó. một
+cái artifact. Rồi ngoài ra đó các bạn
+thì nó cũng có giới thiệu cho mình một
+cái tính năng mới đó chính là scedule
+tab à có nghĩ là lên lịch đó các bạn.
+Các bạn có thể nhờ cái dùng cái con AON
+của mình để mà lên một số các bạn sẽ
+cung cấp cho nó một cái workflow nha. Ví
+dụ như workflow về build, về test, về
+deploy một cái application à và à mình
+có thể lình lịch cho nó để mà nó làm
+thay mình à trong những cái lúc mà mình
+offline. Đấy. Đây các bạn thấy không?
+Ví dụ như những cái lúc mà mình không có
+online, ví dụ đúng cái giờ đó, 6:00
+chiều đó thì mày [âm nhạc] phải deloy
+lên production để làm gì? Để client họ
+test. Đó, ví dụ như vậy ha các bạn ha.
+Đó, mình đâu thể lúc nào cũng trực đúng
+6:00 tối rồi mình bấm deploy rồi mình
+triển khai tính năng mới n được đúng
+không các bạn? Đó, thì đó chính là những
+cái thứ mà nó mới ra mắt của antiravity
+2.0. Ngoài ra đó các bạn thì nó vẫn giữ
+lại cái bảng ID thôi các bạn. Nó chia
+làm hai cái application rin nha các bạn
+ha. Và ở trong cái ID thì nó sẽ không
+còn cái UI của agent manager nữa. Và
+mình thấy là trong cái thời buổi hiện
+nay một cái dân file coding chính hiệu
+thì họ thường là sử dụng cái giao diện
+này, giao diện mà tập trung vào agent
+gọi là agent first đó các bạn ha. Chứ họ
+không có xài một cái ID vừa code, vừa
+code vừa chỉnh sửa code vừa vừa from đâu
+các bạn. Ví dụ như các bạn làm việc trên
+nhiều dự án đi hoặc là một dự án các bạn
+quản lý và chạy nhiều cái con agent đi
+thì làm việc trên này thì hiệu quả hơn
+chứ các bạn. Các bạn cùng chên vào
+project thì các bạn cũng có thể biết
+được là ừ hiện tại đang có bao nhiêu con
+agent chạy song song và đã làm việc xong
+chưa. Còn nếu như cái idea cũ thì các
+bạn chỉ có một cái cửa sổ agent thôi thì
+các bạn đâu có thể nào làm việc song
+song được đúng không các bạn? Bạn không
+thể nào chạy nhiều con nhiều con agent
+song song được mà các bạn phải bắt buộc
+phải làm việc ở trên cái antiravity 2.0
+này. Đấy thì mình có biết một cái thằng
+mà startup mới ra mắt gọi là gì ta?
+Prit prism đó mọi người. Prit đấy. Prit
+my thì nó cũng build một cái thứ gọi là
+agent first đó mọi người. Cái nó sẽ tập
+trung vào cái thứ gọi là
+ờ đây frace đó. mình giới thiệu cho mọi
+người đó nó sẽ tập trung vào đầu tiên nó
+không có một cái cửa sổ để mình visualiz
+code hoặc là những cái project structure
+mà nó sẽ chỉ có những gì những cái
+[âm nhạc] những cái terminal này, những
+cái workspace nè hiển thị ở đây và một
+số những cái cửa sổ để review khi mà
+chạy [âm nhạc] những cái những cái web
+đó hoặc là hoặc là view những cái
+artifact đấy ha các bạn ha. Đấy ok đó là
+cái tương lai là cái hiện đại ha các bạn
+ha. Các bác bắt buộc phải à học hỏi cũng
+như là thay đổi thôi. Rồi
+video hôm nay cũng khá là dài rồi. Hẹn
+gặp các bạn ở trong những cái video tiếp
+theo của kênh lập trình fullstack. Các
+bạn hãy like cũng như là comment ở trong
+video này để mình có thêm nhiều động lực
+để mà làm những cái video tiếp theo.
+Chào tạm biệt các bạn. Bye bye.
