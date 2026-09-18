@@ -1,0 +1,412 @@
+WEBVTT
+Kind: captions
+Language: vi
+
+00:00:00.000 --> 00:00:03.107
+mỗi 2 tuần mình phải có hơn mười mấy cuộc họp và mình không
+
+00:00:03.108 --> 00:00:06.527
+muốn dành rất nhiều thời gian nên mình đã tạo một con agent để
+
+00:00:06.528 --> 00:00:11.167
+giúp đỡ mình để viết những script và chuẩn bị cho
+
+00:00:11.168 --> 00:00:15.547
+những cuộc họp này. Bây giờ mình hãy tạo một con agent nha.
+
+00:00:15.925 --> 00:00:19.091
+xem script này nó có nó có thể làm được gì Thì đó,
+
+00:00:19.211 --> 00:00:21.991
+đầu tiên bọn nó sẽ opening Nó sẽ bảo là chào mừng mọi người
+
+00:00:21.992 --> 00:00:26.391
+đến với Sprint Demo Đó, rồi tôi tên là Scrum Master của team Cảm
+
+00:00:26.392 --> 00:00:28.031
+ơn mọi người đã dành thời gian cho cuộc họp này
+
+00:00:28.180 --> 00:00:32.100
+Chào các bạn, hôm nay mình sẽ làm video về series AI công việc
+
+00:00:32.101 --> 00:00:35.240
+văn phòng. Mấy tập trước mình đã dùng một số skill của anh Ivan
+
+00:00:35.241 --> 00:00:37.640
+để tạo skill cho Office như là Word,
+
+00:00:37.900 --> 00:00:42.460
+Excel, PowerPoint. Hôm nay mình sẽ cùng các bạn tạo một skill hoặc
+
+00:00:42.461 --> 00:00:46.560
+là agent. Điều đáng sợ của AI là AI có thể tự viết form
+
+00:00:46.561 --> 00:00:50.580
+lạnh cho chính bản thân mình, nên mình không phải viết bất cứ thứ
+
+00:00:50.581 --> 00:00:53.760
+gì, mình hôm nay mình sẽ để AI viết luôn skill hoặc là agent
+
+00:00:53.761 --> 00:00:56.300
+cho chính nó. Nếu bạn có ý tưởng nào hay,
+
+00:00:56.460 --> 00:00:59.740
+hãy comment bên dưới, nhớ like, share và subscribe để mình có thêm động
+
+00:00:59.741 --> 00:01:03.780
+lực làm những video tiếp theo. Sơ qua về mình hiểu về POM.
+
+00:01:04.100 --> 00:01:08.091
+POM là những quy tắc chung do Ortheopics quy truẩn hóa để hóa để
+
+00:01:08.092 --> 00:01:11.451
+cho AI có thể đọc hiểu được. Ví dụ như mình tạo một form
+
+00:01:11.452 --> 00:01:16.651
+thì cái form đấy phải được mọi AI đọc hiểu được từ GPT,
+
+00:01:17.011 --> 00:01:19.531
+Gemini, Cloud, hoặc là DeepSeek, với mình,
+
+00:01:19.851 --> 00:01:24.091
+tất cả các đo.def.md file đều là form.
+
+00:01:24.451 --> 00:01:27.831
+Form tùy mục đích sử dụng, có thể được gọi là skill,
+
+00:01:27.971 --> 00:01:30.491
+hoặc là agent, hoặc là workflow. Lưu ý,
+
+00:01:30.771 --> 00:01:35.111
+hôm nay mình sẽ làm demo form ở trên VS Code thay vì
+
+00:01:35.112 --> 00:01:39.751
+AntiGravity, tại vì mình dùng bản Free với Google để test nên
+
+00:01:39.752 --> 00:01:42.451
+mình không có nhiều uses hoặc là plans.
+
+00:01:42.452 --> 00:01:47.571
+sau khi làm xong form mình sẽ test lại trên antigravity
+
+00:01:48.113 --> 00:01:50.613
+Và một số điều cơ bản,
+
+00:01:50.753 --> 00:01:55.453
+Antigravity và VS Code là hai IDE giống
+
+00:01:55.454 --> 00:02:00.053
+nhau đến tận 80%. VS Code là cái cũ cho những
+
+00:02:00.054 --> 00:02:02.653
+người như mình là software engineer thuần về code.
+
+00:02:03.073 --> 00:02:06.393
+Còn Antigravity là thuần về AI Driven.
+
+00:02:07.033 --> 00:02:11.753
+Cho The Demo, hôm nay mình sẽ tóm tắt cuộc họp và tóm
+
+00:02:11.754 --> 00:02:14.633
+tắt công việc để báo cáo lên manager.
+
+00:02:14.634 --> 00:02:17.253
+Đó là những công việc mình làm hàng ngày ở công ty.
+
+00:02:17.693 --> 00:02:22.253
+Let's do it. Thank you. Đây là bảng báo cáo
+
+00:02:22.254 --> 00:02:24.833
+những công việc mà mình làm hàng ngày ở công ty. Ở công ty
+
+00:02:24.834 --> 00:02:27.633
+mình là Scrum Master. Với Scrum Master,
+
+00:02:27.853 --> 00:02:32.374
+công việc của mình của mình sẽ là phải báo cáo sprint planning mình
+
+00:02:32.375 --> 00:02:37.234
+là người điều phố những cuộc họp về sprint planning là planning những
+
+00:02:37.235 --> 00:02:41.794
+project đến 2 tuần tới là team sẽ làm những
+
+00:02:41.795 --> 00:02:46.454
+thứ gì, phải điều phố những công việc như vậy rồi mỗi ngày mình
+
+00:02:46.455 --> 00:02:49.874
+phải điều phố các cuộc họp của cả team với nhau là mọi người
+
+00:02:49.875 --> 00:02:53.134
+đã làm gì và làm gì trong ngày hôm đó rồi mình cũng phải
+
+00:02:53.135 --> 00:02:57.754
+điều phố những cuộc demo với Project
+
+00:02:57.755 --> 00:03:02.474
+Manager và Manager với cả Leadership là tháng
+
+00:03:02.475 --> 00:03:05.874
+này hoặc là Spring 2 tuần này team mình đã làm được những gì.
+
+00:03:06.234 --> 00:03:10.065
+Đó, mình phải người điều phối tất cả những thứ đấy. Rồi Sprint Retro
+
+00:03:10.066 --> 00:03:12.605
+là cứ mỗi 2 tuần cả công ty,
+
+00:03:12.845 --> 00:03:16.025
+cả team sẽ ngồi họp với nhau là thứ gì mình đã làm tốt
+
+00:03:16.026 --> 00:03:18.965
+và làm không tốt trong 2 tuần này. Và mình cũng phải điều phối
+
+00:03:18.966 --> 00:03:22.865
+những cuộc họp như vậy. Sau đó mình phải điều phối những cuộc họp
+
+00:03:22.866 --> 00:03:25.665
+về có những project coming up,
+
+00:03:26.025 --> 00:03:30.625
+có những project đến thì mình phải điều phối về team là xem
+
+00:03:30.626 --> 00:03:35.285
+làm cách nào để mình có thể biết về những các project
+
+00:03:35.286 --> 00:03:38.765
+đấy và làm sao để mình có thể lập tịch kế hoạch để hoàn
+
+00:03:38.766 --> 00:03:41.485
+thiện những project, hoàn thành cái dự án đấy.
+
+00:03:42.665 --> 00:03:46.165
+Sau đó là PI planning là planning cho 3 tháng,
+
+00:03:46.885 --> 00:03:50.417
+tương tự như sprint planning. Nhưng mà cái này pending cho 3 tháng Thì
+
+00:03:50.418 --> 00:03:54.057
+với cuộc họp này mình sẽ phải họp với những leadership là những người
+
+00:03:54.058 --> 00:03:59.557
+của công ty tổng và những leader của tổng công ty và
+
+00:03:59.558 --> 00:04:04.077
+manager của mình Đó Và đó là những thứ mà mình phải làm
+
+00:04:04.078 --> 00:04:08.597
+hàng ngày ở công ty Theo bạn thấy đây thì mỗi 2
+
+00:04:08.598 --> 00:04:11.937
+tuần mình phải có hơn mười mấy cuộc họp và mình không muốn dành
+
+00:04:11.938 --> 00:04:15.037
+rất nhiều thời gian nên mình đã tạo một con agent để giúp đỡ
+
+00:04:15.038 --> 00:04:19.637
+mình để viết những script và chuẩn bị cho những cuộc
+
+00:04:19.638 --> 00:04:23.757
+họp này. Bây giờ mình hãy tạo một con agent nha.
+
+00:04:25.157 --> 00:04:28.137
+Đây, mình đã chuẩn bị một cái lệnh sắn cho,
+
+00:04:28.198 --> 00:04:31.218
+Cái chat của mình. Thì đây, bây giờ mình sẽ bảo cái chat của
+
+00:04:31.219 --> 00:04:37.298
+mình là Hãy viết một form và form
+
+00:04:37.299 --> 00:04:41.878
+đấy giúp mình chuẩn bị và báo cáo cho cuộc họp dựa trên những
+
+00:04:41.879 --> 00:04:44.018
+thông tin mà mình đã có ở đây. Đó,
+
+00:04:44.098 --> 00:04:47.278
+xong mình sẽ bảo con form ấy viết cho mình. Và mình chạy.
+
+00:04:53.648 --> 00:04:57.308
+OK, con AI của mình đã tạo cho mình một cái prompt là Scrum
+
+00:04:57.309 --> 00:05:01.889
+Master Prepare Prompt. Đây là cái form chuẩn bị
+
+00:05:01.890 --> 00:05:05.129
+cho các cuộc họp và báo cáo Scrum Master dựa trên cái Scrum Guide
+
+00:05:05.130 --> 00:05:09.769
+là cái guide mà mình vừa đã giới thiệu Đây là và
+
+00:05:09.770 --> 00:05:12.169
+đây là một số trên hợp bản hướng dẫn,
+
+00:05:12.589 --> 00:05:15.429
+hướng dẫn tham chiếu, thông tin đầu vào, các loại,
+
+00:05:15.989 --> 00:05:20.269
+spin, đánh số, thông tin hiện tại rồi này kia nếu có Ok mình
+
+00:05:20.270 --> 00:05:23.209
+sẽ test cái form này xem nó hoạt động như thế nào nha Bây
+
+00:05:23.210 --> 00:05:25.949
+giờ mình có cái form này rồi là cách nào để mình sử dụng
+
+00:05:25.950 --> 00:05:29.389
+Thì bây giờ trước khi những cuộc họp mình chỉ cần đánh tên một
+
+00:05:29.390 --> 00:05:32.469
+cái form này rồi bảo cho nó làm gì.
+
+00:05:32.629 --> 00:05:36.329
+Ví dụ như bây giờ mình sẽ chuẩn bị cho cuộc họp demo và
+
+00:05:36.330 --> 00:05:38.429
+script cho demo.
+
+00:05:38.570 --> 00:05:42.670
+Đó, rồi mình sẽ chỉ cần bảo nó là Scrum Master Prep This is
+
+00:05:42.671 --> 00:05:47.250
+the demo Can you make up data Bây
+
+00:05:47.251 --> 00:05:51.050
+giờ bảo nó là prepare cái script cho mình trước cái Spring Demo Xem
+
+00:05:51.051 --> 00:05:51.770
+nó làm được gì nha
+
+00:05:56.394 --> 00:06:01.193
+đến với xem script này nó có nó có thể làm được gì Thì
+
+00:06:01.194 --> 00:06:04.293
+đó, đầu tiên bọn nó sẽ opening Nó sẽ bảo là chào mừng mọi
+
+00:06:04.294 --> 00:06:08.233
+người đến với Sprint Demo Đó, rồi tôi tên là Scrum Master của team
+
+00:06:08.234 --> 00:06:11.793
+Cảm ơn mọi người đã dành thời gian cho cuộc họp này Rồi nó
+
+00:06:11.794 --> 00:06:14.993
+sẽ, Mình bảo nó tự động lấy những,
+
+00:06:14.994 --> 00:06:17.893
+tự động tạo những data Nên nó sẽ bảo là ok,
+
+00:06:17.973 --> 00:06:21.213
+demo này mình sẽ phải làm những gì Đây là kết quả của demo
+
+00:06:21.214 --> 00:06:25.853
+này như thế nào Đó Rồi những gì mà nó phải làm Bây giờ
+
+00:06:25.854 --> 00:06:28.933
+hãy để team show thấy mọi người đã làm được những gì đó.
+
+00:06:29.533 --> 00:06:33.973
+Bạn này và một đồng nghiệp nào đó sẽ lên là demo về cái
+
+00:06:33.974 --> 00:06:38.493
+dự án đấy. Đó, rồi sau đó rồi nó sẽ bảo là hãy
+
+00:06:38.494 --> 00:06:41.534
+kiểm tra. Chỉnh tra lại đến Feature 2 là bạn tiếp theo sẽ là
+
+00:06:41.535 --> 00:06:45.934
+bạn nào, đó. Rồi Feature cuối là bạn nào.
+
+00:06:46.434 --> 00:06:50.774
+Rồi sau đó là Feedback. Cảm ơn team đã hoàn thành xuất sắc demo
+
+00:06:50.775 --> 00:06:55.574
+và bây giờ có Feedback từ Manager hoặc là Project Manager sẽ
+
+00:06:55.575 --> 00:07:00.094
+thế nào. Đó là những script mà mình hay tạo.
+
+00:07:00.374 --> 00:07:03.254
+Mỗi ngày ở công ty trước khi cuộc họp mình chỉ dành 5 phút
+
+00:07:03.255 --> 00:07:07.954
+để mình tạo script và đến cuộc họp mình sẽ follow script
+
+00:07:07.955 --> 00:07:12.734
+để đọc lên. Hãy thử với AntiGravity xem
+
+00:07:12.735 --> 00:07:17.894
+nó có thể làm được không. Đây
+
+00:07:17.895 --> 00:07:23.695
+là mình đang có AntiGravity. Để mình thử Anti-Gravity với cái Squam
+
+00:07:23.696 --> 00:07:25.755
+Master Form này nha,
+
+00:07:26.195 --> 00:07:32.735
+Agent này. Đó. Mình bảo Accom Squam
+
+00:07:32.736 --> 00:07:33.375
+Master đấy.
+
+00:07:50.875 --> 00:07:54.795
+Scrum Master. Đó.
+
+00:07:54.895 --> 00:07:57.055
+This Demo. Đó. Để xem,
+
+00:07:57.056 --> 00:07:59.155
+Để xem AI có,
+
+00:08:02.777 --> 00:08:06.197
+Nó sẽ biết cho mình script như thế nào để mình chuẩn bị cho
+
+00:08:06.198 --> 00:08:09.361
+demo của mình. Nó sẽ Ok,
+
+00:08:09.249 --> 00:08:13.789
+nó đã hoàn thành xong. Hãy đọc qua xem AI đã
+
+00:08:13.790 --> 00:08:16.149
+làm agent này của mình như thế nào nha.
+
+00:08:17.129 --> 00:08:19.829
+Đây là một số thông tin về, Đây chỉ là giả định thôi,
+
+00:08:19.869 --> 00:08:23.789
+chỉ là mockup data thôi, đó. Rồi thông tin về cuộc họp.
+
+00:08:24.189 --> 00:08:26.789
+Mở đầu như nào 5 phút, cập nhật bối cảnh của sprint,
+
+00:08:27.269 --> 00:08:31.829
+rồi demo sản phẩm, thu thập feedback từ manager,
+
+00:08:32.529 --> 00:08:36.509
+thảo luận rủi ro và tổng kết và đóng cuộc họp đó.
+
+00:08:37.089 --> 00:08:39.190
+Mở đầu sẽ chào mừng tất cả mọi người. Mình là các bạn. Cảm
+
+00:08:39.191 --> 00:08:43.590
+ơn Product Manager và Stakeholder và toàn thể team đã dành thời gian buổi
+
+00:08:43.591 --> 00:08:46.330
+sáng. Mình sẽ làm như thế này bằng tiếng Anh.
+
+00:08:47.550 --> 00:08:50.910
+Và đó là con agent mà mình đã build ở công ty.
+
+00:08:52.150 --> 00:08:55.130
+Với mình, tiếng Anh của mình không giỏi so với những người bản địa.
+
+00:08:55.610 --> 00:08:58.670
+Nhưng với AI đã giúp mình tự tin hơn và bước từng bước từng
+
+00:08:58.671 --> 00:09:01.630
+bước bước ra khỏi vùng an toàn của mình. Hy vọng với bạn cũng
+
+00:09:01.631 --> 00:09:03.070
+vậy. Thank you for watching.
+

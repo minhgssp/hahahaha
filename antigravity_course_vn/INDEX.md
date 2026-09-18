@@ -77,6 +77,7 @@ Khóa học được thiết kế theo phương pháp "Cầm tay chỉ việc", 
 * 📑 **[Bài 14: Dạy AI Kỹ Năng Word — Tự Động Sửa Văn Bản Chuyên Nghiệp](Tai_Lieu_Doc_Them/Bai_Doc_14_Day_AI_Ky_Nang_Word_Sua_File_Chuyen_Nghiep.md)**
 * 📑 **[Bài 15: Excel Skill Cho AI — Tự Động Sửa Lỗi Công Thức & Chuẩn Hóa Bảng Tính](Tai_Lieu_Doc_Them/Bai_Doc_15_Excel_Skill_Cho_AI_Tu_Dong_Sua_Loi_Dinh_Dang.md)**
 * 📑 **[Bài 16: Đánh Giá Thực Tế AI Tự Làm Slide PowerPoint Từ Tài Liệu Văn Bản](Tai_Lieu_Doc_Them/Bai_Doc_16_AI_Tu_Tao_PowerPoint_Tu_Tai_Lieu_Thuc_Te.md)**
+* 📑 **[Bài 17: AI Tự Soạn Kịch Bản Mọi Cuộc Họp — Xây Dựng Scrum Master & Meeting Agent](Tai_Lieu_Doc_Them/Bai_Doc_17_AI_Tu_Soan_Kich_Ban_Dieu_Phoi_Cuoc_Hop_Scrum_Master_Agent.md)**
 * 📊 **[Báo cáo Đánh giá Sư phạm Tích hợp Giáo trình](Tai_Lieu_Doc_Them/Danh_Gia_Tich_Hop_Giao_Trinh.md)**
 
 ---

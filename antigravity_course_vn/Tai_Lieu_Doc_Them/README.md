@@ -118,4 +118,11 @@ Thư mục này tổng hợp các bài viết chuyên đề được đúc kết
 
 ---
 
+### [Bài 17: AI Tự Soạn Kịch Bản Mọi Cuộc Họp — Xây Dựng Scrum Master & Meeting Agent](Bai_Doc_17_AI_Tu_Soan_Kich_Ban_Dieu_Phoi_Cuoc_Hop_Scrum_Master_Agent.md)
+* **Thời lượng gốc:** 9 phút 04 giây (Chia sẻ bởi PieLikeClaw)
+* **Nội dung chính:** Phương pháp biến quy chuẩn Agile/Scrum Guide thành biểu mẫu Agent, tự động sinh kịch bản điều phối cuộc họp song ngữ 5 phần chi tiết, chỉ mất 3 phút trước giờ G.
+* 🔗 [Xem video gốc trên YouTube](https://www.youtube.com/watch?v=xLehvqex9gc)
+
+---
+
 > 📂 *Toàn bộ tệp phụ đề gốc (transcript) dạng văn bản và ảnh chụp màn hình minh họa đã được lưu trữ tại `transcripts/` và `../assets/screenshots/video_frames/`.*
