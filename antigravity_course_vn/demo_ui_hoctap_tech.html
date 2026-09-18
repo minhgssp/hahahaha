@@ -1,0 +1,679 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>hoctap.tech — Lớp Xóa Mù Antigravity & Nhập Môn AI-Agent</title>
+  <script src="https://www.gstatic.com/antigravity/web/dev/tailwindcss.min.js"></script>
+  <style>
+    @keyframes pulse-subtle {
+      0%, 100% { opacity: 1; transform: scale(1); }
+      50% { opacity: 0.9; transform: scale(1.02); }
+    }
+    .badge-pulse { animation: pulse-subtle 3s infinite ease-in-out; }
+    
+    @keyframes spin-slow {
+      0% { transform: rotate(0deg); }
+      100% { transform: rotate(360deg); }
+    }
+    .spin-slow { animation: spin-slow 8s linear infinite; }
+  </style>
+</head>
+<body class="bg-slate-50 text-slate-900 font-sans antialiased min-h-screen relative selection:bg-violet-100 selection:text-violet-900">
+
+  <!-- Header / Navbar -->
+  <header class="sticky top-0 z-40 bg-white/90 backdrop-blur-md border-b border-slate-200/80 shadow-xs">
+    <div class="max-w-6xl mx-auto px-4 sm:px-6 h-16 flex items-center justify-between">
+      <div class="flex items-center gap-3">
+        <div class="w-9 h-9 rounded-xl bg-gradient-to-tr from-violet-600 to-indigo-600 flex items-center justify-center text-white font-black text-lg shadow-md shadow-violet-500/20">
+          A
+        </div>
+        <div>
+          <div class="flex items-center gap-2">
+            <span class="font-extrabold text-slate-900 text-base tracking-tight">ANTIGRAVITY</span>
+            <span class="text-violet-600 font-black text-xs px-2 py-0.5 bg-violet-50 rounded-full border border-violet-200">EVENTS</span>
+          </div>
+          <p class="text-[10px] text-slate-400 font-semibold tracking-wider">by hoctap.tech</p>
+        </div>
+      </div>
+
+      <nav class="hidden md:flex items-center gap-6 text-xs font-bold text-slate-600">
+        <a href="#events" class="text-violet-600 font-extrabold hover:text-violet-700 transition-colors">Sự kiện & Khóa học</a>
+        <a href="#instructor" class="hover:text-violet-600 transition-colors">Giảng viên</a>
+        <a href="#benefits" class="hover:text-violet-600 transition-colors">Phương pháp</a>
+        <a href="#my-courses" class="hover:text-violet-600 transition-colors flex items-center gap-1.5 px-3 py-1.5 rounded-lg bg-slate-100 hover:bg-slate-200 text-slate-800">
+          🎓 Cổng học viên
+        </a>
+      </nav>
+
+      <div class="flex items-center gap-3">
+        <a href="https://zalo.me/773371909" target="_blank" rel="noreferrer" class="text-xs font-bold text-slate-600 hover:text-violet-600 px-3 py-1.5 rounded-lg border border-slate-200 hover:border-violet-300 transition-all flex items-center gap-1.5 bg-white shadow-2xs">
+          <span class="w-2 h-2 rounded-full bg-emerald-500"></span>
+          <span>Zalo hỗ trợ</span>
+        </a>
+        <button onclick="openRegisterModal()" class="hidden sm:inline-flex text-xs font-bold text-white bg-slate-900 hover:bg-violet-600 px-4 py-2 rounded-xl transition-all shadow-sm cursor-pointer">
+          Đăng ký khóa mới →
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <!-- Hero Section -->
+  <section class="relative overflow-hidden pt-12 pb-14 lg:pt-16 lg:pb-20 border-b border-slate-200/60 bg-gradient-to-b from-white via-slate-50/50 to-slate-100/50">
+    <div class="max-w-6xl mx-auto px-4 sm:px-6">
+      
+      <div class="text-center max-w-3xl mx-auto space-y-4">
+        <div class="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-violet-50 border border-violet-200 text-violet-700 text-xs font-bold badge-pulse">
+          <span class="w-2 h-2 rounded-full bg-emerald-500 animate-ping"></span>
+          <span>Khóa mới mở tuyển: Thứ 3 (22/09/2026) • Học phí 500.000đ</span>
+        </div>
+
+        <h1 class="text-3xl sm:text-5xl font-black text-slate-900 tracking-tight leading-tight">
+          Làm chủ tư duy vận hành <span class="bg-clip-text text-transparent bg-gradient-to-r from-violet-600 via-indigo-600 to-purple-600">AI-Agent Thực Chiến</span>
+        </h1>
+
+        <p class="text-sm sm:text-base text-slate-600 leading-relaxed max-w-2xl mx-auto">
+          Khóa học "Xóa Mù" nấc thang số 0 dành riêng cho Dân Văn Phòng & Quản Lý. Không cần biết lập trình — Tận dụng công cụ miễn phí/giá rẻ từ Google để làm chủ bản chất giao việc và điều phối tác tử.
+        </p>
+
+        <!-- Social Proof Stats -->
+        <div class="pt-6 grid grid-cols-3 gap-3 max-w-lg mx-auto">
+          <div class="bg-white p-3.5 rounded-2xl border border-slate-200/80 shadow-xs text-center">
+            <div class="text-xl sm:text-2xl font-black text-slate-900">750+</div>
+            <div class="text-[10px] sm:text-xs font-bold text-slate-400 uppercase tracking-wider">Học viên tham gia</div>
+          </div>
+          <div class="bg-white p-3.5 rounded-2xl border border-slate-200/80 shadow-xs text-center">
+            <div class="text-xl sm:text-2xl font-black text-violet-600">Level 0</div>
+            <div class="text-[10px] sm:text-xs font-bold text-slate-400 uppercase tracking-wider">Nhập môn từ đầu</div>
+          </div>
+          <div class="bg-white p-3.5 rounded-2xl border border-slate-200/80 shadow-xs text-center">
+            <div class="text-xl sm:text-2xl font-black text-emerald-600">100%</div>
+            <div class="text-[10px] sm:text-xs font-bold text-slate-400 uppercase tracking-wider">Hỗ trợ & Gỡ rối</div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- Main Content -->
+  <main class="max-w-6xl mx-auto px-4 sm:px-6 py-10 space-y-12" id="events">
+
+    <!-- SPOTLIGHT: KHÓA HỌC SẮP TỚI #10 -->
+    <div id="featured-event" class="relative rounded-3xl bg-gradient-to-br from-slate-900 via-violet-950 to-indigo-950 text-white p-6 sm:p-10 shadow-2xl overflow-hidden border border-violet-800/40">
+      <!-- Glow decoration -->
+      <div class="absolute -right-20 -top-20 w-80 h-80 bg-violet-600/30 rounded-full blur-3xl pointer-events-none"></div>
+      <div class="absolute -left-20 -bottom-20 w-80 h-80 bg-indigo-600/20 rounded-full blur-3xl pointer-events-none"></div>
+
+      <div class="relative z-10 grid grid-cols-1 lg:grid-cols-12 gap-8 items-center">
+        <!-- Left details -->
+        <div class="lg:col-span-8 space-y-5">
+          <div class="flex flex-wrap items-center gap-2">
+            <span class="px-3 py-1 rounded-full bg-emerald-500/20 border border-emerald-400/30 text-emerald-300 text-xs font-black uppercase tracking-wider flex items-center gap-1.5">
+              <span class="w-1.5 h-1.5 rounded-full bg-emerald-400"></span> ĐANG MỞ ĐĂNG KÝ
+            </span>
+            <span class="px-3 py-1 rounded-full bg-white/10 text-white/80 text-xs font-bold">
+              Khóa #10 • Khóa Xóa Mù
+            </span>
+            <span class="px-3 py-1 rounded-full bg-violet-500/20 text-violet-300 text-xs font-bold border border-violet-400/20">
+              Trực tuyến qua Zoom
+            </span>
+          </div>
+
+          <h2 class="text-2xl sm:text-4xl font-black tracking-tight leading-snug">
+            Lớp Xóa Mù Antigravity & Nhập Môn AI-Agent Cho Dân Văn Phòng
+          </h2>
+
+          <div class="p-4 rounded-2xl bg-white/5 border border-white/10 space-y-2 text-xs sm:text-sm text-slate-200 leading-relaxed">
+            <p>
+              💡 <strong>Bản chất:</strong> Công cụ có thể thay đổi liên tục, nhưng <strong>tư duy quản lý và vận hành AI-Agent mới là cốt lõi</strong>. Chúng ta chọn Antigravity vì đây là công cụ có <em>chi phí rất rẻ, gói miễn phí hào phóng từ Google</em>, chạy an toàn trên máy tính cá nhân — cực kỳ phù hợp để người mới bắt đầu (newbie) làm quen mà không phải trả phí đắt đỏ.
+            </p>
+            <p class="text-slate-300">
+              🎯 <strong>Định vị rõ ràng:</strong> Đây là <strong>nấc thang số 0 bắt buộc</strong> giúp bạn xóa bỏ rào cản tâm lý, nắm vững cách nạp bối cảnh, đặt quy tắc (Rules) và điều phối tác tử. Khóa học <em>không hứa hẹn viển vông</em> về việc tạo ra AI tự động hóa hoàn toàn 24/7, nhưng là nền tảng vững chắc để bạn tự tin tự học, tự cài Skill và tiếp thu các kiến thức nâng cao trong tương lai mà không bao giờ bỡ ngỡ.
+            </p>
+          </div>
+
+          <!-- Key Highlights -->
+          <div class="grid grid-cols-1 sm:grid-cols-2 gap-3 pt-1">
+            <div class="flex items-center gap-2.5 text-xs text-slate-200">
+              <span class="w-5 h-5 rounded-md bg-white/10 flex items-center justify-center text-emerald-400 font-bold">✓</span>
+              <span>Cầm tay chỉ việc từ Step 0 (Không cần biết lập trình)</span>
+            </div>
+            <div class="flex items-center gap-2.5 text-xs text-slate-200">
+              <span class="w-5 h-5 rounded-md bg-white/10 flex items-center justify-center text-emerald-400 font-bold">✓</span>
+              <span>Học tư duy giao việc & thiết lập Rules (kiểm soát ảo giác)</span>
+            </div>
+            <div class="flex items-center gap-2 text-xs text-slate-200">
+              <span class="w-5 h-5 rounded-md bg-emerald-500/20 text-emerald-400 font-black flex items-center justify-center text-[10px]">✓</span>
+              <span>Thực hành tác vụ văn phòng: Word, Excel, tóm tắt, báo cáo</span>
+            </div>
+            <div class="flex items-center gap-2 text-xs text-slate-200">
+              <span class="w-5 h-5 rounded-md bg-violet-500/30 text-violet-300 font-black flex items-center justify-center text-[10px]">★</span>
+              <span class="font-bold text-violet-200">Buổi 2: Review, giải đáp thắc mắc & gỡ rối từng ca thực tế</span>
+            </div>
+          </div>
+
+          <!-- Schedule & Location -->
+          <div class="flex flex-wrap gap-4 text-xs font-bold text-slate-300 pt-2 border-t border-white/10">
+            <div class="flex items-center gap-2">
+              <span class="text-violet-400">📅</span>
+              <span>Buổi 1: Thứ 3, 22/09 (19:30 - 21:30)</span>
+            </div>
+            <div class="flex items-center gap-2">
+              <span class="text-violet-400">💬</span>
+              <span>Buổi 2: Review & Giải đáp thắc mắc Chủ nhật (27/09)</span>
+            </div>
+            <div class="flex items-center gap-2">
+              <span class="text-violet-400">📍</span>
+              <span>Zoom Meeting (Nhận link sau khi chuyển khoản)</span>
+            </div>
+          </div>
+        </div>
+
+        <!-- Right Call to Action Box -->
+        <div class="lg:col-span-4 bg-white/10 backdrop-blur-xl border border-white/20 p-6 sm:p-7 rounded-2xl space-y-4 text-center">
+          <div class="text-[11px] font-bold text-violet-300 uppercase tracking-widest">Học phí trọn gói (2 buổi)</div>
+          <div class="text-3xl sm:text-4xl font-black text-white">500.000 <span class="text-lg font-bold text-slate-300">đ</span></div>
+          <p class="text-[11px] text-slate-300">Tự động kích hoạt thông tin lớp học ngay sau khi hoàn tất</p>
+
+          <button onclick="openRegisterModal()" class="block w-full py-3.5 px-6 rounded-xl font-black text-sm bg-gradient-to-r from-violet-500 to-indigo-500 hover:from-violet-600 hover:to-indigo-600 text-white shadow-lg shadow-violet-500/30 transition-all transform hover:-translate-y-0.5 text-center cursor-pointer">
+            Đăng ký tham gia ngay ⚡ (Chỉ 1 phút)
+          </button>
+
+          <!-- Quy trình sau thanh toán -->
+          <div class="p-3.5 bg-emerald-950/50 rounded-xl border border-emerald-500/30 text-left space-y-1.5 text-[11px] text-slate-200">
+            <div class="font-bold text-emerald-300 flex items-center gap-1.5 text-xs">
+              <span>📲</span> Quy trình sau thanh toán:
+            </div>
+            <p class="leading-relaxed text-emerald-100">
+              Sau khi chuyển khoản xong, bạn vui lòng liên hệ Zalo <a href="https://zalo.me/773371909" target="_blank" rel="noreferrer" class="underline font-bold text-violet-300 hover:text-white">https://zalo.me/773371909</a> để được nhận thông tin lớp học và mời vào nhóm.
+            </p>
+            <p class="text-[10px] text-emerald-300/80">
+              💡 <em>Nếu có bất kỳ vấn đề nào về thanh toán, hãy cứ dùng link Zalo này để được hỗ trợ tức thì.</em>
+            </p>
+          </div>
+
+          <div class="pt-1 text-[10px] text-slate-400 flex items-center justify-center gap-2">
+            <span>🛡️ Cam kết hỗ trợ cài đặt và gỡ rối tận tình</span>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- TABS: SỰ KIỆN KHÁC & LỊCH SỬ KHÓA HỌC -->
+    <div class="space-y-6 pt-4">
+      <div class="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4 border-b border-slate-200 pb-4">
+        <div>
+          <h3 class="text-xl font-black text-slate-900 tracking-tight">Danh mục Sự kiện & Khóa học</h3>
+          <p class="text-xs text-slate-500">Xem lại các khóa đào tạo đã tổ chức hoặc chọn chương trình phù hợp</p>
+        </div>
+
+        <!-- Filter buttons -->
+        <div class="flex items-center gap-1.5 p-1 bg-slate-200/80 rounded-xl text-xs font-bold">
+          <button id="btn-upcoming" onclick="filterEvents('upcoming')" class="px-3.5 py-1.5 rounded-lg bg-white text-slate-900 shadow-xs transition-all">
+            Sắp tới (1)
+          </button>
+          <button id="btn-all" onclick="filterEvents('all')" class="px-3.5 py-1.5 rounded-lg text-slate-600 hover:text-slate-900 transition-all">
+            Tất cả (9)
+          </button>
+          <button id="btn-past" onclick="filterEvents('past')" class="px-3.5 py-1.5 rounded-lg text-slate-600 hover:text-slate-900 transition-all">
+            Đã diễn ra (8)
+          </button>
+        </div>
+      </div>
+
+      <!-- Events Grid -->
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5" id="events-grid">
+        
+        <!-- Event #10 (Upcoming) -->
+        <div class="event-card upcoming bg-white rounded-2xl border-2 border-violet-400 shadow-sm hover:shadow-md transition-all p-5 flex flex-col justify-between group relative overflow-hidden">
+          <div class="absolute top-0 right-0 bg-violet-600 text-white text-[10px] font-black px-3 py-0.5 rounded-bl-xl uppercase tracking-wider">
+            Tuyển sinh
+          </div>
+          <div class="space-y-3">
+            <div class="flex items-center justify-between">
+              <span class="px-2.5 py-0.5 rounded-full text-[10px] font-black bg-emerald-100 text-emerald-700 uppercase tracking-wider">
+                ● Sắp diễn ra
+              </span>
+              <span class="text-xs font-extrabold text-violet-600">#10</span>
+            </div>
+            <h4 class="font-bold text-slate-900 text-base group-hover:text-violet-600 transition-colors leading-snug">
+              Lớp Xóa mù Antigravity cơ bản
+            </h4>
+            <div class="space-y-1.5 text-xs text-slate-500 font-medium">
+              <p>📅 19:30, Thứ 3 (22/09/2026)</p>
+              <p>📍 Online qua Zoom (2 buổi)</p>
+              <div class="flex items-center gap-2 pt-1">
+                <span class="font-black text-emerald-600 text-base">500.000đ</span>
+                <span class="text-[10px] text-slate-400 font-semibold">(Trọn gói 2 buổi)</span>
+              </div>
+            </div>
+          </div>
+          <div class="pt-5 border-t border-slate-100 mt-4 flex items-center justify-between">
+            <span class="text-[11px] font-semibold text-slate-400">Level 0: Newbie</span>
+            <button onclick="openRegisterModal()" class="text-xs font-bold text-violet-600 hover:text-violet-800 flex items-center gap-1 cursor-pointer">
+              Đăng ký ngay →
+            </button>
+          </div>
+        </div>
+
+        <!-- Event #9 (Past) -->
+        <div class="event-card past bg-white/70 rounded-2xl border border-slate-200 p-5 flex flex-col justify-between opacity-85 hover:opacity-100 transition-all">
+          <div class="space-y-3">
+            <div class="flex items-center justify-between">
+              <span class="px-2.5 py-0.5 rounded-full text-[10px] font-bold bg-slate-100 text-slate-500 uppercase">
+                Đã diễn ra
+              </span>
+              <span class="text-xs font-bold text-slate-400">#9</span>
+            </div>
+            <h4 class="font-bold text-slate-800 text-base leading-snug">
+              Lớp Xóa mù Antigravity
+            </h4>
+            <div class="space-y-1 text-xs text-slate-500 font-medium">
+              <p>📅 02/04/2026 • 20:00</p>
+              <p>📍 Online/Zoom</p>
+            </div>
+          </div>
+          <div class="pt-4 border-t border-slate-100 mt-4 flex items-center justify-between">
+            <span class="text-[11px] text-slate-400">Khóa trước</span>
+            <span class="text-xs font-semibold text-slate-500">Đã hoàn thành ✓</span>
+          </div>
+        </div>
+
+        <!-- Event #7 (Level 2 Past) -->
+        <div class="event-card past bg-white/70 rounded-2xl border border-slate-200 p-5 flex flex-col justify-between opacity-85 hover:opacity-100 transition-all">
+          <div class="space-y-3">
+            <div class="flex items-center justify-between">
+              <span class="px-2.5 py-0.5 rounded-full text-[10px] font-bold bg-purple-100 text-purple-700 uppercase font-black">
+                Level 2
+              </span>
+              <span class="text-xs font-bold text-slate-400">#7</span>
+            </div>
+            <h4 class="font-bold text-slate-800 text-base leading-snug">
+              Antigravity Level 2 — Kiến trúc sư AI Workforce
+            </h4>
+            <div class="space-y-1 text-xs text-slate-500 font-medium">
+              <p>📅 01/04/2026 • 20:00</p>
+              <p>📍 Online - Zoom</p>
+            </div>
+          </div>
+          <div class="pt-4 border-t border-slate-100 mt-4 flex items-center justify-between">
+            <span class="text-[11px] text-slate-400">Chuyên sâu</span>
+            <span class="text-xs font-semibold text-slate-500">Đã hoàn thành ✓</span>
+          </div>
+        </div>
+
+        <!-- Event #8 (Past) -->
+        <div class="event-card past bg-white/70 rounded-2xl border border-slate-200 p-5 flex flex-col justify-between opacity-85 hover:opacity-100 transition-all">
+          <div class="space-y-3">
+            <div class="flex items-center justify-between">
+              <span class="px-2.5 py-0.5 rounded-full text-[10px] font-bold bg-slate-100 text-slate-500 uppercase">
+                Đã diễn ra
+              </span>
+              <span class="text-xs font-bold text-slate-400">#8</span>
+            </div>
+            <h4 class="font-bold text-slate-800 text-base leading-snug">
+              Lớp Xóa mù Antigravity
+            </h4>
+            <div class="space-y-1 text-xs text-slate-500 font-medium">
+              <p>📅 26/03/2026 • 20:00</p>
+              <p>📍 Online/Zoom</p>
+            </div>
+          </div>
+          <div class="pt-4 border-t border-slate-100 mt-4 flex items-center justify-between">
+            <span class="text-[11px] text-slate-400">Khóa trước</span>
+            <span class="text-xs font-semibold text-slate-500">Đã hoàn thành ✓</span>
+          </div>
+        </div>
+
+        <!-- Event #6 (Past) -->
+        <div class="event-card past bg-white/70 rounded-2xl border border-slate-200 p-5 flex flex-col justify-between opacity-85 hover:opacity-100 transition-all">
+          <div class="space-y-3">
+            <div class="flex items-center justify-between">
+              <span class="px-2.5 py-0.5 rounded-full text-[10px] font-bold bg-slate-100 text-slate-500 uppercase">
+                Đã diễn ra
+              </span>
+              <span class="text-xs font-bold text-slate-400">#6</span>
+            </div>
+            <h4 class="font-bold text-slate-800 text-base leading-snug">
+              Lớp Xóa mù Antigravity
+            </h4>
+            <div class="space-y-1 text-xs text-slate-500 font-medium">
+              <p>📅 19/03/2026 • 20:00</p>
+              <p>📍 Online/Zoom</p>
+            </div>
+          </div>
+          <div class="pt-4 border-t border-slate-100 mt-4 flex items-center justify-between">
+            <span class="text-[11px] text-slate-400">Khóa trước</span>
+            <span class="text-xs font-semibold text-slate-500">Đã hoàn thành ✓</span>
+          </div>
+        </div>
+
+        <!-- Event #5 (Past) -->
+        <div class="event-card past bg-white/70 rounded-2xl border border-slate-200 p-5 flex flex-col justify-between opacity-85 hover:opacity-100 transition-all">
+          <div class="space-y-3">
+            <div class="flex items-center justify-between">
+              <span class="px-2.5 py-0.5 rounded-full text-[10px] font-bold bg-slate-100 text-slate-500 uppercase">
+                Đã diễn ra
+              </span>
+              <span class="text-xs font-bold text-slate-400">#5</span>
+            </div>
+            <h4 class="font-bold text-slate-800 text-base leading-snug">
+              Webinar: Antigravity IDE vs Antigravity 2.0
+            </h4>
+            <div class="space-y-1 text-xs text-slate-500 font-medium">
+              <p>📅 12/03/2026 • 20:00</p>
+              <p>📍 Online/Zoom</p>
+            </div>
+          </div>
+          <div class="pt-4 border-t border-slate-100 mt-4 flex items-center justify-between">
+            <span class="text-[11px] text-slate-400">Webinar</span>
+            <span class="text-xs font-semibold text-slate-500">Đã hoàn thành ✓</span>
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+    <!-- Instructor & Methodology Section -->
+    <section class="grid grid-cols-1 md:grid-cols-2 gap-8 pt-8 border-t border-slate-200" id="instructor">
+      <div class="bg-white p-6 sm:p-8 rounded-3xl border border-slate-200 shadow-xs space-y-4">
+        <div class="flex items-center gap-4">
+          <div class="w-16 h-16 rounded-2xl bg-slate-900 text-white flex items-center justify-center font-black text-2xl">
+            M
+          </div>
+          <div>
+            <h4 class="text-lg font-black text-slate-900">Hoàng Đức Minh</h4>
+            <p class="text-xs font-bold text-violet-600">Giảng viên & Người sáng lập hoctap.tech</p>
+            <p class="text-xs text-slate-400 mt-0.5">Kinh nghiệm thực chiến triển khai AI-Agent</p>
+          </div>
+        </div>
+        <p class="text-xs sm:text-sm text-slate-600 leading-relaxed">
+          Với quan điểm: <em>"AI không thay thế con người, nhưng người biết dùng AI sẽ tạo ra lợi thế vượt trội"</em>. Chương trình được thiết kế nhằm giúp học viên xóa tan nỗi sợ kỹ thuật, biến AI thành cộng sự đắc lực trong công việc văn phòng hàng ngày.
+        </p>
+      </div>
+
+      <div class="bg-white p-6 sm:p-8 rounded-3xl border border-slate-200 shadow-xs space-y-4" id="benefits">
+        <h4 class="text-lg font-black text-slate-900 flex items-center gap-2">
+          <span>🎯</span> Phương pháp đào tạo 3 không
+        </h4>
+        <ul class="space-y-2.5 text-xs sm:text-sm text-slate-600">
+          <li class="flex items-start gap-2.5">
+            <span class="text-emerald-600 font-bold">✓</span>
+            <span><strong>Không lý thuyết suông:</strong> 100% thời lượng là thực hành trên máy tính cá nhân.</span>
+          </li>
+          <li class="flex items-start gap-2.5">
+            <span class="text-emerald-600 font-bold">✓</span>
+            <span><strong>Không bắt buộc biết code:</strong> Tiếp cận qua giao diện trực quan và câu lệnh tiếng Việt tự nhiên.</span>
+          </li>
+          <li class="flex items-start gap-2.5">
+            <span class="text-emerald-600 font-bold">✓</span>
+            <span><strong>Không bỏ rơi học viên:</strong> Buổi 2 dành trọn vẹn để giải đáp thắc mắc và hỗ trợ xử lý từng ca vướng mắc.</span>
+          </li>
+        </ul>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- Footer -->
+  <footer class="border-t border-slate-200 bg-white py-10 text-center text-xs text-slate-400 space-y-2">
+    <div class="font-extrabold text-slate-700 tracking-tight">ANTIGRAVITY EVENTS • HOCTAP.TECH</div>
+    <p>Nền tảng đào tạo kỹ năng & công nghệ thực chiến cho người đi làm</p>
+    <p class="text-[10px] text-slate-400">
+      Kênh Zalo hỗ trợ chính thức: <a href="https://zalo.me/773371909" target="_blank" rel="noreferrer" class="text-violet-600 underline font-bold">https://zalo.me/773371909</a>
+    </p>
+    <p class="text-[10px] text-slate-300">© 2026 hoctap.tech. Mọi quyền được bảo lưu.</p>
+  </footer>
+
+  <!-- FLOATING ZALO WIDGET CỐ ĐỊNH GÓC PHẢI -->
+  <div class="fixed bottom-6 right-6 z-50 flex flex-col items-end gap-2">
+    <div id="zalo-tooltip" class="bg-slate-900 text-white text-[11px] font-semibold py-1.5 px-3 rounded-xl shadow-lg border border-slate-700 hidden sm:flex items-center gap-1.5 animate-bounce">
+      <span>💬 Cần hỗ trợ đăng ký? Nhắn Zalo ngay!</span>
+    </div>
+    <a href="https://zalo.me/773371909" target="_blank" rel="noreferrer" class="flex items-center gap-2.5 px-4 py-3 bg-gradient-to-r from-blue-600 to-indigo-600 hover:from-blue-700 hover:to-indigo-700 text-white rounded-full shadow-xl hover:shadow-2xl transition-all transform hover:scale-105 group border-2 border-white/80">
+      <div class="w-6 h-6 rounded-full bg-white text-blue-600 flex items-center justify-center font-black text-xs">
+        Z
+      </div>
+      <div class="text-left hidden sm:block">
+        <div class="text-[10px] font-bold text-blue-100 uppercase leading-none">Hỗ trợ trực tiếp</div>
+        <div class="text-xs font-black leading-tight">Zalo 0773371909</div>
+      </div>
+    </a>
+  </div>
+
+  <!-- MODAL ĐĂNG KÝ RÚT GỌN & THANH TOÁN SEPAY VIETQR -->
+  <div id="register-modal" class="fixed inset-0 z-50 hidden bg-slate-900/80 backdrop-blur-sm flex items-center justify-center p-4 overflow-y-auto">
+    <div class="bg-white rounded-3xl max-w-lg w-full shadow-2xl border border-slate-200 overflow-hidden relative animate-in fade-in zoom-in-95 duration-200 my-8">
+      
+      <!-- Header Modal -->
+      <div class="bg-gradient-to-r from-violet-600 to-indigo-600 text-white p-6 relative">
+        <button onclick="closeRegisterModal()" class="absolute top-5 right-5 w-8 h-8 rounded-full bg-white/10 hover:bg-white/20 flex items-center justify-center text-white transition-all text-sm cursor-pointer">
+          ✕
+        </button>
+        <span class="text-[10px] font-black tracking-widest uppercase px-2.5 py-0.5 rounded-full bg-white/20 text-violet-100">Khóa #10 • Level 0</span>
+        <h3 class="text-xl font-black mt-2">Đăng Ký Lớp Xóa Mù Antigravity</h3>
+        <p class="text-xs text-violet-100/90 mt-1">Đơn giản hóa: Không cần tạo tài khoản hay mật khẩu.</p>
+      </div>
+
+      <!-- Step 1: Form điền thông tin học viên -->
+      <div id="step-form" class="p-6 space-y-4">
+        <div class="space-y-1">
+          <label class="text-xs font-bold text-slate-700">Họ và tên của bạn <span class="text-red-500">*</span></label>
+          <input type="text" id="reg-name" placeholder="Ví dụ: Nguyễn Văn A" class="w-full px-4 py-2.5 rounded-xl border border-slate-300 focus:border-violet-500 focus:ring-2 focus:ring-violet-200 text-sm outline-hidden transition-all" required>
+        </div>
+
+        <div class="grid grid-cols-1 sm:grid-cols-2 gap-3">
+          <div class="space-y-1">
+            <label class="text-xs font-bold text-slate-700">Số điện thoại / Zalo <span class="text-red-500">*</span></label>
+            <input type="tel" id="reg-phone" placeholder="0901234567" class="w-full px-4 py-2.5 rounded-xl border border-slate-300 focus:border-violet-500 focus:ring-2 focus:ring-violet-200 text-sm outline-hidden transition-all" required>
+          </div>
+          <div class="space-y-1">
+            <label class="text-xs font-bold text-slate-700">Email nhận tài liệu & link Zoom <span class="text-red-500">*</span></label>
+            <input type="email" id="reg-email" placeholder="email@gmail.com" class="w-full px-4 py-2.5 rounded-xl border border-slate-300 focus:border-violet-500 focus:ring-2 focus:ring-violet-200 text-sm outline-hidden transition-all" required>
+          </div>
+        </div>
+
+        <div class="space-y-1">
+          <label class="text-xs font-bold text-slate-700">Nghề nghiệp / Lĩnh vực công tác</label>
+          <input type="text" id="reg-job" placeholder="Ví dụ: Nhân viên văn phòng, Quản lý, Kế toán..." class="w-full px-4 py-2.5 rounded-xl border border-slate-300 focus:border-violet-500 focus:ring-2 focus:ring-violet-200 text-sm outline-hidden transition-all">
+        </div>
+
+        <div class="p-3 bg-violet-50 rounded-xl border border-violet-100 text-[11px] text-violet-800 space-y-1">
+          <div class="font-bold flex items-center gap-1.5">
+            <span>🛡️</span> Cam kết bảo mật thông tin
+          </div>
+          <p>Thông tin chỉ dùng để ban tổ chức gửi link phòng Zoom và hỗ trợ cài đặt học liệu.</p>
+        </div>
+
+        <button onclick="submitRegistration()" class="w-full py-3.5 rounded-xl bg-violet-600 hover:bg-violet-700 text-white font-extrabold text-sm shadow-md shadow-violet-500/20 transition-all cursor-pointer">
+          Tiếp tục: Nhận mã thanh toán (500.000đ) →
+        </button>
+
+        <div class="text-center pt-1">
+          <a href="https://zalo.me/773371909" target="_blank" rel="noreferrer" class="text-xs text-slate-500 hover:text-violet-600 font-semibold inline-flex items-center gap-1">
+            💬 Bạn có câu hỏi trước khi đăng ký? Nhắn Zalo: <strong>0773371909</strong>
+          </a>
+        </div>
+      </div>
+
+      <!-- Step 2: Hướng dẫn thanh toán SePay VietQR & Kênh Zalo -->
+      <div id="step-payment" class="p-6 space-y-5 hidden max-h-[80vh] overflow-y-auto">
+        <div class="text-center space-y-1">
+          <span class="w-10 h-10 rounded-full bg-emerald-100 text-emerald-600 inline-flex items-center justify-center text-lg font-bold">✓</span>
+          <h4 class="text-base font-black text-slate-900">Ghi nhận thông tin thành công!</h4>
+          <p class="text-xs text-slate-500">Quét mã VietQR hoặc chuyển khoản đúng cú pháp để kích hoạt chỗ ngồi.</p>
+        </div>
+
+        <!-- Khung quét mã VietQR tự động qua SePay -->
+        <div class="p-4 bg-slate-50 rounded-2xl border border-slate-200 space-y-3 text-center">
+          <div class="flex items-center justify-between text-xs font-bold text-slate-500 px-1">
+            <span>MÃ QUÉT NHANH (VIETQR / SEPAY)</span>
+            <span class="text-emerald-600 flex items-center gap-1">
+              <span class="w-2 h-2 rounded-full bg-emerald-500 animate-ping"></span>
+              Khớp lệnh tự động
+            </span>
+          </div>
+
+          <div class="bg-white p-3 rounded-xl border border-slate-200 inline-block shadow-inner">
+            <img id="qr-image" src="" alt="Mã VietQR Thanh Toán" class="w-48 h-48 sm:w-52 sm:h-52 object-contain mx-auto">
+          </div>
+          <p class="text-[11px] text-slate-500">Mở ứng dụng ngân hàng bất kỳ để quét mã (Tự động điền STK & số tiền 500.000đ)</p>
+        </div>
+
+        <!-- Bảng chi tiết thông tin chuyển khoản có nút Copy -->
+        <div class="p-3.5 bg-slate-50 rounded-2xl border border-slate-200 space-y-2 text-xs">
+          <div class="flex items-center justify-between py-1 border-b border-slate-200">
+            <span class="text-slate-500">Ngân hàng:</span>
+            <span class="font-bold text-slate-900">Techcombank (TCB)</span>
+          </div>
+
+          <div class="flex items-center justify-between py-1 border-b border-slate-200">
+            <span class="text-slate-500">Số tài khoản:</span>
+            <div class="flex items-center gap-2">
+              <span class="font-mono font-bold text-violet-700 text-sm" id="acc-num">19036733719011</span>
+              <button onclick="copyText('19036733719011', 'btn-copy-acc')" id="btn-copy-acc" class="text-[10px] px-2 py-0.5 rounded bg-slate-200 hover:bg-violet-100 text-slate-700 hover:text-violet-700 font-bold transition-all">
+                Copy
+              </button>
+            </div>
+          </div>
+
+          <div class="flex items-center justify-between py-1 border-b border-slate-200">
+            <span class="text-slate-500">Chủ tài khoản:</span>
+            <span class="font-bold text-slate-900">HOANG DUC MINH</span>
+          </div>
+
+          <div class="flex items-center justify-between py-1 border-b border-slate-200">
+            <span class="text-slate-500">Số tiền:</span>
+            <div class="flex items-center gap-2">
+              <span class="font-black text-emerald-600 text-sm">500.000 đ</span>
+              <button onclick="copyText('500000', 'btn-copy-amount')" id="btn-copy-amount" class="text-[10px] px-2 py-0.5 rounded bg-slate-200 hover:bg-violet-100 text-slate-700 hover:text-violet-700 font-bold transition-all">
+                Copy
+              </button>
+            </div>
+          </div>
+
+          <div class="flex items-center justify-between py-1">
+            <span class="text-slate-500">Nội dung CK:</span>
+            <div class="flex items-center gap-2">
+              <span class="font-mono font-black text-violet-700 text-xs sm:text-sm bg-violet-50 px-2 py-0.5 rounded border border-violet-200" id="ck-memo">ANTIK10 [SĐT]</span>
+              <button onclick="copyMemo()" id="btn-copy-memo" class="text-[10px] px-2 py-0.5 rounded bg-slate-200 hover:bg-violet-100 text-slate-700 hover:text-violet-700 font-bold transition-all">
+                Copy
+              </button>
+            </div>
+          </div>
+        </div>
+
+        <!-- Hướng dẫn quan trọng sau thanh toán & Link Zalo -->
+        <div class="p-4 bg-emerald-50 rounded-2xl border-2 border-emerald-300 space-y-2 text-xs text-emerald-950">
+          <div class="font-black text-emerald-800 flex items-center gap-1.5 text-sm">
+            <span>📲</span> HƯỚNG DẪN QUAN TRỌNG SAU KHI THANH TOÁN:
+          </div>
+          <p class="leading-relaxed">
+            Sau khi chuyển khoản xong, bạn vui lòng liên hệ ngay Zalo <a href="https://zalo.me/773371909" target="_blank" rel="noreferrer" class="underline font-bold text-violet-700 hover:text-violet-900">https://zalo.me/773371909</a> để được nhận thông tin lớp học, link phòng Zoom và mời vào nhóm hỗ trợ.
+          </p>
+          <p class="text-[11px] text-emerald-800/90 font-medium">
+            💡 <em>Nếu có bất kỳ trục trặc hoặc thắc mắc nào về thanh toán, bạn cứ dùng link Zalo này để được hỗ trợ tức thì!</em>
+          </p>
+        </div>
+
+        <!-- Action button Zalo -->
+        <a href="https://zalo.me/773371909" target="_blank" rel="noreferrer" class="block w-full py-3.5 rounded-xl bg-gradient-to-r from-emerald-600 to-teal-600 hover:from-emerald-700 hover:to-teal-700 text-white font-extrabold text-sm text-center shadow-lg shadow-emerald-600/20 transition-all">
+          Nhắn tin Zalo xác nhận ngay: https://zalo.me/773371909 💬
+        </a>
+
+        <button onclick="closeRegisterModal()" class="w-full py-2.5 rounded-xl text-slate-500 hover:text-slate-800 text-xs font-semibold cursor-pointer">
+          Đóng cửa sổ
+        </button>
+      </div>
+
+    </div>
+  </div>
+
+  <script>
+    let currentMemo = 'ANTIK10';
+
+    function openRegisterModal() {
+      document.getElementById('register-modal').classList.remove('hidden');
+      document.getElementById('step-form').classList.remove('hidden');
+      document.getElementById('step-payment').classList.add('hidden');
+    }
+
+    function closeRegisterModal() {
+      document.getElementById('register-modal').classList.add('hidden');
+    }
+
+    function submitRegistration() {
+      const name = document.getElementById('reg-name').value.trim();
+      const phone = document.getElementById('reg-phone').value.trim();
+      const email = document.getElementById('reg-email').value.trim();
+
+      if (!name || !phone || !email) {
+        alert('Vui lòng điền đủ Họ tên, Số điện thoại và Email để nhận tài liệu!');
+        return;
+      }
+
+      // Làm sạch số điện thoại
+      const cleanPhone = phone.replace(/[^0-9]/g, '');
+      currentMemo = 'ANTIK10 ' + cleanPhone;
+
+      // Cập nhật nội dung hiển thị
+      document.getElementById('ck-memo').innerText = currentMemo;
+
+      // Tạo link VietQR SePay động
+      const qrUrl = `https://img.vietqr.io/image/970407-19036733719011-compact2.png?amount=500000&addInfo=ANTIK10%20${cleanPhone}&accountName=HOANG%20DUC%20MINH`;
+      document.getElementById('qr-image').src = qrUrl;
+
+      // Chuyển sang màn hình thanh toán
+      document.getElementById('step-form').classList.add('hidden');
+      document.getElementById('step-payment').classList.remove('hidden');
+    }
+
+    function copyText(text, btnId) {
+      navigator.clipboard.writeText(text).then(() => {
+        const btn = document.getElementById(btnId);
+        const originalText = btn.innerText;
+        btn.innerText = 'Đã chép!';
+        btn.classList.add('bg-emerald-100', 'text-emerald-700');
+        setTimeout(() => {
+          btn.innerText = originalText;
+          btn.classList.remove('bg-emerald-100', 'text-emerald-700');
+        }, 2000);
+      });
+    }
+
+    function copyMemo() {
+      copyText(currentMemo, 'btn-copy-memo');
+    }
+
+    function filterEvents(type) {
+      const cards = document.querySelectorAll('.event-card');
+      const btnUpcoming = document.getElementById('btn-upcoming');
+      const btnAll = document.getElementById('btn-all');
+      const btnPast = document.getElementById('btn-past');
+
+      [btnUpcoming, btnAll, btnPast].forEach(btn => {
+        btn.className = 'px-3.5 py-1.5 rounded-lg text-slate-600 hover:text-slate-900 transition-all';
+      });
+
+      if (type === 'upcoming') {
+        btnUpcoming.className = 'px-3.5 py-1.5 rounded-lg bg-white text-slate-900 shadow-xs transition-all font-bold';
+        cards.forEach(c => {
+          if (c.classList.contains('upcoming')) c.style.display = 'flex';
+          else c.style.display = 'none';
+        });
+      } else if (type === 'past') {
+        btnPast.className = 'px-3.5 py-1.5 rounded-lg bg-white text-slate-900 shadow-xs transition-all font-bold';
+        cards.forEach(c => {
+          if (c.classList.contains('past')) c.style.display = 'flex';
+          else c.style.display = 'none';
+        });
+      } else {
+        btnAll.className = 'px-3.5 py-1.5 rounded-lg bg-white text-slate-900 shadow-xs transition-all font-bold';
+        cards.forEach(c => c.style.display = 'flex');
+      }
+    }
+  </script>
+
+</body>
+</html>
