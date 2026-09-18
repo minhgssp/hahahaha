@@ -1,60 +1,62 @@
-# 📚 Mục lục Khóa học Antigravity (Tiếng Việt)
+# 📚 Mục Lục Khóa Học Xóa Mù Antigravity Thực Chiến
 
-Chào mừng bạn đến với khóa học **Antigravity dành cho Dân Văn Phòng**. Đây là lộ trình giúp bạn biến đổi từ một nhân viên làm việc thủ công thành một **AI/Automation PM** chuyên nghiệp.
-
----
-
-## 🚀 Module 0: Nhập môn & Cài đặt
-*Khởi đầu hành trình và thiết lập môi trường làm việc.*
-
-1.  **[0.1 Giới thiệu về Antigravity](Module_0_Getting_Started/0.1_Introduction.md)**
-    - Hiểu về IDE cho dân văn phòng, khái niệm "Bản sao số" và lợi thế so với ChatGPT.
-2.  **[0.2 Hướng dẫn Cài đặt](Module_0_Getting_Started/0.2_Installation_Setup.md)**
-    - Các bước cài đặt nhanh trên Windows/Mac và làm quen giao diện ban đầu.
-3.  **[0.3 Mở Thư mục Khóa học](Module_0_Getting_Started/0.3_Opening_Course_Folder.md)**
-    - Cách mở workspace `antigravity_course_vn` để bắt đầu học tập.
+Chào mừng bạn đến với lộ trình **Làm chủ Antigravity dành cho Dân Văn Phòng & Quản Lý**.  
+Khóa học được thiết kế theo phương pháp "Cầm tay chỉ việc", giúp bạn biến đổi từ người làm việc thủ công trở thành **Người Kiến Tạo Quy Trình (Automation PM)** với sự trợ giúp của AI-Agent.
 
 ---
 
-## 🛠️ Module 1: Kiến thức Nền tảng (Fundamentals)
-*Làm chủ các công cụ và quy tắc cốt lõi của hệ thống.*
+## 🚀 Module 0: Nhập Môn & Thiết Lập Môi Trường
+*Dành cho người mới bắt đầu — Khởi động và chuẩn bị không gian làm việc.*
 
-1.  **[1.1 Chào mừng đến TaskFlow](Module_1_Fundamentals/1.1_Welcome.md)**
-    - Bối cảnh công ty giả định và vai trò AI/Automation PM của bạn.
-2.  **[1.2 Giao diện Antigravity](Module_1_Fundamentals/1.2_Files_Formats.md)**
-    - Agent Manager vs Editor, Add Folder, @ mention, Preview, Fast/Planning mode.
-3.  **[1.3 Các tác vụ đầu tiên](Module_1_Fundamentals/1.3_First_Tasks.md)**
-    - Học cách dùng `@ mention` để sửa file, tạo file mới và tổng hợp thông tin.
-4.  **[1.4 Mẫu (Templates) & Quy trình (Workflows)](Module_1_Fundamentals/1.4_Templates_Workflows.md)**
-    - Chuyển từ "Người làm việc" sang "Người thiết kế quy trình".
-5.  **[1.5 Planning Mode & Tạo Hình ảnh AI](Module_1_Fundamentals/1.5_Modes.md)**
-    - Trải nghiệm Planning mode thực tế và học cách tạo mockup, minh họa bằng AI.
-6.  **[1.6 Thiết lập Phong cách làm việc](Module_1_Fundamentals/1.6_Project_Rules.md)**
-    - Dạy AI hiểu bối cảnh công ty và phong cách viết của bạn qua Project Rules.
-7.  **[1.7 Phân biệt các Khái niệm Cốt lõi](Module_1_Fundamentals/1.7_Core_Concepts.md)**
-    - Hiểu sâu về Knowledge, Workflow, Skill và Rule.
-8.  **[1.8 Làm chủ Không gian làm việc](Module_1_Fundamentals/1.8_Workspace_Mastery.md)**
-    - Quản lý Artifacts, an toàn dữ liệu, đồng bộ giữa nhiều thiết bị và đồng nghiệp.
+1. **[0.1 Giới thiệu về Antigravity cho Dân Văn Phòng](Module_0_Getting_Started/0.1_Introduction.md)**
+   - Hiểu rõ Antigravity là gì: "AI có tay chân" so với chatbot thông thường (ChatGPT/Gemini).
+2. **[0.2 Hướng dẫn Cài đặt & Thiết lập Dễ dàng](Module_0_Getting_Started/0.2_Installation_Setup.md)**
+   - Các bước cài đặt đơn giản trên Windows/Mac và làm quen màn hình khởi động.
+3. **[0.3 Hướng dẫn Mở Thư mục Khóa học (Workspace)](Module_0_Getting_Started/0.3_Opening_Course_Folder.md)**
+   - Thao tác mở thư mục bài học và kiểm tra danh mục tài liệu ở cột bên trái.
 
 ---
 
-## 📈 Module 2: Kỹ năng PM Nâng cao (Advanced)
-*Áp dụng AI vào các bài toán kinh doanh phức tạp.*
+## 🛠️ Module 1: Kỹ Năng Cốt Lõi (Fundamentals)
+*Làm quen công ty giả định TaskFlow và làm chủ các công cụ điều phối AI.*
 
-1.  **[2.1 Viết PRD & Lập Kế hoạch](Module_2_Advanced_PM_Work/2.1_Planning_Proposals.md)**
-    - Quy trình 6 bước để tạo PRD, tờ trình và kế hoạch sự kiện chuyên nghiệp.
-2.  **[2.2 Phân tích Dữ liệu](Module_2_Advanced_PM_Work/2.2_Business_Data.md)**
-    - Quy trình 3 bước (Mô tả → Chẩn đoán → Báo cáo) xử lý CSV/Excel và tạo HTML report.
-3.  **[2.3 Báo cáo Chiến lược & Tổng hợp](Module_2_Advanced_PM_Work/2.3_Executive_Reporting.md)**
-    - Kỹ năng tổng hợp thông tin đa nguồn thành One-pager gửi Ban Giám đốc.
-4.  **[2.4 Nghiên cứu Web (Web Browsing)](Module_2_Advanced_PM_Work/2.4_Web_Browsing.md)**
-    - Tra cứu thông tin thời gian thực, nghiên cứu đối thủ và tóm tắt tin tức.
-5.  **[2.5 Tạo hình ảnh (Image Generation)](Module_2_Advanced_PM_Work/2.5_Image_Generation.md)**
-    - Công thức prompt ảnh để minh họa slide và marketing chuyên nghiệp.
-6.  **[2.6 Tự động hóa Nâng cao (Meta-Workflows)](Module_2_Advanced_PM_Work/2.6_Advanced_Workflows.md)**
-    - Dùng AI để viết quy trình cho AI với lệnh `/buildflow`.
+1. **[1.1 Chào mừng đến với TaskFlow (Bối cảnh Thực hành)](Module_1_Fundamentals/1.1_Welcome.md)**
+   - Nhận việc tại công ty TaskFlow, làm quen 3 đồng nghiệp: Alex (CEO), Sarah (HR), Mike (Sales). *(Lệnh: `/start-1-1`)*
+2. **[1.2 Làm chủ Giao diện Antigravity (Interface Overview)](Module_1_Fundamentals/1.2_Files_Formats.md)**
+   - 3 khu vực làm việc chính, phím tắt xem trước (`Ctrl+Shift+V`) và phím gọi tên file `@`. *(Lệnh: `/start-1-2`)*
+3. **[1.3 Những Tác vụ Đầu tiên cùng AI (First Tasks)](Module_1_Fundamentals/1.3_First_Tasks.md)**
+   - Sửa file có sẵn, biến ghi chú thô thành email và tổng hợp nhiều tài liệu cùng lúc. *(Lệnh: `/start-1-3`)*
+4. **[1.4 Mẫu (Templates) & Quy trình (Workflows)](Module_1_Fundamentals/1.4_Templates_Workflows.md)**
+   - Chuyển từ "tự gõ việc lặp lại" sang "thiết kế biểu mẫu cho AI tự điền". *(Lệnh: `/start-1-4`)*
+5. **[1.5 Lựa chọn Chế độ Làm việc: Nhanh hay Lập Kế hoạch?](Module_1_Fundamentals/1.5_Modes.md)**
+   - Khi nào dùng Fast Mode (làm nhanh việc nhỏ), khi nào dùng Planning Mode (việc lớn nhiều bước). *(Lệnh: `/start-1-5`)*
+6. **[1.6 Dạy AI Hiểu Phong Cách Công Ty (Project Rules)](Module_1_Fundamentals/1.6_Project_Rules.md)**
+   - Nạp bảng nội quy để AI nhớ mãi xưng hô, văn phong và không dùng từ ngữ sáo rỗng. *(Lệnh: `/start-1-6`)*
+7. **[1.7 Phân biệt 4 Khái niệm Cốt lõi: Knowledge, Rule, Workflow, Skill](Module_1_Fundamentals/1.7_Core_Concepts.md)**
+   - Bảng so sánh ví von đời thường cực kỳ dễ nhớ và dễ áp dụng. *(Lệnh: `/start-1-7`)*
+8. **[1.8 Quản lý Không gian Làm việc & An toàn Dữ liệu](Module_1_Fundamentals/1.8_Workspace_Mastery.md)**
+   - Hiểu về tài liệu hoàn chỉnh (Artifacts), lưu trữ file an toàn trên máy tính cá nhân. *(Lệnh: `/start-1-8`)*
+
+---
+
+## 📈 Module 2: Ứng Dụng Thực Chiến Nâng Cao (Advanced PM Work)
+*Giải quyết các bài toán kinh doanh và quản lý thực tế của doanh nghiệp.*
+
+1. **[2.1 Soạn thảo Tờ trình & Kế hoạch Dự án (Plans & Proposals)](Module_2_Advanced_PM_Work/2.1_Planning_Proposals.md)**
+   - Quy trình để AI phỏng vấn bạn và tự động xuất ra tờ trình, kế hoạch hoàn chỉnh. *(Lệnh: `/start-2-1`)*
+2. **[2.2 Phân tích Dữ liệu Kinh doanh & Vẽ Biểu đồ (Sales Data)](Module_2_Advanced_PM_Work/2.2_Business_Data.md)**
+   - Đọc số liệu doanh thu từ file Excel/CSV, tìm nguyên nhân và vẽ biểu đồ tự động không cần hàm. *(Lệnh: `/start-2-2`)*
+3. **[2.3 Báo cáo Chiến lược Dành cho Ban Giám Đốc (One-Pager)](Module_2_Advanced_PM_Work/2.3_Executive_Reporting.md)**
+   - Gom dữ liệu từ nhiều phòng ban thành 1 trang tóm tắt cô đọng gửi Lãnh đạo. *(Lệnh: `/start-2-3`)*
+4. **[2.4 Tra cứu Thông tin Trực tuyến Thời gian Thực (Web Browsing)](Module_2_Advanced_PM_Work/2.4_Web_Browsing.md)**
+   - Cho AI duyệt web, kiểm tra giá đối thủ cạnh tranh và cập nhật chính sách mới. *(Lệnh: `/start-2-4`)*
+5. **[2.5 Tạo Ảnh Minh Họa Báo Cáo & Slide Bằng AI (Image Generation)](Module_2_Advanced_PM_Work/2.5_Image_Generation.md)**
+   - Công thức 4 thành phần tạo ảnh bìa slide, poster sự kiện nội bộ không lo bản quyền. *(Lệnh: `/start-2-5`)*
+6. **[2.6 Tự động hóa Nâng cao: Dùng AI Xây dựng Quy trình cho AI (Meta-Workflows)](Module_2_Advanced_PM_Work/2.6_Advanced_Workflows.md)**
+   - Dùng lệnh `/buildflow` đóng gói công việc thành nút bấm tự động: Làm một lần, dùng mãi mãi! *(Lệnh: `/start-2-6`)*
 
 ---
 
 > [!TIP]
-> **Mẹo học tập:** Bạn có thể nhấn `Ctrl` + `Click` vào các liên kết trên để mở nhanh bài học trong Antigravity.
+> **Mẹo học tập:** Bạn có thể nhấn `Ctrl` + `Click` (hoặc click chuột trực tiếp) vào bất kỳ bài học nào ở trên để mở bài học đó ngay trong Antigravity.  
+> Trong mỗi bài học đều có hướng dẫn lệnh `/start-...` để gọi Trợ giảng AI cùng thực hành!
