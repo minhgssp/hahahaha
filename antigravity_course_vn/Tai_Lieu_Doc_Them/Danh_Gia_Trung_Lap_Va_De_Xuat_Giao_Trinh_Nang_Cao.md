@@ -48,13 +48,19 @@ Sau khi đối chiếu chéo nội dung của 17 tài liệu gốc, chúng tôi 
 ### 3. Trùng lặp về Cấu trúc Rule, Workflow & Skill
 * **Các bài bị lặp:** Bài 01, Bài 02, Bài 17.
 * **Bản chất trùng:** Đều nhắc lại định nghĩa `RULE.md`, `WORKFLOW.md`, `SKILL.md`.
-* **Giải pháp khắc phục:** Nâng cấp từ "giải thích lý thuyết" sang "Thực hành thiết kế Agent chuyên môn cao" (điển hình là Scrum Master / Meeting Facilitator Agent).
+### 4. Bỏ Sót Các Chi Tiết Kỹ Thuật Thực Chiến Chuyên Sâu (Audit Lần 2 Phát Hiện)
+* **7 Bẫy chết người khi AI can thiệp file Excel:** Không chỉ là lỗi công thức đơn giản mà là bẫy ghi đè giá trị tĩnh làm mất công thức tính toán (`VLOOKUP`, `INDEX/MATCH`, `XLOOKUP`), bẫy cắt cụt và biến đổi số định danh dài (>15 chữ số như CCCD, STK) thành dạng số mũ khoa học (`1.23E+15`), bẫy làm hỏng vùng in ấn (`Print_Area`) và sai lệch định dạng ngày tháng (`DD/MM` vs `MM/DD`).
+* **Kỹ thuật nạp Slide Master doanh nghiệp:** Khắc phục triệt để lỗi AI tự sinh slide PowerPoint bị vỡ layout, tràn khung, sai nhận diện thương hiệu qua việc nạp file `.pptx` mẫu chứa Master Layouts và gán nội dung vào Placeholder chuẩn.
+* **Vận hành không giám sát với Scheduled Tasks:** Cơ chế One-shot Timer (`DurationSeconds`) vs Cron Expression 5 trường (`* * * * *`), cùng cờ chạy độc lập `IsDaemon: true` để tự động cào tin và đăng bài lên mạng xã hội lúc 7h sáng mà không cần mở máy.
+* **Đường ống Sư phạm NotebookLM + Antigravity (No-Hallucination):** Cách dùng NotebookLM trích xuất hạt tri thức với số trang chuẩn mực (Grounding & Citation) trước khi nạp vào Antigravity lập trình web giáo dục.
+* **Kịch bản điều phối 5 phần chuẩn Agile của Scrum Master Agent:** Hỗ trợ song ngữ Anh - Việt, quản trị rủi ro quá giờ (Timeboxing), bãi đỗ xe ý kiến (Parking Lot) và bảng phân công hành động (Action Items & Owner).
+* **Bảo tồn phân cấp văn bản Word:** Khắc phục lỗi file nhị phân XML nén, giữ nguyên hệ thống Heading để tự sinh mục lục tự động, bảo vệ chân trang (Footnotes) và font thương hiệu.
 
 ---
 
 ## PHẦN 3: ĐỀ XUẤT HỆ THỐNG BÀI GIẢNG NÂNG CAO (MODULE 3: ADVANCED ENTERPRISE AUTOMATION)
 
-Hệ thống bài giảng nâng cao được thiết kế gồm **10 Chuyên Đề Thực Chiến**, chia làm 5 Trục Kiến Thức (Tracks) mạch lạc, giải quyết triệt để vấn đề trùng lặp:
+Hệ thống bài giảng nâng cao được thiết kế gồm **10 Chuyên Đề Thực Chiến**, chia làm 5 Trục Kiến Thức (Tracks) mạch lạc, giải quyết triệt để vấn đề trùng lặp và thu nạp 100% tri thức:
 
 ```mermaid
 flowchart TD
@@ -88,23 +94,24 @@ flowchart TD
 
 ## PHẦN 4: BẢNG MA TRẬN MAPPING 1-1 KIẾN THỨC TỪ TÀI LIỆU GỐC (NO KNOWLEDGE LOST)
 
-Để đảm bảo **không bỏ sót bất kỳ một hạt tri thức nào** từ 17 video nguồn, dưới đây là bảng đối chiếu 1-1 chi tiết:
+Để đảm bảo **không bỏ sót bất kỳ một hạt tri thức nào** từ 17 video nguồn, dưới đây là bảng đối chiếu 1-1 chi tiết sau 2 vòng audit:
 
-| Bài Giảng Nâng Cao Mới | Nội Dung Tri Thức & Kỹ Năng Đảm Bảo Đào Tạo | Nguồn Video Gốc Được Mapping 1-1 |
+| Bài Giảng Nâng Cao Mới | Nội Dung Tri Thức & Kỹ Năng Đảm Bảo Đào Tạo (Chi Tiết Chuyên Sâu) | Nguồn Video Gốc Được Mapping 1-1 |
 | :--- | :--- | :--- |
-| **Bài 3.1: Kiến Trúc Đa Tác Tử Song Song (Multi-Agent Parallelism)** | • Sự phân tách giữa Antigravity IDE & 2.0 Standalone (Agent Manager)<br>• Cơ chế chia nhỏ bài toán lớn và chạy song song (Parallel Execution)<br>• Kỹ thuật chuyển đổi dự án mượt mà bằng nút `Open IDE`<br>• Ra lệnh khởi tạo toàn bộ ứng dụng bằng `/teamwork-preview` | `GZHv3KLkcGs` (05:48)<br>`bwbLd4o-rwo` (1:22:00)<br>`CYwA2np_LnQ` (1:46:40)<br>`eoz-muc9Y9Y` (10:04) |
-| **Bài 3.2: Thiết Lập Second Brain Chuẩn Local-First** | • Triết lý Local-First: Giữ trọn dữ liệu trên máy tính, bảo mật tuyệt đối 100%<br>• Cấu trúc cây thư mục 4 tầng chuẩn (Inbox, Projects, Resources, Archive)<br>• Tích hợp linh hoạt đa mô hình (Gemini, Claude, Codex) trên 1 bộ nhớ | `Noi5dBVKGRY` (1:50:01) |
-| **Bài 3.3: Chuyên Gia Soạn Thảo Word & Hợp Đồng Doanh Nghiệp** | • Khắc phục triệt để lỗi file nhị phân Office qua Extension hoặc thư viện ngầm<br>• Bộ quy tắc bảo tồn phân cấp tiêu đề (Heading 1, 2, 3) để tự sinh mục lục<br>• Giữ nguyên bảng biểu, chú thích chân trang (Footnotes) và xuất file an toàn | `5JnobuoKgQQ` (05:18)<br>`G6pkv8GEXGw` (05:24) |
-| **Bài 3.4: Bậc Thầy Bảng Tính Excel & 7 Bẫy Công Thức** | • 7 bẫy chết người khi AI sửa Excel (hardcode mất công thức, cắt cụt số dài)<br>• Quy tắc định dạng Text cho số tài khoản, mã thuế, mã định danh >15 chữ số<br>• Bảo vệ cấu trúc liên kết Sheet, vùng in (Print Area) và bộ lọc (Filter) | `BPhJifuAFps` (06:13)<br>`jl5vTGFC5IQ` (05:17) |
-| **Bài 3.5: Tự Động Hóa PowerPoint Theo Slide Master Doanh Nghiệp** | • Phân tích giới hạn khi AI tự sinh slide từ tài liệu văn bản thô<br>• Đóng gói file Slide Master của công ty thành Skill dùng lại vĩnh viễn<br>• Tự động khớp nội dung tóm tắt vào đúng Placeholder, font chữ và logo chuẩn | `GBQ_zLMlGeI` (05:16)<br>`w3Z2uVgIWQ0` (07:40) |
-| **Bài 3.6: Cào Dữ Liệu Thị Trường Không Cần Đăng Nhập** | • Kỹ thuật Social Listening: Cào bài viết và bình luận trên mạng xã hội<br>• Hoàn toàn không cần đăng nhập tài khoản cá nhân, an toàn tuyệt đối<br>• Tự động trích lọc ý kiến khen/chê và xuất bảng phân tích xu hướng | `FQ2xYrtxmzQ` (56:56) |
-| **Bài 3.7: Tạo Infographic Tự Động & Báo Cáo One-Pager** | • Điều phối mô hình sinh ảnh AI để vẽ hình ảnh minh họa số liệu<br>• Kỹ thuật nhúng trực tiếp Infographic vào phía dưới báo cáo tài liệu<br>• Xuất bản bản tóm tắt điều hành (Executive Summary) cho Ban Giám Đốc | `FQ2xYrtxmzQ` (56:56)<br>`jl5vTGFC5IQ` (05:17) |
-| **Bài 3.8: Đường Ống NotebookLM + Antigravity (No-Hallucination)** | • Triết lý kiểm chứng tri thức khoa học, loại trừ ảo giác (No-Hallucination)<br>• Phương pháp chọn nguồn tài liệu gốc chuẩn mực và trích dẫn số trang<br>• Chuyển giao dữ liệu có cấu trúc sang Antigravity để sinh 15 mẫu Landing Page | `_mX7MidD2Jc` (2:45:05) |
-| **Bài 3.9: Xây Dựng Scrum Master & Meeting Facilitator Agent** | • Đóng gói quy chuẩn Scrum Guide / Agile thành biểu mẫu điều phối thông minh<br>• Tự động sinh kịch bản chi tiết 5 phần cho 5 loại cuộc họp trọng yếu<br>• Tạo kịch bản song ngữ Anh - Việt giúp tự tin dẫn dắt cuộc họp chỉ sau 3 phút | `xLehvqex9gc` (09:04)<br>`K-uyMNSoFhk` (35:37)<br>`UFmV7YsVqlM` (22:39) |
-| **Bài 3.10: Vận Hành Tự Động Không Giám Sát Với Scheduled Tasks** | • Khởi tạo và quản lý Scheduled Tasks tự động thức dậy theo lịch hẹn<br>• Chuỗi quy trình 3 bước: Cào tin tức $ightarrow$ Viết bài $ightarrow$ Bắn API lên Fanpage<br>• Vận hành hệ thống marketing và báo cáo hàng ngày hoàn toàn rảnh tay | `eo0rHohZTIk` (09:02)<br>`GZHv3KLkcGs` (05:48) |
+| **Bài 3.1: Kiến Trúc Đa Tác Tử Song Song (Multi-Agent Parallelism)** | • Sự phân tách giữa Antigravity IDE & 2.0 Standalone (Agent Manager)<br>• Cơ chế chia nhỏ bài toán lớn và chạy song song (Parallel Execution)<br>• Kỹ thuật chuyển đổi dự án mượt mà bằng nút `Open IDE`<br>• Khởi tạo toàn bộ ứng dụng bằng `/teamwork-preview` và cơ chế sub-agents tự hủy sau khi nộp kết quả | `GZHv3KLkcGs` (05:48)<br>`bwbLd4o-rwo` (1:22:00)<br>`CYwA2np_LnQ` (1:46:40)<br>`eoz-muc9Y9Y` (10:04) |
+| **Bài 3.2: Thiết Lập Second Brain Chuẩn Local-First** | • Triết lý Local-First: Giữ trọn dữ liệu trên máy tính, bảo mật tuyệt đối 100%<br>• Cấu trúc cây thư mục 4 tầng chuẩn (Inbox, Projects, Resources, Archive) hoặc chuẩn PARA<br>• Tích hợp linh hoạt đa mô hình (Gemini 3.8 Flash, Claude, Codex) trên 1 bộ nhớ nội bộ<br>• Tìm kiếm ngữ nghĩa siêu tốc qua CodeGraph / Ripgrep nội bộ không đẩy dữ liệu ra ngoài | `Noi5dBVKGRY` (1:50:01) |
+| **Bài 3.3: Chuyên Gia Soạn Thảo Word & Hợp Đồng Doanh Nghiệp** | • Bản chất file `.docx` nhị phân XML nén và cách khắc phục lỗi file corrupt<br>• Bộ quy tắc bảo tồn phân cấp tiêu đề (Heading 1, 2, 3) để tự sinh mục lục tự động<br>• Giữ nguyên định dạng bảng biểu, thụt lề, chú thích chân trang (Footnotes), Header/Footer và Font chuẩn công ty | `5JnobuoKgQQ` (05:18)<br>`G6pkv8GEXGw` (05:24) |
+| **Bài 3.4: Bậc Thầy Bảng Tính Excel & 7 Bẫy Công Thức** | • Nhận diện và hóa giải 7 bẫy chết người: (1) Hardcode mất công thức động (`VLOOKUP`, `XLOOKUP`), (2) Cắt cụt số định danh >15 số thành số mũ `1.23E+15` (phải ép kiểu `@` Text), (3) Hỏng vùng in `Print_Area`, (4) Phá liên kết Sheet, (5) Mất định dạng có điều kiện, (6) Mất bộ lọc Data Filter, (7) Lộn ngày tháng `DD/MM` vs `MM/DD` | `BPhJifuAFps` (06:13)<br>`jl5vTGFC5IQ` (05:17) |
+| **Bài 3.5: Tự Động Hóa PowerPoint Theo Slide Master Doanh Nghiệp** | • Khắc phục điểm yếu khi AI tự tạo PowerPoint bằng code thô (vỡ font, chữ tràn khung)<br>• Đóng gói file Slide Master của công ty thành Skill dùng lại vĩnh viễn (0 tốn token vẽ lại)<br>• Tự động bắt đúng Layout ID (Title, Two-Columns, Section Header) và chèn text vào Placeholder chuẩn | `GBQ_zLMlGeI` (05:16)<br>`w3Z2uVgIWQ0` (07:40) |
+| **Bài 3.6: Cào Dữ Liệu Thị Trường Không Cần Đăng Nhập** | • Kỹ thuật Social Listening & Market Intelligence: Cào bài viết và bình luận trên mạng xã hội không cần login<br>• Sử dụng RSS, OpenGraph và bộ giải mã an toàn tránh bị khóa IP/chặn Bot<br>• Tự động phân loại cảm xúc (Sentiment Analysis) tích cực/tiêu cực và lập bảng ma trận đối thủ | `FQ2xYrtxmzQ` (56:56) |
+| **Bài 3.7: Tạo Infographic Tự Động & Báo Cáo One-Pager** | • Kỹ thuật kết hợp số liệu kinh doanh với mô hình sinh ảnh AI để vẽ hình minh họa trực quan<br>• Quy chuẩn tỷ lệ khung hình: 16:9 cho báo cáo máy tính, 9:16 cho thiết bị di động<br>• Đóng gói báo cáo điều hành 1 trang (One-Pager Executive Summary) gửi Ban Lãnh Đạo | `FQ2xYrtxmzQ` (56:56)<br>`jl5vTGFC5IQ` (05:17) |
+| **Bài 3.8: Đường Ống NotebookLM + Antigravity (No-Hallucination)** | • Triết lý kiểm chứng tri thức khoa học, loại trừ 100% ảo giác (No-Hallucination Pipeline)<br>• Phương pháp chọn nguồn tài liệu gốc chuẩn mực và neo số trang dẫn chứng (Grounding & Citation)<br>• Chuyển giao dữ liệu có cấu trúc (JSON / Structured Notes) sang Antigravity để tự động dựng website giáo dục đa tính năng | `_mX7MidD2Jc` (2:45:05) |
+| **Bài 3.9: Xây Dựng Scrum Master & Meeting Facilitator Agent** | • Đóng gói quy chuẩn Scrum Guide / Agile thành biểu mẫu điều phối thông minh cho 5 loại cuộc họp<br>• Kịch bản điều phối 5 phần: Mục tiêu & thời gian, Agenda chi tiết từng phút, Câu hỏi gợi mở, Kỹ thuật bãi đỗ xe ý kiến (Parking Lot), Bảng phân công hành động (Action Items & Owner)<br>• Xuất kịch bản song ngữ Anh - Việt giúp tự tin dẫn dắt cuộc họp chỉ sau 3 phút chuẩn bị | `xLehvqex9gc` (09:04)<br>`K-uyMNSoFhk` (35:37)<br>`UFmV7YsVqlM` (22:39) |
+| **Bài 3.10: Vận Hành Tự Động Không Giám Sát Với Scheduled Tasks** | • Khởi tạo và quản lý Scheduled Tasks tự động thức dậy theo lịch hẹn<br>• Phân biệt rõ One-shot Timer (`DurationSeconds`) và Recurring Cron (`CronExpression` 5 trường)<br>• Ứng dụng cờ `IsDaemon: true` để chạy độc lập vĩnh viễn ở chế độ nền<br>• Chuỗi quy trình 3 bước tự động: Cào tin tức $ightarrow$ Viết bài $ightarrow$ Bắn API lên Fanpage lúc 7h sáng hoàn toàn rảnh tay | `eo0rHohZTIk` (09:02)<br>`GZHv3KLkcGs` (05:48) |
 
 ---
 
-## 🎯 KẾT LUẬN & HƯỚNG TRIỂN KHAI
+## 🎯 KẾT LUẬN & HƯỚNG TRIỂN KHAI THỰC TẾ
 1. **Khóa học Cơ bản (Module 0 & 1):** Giữ nguyên tính tinh gọn, dễ hiểu cho người mới bắt đầu (cài đặt, giao diện, phím `@`, prompt văn phòng đơn giản).
-2. **Khóa học Nâng cao (Module 3 - 10 bài):** Tích hợp trọn vẹn toàn bộ 17 bài đọc thêm thành các bài thực hành có đầu ra sản phẩm cụ thể, loại bỏ 100% sự lặp lại về lý thuyết suông, tập trung hoàn toàn vào các quy trình tự động hóa thực tế cho doanh nghiệp.
+2. **Khóa học Nâng cao (Module 3 - 10 bài):** Tích hợp trọn vẹn toàn bộ 17 bài đọc thêm thành các bài thực hành có đầu ra sản phẩm cụ thể, loại bỏ 100% sự lặp lại về lý thuyết suông, tập trung hoàn toàn vào các quy trình tự động hóa thực tế cho doanh nghiệp, có đính kèm ảnh chụp màn hình cắt từ video gốc để học viên dễ quan sát.
+

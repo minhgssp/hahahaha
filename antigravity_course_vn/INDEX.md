@@ -57,6 +57,32 @@ Khóa học được thiết kế theo phương pháp "Cầm tay chỉ việc", 
 
 ---
 
+## 🏢 Module 3: Tự Động Hóa Doanh Nghiệp Nâng Cao (Advanced Enterprise Automation)
+*Hệ thống 10 chuyên đề thực chiến tinh hoa — Đóng gói quy trình, bảo mật Local-First và vận hành 24/7.*
+
+1. **[3.1 Kiến Trúc Đa Tác Tử Song Song & Cơ Chế Phối Hợp IDE vs Agent Manager](Module_3_Advanced_Enterprise_Automation/3.1_Multi_Agent_Architecture.md)**
+   - Cơ chế chia nhỏ việc lớn và chạy song song (Parallel Execution), chuyển đổi linh hoạt qua nút `Open IDE`. *(Lệnh: `/start-3-1`)*
+2. **[3.2 Thiết Lập Bộ Não Thứ Hai (Second Brain) Chuẩn Local-First](Module_3_Advanced_Enterprise_Automation/3.2_Local_First_Second_Brain.md)**
+   - Giữ trọn dữ liệu nhạy cảm trên máy tính, cấu trúc 4 tầng P.A.R.A và tra cứu ngữ nghĩa tức thì. *(Lệnh: `/start-3-2`)*
+3. **[3.3 Chuyên Gia Soạn Thảo Văn Bản Word & Hợp Đồng Doanh Nghiệp](Module_3_Advanced_Enterprise_Automation/3.3_Word_Contract_Mastery.md)**
+   - Khắc phục lỗi file nhị phân XML nén `.docx`, bảo tồn phân cấp Heading và mục lục tự động. *(Lệnh: `/start-3-3`)*
+4. **[3.4 Bậc Thầy Bảng Tính Excel — Nhận Diện & Hóa Giải 7 Bẫy Công Thức](Module_3_Advanced_Enterprise_Automation/3.4_Excel_7_Formula_Traps.md)**
+   - Triệt tiêu 7 bẫy chết người: chống hardcode mất công thức, bảo vệ số định danh >15 chữ số và vùng in ấn. *(Lệnh: `/start-3-4`)*
+5. **[3.5 Tự Động Hóa Slide Thuyết Trình Chuẩn Nhận Diện Thương Hiệu Với Slide Master](Module_3_Advanced_Enterprise_Automation/3.5_PowerPoint_Slide_Master.md)**
+   - Đóng gói Slide Master của công ty thành Skill dùng trọn đời, tự động chèn text vào đúng Placeholder. *(Lệnh: `/start-3-5`)*
+6. **[3.6 Kỹ Thuật Cào Dữ Liệu Thị Trường & Lắng Nghe Mạng Xã Hội Không Cần Đăng Nhập](Module_3_Advanced_Enterprise_Automation/3.6_Web_Social_Scraping.md)**
+   - Tình báo thị trường công khai không lo bị khóa tài khoản, tự động phân loại cảm xúc khách hàng. *(Lệnh: `/start-3-6`)*
+7. **[3.7 Tự Động Hóa Báo Cáo One-Pager & Thiết Kế Infographic Trực Quan](Module_3_Advanced_Enterprise_Automation/3.7_Infographic_Executive_Report.md)**
+   - Chuẩn 4 khối báo cáo điều hành gửi Ban Giám Đốc, phối hợp sinh ảnh Infographic trực quan. *(Lệnh: `/start-3-7`)*
+8. **[3.8 Đường Ống Sư Phạm NotebookLM + Antigravity — Triệt Tiêu Ảo Giác Tri Thức](Module_3_Advanced_Enterprise_Automation/3.8_NotebookLM_Anti_Hallucination.md)**
+   - Trích xuất nguồn có số trang chính xác (Grounding) và tự động dựng website bài học tương tác. *(Lệnh: `/start-3-8`)*
+9. **[3.9 Thiết Kế Scrum Master & Meeting Facilitator Agent — Kịch Bản Điều Phối Song Ngữ](Module_3_Advanced_Enterprise_Automation/3.9_Scrum_Master_Meeting_Agent.md)**
+   - Chuẩn kịch bản 5 phần điều phối cuộc họp Agile, Timeboxing, Parking Lot và hỗ trợ song ngữ Anh - Việt. *(Lệnh: `/start-3-9`)*
+10. **[3.10 Vận Hành Tự Động Không Giám Sát Với Scheduled Tasks — Hẹn Giờ Tự Động](Module_3_Advanced_Enterprise_Automation/3.10_Scheduled_Tasks_Automation.md)**
+    - Phân biệt Timer vs Cron, dùng cờ `IsDaemon: true` để tự động cào tin và đăng bài lúc 7h sáng. *(Lệnh: `/start-3-10`)*
+
+---
+
 ## 📖 Tài Liệu Đọc Thêm & Video Thực Chiến Chuyên Sâu
 *Dành cho học viên muốn mở rộng góc nhìn và đào sâu kỹ năng thực chiến.*
 
