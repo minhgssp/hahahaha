@@ -1,41 +1,42 @@
-# Bài Đọc Thêm 07: Từ Mega Prompt Đến Trợ Lý AI Tự Động Hóa (AI Agent)
+# Bài đọc thêm 07: Từ Mega Prompt đến trợ lý AI tự động hóa (AI Agent)
 
-> 📺 **Nguồn Video tham khảo:** [Mega Prompt đến Trợ Lý AI | Google Antigravity 2.0](https://www.youtube.com/watch?v=bwbLd4o-rwo) (Thời lượng: 1:22:00 — Chia sẻ bởi Hoàng Đức Minh)
+> 📺 **Nguồn video tham khảo:** [Mega Prompt đến Trợ Lý AI | Google Antigravity 2.0](https://www.youtube.com/watch?v=bwbLd4o-rwo) (Thời lượng: 1:22:00 — Chia sẻ bởi Hoàng Đức Minh)
 
 ![Mega Prompt đến Trợ Lý AI](../assets/screenshots/video_frames/bwbLd4o-rwo_thumb.webp)
 
 ---
 
-## ⚡ Sự Tiến Hóa Vượt Bậc: Chatbot Truyền Thống vs AI-Agent Thế Hệ Mới
+## ⚡ Sự khác biệt giữa Chatbot truyền thống và AI-Agent
 
-Trước đây, khi dùng ChatGPT hay Claude trên web, chúng ta phải viết những câu lệnh cực kỳ dài và phức tạp (gọi là **Mega Prompt**) dài hàng trang giấy: *"Bạn là một chuyên gia..., hãy đọc các dữ liệu sau..., hãy làm theo 10 bước sau..."*.
+Trước đây, khi dùng ChatGPT hay Claude trên web, người dùng thường viết những câu lệnh rất dài và phức tạp (gọi là **Mega Prompt**) gồm nhiều trang yêu cầu: *"Bạn là một chuyên gia..., hãy đọc các dữ liệu sau..., hãy làm theo 10 bước sau..."*.
 
-Tuy nhiên, Mega Prompt vẫn có những giới hạn chí mạng:
-* Bạn vẫn phải copy-paste dữ liệu qua lại bằng tay.
-* Khi gặp bài toán lớn gồm 10 chương hoặc 50 file, Chatbot truyền thống chỉ làm **tuần tự từng việc một** (xong chương 1 mới đến chương 2), cực kỳ chậm chạp và dễ bị tràn bộ nhớ (out of context).
+Tuy nhiên, Mega Prompt trên giao diện web vẫn có những hạn chế thực tế:
+* Người dùng vẫn phải copy-paste dữ liệu qua lại thủ công.
+* Khi gặp bài toán lớn gồm nhiều chương mục hoặc nhiều file, Chatbot xử lý **tuần tự từng việc một** (xong chương 1 mới đến chương 2), dễ làm phát sinh thời gian chờ đợi và nghẽn bộ nhớ ngữ cảnh.
 
 ![Cấu trúc Mega Prompt và phương pháp thiết kế trợ lý AI](../assets/screenshots/video_frames/vd7_megaprompt_assistant.jpg)
 > 📸 *Ảnh chụp màn hình thực tế từ video: So sánh giữa việc viết prompt thủ công và xây dựng hệ thống tác tử tự vận hành.*
 
 ---
 
-## 🚀 Bí Mật Của Antigravity 2.0: Bổ Nhỏ Dữ Liệu & Chạy Song Song (Parallel Execution)
+## 🚀 Cơ chế chia nhỏ dữ liệu và thực thi song song (Parallel Execution)
 
-Trong video, chuyên gia Hoàng Đức Minh giải thích trực quan cơ chế làm việc của Antigravity thế hệ mới:
+Trong video, diễn giả Hoàng Đức Minh giải thích cơ chế làm việc theo nhóm tác tử của Antigravity:
 
 ![Cơ chế bổ nhỏ dữ liệu và thực thi song song nhiều tác vụ](../assets/screenshots/video_frames/vd7_parallel_execution.jpg)
-> 📸 *Ảnh chụp màn hình thực tế từ video: Antigravity chia nhỏ 10 chương sách và xử lý cùng một lúc thay vì phải đợi từng chương hoàn thành.*
+> 📸 *Ảnh chụp màn hình thực tế từ video: Antigravity chia nhỏ các phần độc lập và điều phối tác tử xử lý đồng thời.*
 
 ### Cơ chế chia nhỏ để xử lý (Divide and Conquer):
 * **Tình huống:** Bạn có một cuốn cẩm nang công ty hoặc tài liệu đào tạo gồm 10 chương cần biên tập lại.
-* **Cách Chatbot thông thường làm:** Làm lần lượt từng chương $\longrightarrow$ Tốn 1-2 tiếng đồng hồ, các chương sau thường bị đuối ý hoặc quên quy tắc của chương trước.
-* **Cách Antigravity 2.0 thực hiện:**
-  1. AI tự động phân tích cấu trúc và nhận thấy 10 chương là các phần độc lập.
-  2. Nó chia nhỏ dữ liệu và kích hoạt **chạy song song 10 tiến trình cùng một lúc**.
-  3. Thời gian hoàn thành giảm từ 60 phút xuống chỉ còn **vài phút**!
+* **Cách làm tuần tự:** Làm lần lượt từng chương $\longrightarrow$ Dễ bị đuối ý hoặc quên quy tắc của chương trước.
+* **Cách Antigravity thực hiện:**
+  1. Phân tích cấu trúc và nhận diện các phần nội dung có thể làm song song.
+  2. Kích hoạt các sub-agents xử lý từng phần độc lập.
+  3. Tổng hợp lại thành tài liệu hoàn chỉnh, giúp tiết kiệm đáng kể thời gian so với xử lý tuần tự từng bước.
 
 ---
 
-## 💡 Đúc Kết Tư Duy Dành Cho Người Quản Lý
-* Đừng mất thời gian học thuộc hàng trăm mẹo viết Prompt mẹo vặt trên mạng.
-* Hãy học cách **thiết kế quy trình (Workflow) và bảng nội quy (Rules)** để AI tự động chia nhỏ công việc và vận hành độc lập như một đội ngũ nhân viên cần mẫn.
+## 💡 Đúc kết tư duy dành cho người quản lý
+
+* Không nhất thiết phải học thuộc các công thức viết prompt quá phức tạp.
+* Trọng tâm là học cách **thiết kế quy trình (Workflow) và thiết lập quy chuẩn (Rules)** để AI hiểu rõ ngữ cảnh, chia việc hợp lý và phối hợp nhịp nhàng.

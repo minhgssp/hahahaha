@@ -1,28 +1,28 @@
-# Bài Đọc Thêm 09: AI Văn Phòng — X10 Hiệu Suất, Miễn Phí, 0 Kiến Thức Lập Trình
+# Bài đọc thêm 09: Ứng dụng Antigravity cho công việc văn phòng — Tối ưu hiệu suất cho người không chuyên công nghệ
 
-> 📺 **Nguồn Video tham khảo:** [AI Văn Phòng #1: Antigravity | X10 Hiệu Suất, Miễn Phí, 0 Kiến Thức AI](https://www.youtube.com/watch?v=jl5vTGFC5IQ) (Thời lượng: 05:17 — Kênh PieLikeClaw)
+> 📺 **Nguồn video tham khảo:** [AI Văn Phòng #1: Antigravity | X10 Hiệu Suất, Miễn Phí, 0 Kiến Thức AI](https://www.youtube.com/watch?v=jl5vTGFC5IQ) (Thời lượng: 05:17 — Kênh PieLikeClaw)
 
-![AI Văn Phòng X10 Hiệu Suất](../assets/screenshots/video_frames/jl5vTGFC5IQ_thumb.webp)
+![Ứng dụng Antigravity cho công việc văn phòng](../assets/screenshots/video_frames/jl5vTGFC5IQ_thumb.webp)
 
 ---
 
-## 🎯 Sự Khác Biệt Giữa Chatbot Web & AI Agent Trên Máy Tính
+## 🎯 Khác biệt giữa Chatbot trên trình duyệt web và AI Agent trên máy tính
 
-Rất nhiều nhân sự văn phòng đã quen thuộc với ChatGPT hay Gemini trên trình duyệt web, nhưng vẫn cảm thấy mất thời gian vì:
-* Phải tự tải file lên mạng.
+Nhiều nhân sự văn phòng đã quen thuộc với ChatGPT hay Gemini trên trình duyệt web, nhưng đôi khi gặp phải các thao tác thủ công lặp lại:
+* Phải tự tải file lên từng lần một.
 * Phải copy câu trả lời dán ngược lại vào Word/Excel.
-* Chatbot không thể tự mở file hay tự tạo báo cáo lưu vào ổ cứng của bạn.
+* Chatbot trên web không thể trực tiếp đọc cấu trúc thư mục hoặc tạo file lưu ngay vào ổ cứng máy tính.
 
-![Giao diện trực quan cho dân văn phòng](../assets/screenshots/video_frames/vd09_van_phong_x10.jpg)
-> 📸 *Ảnh chụp màn hình thực tế từ video: Antigravity kết nối trực tiếp vào thư mục làm việc trên máy tính mà không cần thao tác copy-paste thủ công.*
+![Trang tải Antigravity chính thức từ Google](../assets/screenshots/video_frames/vd09_van_phong_x10.jpg)
+> 📸 *Ảnh chụp màn hình thực tế từ video: Trang tải phần mềm Antigravity chính thức từ Google (hỗ trợ đa nền tảng Windows, macOS, Linux).*
 
 ---
 
-## 💡 3 Lợi Thế Vàng Dành Cho Người Không Biết Code
+## 💡 Ba lợi ích thiết thực cho người dùng văn phòng
 
-![Không cần kiến thức lập trình chuyên sâu](../assets/screenshots/video_frames/vd09_khong_kien_thuc_ai.jpg)
-> 📸 *Ảnh chụp màn hình thực tế từ video: Ra lệnh bằng tiếng Việt tự nhiên để AI tự động thực thi các công việc văn phòng.*
+![Giao diện Antigravity IDE thao tác trực tiếp với file](../assets/screenshots/video_frames/vd09_khong_kien_thuc_ai.jpg)
+> 📸 *Ảnh chụp màn hình thực tế từ video: Mở và chỉnh sửa trực tiếp tài liệu Office trong Antigravity IDE kết hợp trợ lý AI.*
 
-1. **Hoàn toàn miễn phí & sẵn có:** Bạn không cần phải mua tài khoản đắt đỏ của các công cụ bên ngoài, chỉ cần một tài khoản Google là có thể kích hoạt môi trường làm việc thông minh.
-2. **Thao tác trực tiếp với dữ liệu cục bộ:** Bạn chỉ cần gõ `@ten_file`, AI sẽ đọc, tính toán, sửa lỗi và lưu đè lên file mới cho bạn.
-3. **0 kiến thức lập trình (No-Code):** Bạn không cần biết viết một dòng lệnh nào. Mọi câu lệnh đều là tiếng Việt đời thường như bạn đang giao việc cho một trợ lý thực tập sinh trong phòng.
+1. **Chi phí tiếp cận thấp:** Người dùng có thể bắt đầu làm quen với các tính năng cơ bản hoàn toàn miễn phí thông qua tài khoản Google mà không cần đầu tư phần mềm đắt tiền.
+2. **Thao tác trực tiếp với file cục bộ:** Bằng cách gõ `@ten_file`, AI có thể đọc nội dung, hỗ trợ rà soát, đề xuất chỉnh sửa và cập nhật tài liệu ngay trong thư mục làm việc của bạn.
+3. **Giao tiếp bằng tiếng Việt tự nhiên:** Không yêu cầu kỹ năng lập trình phức tạp; người dùng chỉ cần mô tả rõ ràng yêu cầu công việc như khi trao đổi với một cộng sự.
