@@ -1,0 +1,2595 @@
+Đây là cái giao diện của màn hình MTI
+Dravity 2.0 dành cho những anh chị chưa
+chưa dùng để mình hình dung ra cái giao
+diện của nó tí xíu. [âm nhạc] Rồi đây là
+giao diện của 2.0 và mình vẫn sử dụng
+song song hai cái nền tảng [âm nhạc] vừa
+anti Davity cũ là IDER này mọi người. Và
+mình sử dụng song song luôn cái nền tảng
+là Anti Dravity [âm nhạc] 2.0. Và cái cơ
+chế của nó nó cho mình swit nha. Nó cho
+mình chuyển đổi qua lại bình thường. Nếu
+như mình đang thao tác với một cái
+[âm nhạc] project rồi mình sẽ nói lại tí
+xíu chỗ này thì ở đây nó cho mình chuyển
+đổi qua [âm nhạc] lại với một cái nút
+bấm ở trên này mọi người thấy không ạ?
+Open ide thì lúc này bây giờ á họ họ
+thấy rằng là cái việc là chuyển đổi mà
+bỏ thì nó không đúng và có thể đó là
+thời gian đầu họ mới tách ra thôi chứ
+thực tế là họ không à không bỏ hãng đâu
+và nó có sự liên kết với nhau nên mình
+thấy cái chỗ này rất là hay nhé. mình có
+thể swit qua lại giữa hai cái ứng dụng
+với nhau. Trong trường hợp ví dụ như
+mình đang hồi nãy mình đang nói về cái
+multiagent thì trong cái sự kiện mà
+Google [âm nhạc] AI á họ build ra một
+cái hệnh
+mini chỉ trong đâu đó trong tích tắc thì
+chỉ với một cái câu lệnh thôi. Chỉ đúng
+nghĩa là với một cái câu lệnh thì họ đã
+build ra được một cái ứng dụng à hoàn
+toàn
+à gọi là chỉ trong tích tắc chỉ trong
+với cái câu lệnh này team [âm nhạc]
+work review. Như vậy thì mình hình dung
+ra ở trong cái teamwork review này nó là
+như thế nào ạ? Nó khác hẳn hoàn toàn với
+bên cái nền tảng của Google Anti Gravity
+[âm nhạc]
+Ider cũ nhé. Nó sẽ không có cái chức
+năng teamwork [âm nhạc] review à đây. Nó
+không có cái câu lệnh đó mọi người ạ.
+Mình bấm x flash vân vân các kiểu là nó
+không có. Và trong các tài liệu mọi
+người có thể resarch thêm trong các tài
+liệu đây. Tài liệu góc của Google luôn
+nha chứ không phải là do tự mình tự mình
+ấy đâu. Đây tài liệu
+anti 2.0 nè. Thì mọi người vào trong này
+xem nó sẽ có cái phần là multiagent á.
+Trong đây nó sẽ có một cái phần là
+multiagent. Đại khái là [âm nhạc] như
+vậy ha. thì mọi người sẽ nắm rõ hơn là
+về cái
+team [âm nhạc]
+work review đó nó là một cái câu lệnh
+mạnh nhất đến thời điểm này trong cái hệ
+sinh thái của các câu lệnh của của
+Anti 2.0
+thì chỉ với một câu này thôi và mình yêu
+cầu nó [âm nhạc] xây dựng ví dụ nhé xây
+dựng một trang web à
+bán hàng
+à mỹ phẩm
+Hàn Quốc
+hình ảnh
+dùng
+nano
+banana
+tự sinh ví dụ vậy nhá mình đang nói là
+dùng nano banana nano banana à nano
+banaana [âm nhạc] rồi tự sinh rồi mình
+ví dụ thôi để cho mọi người chỉ với một
+câu này thì nó sẽ ra cái gì nhé
+lúc này cái
+cái cái câu lệnh này nhá nó tự động nó
+sẽ build lại bill Buill lại đúng nghĩa
+là nó sẽ build lại cái câu cơ bản của
+mình thành một cái mega firm hay nói nôm
+nay là anh xây dựng thành một cái
+[âm nhạc] full nó gọi trong cái từ mà
+những anh mà làm về dep á nó sẽ gọi là
+build thành full stock full stock luôn
+có nghĩa là đóng gói thành nguyên một
+cái quy trình [âm nhạc] từ đầu đến đuôi
+cần phải làm những gì những gì những gì
+đây mọi người nhìn vào cái à cái cái gọi
+là cái ROM RAP này là đang cái gọi là
+cái bản tạm bản nháp bắt đầu nó sẽ đi
+hỏi hỏi mình nè làm những [âm nhạc] gì
+và bắt đầu nó sẽ đi thu thập những cái
+này cho nó đầy đủ. Landing page
+[âm nhạc] marketing, trang shop đầy đủ,
+nhiều danh mục giỏ hàng vân vân ờ
+catalog show trưng bày vân vân thì mình
+sẽ chọn lại một cái ha tùy vào nhu cầu.
+Rồi tối [âm nhạc] giảng sang trọng đắ
+luxury. Rồi ví dụ như cái này skin scare
+hay là makeup hay là cả hai. Rồi mình
+chọn cả hai. Naro.
+Ồ mình đây là mình đang đi nhanh để cho
+mọi người hình dung được cái sức mạnh
+của nó là mình để mọi người thấy thôi
+nhé. [âm nhạc]
+Aerobanner
+danh sách sản phẩm review công dụng chi
+tiết
+ờ bạn t. Ok. tới này luôn đi. Tất cả
+luôn đi.
+Rồi thì dựa trên những cái thông tin mà
+nó vừa thu thập mình vừa khai báo lại
+cho nó vừa thu tập bắt đầu nó sẽ đi nó
+build [âm nhạc] cái from này chi tiết
+hơn ha. Cái nó sẽ tự động nó sinh ra cái
+này. À đáng lý ra nãy mình sẽ có thể
+chọn xong ngữ luôn nè.
+Đó. Rồi tạo thương hiệu tên ngẫu nhiên
+[âm nhạc] tự sinh.
+Mình sử dụng né Netx đi. Cái này nó chạy
+cũng khá là hay.
+Xây dựng web thì bây [âm nhạc] giờ mình
+sẽ sử dụng cái cái nền tảng là NetX này
+nhiều nè.
+Rồi bây giờ mọi người để ý nè. Tôi tổng
+hợp thành from [âm nhạc] hoàn chỉnh. Thì
+như vậy á lúc trước nếu như mà mình bình
+thường nhá mình để mình build ra một cái
+sản phẩm mọi người để ý nhá. Mình mình
+mặc dù bây giờ mình bảo là antibt hay là
+những cái công cụ này á nó đã có cái sức
+mạnh rồi nó làm đầy đủ rồi mình nhưng mà
+mình vẫn phải tương tác mình phải cung
+cấp đầu vào cho nó khá là nhiều thông
+tin đúng không cả nhà? vân vân mình phải
+ngồi mình đánh câu Rom rồi mình phải
+nhập đủ đầy. Còn với cái trường hợp
+[âm nhạc]
+cái Anti Dav 2.0 á nó có một cái hay là
+nó sẽ hỏi mình và khi mà mình dùng cái
+câu lệnh này nó sẽ bắt đầu tự đưa ra à
+một cái bảng chi tiết hoàn chỉnh hơn thu
+thập. Đây
+để cho mọi người hình dung
+teamwork project from ha. Và đây là cái
+bảng draft thôi. Và dựa trên cái nhu cầu
+một hồi nãy một cái câu khá là đơn giản
+thôi thì nó đã sinh ra cho mình một cái
+from chi tiết đầy đủ hơn. Ví dụ xây dựng
+một trang web thương mại điện tử
+[âm nhạc] Hàn Quốc cao cấp với thương
+hiệu hư cấu do AI tạo ra, giao diện D
+luxury vân vân. Hình ảnh do AI tạo sinh,
+Generate AI nè. Đó, requirement, thương
+hiệu vân vân. R2 là cái gì đấy.
+À bắt đầu nó sẽ đi ra. Mọi người thấy
+không? Nó sẽ đi từng thành phần, từng
+chi tiết một. [âm nhạc] Thay vì nếu như
+lúc trước mình build ra một trang web,
+mọi người phải đọ, phải đánh đầy đủ. Và
+nếu như anh chị nào làm bên cái lĩnh vực
+này á sẽ để ý thêm cái này nè. Mình mình
+mà làm bên lĩnh vực mà làm về bên phần
+mềm á đúng ra [âm nhạc] là mình cái này
+thì nó hơi chuyên môn cái từ có một cái
+từ gọi là từ ba á à ba á là mình phải có
+một cái người làm ba để phân tích à
+trước khi mình giống như làm một cái ứng
+dụng làm một cái cái cái bên công ty
+phần mềm nó hay có một cái đội gọi là
+[âm nhạc] pa.
+Thì bên web cũng vậy họ sẽ đi thu thập
+thông tin trước. Thì trước đây mình đã
+từng làm một cái con chestbot đó để
+chuyên đi đánh giá là thu thập những cái
+việc mà làm trang web [âm nhạc] mình
+cung cấp cho nó những cái thông tin gì
+rồi đầy đủ những cái thông tin đó hay
+chưa thì nó mới tạo ra cho mình những
+cái này nè mọi người. Đó kiểu kiểu như
+vậy nha. Thì mình hình dung ra á là bây
+giờ chỉ với một câu cơ bản cái ông này
+cũng làm hết ổ làm hết từ đầu cũng được.
+Thì đây [âm nhạc] là một trong những cái
+sức mạnh của nó. Tuy nhiên phải lưu ý
+nhé Minh tạm ngừng cái chỗ này nãy giờ
+loan nói chuyện thì trong cái buổi giới
+thiệu của Google AI Google a iOS
+[âm nhạc]
+2026 của Google á thì họ có nói á vì cái
+này nó chạy full start có nghĩa là nó đi
+một mạch luôn nó đi một lèo nó chạy
+ra luôn thành phẩm luôn nếu như mình có
+không hạn chế nó kể cả đến cái việc là
+setting [âm nhạc] này nè bỏ cái cơ chế
+là full machine mà để cho nó tự động
+thực thi không cần hỏi mình chọn onway
+rit tự thực thi á thì lúc này mình
+cần phải có một lượng cota đủ lớn quay
+lại là vấn đề cota thôi phải đủ lớn tại
+vì nó chạy liên tục và nó sẽ tự động
+build không cần ngưng nghĩ thì ở đây
+Google họ khuyên mình là nên chọn 3.5
+Flash thì lúc này mình hôm bữa mình có
+thử là mình build hai cái sản phẩm và
+nếu như mọi người để ý là trong thời
+gian vừa qua á [âm nhạc] thì có một cái
+trên cộng đồng Antiav TVN thì nó có
+build một cái trang đó là quản lý về cái
+kho nhưng mà trang đó thì cũng phải mất
+một ngày [âm nhạc]
+để xong thì trong cái quá trình nó chạy
+mình cứ để máy cho nó chạy thôi mọi
+người nó hết cota xong rồi để đó rồi nó
+hồi sinh lại thì nó tự động nó chạy tiếp
+nó hồi sinh rồi mình lại [âm nhạc] enter
+mình sẽ tiếp tục nó làm chạy tiếp thì
+đâu đó cũng ít chạy từ gần một ngày á
+nói như vậy chứ cũng gần một ngày tại vì
+mình bị tạm ngưng ở giai đoạn mà mình
+ngủ nghỉ á
+chứ không phải là gì hết. Kế đến là mình
+có làm một cái trang web mà mọi người
+vừa rồi có để ý không biết là mọi người
+có thấy không là một cái trang
+rồi để chỗ này mình cho nó tiếp tục cái
+nha.
+Đó là một cái trang quản lý nhân sự của
+bên mình đang làm. Thì cái trang đó hoàn
+toàn được làm từ chính cái công
+[âm nhạc] cụ
+công cụ này từ chính cái nền tảng cái n
+ông ông nội này
+ừ anti 2.0 này được không cả nhà? Và tốc
+độ sau khi mình làm xong á về tốc độ nhé
+về tốc độ là sau khi mình làm xong
+cái kinh nghiệm của cái trang web lần
+trước là mình đã có kinh nghiệm cho cái
+trang này được không cả nhà? Và lúc đó
+bắt đầu mình build cái thằng này nó
+nhanh [âm nhạc] hơn.
+Sau khi mình build ông nội này nhanh hơn
+rồi á thì mình đầu mình chỉ vào custom
+thôi và
+mình chỉnh sửa dần và mình xuất
+[âm nhạc] rồi nội dung rồi
+chấm công rồi vân vân. Đó thì lúc này
+hoàn toàn là bằng trên antivat 2.0 à chứ
+mình không hề có tác động ở trên cái nền
+tảng ID tại vì lúc này nó chạy multient
+và nó hỗ trợ cho mình nhanh hơn, thao
+tác nhanh hơn.
+Rồi ví dụ như trong trường hợp này mình
+chọn ngày công nè. Đó rồi mình xất file
+Excel thì đây nó [âm nhạc] sẽ ra được
+cho mình cái file này. Ví dụ như file
+Excel này bản công
+để mọi người hình dung.
+Cả nhà vẫn còn thấy cái màn hình của
+Minh chỗ cái phá Excel đúng không ạ?
+Đây.
+Đó thì cái phần này là do mình mới tin
+chỉnh cho đến đoạn này thôi nha. Mình
+chưa làm thêm nha mọi người. Có nghĩa là
+cái [âm nhạc] này tùy thuộc vào nhu cầu
+của mọi người. Mọi người muốn làm thêm
+cái tính năng gì mọi người chỉ cần cung
+cấp và nói và trao đổi cũng giống như là
+cái những cái trang web mà hoặc là những
+cái [âm nhạc] tool mà anh chị đã làm
+thôi. Đó thì quay lại cái chỗ này. Đó
+đến cái chỗ này mọi người nhìn nè. Cái
+trang web này nó tương đối, nó đơn giản
+thì lúc này nó chỉ sử dụng gì ạ? Nó chỉ
+sử dụng cơ bản là ở đây nó chỉ sử dụng
+là hai sub agent. Có nghĩa là chỉ sử
+dụng hai [âm nhạc] cái ờ hai cái bạn
+mình hiểu cơ bản là hai bạn nhân viên để
+chạy thôi. Cùng một lúc để coi ở
+[âm nhạc] trong này nó chạy cái gì nha.
+Rồi ở trong này nó sẽ sinh ra ha mọi
+người nhìn thấy nè nó ở trong này nó lại
+sinh ra một cái việc nữa là chỗ này à để
+mình giải thích thêm nhé
+cái tính năng của ai antiavity 2.0 Trong
+này nó có một cái điểm hay là cái gì?
+Khi mà à nó [âm nhạc] chạy cái sub agent
+đó mọi người, chạy multiagent đầu tiên á
+nó sẽ yêu cầu nó sẽ chạy ra một cái
+giống như mình hiểu là mình là người
+quản lý nhá, mình là [âm nhạc] ông sếp,
+mình là giám đốc được không ạ? Mình giao
+một nhiệm vụ cho một cái anh trưởng
+phòng thì cái anh trưởng phòng đó ảnh
+chắc chắn là ảnh là quản lý mà đã gọi là
+trưởng phòng thì ảnh sẽ có nhân viên
+đúng không ạ? Vậy thì nhân viên là sao
+vậy? Thì tại sao mình không giao việc
+xuống cho nhân viên họ làm như trưởng
+phòng chỉ là quản lý thôi, còn làm gì
+làm miễn sao trưởng phòng tổng hợp số
+liệu và báo cáo về cho sếp là được đúng
+không cả nhà? Thì cái
+anh này Anti Davity 2.0 này nè nó đang
+áp dụng theo kiểu đó. Nghĩa là ảnh sẽ
+phân cấp, [âm nhạc] ảnh sẽ có một con
+điều hành điều phối đó ảnh sẽ giao
+xuống. [âm nhạc] Ví dụ như ở đây có bao
+nhiêu cái trọng điểm à là
+hai nhánh, ba nhánh, bốn nhánh gì đó tùy
+[âm nhạc] theo cái chức năng và nhiệm
+vụ, tùy theo cái công việc mình sẽ giao
+xuống rồi để cho anh trưởng phòng nhân
+sự, anh trưởng phòng kế toán, anh chưởng
+phập tài chính ảnh làm việc và anh trong
+cái anh đó thì anảnh giao xuống cho bao
+nhiêu con nữa, bao nhiêu cái bạn nhân
+viên nữa là do cái anh chữ phòng đó anh
+phân bổ [âm nhạc] mà thôi. Vậy thì về
+cái mô hình như vậy thì mình nói để cho
+mọi người hình dung nhưng chi tiết á nó
+sẽ có thêm một cái tính năng là cái gì?
+Ở trong antiravity 2.0 này á nó sẽ có
+một cái phần là
+nó [âm nhạc] khi nó nhận lệnh từ ông sếp
+giao xuống á thì ông trưởng phòng á ở
+đây ổng sẽ đi giao ngẫu nhiên hay là
+giao xuống [âm nhạc] cố định gọi là tự
+động á thì nó còn phụ thuộc vào cái việc
+là cái công việc nó nhiều hay ít nữa
+nha. Nếu mà công việc đó nằm trong cái
+khả năng của nó mà nó nó giống như nó tự
+động nó tính toán. Còn mà mình tác động
+vô thì mình phải dùng thêm câu lệnh. À
+hôm trước mình có share lên trên một cái
+nhóm của anh em bên AI thực thi đó mà
+[âm nhạc] cái nhóm của mình làm hôm
+trước đó mọi người. Thì anh em lật lại
+cái tài liệu mà mình share. [âm nhạc] Ở
+trong đó có một cái phần là khi mình
+muốn khi mình muốn trực tiếp luôn can
+thiệp vào luôn là tôi muốn với cái nhánh
+con ở bên trong. Ví dụ như trong này ở
+đây nè mọi người nhìn nó có tới tận năm
+sub agent và năm sub agent này mỗi người
+sẽ đảm gặp một vai [âm nhạc] trò mỗi mỗi
+công việc gì thì cái này nó đang tự động
+phân bổ nhưng mà trước đó ví dụ như mình
+muốn là cái ông này nè ổng tự [âm nhạc]
+động ổ can thiệp thì mình sẽ phải là
+người đánh cái câu lệnh đó ra mình phải
+rạch rồi ra mình đánh luôn cái câu lệnh
+mà đánh luôn cái tên nó ra thì cái này
+đòi hỏi mình phải [âm nhạc] ngồi mình
+mình nghiên cứu mình mình làm thêm nha
+mọi người thì hôm đó để ngồi làm cái này
+thì Minh mất cũng khoảng đâu 1 ngày gần
+2 ngày để chỉ mở việc là ngồi nghiên cứu
+cái multiention nó hoạt động như thế nào
+thôi. Chỉ để nghiên cứu mỗi việc đó
+thôi. Và mình build đúng hai cái trang
+web trong hai ngày đầu một ngày thì mất
+lấy cái trang quản lý kho thì một ngày
+sau để mất thêm một cái trang làm về
+quản lý nhân sự này. Sau đó bắt đầu
+build dần lên, build dần lên, build dần
+lên. Đó [âm nhạc] thì nói như vậy không
+có nghĩa là nó đi một phát là cái trang
+ở này nó hoàn chỉnh nha mọi người mà
+mình phải cải tiếng rồi mình phải custom
+vân vân các kiểu.
+[hắng giọng]
+Đó thì những cái tính năng này là mọi
+người hoàn toàn Minh làm từ cái nền tảng
+bên cái antiraity đó và mình yêu cầu nó
+thôi. Thì nói như vậy để mọi người hình
+dung là cái [âm nhạc]
+và thêm một cái nữa là cái gì? Cái ông
+anti Gravity 2.0 này á mình khác biệt
+với cái điểm mà của bên nền tảng Anti
+Ideer là cái gì? Anti Gravity Ider là
+cái gì? Khi mà nó chạy multiagent này
+gần đây gần đây anh chị có nghe nhiều về
+cái mô hình gọi là One Personal Company
+đúng không ạ? OBC [âm nhạc] mình nghe
+khá nhiều đúng không ạ? Và có rất là
+nhiều khóa học hoặc là nhiều cộng đồng
+đã chia sẻ về những cái cái cái kỹ thuật
+để làm cái doanh nghiệp một người ứng
+dụng bằng AI
+đó. Nhưng mà nhưng mà nha mọi người để ý
+nhé khi mình làm nhiều mình phải để ý
+nhé mình làm với antiravity rồi mình
+chưa làm bên clock mình không biết nha
+tại vì clock gần đây nó có một cái mô
+hình tương tự với cái multiagent này. Và
+hôm vừa rồi mình cũng có xem một cái bài
+đó luôn. mình phân tích cái bài đó nhưng
+mà mình quay trở lại cái bài toán của
+những anh chị đang dùng antiity thôi.
+Thì khi mà chúng ta dùng công cụ Google
+Anti Gravity mình chạy cái mô hình mà
+nhiều gọi là đa gọi là đa nhân sự được
+không? Được không cả nhà? Đa nhân sự một
+ông điều hành giao [âm nhạc] xuống cho
+ba ông dự phòng hay bốn ông chủ phòng
+một ông mỗi ông một công việc chuyên
+chấp.
+Tuy nhiên mọi người phải hình dung là
+thế này vì tính chất của nó, vì bản chất
+của nó là mình phải hiểu bản chất
+antibapti nó [âm nhạc] không có tính
+năng multiasent cho nên khi nó hoạt động
+về bản chất nó phải [âm nhạc] làm xong
+việc này nó mới đến cái việc kia.
+xong cái việc giống như là à ông tại vì
+bản thân nó thực tế là chỉ có một cái
+model đó mọi người. Một cái model chạy
+một thời điểm nó không tự phân ra được
+nhiều luồng. Nó không tự phân ra được
+thành nhiều luồng được không ạ? Và chính
+vì vậy nó phải chạy xong cái luồng này
+nó mới đi đến cái luồng kế. [âm nhạc]
+Mình hình dung có nghĩa là output của
+cái này là input của cái kia và tiếp tục
+như vậy là out của cái này lại tiếp tục
+input của cái kia. Là cứ như vậy thì
+[âm nhạc] lúc này nó sao ạ? cái gánh
+nặng của nó đó nó về gánh nặng về thời
+gian, gánh nặng về cota nè, token á. Còn
+với cái mô hình Google [âm nhạc] Antia
+Gravity 2.0 này nó có một cái ưu thế là
+nó tận dụng được cái nguồn lực là nó
+chia nhỏ ra trong cùng một cái [âm nhạc]
+ô chat, trong cùng một cái luồng này.
+Tuy nhiên là nó phân tấp nhiều luồng. À
+đây mọi người thấy tới thời điểm này nó
+vẫn đang chạy nha. Mặc dù mọi người mình
+vẫn đang nói chuyện với nhau nhưng nhiệm
+vụ của nó thì nó vẫn đang làm và tự động
+nó đi phân bổ ra bao nhiêu
+&gt;&gt; [âm nhạc]
+&gt;&gt; bao nhiêu cái agent, bao nhiêu công đoạn
+gì đó thì nó trong này nó vẫn đang chạy.
+Ờ nó đang có hẫu mình thêm một cái chạy
+vào sale không sao hết. Rồi thì mọi
+người hình dung lúc này nó sẽ phân tách
+ra nó tự động nó đi nó bổ nhỏ bổ nhỏ để
+nó chạy [âm nhạc] nhiều luôn. Và cái cơ
+chế này hôm trước chứng minh cũng đi hỏi
+à cũng đào vào hỏi nó. Nếu như vậy thì
+liệu rằng á, liệu rằng [âm nhạc] so với
+cái việc là tôi chạy từng công đoạn một
+output của cái này rồi mới tới input của
+thằng kia rồi còn ở đây á là chạy song
+song [âm nhạc] parallel thì cái nào tốn
+cô ta nhiều hơn, cái nào ưu việt hơn
+được không cả nhà?
+&gt;&gt; [âm nhạc]
+&gt;&gt; Thì khi đó mình mình bản thân mình cũng
+có cái gọi là cái cái cái đa nhân cách
+là mình hơi nghi nghi ngờ nhân sinh mình
+cũng nghi ngờ là bản thân nó đang lừa
+mình tại vì lần đầu tiên mình mới dùng
+đó bạn cho nên mình cũng đi tìm hiểu cái
+nguồn thông tin đó nha. À khi nó thực
+thi nhiều luồng như vậy thì cái liệu
+[âm nhạc] rằng cái cota nó đốt đốt ra nó
+thật sự là nó đang lấy từ một luồng hay
+là nó được tối ưu bởi cái công thức
+riêng của nó. Thì khi mà mình yêu cầu nó
+phân tích như vậy á, mình không đứng từ
+trong cái con này, mình lại mang cái
+[âm nhạc] luồng dữ liệu mà chính cái câu
+hỏi đó mình lại mang qua bên cái công cụ
+khác nhé. Mình mang qua cái con Codex
+[âm nhạc] à mình có sử dụng cái con
+Codex à là chat GPT của Open chứ không
+phải là chat GPT nhá. Hãng Codex.
+[âm nhạc] Và mình mang qua bên một cái
+ông nữa đó là con Rock AI và một cái con
+nữa là Black City. Mình lấy những cái
+thông tin mà mình tổng hợp được không cả
+nhà? Mình đặt câu hỏi lại [âm nhạc] bên
+các nền tảng AI khác để cho nó trả lời
+lại là có đúng là cái cách vận hành của
+cái model Anti [âm nhạc] Gravity 2.0 này
+nó như vậy hay không.
+Tại vì cái cái nhân sinh quan của mình
+nó hơi đa nhân cách tí xíu. Kiểu như vậy
+mình nói thì nó hơi ấy nhưng mà mình
+phải hình dung được là sau khi mình tìm
+hiểu xong thì tụ trung lại tụ trung lại
+là cái bài toán mà của ông Google này
+khi nó ra được cái multiagation này là
+đúng [âm nhạc] là tối ưu tối ưu về cả
+thời gian về toen ha. Tối ưu về thời
+gian và kể cả toen [âm nhạc] khi mà chạy
+đa nhiệm. Mình có thể hiểu như vậy gọi
+là chạy đa nhiệm đó. Cho nên bắt đầu kể
+từ cái hôm đó [âm nhạc] trở đi á khi
+những cái bài toán mà mình cần chạy
+nhiều luồng ở trong đây mình có
+[âm nhạc] những cái bài toán là chạy
+nhiều luồng nhé. Ví dụ như mình tổng hợp
+tin tức có liên quan đến cái đầu việc mà
+[âm nhạc] mình đang làm. Tin tức về
+những cái sân thể thao vân vân. Mình
+đang làm kiểu kiểu như vậy [âm nhạc] thì
+lúc này nó đi tổng hợp thông tin lại.
+Tổng hợp thông tin giúp mình. Nhưng mà
+lúc này mình sẽ yêu cầu nó là cái gì ạ?
+một ngày bạn chạy [âm nhạc] cho tôi là
+đây. Ví dụ như
+ở trong đây mình có
+những cái phần mà mình hay có làm.
+[âm nhạc]
+Ok. Thôi mình lấy cái nội dung mới đi.
+Trong cái quá trình nó đang chạy thì
+mình lại làm tiếp tục một cái nội dung
+khác nha. À
+ví dụ đây cái này
+trend
+mình tạo ra mấy [âm nhạc] cái skill này
+cũng lung tuân skill để cho nó đi nó
+quét cái dữ liệu. Đây ở trong này mọi
+người nhìn [âm nhạc] thấy là mình riêng
+cái phần này không mình đã có hai cái
+skill khác nhau. Một cái là cái skill
+tập trung vào tìm cái a đại khái là mình
+tạo ra hai cái này. Một cái là tạo luôn
+cả hình ảnh. Một cái là chỉ lấy content
+thôi. Một cái là lấy được content xong
+thì phải tạo luôn hình ảnh. Kiểu như vậy
+đó. Rồi bây giờ mình chạy một cái thử
+cái đi.
+Thì lúc này nhá, bản thân nó sẽ đi chạy
+ra cái skill này. Trong đây nó có tùy
+cái trường hợp mà nó sẽ nó sẽ tự động nó
+bổ nhỏ cái công việc đó ra. Bổ nhỏ cái
+công việc đó ra. Chạy nhiều luồng cùng
+một lúc ha. Nó chạy nhiều luồng cùng một
+lúc. Nhưng có thời điểm nó
+nó không có có có chạy cái này nhiều.
+Một luồng một lúc lên chỗ này [âm nhạc]
+thì mọi người sẽ không thấy được. À để
+mình mở thêm một cái này nữa cho anh chị
+nhìn nó rõ [âm nhạc] hơn. Đây nè.
+Ok, mình sẽ tặng bớt cái chỗ này
+mình sẽ
+đây
+Mình để vào trong cái ô chat nha mọi
+người. À
+mọi người thử nếu mà ai đang dùng 2.0
+thì bắt đầu mình có thể thử cùng mình
+nhé. Mình sẽ lấy một cái mẫu thử
+[âm nhạc] đây. Hãy nghiên cứu và phân
+tích tình hình kinh tế chính trị toàn
+cầu năm 2016 đánh giá tác động đến ngành
+năng lượng tái tạo của Việt Nam. À spa
+năm sub [âm nhạc] chạy song song. Mỗi
+sub phụ trách một khu vực à bao gồm Mỹ,
+EU, Trung Quốc, Đông Nam [âm nhạc] Á,
+Trung Đông. À thì mỗi con subention này
+nó có nhiệm vụ gì ạ? Thu thập [âm nhạc]
+tin tức nè, phân tích xu hướng nè, xác
+định rủi ro cơ hội cho khu vực đó. Khi
+tất cả xong bị tổng hợp thành một file
+báo cáo MC down à có cái gì đó vân vân
+summariz bạn so sánh khu vực khuyến nghị
+hành động gì vân vân cho doanh [âm nhạc]
+nghiệp Việt Nam về cái năng lượng mặt
+trời. Rồi mình tạm thời à [âm nhạc] tạm
+thời copy hết này luôn. Rồi mọi người có
+thể nếu như ai đang có chạy antibity
+cái này nó chạy
+nhiều quá hốn cota nữa tạm thời mình
+lưng và cho nó thử chỗ này để cho mọi
+người nhìn nó rõ hơn.
+New project
+đây.
+Rồi trong cái lúc mà nó đang chạy cái
+câu này thì mọi người để mình lướt thêm
+cái phần à cái trang này nó chưa chạy
+xong. cái trang web ban đầu mình làm
+cùng với mọi người
+thì lúc này mọi người thấy nó sẽ phân
+tích xong nhé. Nó sẽ bắt đầu nó sinh
+[âm nhạc] ra nó sinh ra ở đây nó để là
+những cái
+à
+gọi là subent.
+Còn cái từ mà chuyên môn nhá. Ở trong
+đây nó có một cái từ gọi là từ chuyên
+môn. À mình
+chia sẻ thêm chỗ này để mọi người chung
+cái từ spaw là sinh ra được không cả
+nhà? Nếu như mình dùng tiếng Việt nó vẫn
+hiểu nhé. Nó vẫn hiểu có nghĩa là hãy
+sinh ra, hãy tạo ra năm sub agent được
+không cả nhà? nó vẫn hiểu. Tuy nhiên
+theo như lúc mà mình tra cứu tài liệu,
+mình ngồi [âm nhạc] mình làm việc với
+Anti Davity á thì cái từ spaw này là cái
+từ xác nghĩa với nó nhất và nó hình dung
+rõ nhất. Và dĩ nhiên á nó chỉ là từ tốt
+nhất thôi chứ không có nghĩa là mình nói
+cái từ là hãy tạo cho tôi năm sub agent
+là nó không hiểu. Không [âm nhạc] phải
+mình nói câu tiếng Việt bình thường nó
+vẫn hiểu. Tuy nhiên do mình mình hình
+dung ra được cái [âm nhạc] cái cái cái
+câu đó rồi cho nên mình gán nó luôn vào
+bên trong cái câu lệnh này. Vậy đó để
+cho mọi người dễ hình dung thôi. Rồi thì
+đến đoạn này bắt đầu mọi người mọi người
+bắt đầu nhìn nhé. Nó đang chạy là năm
+sub agent. Và nếu như ai đang chạy về
+anti gravity ideal thì thử cùng copy cái
+câu này mang qua cái nền tảng bên kia để
+chạy thử [âm nhạc] xem thử nó hoạt động
+như thế nào. Mọi người sẽ có cái bài
+toán một cái bức tranh nhìn rõ hơn. Rồi
+là mình đang chạy ở trong cái middle
+earth [âm nhạc] economic. Rồi đây là một
+cái subent ở bên trên. Và tới [âm nhạc]
+cái đoạn là US Economic thì nó cũng đang
+chạy ha. Rồi tiếp tục để xem coi cái ông
+xe nà.
+Đó nó sẽ đ cũng đang chạy ở đây cùng một
+thời điểm nha một lúc nó sẽ chạy ra à
+rất là nhiều cái cái cái tab.
+Và mọi người thấy nè nó sẽ báo ra ở đây
+cho mình thấy là hệ thống sẽ tự động
+đánh thức. Tôi khi các sub agent hoàn
+thành và gửi lại kết quả, tôi sẽ tiến
+hành tổng hợp là cái con này nó giống
+như một cái con điều phối đó mọi người.
+Cái con gọi [âm nhạc] là mình hồi nãy
+mình gọi là ông giám đốc á, ông quản lý
+đó. Thì ở đây là nó chờ các ông kia đi
+thao tác, đi [âm nhạc] thực thi xong thì
+nó
+mới tổng hợp nó gọi là báo cáo cho mình
+được không cả nhà? Ở đây nó sẽ sinh ra
+một cái file báo cáo lưu trữ trên này.
+Đây
+đây là nó chưa xong nhé. Ờ kiểu như
+[âm nhạc] vậy và nó còn vẫn còn đang
+thao tác ở đây. Thì trong này nó chỉ là
+một file báo cáo tổng và nếu như chi
+tiết à nó có một cái file tổng file báo
+cáo chi tiết nữa nha mọi người.
+Đây mình sẽ mở ra từng cái [âm nhạc]
+global
+đây mọi người nhìn nhé. Global
+Global Summary
+đó.
+À nếu như cùng một cái câu lệnh này mọi
+người mang qua thử cái công qua cái nền
+tảng mà Anti Gravity Ider thì mọi người
+sẽ thấy cái tốc độ lấy dữ liệu, tổng hợp
+dữ liệu để mọi người sẽ có cái bài toán
+là so sánh rõ hơn nó như thế nào liền
+được không cả nhà? và xem cái cách nó
+vận hành, cái cách nó thực thi.
+Rồi ở đây nó có báo về lại cho mình nhé.
+Báo cáo chi tiết là master là cái cái
+file này.
+Ờ
+rồi
+và tất cả hồi nãy là mọi người thấy á
+trong cái quá trình ở đây nó chạy là mỗi
+một con sẽ đi truy cập Internet để lấy
+thông tin chứ nó rõ ràng nó không phải
+tự bịa ha. nó sẽ đưa vào từng con một,
+từng chi tiết một [âm nhạc] để lấy thông
+tin à nó đi research á. Rồi ở trong này
+[âm nhạc] nếu như mà mọi người mà làm
+nhiều á mọi người sẽ thấy là nó chỉ đây
+là file giống như cái file gọi là file
+report tổng thôi. File report tổng nha.
+Mà mình muốn coi chi tiết từng một, từng
+nội dung, từng quốc gia. À nó có luôn
+nha. Từng ông một. Ví dụ như trong cái
+ông thị trường EU,
+thị trường [âm nhạc] EU rồi thị trường
+Mỹ, thị trường Trung Đông.
+Đó, đây là ngành năng lượng báo cáo là
+chính trị ở Trung Đông rồi. EU nó như
+thế nào thì lúc này mọi người sẽ thấy
+không?
+&gt;&gt; [âm nhạc]
+&gt;&gt; Minh chỉ đánh là tạm thời cái đó là cơ
+bản để mọi người có một cái bài toán
+thôi. Còn lại là mình có thể chi tiết
+hóa nó ra tùy theo nhu cầu thì mọi người
+sẽ có cái bài toán rõ ràng hơn. Nhưng
+quay lại cái trận tâm mà mình muốn trao
+đổi là cái công cụ Anti Gravity 2.0 này
+nó có những cái ưu điểm là cái gì để mọi
+người sẽ có thêm [âm nhạc] cái sự lựa
+chọn. Ngoài ra nhé, ngoài ra một cái ưu
+điểm nữa là trong cái quá trình mình làm
+với cái công cụ này mình thấy một
+[âm nhạc] cái điểm nữa ở trên Antia
+Gravity 2.0 à nó có những cái ưu điểm
+khá nhiều mà mình buộc phải dùng nó là
+đúng nghĩa luôn. Rồi thì trong cái quá
+trình để mình quay lại cái trang web coi
+nó build tới đâu rồi.
+À nó vẫn nhiệt tình nó vẫn đang chạy
+luôn.
+Tại vì nãy mình lựa chọn khá là nhiều
+cái chi tiết và [âm nhạc] nó có thể là
+nó buill ra một cái trang còn rất là
+nhiều cái công việc ở trong này nó chưa
+xong.
+Scal thì cái điểm này là mọi người không
+biết có ai có biết cái về cái tính năng
+scedule [âm nhạc] cron này hay chưa ha?
+Cái tính năng này rất là hay ở trên
+antigravity mới nha. Mọi người có thể
+tham khảo thêm. [âm nhạc] À đây nó còn ở
+đây nó còn đang thao tác
+nó vẫn còn đang thực thi ở bên trong này
+nó còn đang tới riêng cái phần M1 này
+mọi người nhìn nhé riêng cái phần M1 này
+nó tự phân ra cho nó là 16 [âm nhạc] sub
+và riêng đến cái phần E2E này nó lại
+tiếp tục phân cho tiếp là bảy sub agent
+bên trong mỗi một cái [âm nhạc] đầu mục
+nhỏ nó lại tiếp tục phân ra phân ra phân
+ra mọi người nhìn nhé. Và tự bên trong
+nó sẽ tự đi build ra một cái cái cái cái
+đầu việc cái câu lệnh mà nó phải yêu cầu
+bên trong [âm nhạc] phải làm cái gì đó
+nha mọi người. Còn cái form này là form
+tổng thôi nhưng mà nó sẽ bám theo cái
+này.
+À ở đây nó có phần chi tiết nè. Thì đối
+để nó tôi bắt đầu với trường hợp là E2E
+thì nó phải tạo ra cái gì vân vân nó
+phải đợi rất là nhiều á thì mình cũng
+không có bám sát được hết cái này đâu
+mọi người.
+Đó thì mình nói như vậy thì quay lại cái
+bài toán là để mọi người hình dung với
+cái công cụ này nó tự động nó thực thi
+mọi người sẽ còn trong cái quá trình này
+mọi người sẽ có những cái công cụ khác
+chứ nó không chỉ dừng lại ở cái
+team [âm nhạc]
+à teamw review nhé. Ok để mình sẽ đi
+thêm một cái tính năng nữa.
+Thì cái tính năng này nãy mình nói rồi
+đã triển khai thử cái multiagent để mọi
+người thấy về cái thao tác của nó ha.
+Rồi thì thêm một cái tính năng mà theo
+mình nó khá là hay ở trên cái antiravity
+mới mà mọi người nên tận dụng. Mọi người
+nên tận dụng kết hợp trong cái quá trình
+mình à làm [âm nhạc] web, làm app
+gì mình cảm thấy rằng nó phức tạp. Cảm
+thấy rằng nó phức tạp nhé. Mọi người nên
+thêm [âm nhạc] cái cái dấu xệt này là
+Realme được không cả nhà? Tính năng
+Realme đó kết hợp. Nếu như bình thường
+gần đây [âm nhạc] chính mình cũng làm
+như vậy luôn. Bên Realme cộng thêm cái
+team hồi nãy là mình chỉ mới nói TeamW
+[âm nhạc] thôi mọi người đó. Nhưng khi
+mình kết hợp Realme cộng với [âm nhạc]
+Teamwork Review thì nó sẽ như thế nào ạ?
+Cái Realme chính là cái interview
+[âm nhạc] là nó đi phỏng vấn ngược lại
+mình. Ví dụ như cùng làm một cái trang
+web hồi nãy nó có gợi ý cho mình những
+cái đầu ngục kia [âm nhạc] đúng không?
+Nhưng sẽ có một số trường hợp à nó sẽ
+không gợi ý mà nó thiếu đi cái tính năng
+à đặt câu hỏi ngược lại với mình, phỏng
+vấn mình à là bạn cần bổ sung cái này
+hay bạn muốn làm cái gì vân vân. Thì để
+mình bắt nó phải hỏi mình trước thì ở
+đây tính năng gọi là Realme là interview
+đó. Nó có chữ interview luôn mọi người.
+Đó là phẩm vấn mình hỏi [âm nhạc] mình
+trước. Ví dụ nhé mình chỉ đặt một câu
+hỏi ở trong cái trường hợp này thôi nhé.
+À tôi muốn
+nâng cấp
+các câu hủ à câu mình đánh đại đó nha.
+[âm nhạc]
+Nâng cấp
+from cho câu
+1 ban đầu
+thì nên làm sao
+để coi nó có hỏi gì theo mình không
+nghe.
+Đó cái này mình lấy đại một cái ví dụ để
+mọi người dễ hình dung thôi.
+Nếu như trong trường hợp nãy mình không
+có chữ Realme [âm nhạc] mà mình chỉ đặt
+một cái câu cơ bản là tôi muốn nâng cấp
+from cho câu hỏi ban đầu là ở phía trên
+cùng. Hồi nãy mình đang đi khảo sát,
+mình dùng cái khảo sát thị [âm nhạc]
+trường đó theo kiểu như vậy đi. Thì lúc
+này mình thêm cái chữ Realme thì mọi
+người thấy chuyện gì xảy ra nó sẽ đặt ra
+cho mình nè recommand là tự động hóa quy
+trình phân tích và đóng gói báo cáo ở
+định dạng cao cấp gì đây. [âm nhạc] Bạn
+muốn cái gì mình chọn cái đó nha. Mở
+rộng số hai, mở rộng vi phân tích sang
+các ngành kinh tế, xã hội, nâng cấp chất
+lượng, chuẩn hóa và cái mục số năm là
+mình có thể bỏ qua. Order không phải là
+bỏ qua, mình xin lỗi mình tự đánh cái
+mình mong muốn. Thay vì mình đọc hết
+những cái câu nó đề xuất mình thấy không
+hợp lý mình tự đánh mình tự đánh thêm
+cái nội dung của mình vào. Và cái phần
+Realme này nó có một cái điểm hay là nó
+tự động cho mình cái [âm nhạc]
+multijoiny luôn là trong cái quá trình
+mà nó đề suốt nó gợi ý. Thậm chí có
+những cái đề xuất là cần [âm nhạc] nhiều
+sự lựa chọn. Nó tự động nó cho mình chọn
+là multioy.
+Multi luôn. À nó có điểm [âm nhạc] hay
+như thế. Rồi Minh tự đi qua với cái phần
+này
+Minh chọn đại nhé. Thì bắt đầu nó sẽ
+thực thi đó và nó lại tiếp tục thấy
+chưa? Chưa đủ thông tin. Bạn muốn tích
+hợp định dạng cao cấp này vào quy trình
+đóng gói tự động của form mới à như thế
+nào là xuất cả [âm nhạc] hai cái định
+dạng cả PDF hay là chỉ định thì ở trong
+này ở đây mình nó tự đề suốt là cái nghị
+định theo nghị định 30 là do hôm trước
+mình làm một cái quyết định mà ban hành
+mà tự động hóa đó mọi người trong cái
+buổi Zoom
+à sáng ngày thứ bảy tuần [âm nhạc] vừa
+rồi thì Minh có làm một cái tự động hóa
+về cái làm cái việc là tạo ra một cái
+quyết định theo chuẩn nghị định 30 cho
+một cái ông nào đó vân vân thì chỉ cần
+với một cái câu lệnh là ví dụ như ông
+đổi Tuấn Minh nhập vào là tự động nó tạo
+ra một cái quyết định hoàn [âm nhạc]
+chỉnh à ông này là được phổ nhiệm vào vị
+trí gì đấy thì có thể là do cái chỗ đó
+mà nó nhớ đến cái chỗ cái phần là cái
+phần này. Rồi như vậy thì ở đây mình sẽ
+chọn thêm cái phần này chứ không phải là
+tự động nó đưa ra thêm cái cái cái này
+nha mọi người. Tự nhiên ở đâu ra được
+cái này không có đâu. Ok thử thôi. Rồi
+thì nó đề xuất như vậy thì mọi người
+hình dung ra nó hỏi mình cứ trả lời cuối
+cùng thì là cái gì ạ? Mục đích sau cùng
+là cái gì ạ? Ý mình muốn nói [âm nhạc]
+là cái phần Realme này nó sẽ cho mình
+cái nội dung cuối cùng mà mong muốn trả
+về á nó sẽ bám sát hơn với cái mình cái
+kết quả đầu ra của mình. Thay vì trong
+cái phần đầu tiên mình vẫn còn đang rất
+mơ hồ thì mình nhờ cái câu lệnh Realme
+này nó sẽ cho [âm nhạc] mình ra cái kết
+quả nó chuẩn chỉ hơn và nhanh hơn, chất
+lượng hơn. Thay vì mất thời gian để mà
+cứ ngồi đánh từng [âm nhạc] câu, đánh
+từng câu đánh từng công rồi cứ đi chỉnh
+sửa là lại đánh từng câu rồi lại đi
+chỉnh sửa đánh từng câu được không cả
+nhà?
+Đó, đây là một trong những phần mà mình
+cũng hay áp dụng gần đây để mà [âm nhạc]
+sử dụng cái tính năng Realme cộng với
+tính năng Teamwork Review. À Minh cũng
+phải nói thêm nhé, cái tính năng mà
+Teamwork review thì nó chỉ có trên
+[âm nhạc] tài khoản Ultra. Còn hiện nay
+Realme thì có trên kể cả Google TWT Ider
+và bản 2.0. Còn team review thì chỉ có
+trên bản Ultra mà thôi.
+À Ultra mà mà tài khoản Ultra thì mới
+dùng được trên 2.0 nhé.
+Đó thì lúc này để coi nó nâng cấp cải
+tiến cái mẫu from nó như thế nào. Đây
+sau khi cái mẫu form ban đầu của mình á
+là phân góc có đạo ngắn kia bây giờ mình
+yêu cầu nó nâng cấp lên đi thì nó nâng
+cấp cho mình là phân tích địa chính trị
+vĩ mô đa ngành tự động hóa đóng gói theo
+nghị định 30 bao gồm luôn cả slide BBTX
+là bao bo dưới đây là form được tối ưu
+hóa toàn diện theo cấu trúc grap gì đó
+vân vân rồi bối cảnh vai trò action bước
+một bước hai bước ba bước bốn bước gì đó
+vân vân. Trời ơi nhiều quá. Thì đó để
+cho mọi người hình dung là nó đặt câu
+hỏi sau khi có Realme rồi thì cái cái
+kết quả đầu ra á nó sẽ khác hoàn toàn so
+với cái lúc ban đầu nếu mình chỉ hỏi một
+câu ngắn gọn được không cả nhà? Hỏi một
+câu là tôi muốn nâng cấp hết là nó sẽ đi
+ngay vào vấn đề luôn. Nó không có cần
+hỏi tiếp.
+Rồi thì đó là cái phần mà mình muốn đề
+cập đến mọi người à nên tận dụng nó.
+Quay lại cái chỗ này tí xíu nhá. Mình
+coi coi cái trang web ban đầu mình cùng
+với mọi người làm coi nó đã xong chưa
+được trời nó chưa xong luôn. Ờ
+đó thì mọi người mọi người làm một cái
+dự án mà mọi người làm một cái gì đó là
+ở đây nó sẽ có thêm cái cái nó nó tự thi
+á mọi người bám vào chung là mọi người
+nhìn thử coi nó còn chỗ nào nha. Tại vì
+nãy giờ mình đang ngồi cùng với mọi
+người nên mình cũng không có để ý.
+À tuy nhiên á là ở đây nó có một cái
+điểm hay như thế này nữa mọi người. Giả
+định nhất giả định mọi người để ý hồi
+nãy mình có nhắc đến cái trường hợp
+sceduron này. Scuron này nó tự động nhé
+nó tự động nó lập ra một cái kế hoạch
+một cái [âm nhạc] schedule để làm gì ạ?
+Trong cái quá trình mà
+nó thực thi. Lỡ như [âm nhạc] hết cot.
+Nếu như sao ạ? Bình thường như bình
+thường nhá. hết cota thì lúc này nó sẽ
+ngưng không thịch thêm nữa. Nhưng với
+cái thao tác là chạy trên cái
+team Work Review này á nó build ra đúng
+nghĩa là một cái full start nó bao gồm
+luôn cả scedule ron này. Khi nó
+[âm nhạc] thực thi đến đây rồi mà ông
+cái ông model này ổng hết cô ta mất tiêu
+rồi ổng ngưng. Nhưng mà máy mình thì cứ
+treo hôm bữa mình treo nguyên đêm luôn
+mọi người. Mình treo nguyên đêm luôn.
+Thì đến đoạn sáng á thì mình đến cái máy
+của mình nó tắt thì mình mở máy lên thì
+nó lại lập tức nó chạy tiếp. Nó canh
+đúng cái giờ đó đến đoạn đó. Đúng giờ
+đó. Đây mình bấm vào đây để mọi người
+hình dung ra. À nó có một cái phần
+à cái này thì không không không đúng.
+Cái cái roll hồi nãy bên trong á nó mới
+đúng cái roll đó. Còn cái này á thì một
+cái nữa mọi người có thể tự lập kế hoạch
+để [âm nhạc] đi cập nhật dữ liệu nhé.
+Cập nhật dữ liệu online theo thời gian
+mình mong muốn. Ví dụ [âm nhạc] sáng
+6:00 7:00 hay là trưa 1100, chiều đầu
+giờ 1:00, cuối giờ là 5:00 thì [âm nhạc]
+mình chỉ yêu cầu nó với một cái câu lệnh
+thông thường thôi mọi người. Ở trong này
+thật ra nó có một cái c
+start này để đây luôn rồi. Hoặc là mọi
+người gõ vào cái câu lệnh là câu xệt rồi
+mọi người dính đánh cái cái [âm nhạc]
+schedule này, còn không là mọi người tự
+nhập rồi bấm vào new. Thì đây là một
+trong cái tính năng mới được đưa vào bên
+trong cái antiraity này. Bên IDER nó
+cũng có cái tính năng này mình đánh giá
+nó rất là hay nhé. để thực thi tự động
+hóa những công việc của mình mà theo
+lệnh trình mà đôi khi mình bị quên đó
+mọi người. Thì à ở đây ở đây Minh giả
+định nhất à
+hãy
+tạo
+cho tôi
+lịch từ lịch lịch gì đây ta?
+&gt;&gt; [hắng giọng]
+&gt;&gt; Quét tin tức
+tức định kỳ
+mỗi sáng
+lúc 6:00 7:00 đây bằng
+skill
+ừ ral [âm nhạc]
+đây rồi hãy tạo cho tôi lịch web tin tức
+định kỳ mỗi sáng [âm nhạc] gì ha thử coi
+nó như thế nào nha mọi người. Thì mọi
+người sẽ để ý nè.
+Đó [âm nhạc] chỉ như vậy thôi. Xong rồi
+đó. Tôi đã thiết lập thành công web tin
+tức định kỳ hàng ngày. Chi tiết lịch web
+thời gian là 7:00 sáng. hành động là
+kích quạt cái skill [âm nhạc] này chạy ở
+chế độ with scan cho dân shop từ khóa
+trong cái cấu hình này. [âm nhạc] Tab ID
+là tab thứ tám đó thì mọi người thấy là
+coi cái lịch này nó đang nằm ở dưới và
+nó chạy đây. Lịch nó lọc ra như thế này
+được không cả nhà? Và cái phần output
+thì nó đẩy dữ liệu về đây. Ở đây là mình
+chỉ nói cơ bản nha mọi người có thể tự
+cấu hình tự [âm nhạc]
+thao tác thêm. Nhưng như vậy là để mọi
+người hình dung ra là cái tính năng này
+nó đúng nghĩa là giúp cho mình là tự
+động hóa luôn.
+À [âm nhạc] đúng à đúng
+đúng chị. Rồi. Ừ. Ừ như vậy thì
+[âm nhạc] cái phần này mình chỉ cần nói
+với câu lệnh nó thì ban ngày, ban đêm,
+ban trưa gì đó nó kết hợp với những cái
+công cụ khác nó giúp cho mình hoàn toàn
+đúng [âm nhạc] nghĩa là tự động hóa luôn
+đó mọi người. Mình cũng có một vài cái
+thấy nó hay
+rồi để quay lại cái trường hợp này xem
+thử coi
+nó còn cái thao tác gì mà nó chưa xong
+để lấy trang web ra cho mọi người xem.
+Nó còn quay đây
+còn vướng ở chỗ ông nào đó.
+Hôm trước Minh có tạo [âm nhạc] ra một
+cái tình huống nha. Mình có tạo ra một
+cái bộ skill để chuyên làm về
+tự mình tạo ra đa gọi là đa phòng ban
+đa đa phòng ban gọi là đa subent để phục
+vụ cho những cái đầu việc khác nhau.
+Mình có tạo ra một cái bộ skill đó tùy
+theo mục đích của mình ứng dụng mà mình
+nhập vào công việc của mình đầu tiên là
+nhập [âm nhạc] vào input đầu vào là công
+việc gì thì bắt đầu nó đưa phân bổ ra.
+Ở đây nó [âm nhạc] còn nhiều cái công
+việc mình phải đi coi nó coi. À ở đây nó
+còn chạy
+coi [âm nhạc] coi nó hướng cái gì nó còn
+lập cái lịch nó đang chạy schedule đây
+chưa xong.
+À
+một này nữa
+còn rất là nhiều. Vậy là nó chưa xong.
+Và lịch của nó kế tiếp [âm nhạc] là vào
+lúc 20:50.
+Đúng ra là tới đây là nó phải thực thi
+thì
+không sao. Thì cái này là một cái bài
+toán thôi, một cái cây study để cho mọi
+người hình dung ra nhé. Thì cái cách vận
+hành của công cụ Anti Gravity 2.0 này.
+Như vậy thì quay lại [âm nhạc] cái chủ
+đề của buổi hôm nay á ý mình muốn nói
+rằng là cái gì ạ? Tại sao mình lại
+chuyển sang mình thích dùng cái công cụ
+Anti Gravity 2.0 này? [âm nhạc] Nhưng
+không có nghĩa rằng không có nghĩa rằng
+là mình rời bỏ cái công cụ antiity
+không nha mọi người. Vì sao ạ? Vì có
+những cái trường hợp khi mình muốn can
+thiệp vào bên trong cái skill đó, can
+thiệp vào nội dung bên trong của cái
+project đó, của cái thư mục đó thì lúc
+này cái bên này nó rất là bất tiện. Đúng
+nghĩa là bất tiện luôn đúng. Và khi mình
+làm xong rồi, bây giờ mình muốn nhìn
+thấy cái giao diện, thấy cái nội dung cơ
+bản của cái đó nó đã có những cái thành
+phần gì rồi thì bên cái ông Antiravity
+2.0 [âm nhạc] á nó lại không show ra
+được cái nội dung bên trong. Mình rất là
+ức chế. Cho nên á buộc lòng mình phải
+sao ạ? Mình lại qua bên này [âm nhạc]
+mình lại mở thêm một cái cửa sổ bên này.
+Thế là sử dụng song song. Và có những
+lúc mình mình nói là cùng một lúc luôn
+mình thao tác [âm nhạc] hai cái ông này
+cùng một lúc. Bên này nó đang chạy rồi
+đúng không? Đây mọi người cái này thì
+cái cái B conversation của mình nó cũng
+cũ rồi. Bữa giờ mình ít dùng nó lại nè.
+Mọi người thấy [âm nhạc] khoảng cách đây
+một tuần lễ rồi à nhưng mà để mình mở
+cho mọi người xem thử cái này
+cái này là cái
+cái cái
+a cái làm việc song song mà hôm bữa mà
+mình đang làm đóng gói cái notebook mà
+mình chia sẻ ở trên cái
+à trang cá nhân vừa rồi đại khái là như
+vậy đó mọi người thấy ha. Thì Minh đầu
+tiên cũng làm [âm nhạc] từ cái ông nội
+2.0 này làm từ cái ông này nè. Mình cũng
+yêu cầu ổng là tạo ra nhiều sub agent đi
+tổng hợp tin tức a lộn không phải là
+tổng hợp cái nội dung về cái
+ông Nob cho mình. Tổng hợp nội dung nó
+research ở đâu đó không biết nhưng mà nó
+phải bán theo cái cấu trúc của mình yêu
+cầu. Sau khi nó làm xong á thì [âm nhạc]
+ở đây là mình có một cái thư mục là về
+giáo trình với lại cái buổi đào tạo của
+mình ở trong này là riêng.
+Đây nè, đào tạo nè. Đó, thì đại khái là
+như vậy. Và mình kêu nó làm xong nhưng
+mà cái phần nội dung á, cái phần nội
+dung á mình lại bị ức chế là mình không
+nhìn được. Mình bị ức chế, mình không
+nhìn được là mỗi khi nó phát sinh ra cái
+nội dung bên trong nó như thế nào. À nó
+nó cứ kiểu kiểu bị bên như kim màu tối
+[âm nhạc] rồi không biết thư mục bên
+trong đã có bao nhiêu tư mục, bao nhiêu
+tập tin. Thì lúc này lúc này mình lại
+bay qua mình mở thêm một cái ông bên này
+nữa [âm nhạc] được không cả nhà? Như vậy
+thì quay lại à mình sẽ cân bằng tùy theo
+tính chất công việc được không cả nhà?
+Với cái kinh nghiệm của Minh thôi nha.
+Còn lúc này tùy theo mọi người sẽ có
+cách dùng khác nhau. Thì Minh sẽ dùng ở
+bên kia đối với những công việc nặng
+nhọc. Đối với [âm nhạc] những công việc
+nặng nhọc à cần phải mang tính chất là
+đa gọi là ờ cần có cái cái cái đa nhiệm
+á. cần đa nhiệm thì lúc này thảy qua cho
+cái ông nọ này ổng làm [âm nhạc] được
+không cả nhà? Còn cái công việc nào mà
+mang tính chất mà thuần mà chúng ta đã
+quen với đầ việc mà trước giờ bên Google
+Ider rồi á. Đó thì mình tại vì nó cho
+mình mở cùng một lúc được mà. Cùng một
+lúc mình mở hai cửa sổ, hai cái này được
+mà cùng thư mục. Mở cùng thư mục vẫn
+được mà chỉ là mình gài thêm câu lệnh vô
+ở bên trong đó là ví dụ như mình yêu cầu
+á mọi người mình tạo ra bộ quy tắc thôi
+mình kêu nó không được can thiệp khi mà
+chỉnh sửa là [âm nhạc] không được xóa à
+tập tin gốc không được thay đổi nội dung
+gốc nếu có làm á thì
+sao chép ra bảng sao y ví dụ vậy
+[âm nhạc] thì về cơ bản thì cái đó là
+các ai cũng biết rồi đúng không ạ thì
+mình nói như vậy để cho mọi người hình
+dung
+tùy tình huống mà mình áp dụng như vậy
+thôi.
+Giống như cái ngoài đời [âm nhạc] thực
+vậy đó. Công việc nào mà nặng quá mình
+làm không nổi. Bê quân bát như mình ốm
+yếu mình làm không nổi. Thôi mình thảy
+qua cho ông nào ông khỏe ông làm việc
+đó. Còn mình làm bàn giấy, mình ngồi
+trên máy tính quen rồi thì mình làm mình
+nhận việc đó. Kiểu như vậy đó mọi người.
+Đó thì cũng giống như anh chị mà ngồi
+nghe trong các diễn đàn công nghệ
+khi mọi người chia sẻ thì mọi người nói
+là cái gì ạ? Đưa cho con clot đúng không
+ạ? Đưa cho con clot lên kế hoạch
+[âm nhạc] làm cái phân tích a b c gì
+đấy. Sau đó là đưa ngược về cho con
+antiravity. à hay là con Codec là người
+đi thực thi cũng kiểu kiểu như vậy. Thì
+với trường hợp này bản thân Minh đánh
+giá nếu [âm nhạc] như cần làm việc nặng
+cần multiagent đa nhiệm thì mình sẽ cho
+cái ờ công cụ bên [âm nhạc] 2.0 này nó
+làm. Ngược lại thì trong số trường hợp
+còn lại thì mình lại qua bên kia. Vậy
+thôi. Thì đây [âm nhạc] là một vài cái
+chia sẻ trong cái buổi tối hôm nay. Thì
+để mình a
+mọi người đợi mình tí xíu nha.
+Ở trong này có những anh chị là người
+mới. Chiều nay mình cũng thấy có một
+người mới có hỏi về cái vấn đề này nhưng
+mà sẵn đây để mình chia sẻ. Thì lúc đầu
+tiên khi mới sử dụng anti 2.0 Không, cái
+khó chịu nhất đúng nghĩa luôn là cái khó
+chịu nhất là mọi người chưa quen á là
+khi mà nó thao tác nó thực thi á nó sẽ
+luôn hỏi mình ấ cứ bấm yes rồi bấm yes.
+Ở bên Google Antiity Ideer cũ mình sẽ có
+cài được [âm nhạc] extension đúng không
+ạ? là chỗ này là auto accept là nó sẽ tự
+động [âm nhạc]
+on yes vân vân để cho nó nó bass qua.
+[âm nhạc]
+Còn cái ông 2.0 này nó lại chuyển qua
+tính năng khác rồi mọi người. Đây nó
+chuyển qua là mình vô cái phần setting
+sao giờ bấm vào setting
+không được đây.
+Ô treo luôn rồi.
+Đại khái là hồi nãy băng đầu tiên mình
+có chia sẻ với cả nhà đó thì mình vào
+trong cái phần setting mình chọn là full
+machine ha. Rồi mình ở dưới là mình chọn
+onway ship. Thì như vậy thì mọi người sẽ
+bỏ đi được cái công đoạn là nó sẽ hỏi
+mình. Còn mà mọi người chỗ cái phần full
+machine á [âm nhạc] mà mọi người chọn là
+cái tục pô. chọn cái phần tục pô là nó
+sẽ không đụng luôn, không hổi luôn và nó
+cho chạy tuốt luốt luôn. Nó cho chạy
+tuốt luốt luôn, chạy mút mùa luôn. Đó
+nếu như mọi người can đảm, mọi người
+không muốn xem lại thì mọi người để cho
+nó tự động thực thi [âm nhạc] thì mọi
+người chọn cái phần thuộc pô ở trong đó
+nó có quên đen cảnh báo ở trong cái phần
+nội dung bên đó được không cả nhà? À
+cũng phải nói thêm á là trong cái
+a cái gì ta? Cái
+tự nhiên [âm nhạc] hồi nãy mình đang nói
+về cái vấn đề là
+cái này nhưng mà giờ cái máy tự nhiên nó
+bị bị đơ đơ chỗ này ta.
+Có nghĩa là trong cái bản cập nhật mới
+nhất của Google Anti Gravity 2.0 này
+nha. Bản cập nhật mới nhất luôn. Ngay
+tại thời điểm mọi người chọn cái project
+để mọi người làm á nó sẽ hỏi mọi người
+luôn 2.0 này nó sẽ hỏi luôn là bạn có
+muốn chọn Full Machine hay không hay là
+bạn chọn TPO là nghĩa là lúc này mình
+cho nó chạy thoải mái [âm nhạc] đó. Hay
+là bạn phải review lại, bạn phải chờ tôi
+hỏi lại, bạn phải chờ tôi confirm.
+[âm nhạc]
+Thì nếu như anh chị dùng nhiều thì anh
+chị sẽ thấy là nó có tính năng đó là chỗ
+mà ở đây nè. Bây giờ cái máy mình không
+biết là mọi người còn thấy hay không á.
+Tại những chỗ này nó bị treo. Lúc mình
+chọn vô trong cái [âm nhạc] new project
+là mình chọn folder xong lập tức nó sẽ
+hỏi mình liền là chọn
+[âm nhạc] full machine hay là chọn to.
+Đó nó sẽ có ba sự lựa chọn. Thì nếu như
+mình chọn ở đó thì không cần thiết phải
+vào chọn setting nữa. Thì đó là cái phần
+để mọi người lưu ý thôi. Rồi thì cái
+phần chia sẻ của mình trong tối hôm nay
+chắc có chỉ để cho mọi người có thêm một
+cái quyết định là nên làm như thế nào
+với công cụ Anti Gravity 2.0 và dùng
+Anti Gravity Ider. Ok, chắc có lẽ phần
+trình bày của Minh chỉ đến đây thôi. Còn
+ngoài ra thì Minh cũng muốn chia sẻ thêm
+lắm nhưng mà máy của Minh giờ tạm thời
+nó bị đơ rồi mọi người. Thì bây giờ tạm
+thời mình giao lưu đi. Ai đặt câu hỏi
+[âm nhạc] thì nếu mình biết cái gì mình
+sẽ trả lời.
+À không biết anh chị có ai có câu hỏi gì
+mình cứ đặt câu hỏi đi mọi người.
+Mình tạm thời top
+share xíu.
+Ok anh Vũ ơi, không biết là hôm trước
+anh Vũ có bị vướng gì không anh Vũ mà.
+Chào anh Minh. Đầu tiên là hết sức cảm
+ơn anh Minh. Cái chia sẻ hôm nay nó tuy
+[khịt mũi] thời gian nó cũng ngắn khoảng
+một tiếng đồng hồ nhưng mà nó thật là
+rất chất lượng và nó cũng có như trước
+mình cũng có chat với Minh á là cũng
+giải tỏa được một số cái băng văn về cái
+sự khác biệt.
+Thì chắc là mình sẽ bắt đầu mình thử
+luôn cái giấ công này.
+&gt;&gt; Mình có một số cái thắc mắc và cũng cái
+phần cuối của mình cũng cũng giải thích
+được một phần tức là mình vẫn có thể
+mình dùng song song được cái một cách
+linh hoạt. Những cái nào đó mình đã quen
+thuộc thì vẫn tiếp tục dùng cái bản ID
+được đúng không? [âm nhạc]
+&gt;&gt; Dạ đúng.
+&gt;&gt; Nhưng mà mình có nghe là cái lúc đầu mới
+ra cái ID mà gắn với 2.0 này thì nó c có
+một số cái lỗi lạc vặt thì mình không
+biết là các bảng cập nhật mới riêng
+riêng riêng đối với thôi nha. thì nó có
+đã ổn định hoàn toàn chưa? Tại vì mình
+vẫn đang xài cái bản 1.23 thì mình thấy
+bản đó cực kỳ là nó ổn. Thì mình cũng
+cũng đang lo ngại là khi mình chuyển qua
+mình tiếp tục xài [âm nhạc] idea thì
+liệu cái cái bản ID mới v gắn với ai nó
+đã thật sự là ổn định chưa? Đó là câu
+câu hỏi thứ nhất của mình. Thì thứ hai
+là những cái attention á thì đúng là nó
+nó rất là là phong phú. Thì đặc biệt là
+mình đang cách cách làm của mình là mình
+dùng cả cái codex và cái clos ngay trong
+cái luôn. Thì với cái liệu anh Minh có
+một cái practice nào để mình kết hợp cả
+việc đó, cả tận dụng cả hai cái cái cái
+mod model đó với cái 2.0 này hay không?
+Hay là đã chọn 2.0 rồi thì mình phải hy
+sinh hy sinh cái việc dùng một lúc đồng
+thời nhiều cái model đó.
+Thì mình tạm thời mình có hai câu hỏi đó
+thì dạ
+&gt;&gt; nh minh dùm.
+&gt;&gt; Dạ. Rồi em ok cái phần đầu [âm nhạc]
+tiên nhá. Cái phần đầu tiên là cái phần
+mà anh đang sử dụng vẫn là Google à
+antiravity I cũ hả anh?
+À bản cũ.
+&gt;&gt; Dạ thật ra nhá đến thời điểm này á theo
+cá nhân em là em cứ có bản cập nhật mới
+là em sẽ cập nhật.
+Cứ có bản cập nhật mới là em sẽ cập
+nhật. Có thể nha, có thể đâu đó là mọi
+người sẽ thấy nó bị lỗi nhưng với trường
+hợp của em thì em sử dụng. Đến hiện tại
+thì em không thấy [âm nhạc] nó lỗi. Và
+cái thứ nhất. Cái thứ hai là để chắc ăn
+á trước khi anh chuyển sang cái việc cập
+nhật mình để mình chắc cứu á thì anh yêu
+cầu nó là backup cái data lại kể cả luôn
+backup cái phần mà conversation hay là
+cup backup toàn diện tùy theo cách mình
+[âm nhạc] bình thường mình backup như
+thế nào đó là để mình mình lưu ý trước
+cái phần đó tránh trường hợp mà khi mà
+nâng cấp xong rồi nó có những cái sửa
+đổi bổ sung mà mình quay trở lại không
+được á thì mình sẽ phục [âm nhạc] hồi
+lại. Thì em cũng lâu lâu em sẽ làm cái
+phần đó em backup lại em lưu lại lên
+trên cái ổ hoặc Google [âm nhạc] Drive
+á. Đó đó là cái phần em chuyển giao. Còn
+à không biết là nãy hình như là trong
+cái phần câu hỏi đầu của anh nó có cũng
+có liên quan đến cái phần
+2.0 đúng không anh ạ?
+&gt;&gt; Cái câu hỏi hai của mình chứ hả?
+Mình chỉ nói về cái tính ổn định thôi.
+Còn câu hai của mình là làm sao mà dùng
+2.0 mà có thể tận dụng được thêm những
+cái mô hình dùng cái attention ví dụ như
+codes code hay là cloud code như là
+chấm.
+&gt;&gt; Ừ. Dạ. Thì cái này nhá à em cũng trả lời
+thêm với trường hợp này nhá. Thực tế ra
+anh hình dung chỗ này. Bản thân cái
+model [âm nhạc] 2.0, antiravity 2.0 á,
+ông Google ổng build ra ổng tách riêng
+ra là ổng đã có mục đích rồi. Ổng đã có
+mục đích rồi. Nghĩa [âm nhạc] là cái này
+chuyên về Asian first là chuyên về cái
+việc thực thi và để cho tính đơn giản là
+mọi người chỉ là vào là gõ câu lệnh vào
+là làm nó tự động đi thực thient first.
+Đó đúng nghĩa là nó được cái từ gọi là
+first. Như vậy thì quay lại nếu như mà
+mình bảo là để dùng cái cách nào tích
+hợp vào thì [âm nhạc] chỉ có quay trở về
+sử dụng lại cái công cụ Google Anti
+Gravity Ide truyền thống thôi. Thì lúc
+này là mình mới tận dụng được cái
+[âm nhạc] codex và cái clot clot code
+đúng không? Anh đang sử dụng clot code
+bên đó. Dạ. Dạ.
+&gt;&gt; Đúng rồi.
+&gt;&gt; Dạ. Đó thì em cũng giữ sử dụng là bên đó
+cái nền tảng đó. Thì kiểu như vậy thì
+lúc này ông Google ông đã tách ra rồi
+anh. Cho nên mục đích mà mình kêu mình
+[âm nhạc] lại đưa vào chung á thì nó rất
+là khó.
+Đó cho nên thôi mình cứ sử dụng code de
+với lại cloud code ở bên ID đi anh. À
+bên đó em thấy nó vẫn ổn mà.
+Chị cho mình hỏi kỹ hơn, tức là nếu mà
+dùng song song như lúc nãy cái ví dụ của
+anh Minh á
+&gt;&gt; là mình mình chạy bằng cái multiagent
+trong cái cái agent này thì mình qua bên
+kia mình sẽ theo dõi được cái việc nó
+tạo nó tạo những cái file trong kia chia
+bình thường đúng không?
+Đúng rồi anh. Anh sẽ thấy của
+&gt;&gt; đúng đúng anh sẽ thấy được. Nhưng mà
+trong cái lúc mà giữa cái ngày nó đang
+thao tác
+à 2.0 đang thao tác [âm nhạc] thì anh cố
+gắng ở bên kia anh chỉ xem thôi. Anh
+đừng anh đừng thao tác gì cả. Anh đừng
+[âm nhạc] yêu cầu câu lệnh gì cả. Tại vì
+đã có lần nhá. Đã có lần em thử à em tạo
+ra cái chương trình mà em đào tạo đó.
+Kiểu kiểu như vậy thì trong cái quá
+trình em kêu bên này nó làm xong em lại
+đứng cái bên cái nền tảng giống như nãy
+em mở song song cho mọi người thấy á em
+lại kêu bên đó nó chỉnh sửa nội dung
+nhưng em quên rằng là backup sau lưu lại
+cái nội dung gốc nội dung gốc [âm nhạc]
+à thì như vậy thì cái ông này ổng làm
+xong ổ sửa đổi ổng thay đổi ổ thay đổi
+luôn cái nội dung gốc của mình đó là lúc
+đó nó thay đổi về vải chất rồi có nghĩa
+là lúc này mình mới nhận ra là tại một
+thời điểm đó có thể làm được
+cùng một thư mục cùng một cái
+và chưa kể nếu mà anh cho anh làm việc
+song song nữa như vậy thì nó cũng
+[âm nhạc] bị loạn ở trong cái vấn đề
+giống như một file Excel mà mình share
+ra mọi người cùng dùng chung á.
+Đó [hắng giọng]
+túc
+&gt;&gt; hỏi cho mình hỏi luôn là liệu mình có
+thể dừng tạm dừng cái Asient
+multiagent đó lại rồi mình sửa bên kia
+và mình yêu cầu nó là đọc lại cái trạng
+thái cái bên kia đã sửa được không? Tại
+vì thường ví dụ mình dùng nhiều nhiều
+cái mô hình ngay trong mình cũng hay làm
+như vậy. Tức là mình thấy một thằng đi
+chà hướng rồi mình mình s
+&gt;&gt; Đúng đúng đúng đúng đúng đúng. Có anh à
+có nghĩa là với cái việc này thì lúc này
+đòi hỏi anh phải là người giống như hồi
+nãy anh để ý cái phần của em em build ra
+một cái trang web đúng không ạ? Đến thời
+điểm này nó vẫn chưa dạy xong thì em
+chưa biết là có những cái tác nhân nào
+có nghĩa là có những cái anh nhân viên
+nào còn bên trong á ảnh còn đang cậm cụi
+ảnh đi làm việc ở bên trong á mà
+[âm nhạc] mình không biết. Thì lúc này
+mình phải chịu khó mình đi vô mình xem
+và mình stop ảnh. Thì có những lần em đã
+phải stop sau đó em lại đi ra bên ngoài
+em rà hết những cái phần kia nó tới đâu.
+Em lại quay trở lại em lại chỉ định luôn
+em nói là tiếp tục cái Asient 4 cho tao
+thì lúc này nó mới tái khởi động tiếp
+cái Aent 4. Vậy thôi thì cũng chỉ là
+bằng thao tác câu lệnh thôi anh. Dạ hoàn
+toàn được. Ở dưới trong [âm nhạc] đó
+mình sẽ bấm có phần stop.
+Ok rồi. Không biết là anh
+&gt;&gt; các anh chị khác hỏi từ.
+&gt;&gt; Dạ. Dạ.
+&gt;&gt; Rồi có anh anh anh anh em nào có câu hỏi
+có đặt câu hỏi thì cứ đặt câu hỏi ha.
+Tối hôm nay thì mình chỉ là giao lưu với
+nhau thôi mọi người. Mọi người bật mic
+luôn cho nó vui.
+Hồi nãy em thấy Giang đang có một cái
+câu gì ở Giang ơi?
+Em tự hỏi [âm nhạc]
+&gt;&gt; em chào anh Ninh và chào tất cả mọi
+người. Thực ra thì lúc mà em chuyển sang
+trang dùng cái 2.0 ấy thì một trongng
+câu hỏi của em [âm nhạc] chính là tại
+sao mà em không có cách nào em có thể mở
+được cái folder giống như bên IDE để mở
+ra xem là các cái file kinh doanh như
+thế nào để kiểm soát. Thế thì hôm nay
+thì mình biết được rằng là có thể là cái
+2.0 đấy là không thể mở được thì mình sẽ
+phải chấp nhận bằng cách là mở song
+[âm nhạc] song. Và cũng tiếp với câu hỏi
+của các anh lúc nãy thì em nghĩ rằng là
+em muốn hỏi là nếu như mà mình chạy song
+song như vậy, mình đang chạy multi mà
+mình chạy và nó sinh ra file mà mình sửa
+thêm ID thì nó sẽ bị [âm nhạc] loạn.
+Nhưng nếu như trong trường hợp mà mình
+đọc cái file sinh ra bên IDM mình biết
+là nó có vấn đề rồi. Mình dừng cái file
+chạy ở ở bên 2.0 lại [âm nhạc] và mình
+chạy cái câu lệnh mình sửa ở bên IDE thì
+nó có gây ra cái vấn đề mà nó bị kiểu
+như nó bị rối loạn đầu óc của cái con
+đấy không? Đấy em có cái câu hỏi là như
+thế.
+Ừ. Em em em nói lại anh chưa hình dung
+cái chỗ em vừa nói [âm nhạc] cái chỗ mà
+rối là cái chỗ idea á hả?
+&gt;&gt; Ừ. Lúc nãy anh có trả lời là khi mà
+[âm nhạc] anh cho nó chạy song song thì
+anh có khuyến cáo rằng là mình nhìn thấy
+cái file bên [âm nhạc] IDE đấy là nó
+sinh ra rồi nhưng mình hãy xem mà đừng
+sửa đúng không?
+Đúng
+&gt;&gt; bởi vì là không [âm nhạc] thì nó sẽ bị
+là nó giống như kiểu là nó sẽ bị vừa sửa
+của mình vừa viết ra thì có một cái khác
+nó trền [âm nhạc] vào ấy. Thế vậy thì
+đấy là vì nó chạy song song. Thế nhưng
+ví dụ như khi mà chạy một cái thì em
+phát hiện ra là à nó sinh ra [âm nhạc]
+cái sản phẩm sinh ra nó chưa đảm bảo nhu
+cầu thì như vậy là cái con kia nó chưa
+làm được hiệu quả. thì em có thể dừng
+cái con dừng cái bên 2.0 lại và đồng
+thời là em sửa ở lúc này em mới sửa ở
+bên IDE
+&gt;&gt; để mà thì có được hay không và nó có bị
+nó có bị cái tình trạng giống như cái
+lúc mà mình chạy song song [âm nhạc]
+không hay là làm như thế thì sẽ ổn hơn
+ạ. Đấy em đang c như thế
+&gt;&gt; à. Ok anh trả lời luôn cái phần này.
+Thực ra á là cái này cũng đã anh đã từng
+làm rồi.
+Cũng quay lại cái câu chuyện có nghĩa là
+ở bên 2.0 khi nó chạy multiaent á thì nó
+tạo ra mình cho mình nguyên [âm nhạc]
+một mình hiểu là nguyên một cái khung
+nha. Nó tạo ra cho mình chỉ tích tắc
+thôi. Với cái câu lệnh một vài cái câu
+lệnh như hồi [âm nhạc] nãy mình đang làm
+á Multient hay là Teamwork Review á nó
+cho mình nguyên một cái khung luôn một
+cái sườn của một cái ngôi [âm nhạc] nhà
+luôn. Nhưng mà đôi khi ở bên trong cái
+phần cấu kiện ở bên trong á, những cái
+phòng vân vân thì nó lại chưa có hoàn
+chỉnh. [âm nhạc] Thì lúc này mình yêu
+cầu nó phải điều chỉnh lại thì mình lại
+mang qua bên cái Google Antiraity Ider á
+để [âm nhạc] nó điều chỉnh hoàn toàn
+bình thường. À và lúc này ở bên cái ông
+mà
+2.0 á thì nó làm á thì mình nhưng mà
+mình cũng phải mình cũng phải lưu
+[âm nhạc] lưu ý là làm gì thì làm. Do
+bản chất hai cái này khi nó đã tách ra,
+nó không còn sở hữu chung một cái đường
+dẫn nữa. À nó trước đây nó chung một cái
+đường dẫn nghĩa là Asian Manager. Nó sử
+[âm nhạc] dụng chung một cái cái góc là
+antiravity germin trong cái đường dẫn á
+nó cũng bằng đường dựng góc nhưng bây
+giờ nó đã tách ra cho nên cái mình hiểu
+cơ bản là về cái não át có sự khác biệt.
+Vậy thì quay lại cái bài toán này, lúc
+mà mình yêu cầu mình chỉnh sửa ở bên cái
+phần ID á thì cũng cần phải yêu cầu là
+[âm nhạc] qua bên 2.0 á mình phải nói để
+cho nó hình dung. Có nghĩa là à tao vừa
+chỉnh sửa lại cái nội dung của cái này
+cái kia [âm nhạc] mày hãy cập nhật lại
+đi được không ạ? Em em hình dung được.
+Có nghĩa là tao vừa chỉnh sửa ở bên nền
+tảng A, nền tảng B gì đó mình nói hoặc
+là tao chỉnh sửa bằng tay thì mày hãy
+cập nhật lại để mày hiểu được cách tao
+vừa làm. Chứ mình đừng có sửa rồi mà
+mình cứ im ỉm imỉm mà mình không nói đó.
+Thì lúc này nó hình dung là nó vẫn làm
+nhưng mà trong não của nó là nó hình
+dung đó là cái công thức của nó. Và đến
+khi cần à thì chính anh cũng đã bị rồi
+nha. Đến khi cần mình yêu cầu nó là tiếp
+tục làm cái công việc bên kia đi. Nhưng
+mà lúc này nó trong não của nó. trong
+não của nó là nó vẫn đang nhớ là cái quy
+trình hay là cách làm á là từ đầu đến
+giờ là tôi vẫn là như vậy thôi. Anh đâu
+có nói với tôi là cập nhật gì đâu mà.
+Cho nên lại tiếp tục nó đi trong cái
+phần đếp của nó là nó đi tiếp. Nó đi
+tiếp và nó làm thì đâm ra nó vẫn sai. Từ
+sai đ nó vẫn dẫn đến sai. Nó chưa hoàn
+chỉnh chưa [âm nhạc] hoàn hảo chứ cũng
+không hẳn gọi là sai. Mà do cái hoàn
+chỉnh hoàn hảo để mình lại đi cập nhật
+bên IDER á mình lại không nói cho nó. Đó
+thì cái này là mình phải tương tác song
+song thôi. Mình vừa làm ở bên này vừa
+làm bên kia thì mình phải chịu khó.
+&gt;&gt; Vâng ạ. [âm nhạc] Nhiều rồi. Cảm ơn anh.
+&gt;&gt; Ok.
+Hôm trước chị Hiền có một câu hỏi không
+biết trên kia thì chị Hiền đã về thử cho
+chị Hiền ơi
+ở đây còn
+[âm nhạc] à chị nói không được. Dạ rồi.
+Ok. Còn anh anh em nào ở đây có câu hỏi
+không? Chiều nay bắt đầu anh Chung là
+bắt đầu đã thử cái tính năng multiasent
+trên 2.0 rồi đúng không anh Trung ơi?
+À Minh hy vọng nhé. Kịp [âm nhạc] thì
+qua tuần sau mình sẽ có buổi Zoom để
+chia sẻ về cái cách làm. Ở đây là mình
+sẽ mời thêm một bạn, [âm nhạc] hai bạn
+nữa chứ không phải chỉ mình. Hôm đó bạn
+cũng hôm nay là có bạn đó hiện đang ngồi
+đây để nói về cái cách mà dùng
+antiravity.
+Cái cách mà antiravity sẽ build ra app
+làm build ra app nhé build [âm nhạc]
+cách ăn dùng antiity 2.0 không để build
+up làm video à đó thì à làm video
+YouTube
+mọi người không biết có ai ở đây có hứng
+thú về cách đó hay không nhé nhưng mà
+đợi mọi người co bức tranh tổng quan
+build app á
+anh trình anh còn đang nợ tôi một cái
+cái buổi workshop nha anh trình mọi
+người đang chờ anh dữ lắm luôn á
+nghiên cứu rồi
+&gt;&gt; à chiều nay mới có người hỏi đó anh
+Trình ơi. Chiều nay mới có người hỏi cái
+cái của anh trình cái skill mà notebook
+cộng với MT Gravity rồi khi [âm nhạc]
+nào anh Minh ơi?
+À ok không sao anh nói vui anh Trình ơi
+thì các anh cứ sắp xếp thì trong trường
+hợp mà có gì thì anh cứ báo thì anh mình
+sẽ online zom thôi.
+Rồi ok còn có anh em nào có câu hỏi gì
+nữa không ạ?
+Tối hôm nay để mọi người phải chờ đợi
+hơi lâu, mất khoảng 10 15 phút đầu rồi.
+&gt;&gt; Ủa cho mình hỏi cái bên cái 2.0 á, rồi
+mấy cái ví dụ như là
+mấy cái skill mà nó nằm bên ID là nó vẫn
+xài được đúng không?
+&gt;&gt; Đúng rồi anh anh Trình. Nhưng mà có một
+cái vậy nè chị Hiền đợi em tí [âm nhạc]
+xíu em.
+Bên cái
+skill bên kia á là nếu như mình đang ở
+cái đường dẫn nha, mình để ý rồi là nó
+có hai cái đường dẫn lúc này nó đặt ở
+hai cái đường dẫn khác nhau. À nó có hai
+cái đường dẫn mà nó hay bị lẫn lộn. Rồi
+cái ông 2.0 nhiều khi ổng không thấy thì
+nó đọc vô thì [âm nhạc] nó lại chưa nhận
+diện được á. Thì lúc này một là mình à
+mình phải giống như mình phải sao lưu á
+từ cái bộ bên kia mình đẩy qua thêm bên
+này. Còn không là mình phải chỉ đường
+dẫn cho nó. À bắt ch bình hình dung kịp
+không? Giống như là việc mình lấy skill
+về mình để cho D vậy đó. Rồi mình chỉ
+đường dẫn cho nó thôi.
+&gt;&gt; Ok. Ok.
+&gt;&gt; Thì lúc này mình cũng chỉ đường dẫn cho
+nó là nó đọc được thôi.
+Nó vẫn sử dụng bình thường hết bác
+trình. Dạ. Rồi à trường hợp chị Hiền á
+thì
+bản Pro mà vẫn có team TeamW hả? Đến
+thời điểm hiện tại là em không biết nhá.
+Có thể là do em đang cập nhật muộn hoặc
+là em không cập nhật mới nhưng mà ở thời
+điểm mà cách đây khoảng hai tuần ba tuần
+ờ khi mà làm á thì mọi người lên trên
+cái
+ok rồi vậy là có bản team web [âm nhạc]
+vậy là nó có cập nhật cho mọi người cái
+bảng này rồi đó mọi người thử dùng đi
+ha còn cái [âm nhạc] câu lệnh mà involve
+sub agent với lại define agent á thì cái
+này là cái mà nó nằm sâu vào cái lỗi ở
+bên trong.
+À chị nói là mình không thấy Asian
+[âm nhạc] này. Thật ra nó không phải là
+ừ cái tên của cái con Asian bình thường
+mà chị hiểu nó được dùng cái từ define
+là [âm nhạc] để định nghĩa nha. Define
+là dùng để định nghĩa. Còn cái con
+invagent [âm nhạc] là cái đó dùng để tạo
+ra à thiết kế ra theo mình nhớ [âm nhạc]
+là như vậy. À thì như vậy thì lúc này á
+bản thân mình chỉ là người gõ cái câu
+lệnh bình thường [âm nhạc] thì lúc này
+nó sẽ tự đi gọi cái involve đó lên.
+Giống như hồi nãy mình có chia sẻ là gì
+ạ? À ông CEO ổng giao việc xuống
+[âm nhạc] cho ông trưởng phòng thì chắc
+chắn trưởng phòng thì phải có lính chứ
+đúng không? À đó thì trong ông chủ phòng
+ổng sẽ có
+hai ba người lúm và ổng giao cái việc đó
+xuống cho ở bên dưới [âm nhạc] thì lúc
+này nó tự động nó đi gọi cái lệnh
+involve subent để nó phân bổ cái công
+việc đó ra. Và dĩ nhiên cái này
+[âm nhạc] nó được bốc tách nếu mà chị
+ngồi đào sâu vào bên trong. Tại vì hôm
+đó mình ngồi mình phải nói luôn là mình
+ngồi đến tận phia mình cũng phải mất hai
+ngày để chỉ vọc vote agent thôi. Và hôm
+đó mình còn gọi điện cho bạn Thủy nữa. Ở
+đây đang có Thủy ngồi ở đây mình có nói
+về cái cái involve và cái define này và
+chia sẻ thì chị yêu cầu nó là cái
+involve subagent này nó làm cái gì chị
+hỏi nó thì chị sẽ thấy nó rất là rõ cái
+cách nó làm. Và bình thường khi mà mình
+chỉ giao việc cho nó và mình nói là tạo
+ra cho tôi là năm sub asent [âm nhạc]
+hay là tự phân bổ công việc như thế nào
+chạy multision thì lúc này nó tự động nó
+gọi cái lệnh involve nó lên đôi khi mình
+thấy và đôi khi mình không thấy.
+À cái phần flash 2 á chị thật ra mình
+hình dung như vậy à tại sao mà nói là
+không cần model của clot không phải mà
+mình hình dung á là cái flash 2 lúc này
+nhá về cái [âm nhạc] cota của flash 2
+3.5 á được ra mắt gần đây sau cái sự
+kiện mà Google IO 2026 vừa rồi á
+[âm nhạc] thì Google có công bố ra cái
+phiên bản 3.5 năm 3.5 thì đến thời điểm
+này theo mình theo mình thì nó vẫn dùng
+khá là ổn đối với một số cái tác vụ và
+nhất là những cái tác vụ mà cần có cái
+đầu mục mà [âm nhạc]
+giống như hồi nãy mình nói á nó cầm cầm
+mà nó tốn nhiều cota được không ạ? Tốn
+nhiều cota tại vì khi mà mình chạy mà đa
+nhiệm tạo ra luôn nguyên một cái hệ sinh
+[âm nhạc] tái lớn tạo ra một cái ứng
+dụng web app lớn tạo ra một cái gì đó
+thì nó tốn rất nhiều cô cô ta. Vậy
+[âm nhạc] thì lúc này mình đang sử dụng
+là email mà bản đặc biệt mà bản pro nữa
+nhá. Thì cái lượt quota mình nó sẽ có
+hạn chế mà mình lại mang cái con clock
+ra để sử dụng thì nó cực kỳ gọi là tốn
+kém. Phải nói luôn [âm nhạc] nó cực kỳ
+tốn kém. Cho nên á là lúc này chính ông
+ông ông ông ông ông Google ổng ổng
+recommend luôn là nên dùng cái chức năng
+là à flat.
+Dạ nên dùng [âm nhạc] flash 3.5 và để
+cho nó cải tiếng thì mình dùng thêm chữ
+hai thì để cho nó thông minh hơn thôi.
+Đó và mình sử dụng bữa giờ thì cái phần
+flash nó cũng khá nhiều nhưng mà đúng là
+có những cái bài toán mình dùng 3.5
+không giải quyết được mình buộc
+[âm nhạc]
+mình phải dùng
+&gt;&gt; không chơi nữa.
+&gt;&gt; Đó thì đại cái là mình dùng mình mình
+tùy thời điểm tùy lúc mà mình sẽ ứng
+dụng mình chọn cái model nào đó chị chị
+Hiền ơi. Dạ.
+À
+ok. À không biết là còn có anh chị em
+nào có câu hỏi nữa không ạ?
+Cũng khá lâu rồi. Anh Hùng ơi, dạo này
+lâu quá không gặp anh Hùng. Anh Nguyễn
+Trung Hùng.
+Ok em ở đi. Thủ
+&gt;&gt; ấy là hôm trước anh có nói
+khi mình cài [âm nhạc] cái ID
+như em thì em đã lỡ cập nhật cái 2.0
+rồi. Vậy thì khi [âm nhạc] mình cài cái
+ID thì dạo gần đây anh thấy nó còn mất
+dữ liệu hay là phải back cup trước khi
+cài về.
+&gt;&gt; À
+&gt;&gt; nó an toàn được không anh? Nó an toàn
+không bây giờ?
+Thật ra cái việc mà an toàn hay không á
+thì trước cái việc mà mình làm mới thì
+cũng nên backup sau lưu ra là chắc chắn
+nhất. À mình nên tự phòng ngừa trước khi
+mà mình đến ấy ha mà mình đến cái việc
+mà đã là chuyện đã lỡ rồi thì mới đi hỏi
+chữa trị thì lúc đó cũng muộn rồi. Nhiều
+khi lúc đó là hỏi là tại ông Minh không
+tư vấn.
+&gt;&gt; Nhưng mà hình như
+nếu mà em có bắt cấp ra rồi trước em có
+tải về thì nó vẫn bị trống anh giống như
+cái mới hoàn toàn.
+thì làm sao lôi [âm nhạc] ngược trở lại
+cho nó đồng bộ vào trong cái idea
+&gt;&gt; à không bây giờ nhá mình hình dung là
+cái đường dẫn của 2.0 nó đã khác với
+đường dẫn của bảng ID cho nên cái luồng
+chat của bên này và luồng chat của bên
+kia mình không thể đồng bộ được.
+À anh [âm nhạc] đang nói là em khi em
+cài á để tránh cái sự cố thì mình cài
+2.0 mình backup cái luồng dữ liệu của
+2.0 ra sau đó là mình mới cài cái bản ID
+lên.
+Em hình dung được không?
+&gt;&gt; Thì em làm vậy đó. Em có làm vậy đó
+[âm nhạc] chứ. Em không có lấy cái luồng
+mới của 2.0 đâu. Luồng cũ của ID á.
+&gt;&gt; Ừ. Thật ra á là
+&gt;&gt; nhưng mà khi cài về rồi thì nó trống tức
+làm sao nó có thể khớp vào khi [âm nhạc]
+cài về ha.
+&gt;&gt; Không bây giờ nó đã ngay từ thời điểm
+đầu. Ngay từ thời điểm đầu là mình đã bị
+mất rồi mà
+đúng không?
+Ngay từ cái lúc mà sau khi mà mọi người
+bị chuyển giao nó tách cái ID và 2.0 ra
+là mọi người tự nhiên bị đảo qua 2.0 và
+đảo qua cái ID. Là tại thời điểm đó mọi
+người bản thân anh anh cũng bị mất cái
+luồng dữ [âm nhạc] liệu ở bên bên bên
+kia một phần. Tới thời điểm này có những
+cái cũng bị mất mà nhưng mà nó map qua
+bên 2.0 rồi. Thì bây giờ được đơn giản
+nhất là em lấy cái dữ liệu mà à chat đó.
+á em copy em có thể bỏ qua bên bên bên
+bên kia được.
+Nó có cái đường dẫn công
+&gt;&gt; đúng rồi. Còn không thì mình yêu cầu
+luôn.
+&gt;&gt; Ví dụ như nguyên cái thư nguyên cái thư
+mục mà khi mình bắt cấp ra lại á mình
+lấy nguyên [âm nhạc] cái đó mình bỏ vô
+lại cho nó để cho nó học lại hết thôi.
+&gt;&gt; Mình tốt nhất
+&gt;&gt; mình yêu cầu nhá. Mình yêu cầu nhá. Mình
+chỉ đường dẫn cho đó nguyên cái thư mục
+makeup đó mình chỉ đường dẫn vô là
+[âm nhạc] cái đây là thư mục makeup nè.
+Bạn hãy đọc nó đi.
+&gt;&gt; Rồi ok. Dạ.
+&gt;&gt; Đó thì cái này thì anh cũng hôm trước
+anh làm vậy thôi là mình đưa cho đường
+dẫn nó backup rồi mình chưa yêu cầu nó
+đọc đi.
+Giờ nó biết.
+&gt;&gt; Dạ. Cảm ơn anh.
+&gt;&gt; Ok. Chào anh Hùng.
+&gt;&gt; Chào anh Minh nhá.
+&gt;&gt; Lâu quá lâu quá.
+&gt;&gt; Wow. Em lâu quá ít ít vào ít sờ mó đến
+món này
+&gt;&gt; à.
+Vậy thì hôm nay cơn gió nào đưa anh đến
+đây đây?
+Hôm nay á, hôm nay Thánh Minh chia sẻ
+trên nhóm
+anti 2.0 bảo thế mình trễ nhiều quá rồi
+mấy tháng rồi không không dùng đến vào
+cập nhập xem đến đoàn nào rồi.
+&gt;&gt; À
+&gt;&gt; trước thì cò còn có cái dự án làm cái
+app kia
+&gt;&gt; nhưng mà nhưng mà gì gần đây không làm
+nữa hả anh?
+&gt;&gt; Gần đây không làm nữa
+&gt;&gt; à. Ok.
+tưởng đâu [âm nhạc] có cái phần nào hay
+thì chia sẻ với mọi người.
+&gt;&gt; Vâng. [tiếng cười] Nó bây giờ mới thi
+thoảng vào cầm nhập lại thôi. Không tụt
+hậu quá.
+&gt;&gt; Vâng. Ở đây [âm nhạc] ở đây sẽ có những
+anh chị á là cao tay ấn hơn Minh rất là
+nhiều nhưng mà tại vì mọi người cũng
+ngại không có đặt câu hỏi cũng không có
+chia sẻ thôi chứ còn Minh thì Minh chỉ
+sử dụng gần như là trung thành với công
+cụ Google Anti Gravity
+với CODEX. Còn bản thân mình á thì lại
+không có tiền để mình nuôi thêm cái ông
+ông clot. Hôm bữa mình có nuôi được 2
+tháng rồi mình cho nó bay màu luôn rồi.
+&gt;&gt; Nuôi nuôi tốn kép quá.
+&gt;&gt; Ok rồi. Anh Trung ơi, hồi chiều anh
+Trung chạy cái Mion sau là anh Trung
+thấy anh Bill cái app ra kế toán hay
+quá. Anh Trung
+không biết anh Trung còn có online không
+ta?
+Ờ ở đây nhé. [âm nhạc]
+Mình có vừa bây giờ mình mới vừa thấy
+cái người bạn mình đó là anh Bảo ha. À
+lần tới tuần [âm nhạc] sau mình sẽ mời
+Bảo với lại Thủy chia sẻ về cái cách làm
+ứng dụng công cụ Anti Gravity 2.0 này
+[âm nhạc] để build app làm video
+à cho YouTube. Và cái cách làm này là sẽ
+tự động theo kiểu gọi là bán content.
+Không biết là nếu như anh [âm nhạc] chị
+ở đây có những người làm về YouTube hoặc
+là nghe về YouTube á thì mới hiểu cái từ
+bán content á là cách để làm sao tự
+[âm nhạc] động lên lấy video cắt mỗi
+đoạn video đó là 5 giây rồi ghép lại như
+thế nào vân vân. Đó thì lúc này anti
+hoàn toàn có thể làm được việc đó nha
+mọi người. [âm nhạc] Lấy link về tự động
+cắt thì sáng nay có nói sơ lược với anh
+anh Trình đó
+thì cái FFB á nó là một trong những công
+cụ rất là mạnh ha. Nó có thể chích xúc
+audio rồi có thể cắt ghép [âm nhạc] cái
+thằng
+ultatiy này nó sẽ kết nối với cái phần
+đó. Được chưa ạ? Thì ở đây nó còn hơn
+cái thế nữa là nó buill thành một cái
+app lớn luôn là anh Bảo với lại bạn
+Thủy. Ở đây là hai người bạn của mình đã
+làm đến cái phần đó luôn rồi. Và hiện
+nay đang a đang đến một cái giai đoạn
+khác rồi. Mọi người đã build ra những
+cái app mà làm cho bên nền tảng YouTube.
+Đó thì đây là phần mình chia sẻ thêm để
+hẹn mọi người qua tuần. Nếu sắp xếp được
+thì mình sẽ [âm nhạc]
+thông báo cho mọi người ha. Rồi như vậy
+thì ở trong này còn anh chị nào mà có
+câu hỏi gì cho cái buổi tối hôm nay
+không? Tại vì cái buổi zom của mình nó
+cũng đã đi qua gần 2 tiếng rồi và thời
+gian thì cũng mình nghĩ là sắp hết rồi
+mọi người ạ.
+Giang còn câu hỏi gì không em ơi? Bữa
+giờ đi ra đảo nhiều quá rồi không có có
+cập nhật phải không?
+Nghe nói ra đảo nghe [âm nhạc] ghê quá.
+&gt;&gt; Đợn này về bờ em sẽ cập nhật lại từ đầu.
+Cập nhật đi. À lâu quá rồi nó nâng cấp
+nó đi quá xa rồi.
+À
+có một cái mình [âm nhạc] định chia sẻ
+thêm nhưng mà nó cũng này là mình nói
+thêm thôi. Ở đây chắc có lẽ nhiều anh
+chị đang sử dụng anti giống mình nhưng
+cũng có nhiều anh chị là kết hợp giống
+như nãy anh Vũ á là sẽ sử dụng luôn cả
+clot codex. Có lẽ là anh anh Vũ làm bên
+[âm nhạc] rất là nhiều lĩnh vực nên sử
+dụng đa đa công cụ.
+Thì theo Minh á đến hồi tối hôm qua
+à Minh có ngồi với một nhóm nữa à bên
+bên bên bên bên bên một nhóm khác thì họ
+chia sẻ [âm nhạc] về cách phân tích dữ
+liệu. Phân tích dữ liệu cực kỳ chuyên
+sâu. À cái buổi tối hôm qua mình cảm
+thấy rất là hứng thú nha. Lượng dữ liệu
+khoảng 540.000
+vòng.
+540.000 vòng à. làm sao để phân tích cái
+lượng dữ liệu lớn đó thì trước giờ nói
+thật ra bản thân mình mình chỉ biết có
+thể là bốc tách giống như vừa rồi mình
+bốc tách khối lượng à mà mình có xe trên
+cộng đồng bốc tách khối lượng mình lấy
+[âm nhạc] ra như thế nào rồi dùng skill
+như thế nào để bốc tách cái đó ra tuy
+nhiên đến ngày hồi tối hôm qua khi mình
+ngồi rồi mình mới thấy là cái công cụ
+[âm nhạc] clot á thực sự nó có cái điểm
+mạnh riêng của nó so với cái công cụ
+anti gravity như thế nào à tại vì mình
+cũng ít dùng những cái công cụ clot đó
+nên mình không rõ là cái sức [âm nhạc]
+mạnh của nó. À đó cái đó có cũng phải
+nói thật. Tuy nhiên cũng nó quay trở về
+một cái bài toán căn cơ thôi mọi người
+và tùy vào tính chất công việc của mọi
+người nữa. Thì như mình á đến thời điểm
+hiện tại lúc ban đầu mình chia sẻ là mọi
+người thấy á mình đã có thể [âm nhạc]
+làm ra một cái trang web để phục vụ cho
+công việc của mình. Hay [âm nhạc] sáng
+nay à ở đây có ai biết cái trang web của
+anh Hải Trình chưa ạ? Hải trình.org. Thì
+anh Hải Trình chắc chắn sẽ [âm nhạc]
+cũng có giữ lời hứa với mình rồi là sẽ
+có một cái buổi Zoom để chia sẻ về cách
+mà anh ứng dụng Anti Gravity để làm cái
+trang [âm nhạc] web mà Hải Dương học của
+anh kết nối với Notebook MM cực kỳ chất
+lượng nha mọi người. Phải nói là cực kỳ
+chất lượng luôn. Nếu mà mọi người chưa
+thấy mọi người có thể vào cái trang
+hiring.org [âm nhạc]
+à để cho con hay là cho cháu của mình
+vào trong đó để xem và học hỏi rất là
+nhiều kiến thức hay bổ ích mà anh anh
+Trình đã dày công ra. để vung đắp cái
+trang web đó mọi người.
+&gt;&gt; Ờ cảm ơn Minh Minh sáng giờ giới thiệu
+nhiều quá bác Minh [tiếng cười]
+24 chia phần 24 ch%
+&gt;&gt; phi lợi nhuận bác Minh ơi. [tiếng cười]
+&gt;&gt; Nói vui nói vui. Ok [âm nhạc] đó thì
+mình quay lại cái câu chuyện để mình
+muốn nói rằng cái gì ạ? À
+tùy vào tính chất công việc mà khi mình
+ứng dụng công cụ [âm nhạc] Anti Drabity
+nó vẫn đủ sức để làm ra những cái trang
+web cực kỳ chất [âm nhạc] lượng. Hay là
+sắp tới bạn của mình là anh Bảo sẽ chia
+sẻ về cái app để phục vụ cho cái việc
+làm YouTube tự [âm nhạc] động hóa hoàn
+toàn. Thì mọi người hình dung là cái gì
+ạ? Cuối cùng là cái gì? Chúng ta ở đây á
+mình đang nói là không phải là cái sức
+mạnh của cái công cụ kia là mình phải
+thừa nhận nó rất là mạnh. Tuy nhiên cũng
+phải quay lại là cách chúng ta tận dụng
+cách chúng ta tận dụng mỗi công cụ nó
+như thế nào nữa. Ví dụ nhá à mọi người
+đang sử dụng cái
+clot rất là nhiều đúng không ạ? rồi
+build ra rất là nhiều loại skill a b các
+kiểu. Nhưng mọi người thấy có những lúc
+khi chỉ cần minh chia sẻ về một cái
+skill nào đó là mọi người thấy á là mình
+vẫn làm bằng chính cái công cụ
+antiravity mà thôi. [âm nhạc] Và mọi
+người thấy
+nó vẫn phục vụ đủ cái tính năng chứ nó
+không hề bị ờ giảm chất lượng hay là như
+thế này thế kia. Thì cái đó là do cái
+người thực thi và do cái cái cái cách
+chúng ta áp dụng cái công cụ đó như thế
+nào vào trong công việc. Thì cái này là
+mình chia sẻ thêm thôi mọi người. Cho
+nên mình cứ đào sâu vào một công cụ để
+theo Minh. [âm nhạc] Nếu như mà cái kinh
+phí mình có thì mình có thể đầu tư thêm
+clot thì để mình mình học đó để mình coi
+được cái tính năng cao cấp của nó như
+thế nào. Tại vì thầ thật sự nó quá mạnh
+luôn. Theo như qua mình ngồi mình trải
+nghiệm cái cách mà phân tích dữ liệu
+540.000 ngàn dòng của một phá Excel thì
+mình hình dung ra được cái vấn đề. Tuy
+nhiên á là phải nói rằng á là để làm
+được những cái việc đó thì đòi hỏi một
+lượt quota và xử lý như thế nào a b các
+bước còn lại công cụ này của mình nó có
+mức giới hạn [âm nhạc] thì mình phải
+chấp nhận thôi mọi người. Rồi thì cái
+này phần chia sẻ thêm thôi. À anh trình
+thì chắc chắn rồi thì trong chắc phải
+trong tuần sau thôi chứ còn tuần này thì
+đúng anh Trình ha.
+Sao tuần sau
+&gt;&gt; tuần sao từng sau bạn Giang là hồi nãy
+có hỏi rồi đó bạn Giang ở dưới nó ấn
+tượng ở dưới kìa anh anh không làm đi
+bạn Giang [âm nhạc] bạn Giang vô xử lý
+anh đó chừng giỡn đâu.
+&gt;&gt; Sao lại sợ dẫm thế? [tiếng cười]
+Bạn mới ở ngoài đảo ngoài đảo về đó anh.
+&gt;&gt; Anh cũng mới đảo về
+&gt;&gt; đó. Ô đó [tiếng cười]
+&gt;&gt; thế vậy thì nghi có khi anh Minh mới là
+người bị xử lý.
+&gt;&gt; Cũng đi lâu giờ thấy cái 2.0 nhưng mà
+cũng ngại chưa có thử.
+Bây giờ sao buổi hôm nay mới dám thử.
+&gt;&gt; [tiếng cười]
+&gt;&gt; Thôi [âm nhạc] thôi vậy chứ
+&gt;&gt; sợ nó sợ nó đụng vào cái project mình
+đang chạy ổn á. Sợ nó
+đụng vào cái nó có vấn đề gì lại mệt l.
+Đúng rồi. Ờ trước tiên [âm nhạc] thì
+mình cứ xem kỹ cái đó mình backup sau
+lưu hết anh à anh Trình ơi. Rồi coi lại
+đường dẫn thôi chứ còn thật ra á là mình
+cách đây
+cách đây cách đây khoảng mình không nhớ
+chính xác cũng khoảng hai tuần chứ mấy.
+cái trang web mà nãy mình show ra cho
+mọi người xem á là cái hôm đó mình tưởng
+chừng mình bị mất cái dữ liệu [âm nhạc]
+à mất cái data về nhân viên và những cái
+phần chấm công hay là những cái phần tại
+vì [âm nhạc] khi mà làm xong á là cái
+lần hôm đó là đúng là mình lần đầu tiên
+làm về app và cái ông antiravity với
+[âm nhạc] 2.0 này á thì mình đâu có nắm
+hết được cái cách cái ngóc ngách của nó
+đâu. Tự nhiên cái ôm đó
+nó làm cho mình
+nó nâng cấp hay là nó làm cái gì đây tự
+nhiên mình quên đó mình mất sạch luôn
+cái cái lượng data mà đường dẫn cũng như
+là cái conversation
+ở trong cái 2.0 đó. Mình bực mình kinh
+khủng luôn. Mình mình lôi lục mình lôi
+mình lục mình lôi mình lục. Rốt cuộc thì
+nó cho mình lại được một vài thông tin
+thì một số nhưng mà có một số cái nó
+không còn đường dẫn nó không hiểu được.
+Đó thì nói như vậy thôi. Nó nó cũng có
+những cái rủi ro mà mình phải backup sau
+lưu trước mọi người ơi.
+Ok [âm nhạc] rồi thì hy vọng là trong
+buổi tối hôm nay đã có một cái phần nào
+đó bổ ích cũng như là thú vị dành cho
+anh chị em đã cố gắng ngồi với Minh
+trong buổi tối hôm nay. Bây giờ cũng đã
+9:52 và cái buổi zom này mình nghĩ là nó
+cũng sắp đến giờ kết thúc rồi.
+Anh anh Minh ơi cho mình thêm một khoảng
+một phút nữa mình mình hỏi cái này nó nó
+rộng hơn một chút xíu về cái về cái chủ
+đề 2.0 hôm nay được không ạ? Dạ được anh
+được anh.
+&gt;&gt; Tại vì mình rất là thích cái cách anh
+Minh chia sẻ về cái quá trình ai học và
+áp dụng quên Minh thì thật ra là
+[âm nhạc] mình cũng đang thử mình áp
+dụng cho một cái nhóm nhỏ các
+đồng nghiệp nhân viên của mình ở công ty
+và một số bạn bè.
+Nhưng mà khi mình bắt đầu mình mình lên
+chương trình chia sẻ thì mình lại khi đó
+đã có 2.0 nhưng mà mình vẫn dùng cái
+[âm nhạc] ID cũ để mình chia sẻ và có
+thể đó có vẻ như một cái sai lầm của
+mình tại vì nhiều anh em vào thấy mở màn
+hình đã thấy code nhảy tùm lum hết file
+fix thì họ bị hoảng và họ nản thì liệu
+anh Minh có thể tư vấn cho mình một cái
+cách nào để mình [âm nhạc] cứu chưa cháy
+lại bằng cách là mình nhảy thẳng qua cái
+2.0 công này
+có cho những cái lần tiếp theo mình chia
+sẻ không?
+&gt;&gt; À cái phần chủ đề này rất là hay nhá. Em
+cũng đang thật ra em đang có một nhóm
+chia sẻ như vừa rồi ở cho một cái
+[âm nhạc] doanh nghiệp logistic và chuẩn
+bị thứ hai tuần sau em cũng khai giảng
+một cái nhóm [âm nhạc] khác cũng cũng
+ứng dụng là em sẽ ứng dụng vào 2.0 thôi.
+Nhưng mà quay trở lại với cái chủ đề của
+anh Vũ á thì không biết là anh đã ứng
+dụng là cho các bạn là đã được bao nhiêu
+tuổi rồi anh?
+Cái lộn trình của mình á thì lúc đầu là
+mình mình không đánh giá được cái mặt
+bằng của các bạn. như thế nào.
+&gt;&gt; Cho nên mình mình hơi hôn đồm tức là
+mình chủ tịch mình tính là hai buổi với
+một cái scope nó hơi rộng tức là tổng
+quan về AI và AI Asian.
+&gt;&gt; Dạ.
+&gt;&gt; Theo góc độ là chia sẻ thôi thì tổng
+quan của AI thì mình tập trung nhiều ở
+cái bản về mindset sử dụng AI, những
+kiến thức tổng quan rồi những [âm nhạc]
+cái skill skill cái kỹ năng sử dụng AI
+đơn giản. Ví dụ cách prom như thế nào,
+cái cách mình tương tác với AI như thế
+[âm nhạc] nào và một vài cái mô hình
+công cụ AI cơ bản. Tất nhiên thì từ th
+để để mà xem [khịt mũi] được giống như
+là lắp lắp những cái khoảng cách giữa
+các bạn với nhau ở mức cơ bản. Sau đó
+bắt đầu mình mới nhảy qua agent thì mình
+cho các bạn thấy cái sự khác biệt giữa
+chatbot truyền thống và agent như thế
+nào. Bằng cách là mình đưa một vài cái
+showcase mà mình đã làm một số cái
+project nhỏ nhỏ ví dụ như các website
+hoặc là một vài cái tool Python nhỏ nhỏ
+để điều khiển màn hình này nọ các thứ
+linh tinh thì các bạn thích. Có vẻ cũng
+có một số bạn thấy thích nhưng mà mình
+nghĩ [âm nhạc] cái chính á là một là các
+bạn chưa thấy cái nhu cầu thật sự nó gắn
+nó gắn xát với cái các bạn tại vì các
+bạn chưa chủ động để đưa đưa đưa ra cái
+bài toán của các bạn. [âm nhạc] Thứ hai
+nữa là các bạn là toàn bộ là dân nên nên
+code nên test nh
+&gt;&gt; dạ.
+&gt;&gt; Cho nên khi bắt đầu mình qua cái phần
+thực hành thì mình mở cái cửa sổ anti
+gravity lên đầu tiên thì các bạn đã thấy
+code tùm lum hết. Mở cái file Explorer
+ra thấy mấy file HTML thẻ tùm lum rồi
+chạy thì à nó lại xổ ra là chạy câu lệnh
+này câu lệnh kia cài cắm lum hết thì thì
+bắt đầu các bạn loạn thì mình thấy chỗ
+đó là là là cái cái có thể là cái sai
+cách tiếp cận của mình mình đi mình đi
+hơi hơi vội [âm nhạc] trong cái buổi cái
+buổi thứ hai thì hôm qua thì mình có một
+cái nhóm nhỏ mình đi từng bước một từ
+cái cài đặt anti mình cũng có chia sẻ
+cái cái cái [âm nhạc] clip của anh Minh
+về cái hướng dẫn cài đặt mà bản cũ á thì
+họ cũng cài được xong họ cũng vào mở
+được lên rồi mình bắt đầu mình mới cho
+tạo một cái project từ đầu tạo một
+website thì tất nhiên nó bị vấn đề là
+chạy nó lâu quá trọng phải cả gần nửa
+tiếng tiếng thì nó mới ra được một cái
+thành phẩm thì những người mà họ kiên
+nhẫn họ ở lại cuối cùng thì họ mới họ
+mới wow họ mới họ mới à ra
+về cái đó nhưng mà những người khác họ
+không có follow cái buổi đó thì họ vẫn
+vẫn khá là hoang mang và bị giống như
+kiểu bị bị bội thực bị ngợp về cái thông
+tin [âm nhạc] sau sau hai buổi coi như
+là hai buổi rưỡi của mình thì thì cũng
+cũng có một hai bạn bạn cũng rất nhanh
+bạn tự tìm hiểu s YouTube thì bạn mới
+đặt vấn đề mình tại sao anh không giới
+thiệu luôn cái 2.0
+luôn cho mọi người thì mình nói là ok
+mình cũng đang cũng đang tìm hiểu nhưng
+mà mình như mình chia sẻ với mình mình
+đợi nó ổn định thật sự thứ hai là mình
+nghĩ vẫn phải có kết hợp với cái giống
+như giống như hôm nay mình kết luận với
+nhau là như vậy. Nếu mình mình bỏ qua
+hoàn toàn cái đấy thì người ta chỉ biết
+cái tầng Asian phía trên thì nó không
+đúng cái ý của người ta thì cũng không
+[âm nhạc] biết đường nào mà sử dụng. Thì
+thì đến giờ này thì mình vẫn đang
+concern là nếu mình có một cái bữa để
+mình correct lại những người cũ hoặc là
+mình làm cho một nhóm mới thì mình nên
+tiếp cận như thế nào một vài [âm nhạc]
+buổi đó thì là cái ngữ cảnh của mình là
+như vậy thì
+&gt;&gt; ok em hiểu rồi. Dạ ok. Ở cái góc nhìn
+này thì em cũng chia sẻ thêm với anh
+nhá. Anh anh anh đang có một cái chia sẻ
+rất là hay. Cái case story này nó rất là
+cụ thể. Đầu tiên là mình đi từ cái myset
+[âm nhạc]
+à mình đến skill set và cuối cùng đến là
+tool set. Chắc là anh đang đi theo cái
+hướng đó.
+&gt;&gt; Đúng rồi, đúng rồi. Chính xác.
+&gt;&gt; Dạ. Tuy nhiên á là nó có một cái
+mà em đang tham dự rất là nhiều ờ
+[âm nhạc] các khóa học kiểu kiểu như vậy
+luôn. và các buổi zom thậm chí đến thời
+điểm hiện tại của những cái đơn vị lớn à
+những cái anh lớn có một điểm mà em đang
+thấy nó cũng có một còn một cái sai lầm
+đó là họ mặc định nhé cũng giống như
+trong trường hợp hồi nãy của anh Vũ là
+họ mặc định rằng cái công cụ antiravity
+này hay là cái công cụ clot này thậm chí
+khi vào cái là mọi người nói à mọi người
+có công cụ đó chưa công cụ này phải trả
+phí nha [âm nhạc] nhưng chưa hết nha mọi
+người vào à mọi người tải cái skill này
+đi, dùng cái workflow này, cách này để
+tạo ra skill nè. Nhưng mà mình quay trở
+lại là cái gì ạ? Mọi người còn chưa hình
+dung skill là gì? Workflow là cái gì?
+Nghe những cái từ mà thay vì là nếu mà
+dịch từ tiếng Anh sang tiếng Việt á thì
+à nghe thì nó à cái đó là kỹ năng thôi
+mà, quy trình thôi mà. Nhưng mà rõ ràng
+trong cái từ đó nó với ai nó không có
+phải như vậy. Nó nó đang từ cái nghĩa nó
+hiểu sâu hơn nữa. Như vậy thì lúc này
+bắt đầu từ cái bài toán đó thì em lại đi
+bắt đầu đi dần sang là hôm trước bắt đầu
+[âm nhạc] em ngồi với một số bạn ấy nhá.
+Và thậm chí em ngồi với một bạn hoàn
+toàn mới trong cái cái gọi là A nhưng
+[âm nhạc] bạn muốn tìm hiểu về A nhưng
+bạn bị delay rất là nhiều. Bạn cũng tham
+gia một số nơi, cuối cùng bạn hẹn em rồi
+em ngồi em với bạn đúng 4 tiếng đồng hồ.
+Đúng 4 tiếng nha. Đúng 4 tiếng. Nhưng em
+vào là em đi từ cái cơ bản nhất luôn
+[âm nhạc] là em nói em hỏi trước là bạn
+đang bình thường dùng công cụ gì? Bạn
+nói là bạn đang dùng công cụ là chat GBT
+là thường xuyên nhất. Em nói vậy thì
+[âm nhạc] đúng bài à anh sẽ giới thiệu
+cho em một cái công cụ này về cái mặt
+hình ảnh về cái cách sử dụng và cơ bản
+đó gần như tương đồng với công cụ
+[âm nhạc] chatbt thì em mới cho bạn
+thấy. Rồi em nói về cái cách gõ câu lệnh
+nè nó như thế này. Rồi cái conversation
+nó như thế này. Vậy em thấy [âm nhạc]
+nếu mà chuyển qua cái này em dùng được
+không? Nói à dạ được. Nếu mà như vậy thì
+cái này ok. Rồi em mới đi tiếp là như
+vậy thì nếu như cách sử dụng bên kia là
+em phải tải dữ liệu lên và dữ liệu đó là
+những cái tập tin PDF hay là những dữ
+liệu cần thiết thì [âm nhạc] hoặc là
+Google Drive em muốn kèm em đưa vào. Vậy
+thì bây giờ em đang có dữ liệu sẵn trên
+máy tính. Trường hợp này [âm nhạc] em
+chỉ thử lấy một tập tin thôi. Em để vào
+trong một cái thư mục giúp anh và em thử
+làm một cái cơ bản thôi. Thì tương tự
+giống như bên kia em làm được không? Anh
+chỉ [âm nhạc] cho em cách đơn giản vậy
+trước mình mình làm việc. Thì như vậy
+thì bắt đầu là em chỉ nói với bạn đó là
+đi từ cái cơ bản nhất là em không làm
+cái gì phức tạp hết. Em cứ đi trong 4
+tiếng đồng hồ là bạn cứ gõ câu lệnh hỏi
+bình thường cách bình thường bạn làm như
+thế nào với chat GBT thì làm qua đây cho
+em giống y [âm nhạc] như vậy bạn làm như
+thế nào và cái nỗi đau của bạn đó là cái
+gì? Ban nổi đau của bạn là gì? Em lánh
+lý luôn cái nội đau đó. Bạn ứng dụng qua
+bên này. Và [âm nhạc] cái tẹp dữ liệu
+của bạn là hôm đó là bạn đang có một cái
+bạn làm solo thì bạn đưa ra cái nội dung
+chương trình là bạn đang kết hợp với một
+bạn nữa. Bây giờ bạn muốn tổng hợp cái
+đó lại nhưng mà đưa lên chatt thì nó vẫn
+còn một vài cái [âm nhạc] khó khăn. Thì
+em mới nói ok. Vậy thì bây giờ dữ liệu
+có trên máy tính chưa? Em có rồi đó. Thì
+vậy thì ok em cầm tay chỉ chuột cho bạn
+đó luôn. Em vào
+bấm giúp anh tạo ra một cái project thì
+bên chat GPT nó cũng tạo project
+[âm nhạc] được. Thì bên này cũng làm y
+như vậy thôi. Tạo project chỉ đường dẫn
+vào cái folder đó. Thì thay vì trên kia
+là dữ liệu tạo project online thì ở đây
+là project là một cái thư mục trên máy
+tính vào đúng cái folder em đang làm
+việc. Xong rồi em nói là hãy kiểm tra
+giúp tôi cái dữ liệu có bên trong thư
+mục này. Câu lệnh hoàn toàn cơ bản chẳng
+có gì phức tạp. Sau đó tiếp tục là hỏi
+tiếp là bây giờ là [âm nhạc] em đang
+muốn cái gì? em đánh vào giùm anh cái
+phần đó em phải là người đánh chứ không
+phải anh đánh.
+Rồi thì khi đó bạn mới
+đánh cái nỗi đau của bạn ra nhập vào cái
+mong muốn của bạn thì lúc đó bắt đầu nó
+chạy ra một số cái yêu cầu và nó phát
+sinh ra những cái dòng lệnh Python mà
+giống như hồi nãy nói tại bắt đầu nó đi
+phân tích từ một cái filew một cái file
+PDF [âm nhạc]
+thì lúc này bạn mới hỏi ủa cái này nó là
+cái gì vậy anh? Sao tự nhiên nó hỏi như
+thế này? Đó không sao hết. Đó là những
+cái câu lệnh a lúc này em bắt đầu em mới
+đi diễn giải thêm nhưng mà được một cái
+là nó không có bị đầy màn hình giống như
+giao diện của Google Anti Gravity
+[âm nhạc] Ider đó. Nó chỉ hỏi mình thôi.
+Và mình nói là đối với cái những cái
+loại công cụ mới bây giờ nó sẽ giải
+quyết cho em như cái [âm nhạc] này, cái
+này cái này. Em tạm thời em chấp nhận
+trước đi. Tạm thời chấp nhận trước.
+khoan hỏi nó là cái gì để nó đọc được dữ
+liệu đi. Sau khi nó đọc được rồi bây giờ
+em mới hỏi tiếp là bây giờ em muốn làm
+cái gì tiếp [âm nhạc] cứ làm rồi anh sẽ
+hướng dẫn cho em. Và như vậy đến đoạn
+bạn làm hoàn tất cái công việc ra bạn
+build ra được cái sản phẩm đó và em nói
+bây giờ em muốn ra một cái DASB không ra
+một cái trang báo cáo tổng hợp cái đó
+lại thành một cái DASB không cái DBO
+dạng [âm nhạc] website luôn để là cho nó
+nhìn nó trực quan thì bạn kêu vậy được
+quá tốt. Thì bình thường [âm nhạc] em
+làm bằng thế nào, bằng cách nào thì bạn
+mới nói là bạn làm bằng cách A, cách B,
+cách C bên kia. Em nói ok tại [âm nhạc]
+đây mình vẫn đứng tại cái luồng này,
+mình tiếp tục với nhau cùng cái luồng
+này tiếp tục thì em đánh cho anh một câu
+bình thường thôi là hãy tạo cho tôi cái
+nội dung này
+ra dạng gì đó vân vân. Chưa hết. Thì sau
+khi xong hết cái đoạn đó nó ra được một
+cái trang web [âm nhạc] rồi thì cái đó
+là bạn tự làm. Bạn nói wow sao nó hay
+vậy? À em mới nói là như vậy thì chốt
+lại là nãy giờ em thấy nó đơn giản chưa?
+có có khó [âm nhạc] khó khăn gì hay
+không kêu ok em thấy cái này nó cũng có
+không có cái gì phức tạp em mới nói vậy
+thì bây giờ nếu như lần sau em gặp lại
+tình huống này em [âm nhạc] phải làm sao
+à từ cái tạo dasbot từ cái tạo này em
+cảm thấy có mất thời gian lặp lại quy
+trình cũ không vậy em có muốn tiết kiệm
+thời gian để không tái diễn lại cái
+trường hợp mà chúng ta gặp lại trường
+hợp này ê phân tích cho tôi cái này rồi
+nó chạy ra hàng lọt những cái cái màn
+hình dọc dọc dọc dọc dọc gì đó bonh gì
+đó thì em không có diện tả Đả với bạn đó
+là B. Em nói đó là những cái phần ngôn
+ngữ nó bắt buộc phải có nó sinh ra
+[âm nhạc] để nó đi đọc được cái nội dung
+đó. Em không cần quan tâm miễn sao cái
+kết quả cuối cùng của tôi là cái gì,
+[âm nhạc] cái mong muốn của tôi là cái
+gì, còn lại cái kia nó kệ. Nhưng quay
+lại [âm nhạc] cuối cùng là bây giờ mình
+lại tiếp tục lần sau gặp lại trường hợp
+này, gặp lại tình huống này thì sao?
+Không lẽ bây giờ cũng ngồi chờ nó buill
+lại từ đầu, làm lại từ đầu rồi lại cũng
+đánh lại những cái câu A, câu B, câu C
+rồi đánh lại tạo cho tôi cái LB boss. Ok
+[âm nhạc] không? Như vậy thì em hỏi nó
+luôn. Bây giờ đây là cái câu thông
+thường giống như những người mới lần đầu
+tiếp xúc với ai hoặc là gặp người mới.
+Em có công việc này lần sau sẽ tái diễn
+[âm nhạc] lại,
+làm lại lặp đi lặp lại. Vậy có cách nào
+cho tôi đóng gói lại cái thao tác
+[âm nhạc] này để lần sau khi gặp tình
+huống này thì ai chỉ việc là cái gì ạ?
+Đưa vào là sử dụng được ngay hay không?
+Đó. Câu đó tưởng chừng như đơn giản
+nhưng mà [âm nhạc] anh thấy để cho bạn
+tự hình dung ra bạn bắt đầu bạn ứng dụng
+vào trong công việc của bạn luôn. Thì tự
+nhiên khi bạn đánh xong cái câu đó nó
+nói à đây [âm nhạc] chính là quy trình
+tạo ra skill. Tôi sẽ đóng gói cho bạn
+lại thành skill. Lần sau khi bạn gặp
+trường hợp này, bạn chỉ cần gọi tên tôi
+với tên A, tên B, tên C gì đấy là tôi sẽ
+tự động lấy cái đó ra. Cái bạn mới hỏi
+ủa [âm nhạc] à mình chỉ nói như vậy và
+nó nói là skill. Vậy lúc này bạn mới
+thắc mắc là skill là gì? Anh thấy không?
+Lúc này, lúc này mình không app skill
+[âm nhạc] cho họ mà mình đang nói ngược
+lại để họ phải tự thắc mắc và họ đi hỏi.
+Đó, họ phải là người tự cảm thấy là họ
+đang có mong muốn, họ đang có nhu cầu đi
+tìm hiểu. Mà tại sao mình chỉ nói như
+vậy thôi mà đã hiểu bắt đầu nó tự đi
+đóng gói. [âm nhạc] Mà đóng gói xong rồi
+lần sau chỉ việc là gọi tên như vậy là
+nó tự động ra lại cái quy trình mà nãy
+giờ từ đầu đến đuôi
+không cần phải lặp [âm nhạc] đi lặp lại
+nữa. Và như vậy là xong. Và em nói đó là
+một trong những cách đóng gói của
+[âm nhạc] AI. Em chỉ cần nói với nó à
+làm như thế thì nó sẽ ra được cái này.
+Lần sau em gặp lại cái tình huống này,
+em chỉ cần nó làm như này. Và nếu như
+cần điều chỉnh bổ sung thì bắt [âm nhạc]
+đầu em lại tương tác với nó. À tôi thấy
+chỗ này chưa ổn nha. Chỗ này màu sắc
+chưa ổn nha. Hay là chỗ [âm nhạc] cái
+công đoạn này. Hãy cập nhật vào cái cái
+cái cái mà sản phẩm mà bạn mới vừa build
+ra. Em không hề đề cập đến cái nó em
+không nói cái từ là workflow. Em không
+đề cập đến skill và em cũng không cố
+gắng để diễn tả là nó
+phải chuẩn chỉ là phải skill phải mô tả
+vậy nha nó mới đúng [âm nhạc] hay là
+workflow phải mô tả vậy nó mới đúng cấu
+trúc nó phải như thế này nó mới đúng
+không với những người mới mình càng nói
+họ càng rối. Theo kinh nghiệm của em sau
+bao nhiêu lâu em ngồi tiếp xúc với rất
+nhiều bạn rồi thì [âm nhạc] bây giờ mình
+càng nói nhiều họ càng rối. Nên mọi thứ
+hãy c để tự nhiên nhất vừa rồi mọi người
+sẽ tự khám phá ra. Cho nên cách mà anh
+quay trở lại cái bài toán của anh,
+quay trở lại bài toán của anh thì hai
+buổi thật ra em theo em thấy nó không là
+quá nhiều, thậm chí ba buổi nó cũng
+không là gì cả. [âm nhạc] Bây giờ mình
+chỉ đi vào và mình nói là bây giờ cách
+tiếp cận của anh á là cái công cụ mới nè
+[âm nhạc] à nó sẽ có những cái phần
+tương đồng với chat TPT. Thì thôi tụi em
+cố gắng bây giờ mỗi một ngày thôi sử
+dụng tí xíu thôi. Thay vì bây giờ chat
+DVT tụi em một ngày sử dụng full time 8
+tiếng với nó thì tụi em [âm nhạc] bây
+giờ mỗi ngày chịu khó ứng dụng bên cái
+công cụ Anti Gravity 2.0 này đi. À mỗi
+ngày nửa tiếng thử giao việc cho nó đi
+rồi lấy file lên bắt đầu làm. Vướng chỗ
+nào hỏi anh à anh hướng dẫn. Rồi vậy
+thôi. Có nghĩa là mình tạm thời mình
+khoan áp vào cho họ một khối lượng cái
+knowledge [âm nhạc]
+ngay để họ cảm thấy bị ngập và mình để
+cho họ tự tiếp xúc mỗi ngày giao đầu
+việc cơ bản rồi rồi họ tự làm. Nhưng mà
+họ vẫn mình vẫn cố gắng ép họ vào trong
+một cung khổ là cố gắng làm sao là vẫn
+phải dùng nó nha. Chứ không phải là ừ
+mặc dù là nó là nó đơn giản nhưng mà họ
+không dùng thì coi như cũng đổ sông đổ
+biển thôi. Họ vẫn phải dùng. Đó thì đó
+là cái cách cơ bản nhất. Thì kể từ cái
+sau cái hôm mà [âm nhạc] em chia sẻ với
+bạn đó thì bạn đó rất là wow và bạn đó
+phải nói là thì ra tưởng AI A nó cái gì
+nó cao siêu mà rốt cuộc anh Minh anảnh
+nói cho em một buổi rồi là em về em giải
+quyết các bài toán của em luôn và cứ thế
+mỗi [âm nhạc] ngày em em đi dần lên bằng
+cái chính cái công cụ 2.0 thôi.
+Tại vì rõ ràng cái giao diện nó hoàn
+toàn gần nhau gần tương đồng với chat
+GPT mà.
+Đó nó không có khác biệt lắm. Nó chỉ có
+khác biệt là cái cách nó tự vận hành,
+kết quả đầu ra là nó tự đi thực thi
+thôi. Đó nên cách mà [âm nhạc] mình tiếp
+cận thì như vậy thì em thấy nó sẽ làm
+cho người mới dễ chịu hơn thay vì mình
+cố gắng mình nhòi nhét cho họ một lượng
+kiến thức quá lớn.
+&gt;&gt; Rồi cảm ơn em rất là nhiều. Cái mình sẽ
+thử rồi có gì chắc cũng sẽ nhờ mình chia
+sẻ kinh.
+&gt;&gt; Dạ. Ok anh. Em hy vọng là cái phần này
+một phần thôi chứ còn lại tùy thuộc vào
+cái tính chất công việc của bên anh
+nhiều khi [âm nhạc] mỗi người sẽ có cách
+áp dụng khác nhau nữa.
+&gt;&gt; Có thể một phần là vì mình hơi tham cho
+nên là một lúc cũng nhiều bạn tham gia
+nên không có được cái kỹ thịch [âm nhạc]
+như là cái cây của của anh Minh theo xát
+một bạn được nên họ cũng sẽ khó thấy
+được ngay cái sự [âm nhạc] chủ động từ
+phía họ. Mà thựt ra thì cũng cũng họ
+chưa gặp cái vấn đề mà mà phải xử lý cho
+nên là cái tính chủ động họ chưa cao.
+&gt;&gt; Họ cũng ngại là [âm nhạc][hắng giọng]
+phải thử cái mới tại vì họ nói bây giờ
+cái chatbot bình thường mà họ cũng đã
+chưa chưa tận dụng được rồi.
+&gt;&gt; Đúng rồi. Thật ra thì nó cái trường hợp
+đó nhá thì lúc này á là nếu như anh làm
+á thì thật ra ở đây á em đang làm một
+cái quy trình khác [âm nhạc] à em đang
+đóng gói ra thậm chí đến cái quy trình
+dài hơi luôn là 12 tuần. 12 tuần, kéo
+dài tặng 12 tuần. Và trong có 8 tuần đầu
+á là em đi song hành với các bạn là bằng
+những cái lý thuyết kèm với bài tập. Lý
+thuyết kèm với bài tập nha. Có nghĩa là
+mình đang cố để cho các bạn [âm nhạc] đi
+từ cái cơ bản nhất, sơ đẳng nhất. Sau 8
+tuần thì bắt đầu là bạn sẽ tự đưa những
+cái case study, những cái nỗi đau thực
+tế của các bạn vào và em sẽ là người
+trực tiếp ngồi với các bạn để hướng dẫn
+các bạn à xử lý những cái tình huống đó.
+Còn trước đó thì em vẫn là cái gì ạ?
+giao bài tập à và bài tập nó nhẹ nhàng
+nha chứ không phải là từ lý thuyết đến
+những cái bài tập. Ví dụ anh hình dung
+nhé em làm cơ bản nhất luôn nè.
+Antiamity nếu như anh nhìn vào cái bản
+2.0 nó đã [âm nhạc] cơ bản rồi đúng
+không?
+Nó giống với chat TV nhưng mà em còn làm
+cơ bản hơn

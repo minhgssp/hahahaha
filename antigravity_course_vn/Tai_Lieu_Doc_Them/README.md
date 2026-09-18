@@ -34,4 +34,32 @@ Thư mục này tổng hợp các bài viết chuyên đề được đúc kết
 
 ---
 
-> 📂 *Toàn bộ tệp phụ đề gốc (transcript) dạng văn bản đã được lưu trữ tại thư mục con: `transcripts/`.*
+### [Bài 05: Xây Dựng Website Giáo Dục Từ A-Z Với NotebookLM & Antigravity](Bai_Doc_05_Xay_Dung_Website_Giao_Duc_Voi_NotebookLM_Va_Antigravity.md)
+* **Thời lượng gốc:** 2 giờ 45 phút (Chia sẻ bởi Hoàng Đức Minh & cộng đồng)
+* **Nội dung chính:** Bộ lọc tri thức chuẩn xác tránh ảo giác (Fact-checking với NotebookLM), quy trình tự động hóa sinh 15 mẫu Landing Page giáo dục, phối hợp hình ảnh AI và dữ liệu thực tế.
+* 🔗 [Xem video gốc trên YouTube](https://www.youtube.com/watch?v=_mX7MidD2Jc)
+
+---
+
+### [Bài 06: Thiết Lập Bộ Não Thứ Hai (Second Brain) Trên Máy Tính Cá Nhân](Bai_Doc_06_Thiet_Lap_Bo_Nao_Thu_Hai_Second_Brain_Local_First.md)
+* **Thời lượng gốc:** 1 giờ 50 phút (Chia sẻ bởi Đăng Khoa & Hoàng Đức Minh)
+* **Nội dung chính:** Triết lý Local-First bảo mật dữ liệu tuyệt đối 100%, cấu trúc thư mục lưu trữ tri thức cá nhân/doanh nghiệp và biến Antigravity thành người quản thư thông minh.
+* 🔗 [Xem video gốc trên YouTube](https://www.youtube.com/watch?v=Noi5dBVKGRY)
+
+---
+
+### [Bài 07: Từ Mega Prompt Đến Trợ Lý AI Tự Động Hóa (AI Agent)](Bai_Doc_07_Tu_Mega_Prompt_Den_Tro_Ly_AI_Tu_Dong_Hoa.md)
+* **Thời lượng gốc:** 1 giờ 22 phút (Chia sẻ bởi Hoàng Đức Minh)
+* **Nội dung chính:** Sự khác biệt giữa Chatbot truyền thống (làm tuần tự từng việc) và Antigravity 2.0 (bổ nhỏ dữ liệu, chạy song song cùng lúc), rút ngắn thời gian xử lý từ hàng tiếng xuống vài phút.
+* 🔗 [Xem video gốc trên YouTube](https://www.youtube.com/watch?v=bwbLd4o-rwo)
+
+---
+
+### [Bài 08: So Sánh Toàn Diện Antigravity IDE & Antigravity 2.0 (Agent Manager)](Bai_Doc_08_So_Sanh_Antigravity_IDE_Va_Antigravity_20.md)
+* **Thời lượng gốc:** 1 giờ 46 phút (Chia sẻ bởi Hoàng Đức Minh)
+* **Nội dung chính:** Phân tích điểm mạnh của Antigravity IDE (chỉnh sửa file, extension Office) vs Antigravity 2.0 Standalone (điều phối multi-agent), quy trình chuyển đổi song hành qua nút "Open IDE".
+* 🔗 [Xem video gốc trên YouTube](https://www.youtube.com/watch?v=CYwA2np_LnQ)
+
+---
+
+> 📂 *Toàn bộ tệp phụ đề gốc (transcript) dạng văn bản và ảnh chụp màn hình minh họa đã được lưu trữ tại `transcripts/` và `../assets/screenshots/video_frames/`.*

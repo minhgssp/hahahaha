@@ -65,6 +65,10 @@ Khóa học được thiết kế theo phương pháp "Cầm tay chỉ việc", 
 * 📑 **[Bài 02: Hướng Dẫn Tạo & Quản Lý Skill AI Từ A-Z](Tai_Lieu_Doc_Them/Bai_Doc_02_Huong_Dan_Tao_Va_Quan_Ly_Skill_Tu_A_Den_Z.md)**
 * 📑 **[Bài 03: Xu Hướng Agent-First & Tác Tử Con Chạy Song Song (Dynamic Sub-Agents)](Tai_Lieu_Doc_Them/Bai_Doc_03_Xu_Huong_Agent_First_Va_Dynamic_SubAgents.md)**
 * 📑 **[Bài 04: Hướng Dẫn Cào Dữ Liệu & Tự Động Hóa Thực Chiến Cùng AI Agent](Tai_Lieu_Doc_Them/Bai_Doc_04_Cao_Du_Lieu_Va_Tu_Dong_Hoa_Thuc_Chien.md)** *(Chia sẻ bởi Hoàng Đức Minh)*
+* 📑 **[Bài 05: Xây Dựng Website Giáo Dục Từ A-Z Với NotebookLM & Antigravity](Tai_Lieu_Doc_Them/Bai_Doc_05_Xay_Dung_Website_Giao_Duc_Voi_NotebookLM_Va_Antigravity.md)** *(Chia sẻ bởi Hoàng Đức Minh)*
+* 📑 **[Bài 06: Thiết Lập Bộ Não Thứ Hai (Second Brain) Trên Máy Tính Cá Nhân](Tai_Lieu_Doc_Them/Bai_Doc_06_Thiet_Lap_Bo_Nao_Thu_Hai_Second_Brain_Local_First.md)** *(Chia sẻ bởi Đăng Khoa)*
+* 📑 **[Bài 07: Từ Mega Prompt Đến Trợ Lý AI Tự Động Hóa (AI Agent)](Tai_Lieu_Doc_Them/Bai_Doc_07_Tu_Mega_Prompt_Den_Tro_Ly_AI_Tu_Dong_Hoa.md)** *(Chia sẻ bởi Hoàng Đức Minh)*
+* 📑 **[Bài 08: So Sánh Toàn Diện Antigravity IDE & Antigravity 2.0 (Agent Manager)](Tai_Lieu_Doc_Them/Bai_Doc_08_So_Sanh_Antigravity_IDE_Va_Antigravity_20.md)** *(Chia sẻ bởi Hoàng Đức Minh)*
 * 📊 **[Báo cáo Đánh giá Sư phạm Tích hợp Giáo trình](Tai_Lieu_Doc_Them/Danh_Gia_Tich_Hop_Giao_Trinh.md)**
 
 ---
