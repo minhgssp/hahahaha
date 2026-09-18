@@ -12,15 +12,18 @@ Hiện nay có nhiều công cụ tạo slide trực tuyến bằng AI (Gamma, T
 1. **Lệch chuẩn nhận diện thương hiệu:** Màu sắc, logo, font chữ và bố cục không đồng bộ với bộ mẫu PowerPoint chuẩn (Brand Guidelines) của công ty.
 2. **Chi phí token đắt đỏ:** Mỗi lần sinh lại một bản thuyết trình mới là lại tốn thêm tiền mua credit.
 
-![Phương pháp tích hợp mẫu PowerPoint vào Antigravity](../assets/screenshots/video_frames/vd10_powerpoint_mau.jpg)
-> 📸 *Ảnh chụp màn hình thực tế từ video: Cấu hình mẫu slide công ty để AI tự động điền nội dung vào đúng khung bố cục có sẵn.*
+![Ảnh thực tế: Khi AI tự tạo slide không có mẫu chỉ ra text trắng trơn](../assets/screenshots/video_frames/w3Z2uVgIWQ0_frame_02-08.jpg)
+> 📸 *Ảnh cắt từ video gốc (02:08): Nếu không có mẫu Slide Master, AI chỉ điền text thô sơ lên nền trắng không có bố cục.*
 
 ---
 
 ## 🛠️ Giải Pháp: Đóng Gói Slide Master Thành Kỹ Năng (Skill) Dùng Lại Vĩnh Viễn
 
-![Tạo slide chuẩn không tốn token thiết kế lại](../assets/screenshots/video_frames/vd10_khong_ton_token.jpg)
-> 📸 *Ảnh chụp màn hình thực tế từ video: Tự động xuất file PowerPoint hoàn chỉnh theo mẫu chuẩn chỉ từ một đoạn dàn ý thô.*
+![Ảnh thực tế: Kết quả slide tự động xuất ra theo đúng mẫu NewDesign](../assets/screenshots/video_frames/w3Z2uVgIWQ0_frame_03-50.jpg)
+> 📸 *Ảnh cắt từ video gốc (03:50): Khi nạp file mẫu Slide Master, slide xuất ra giữ trọn logo, màu sắc và layout thương hiệu chuyên nghiệp.*
+
+![Ảnh thực tế: Đóng gói thành Skill để tái sử dụng vĩnh viễn](../assets/screenshots/video_frames/w3Z2uVgIWQ0_frame_05-30.jpg)
+> 📸 *Ảnh cắt từ video gốc (05:30): Tạo prompt đóng gói thành Skill giúp các lần sau chỉ cần nạp tên file là xong, không tốn token.*
 
 ### Quy trình 3 bước thực hiện:
 1. **Chuẩn bị file mẫu PowerPoint (`.pptx`):** Chứa sẵn logo công ty, font chữ thương hiệu, màu sắc chủ đạo và các bố cục khung nội dung mẫu.

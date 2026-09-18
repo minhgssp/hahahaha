@@ -1,35 +1,50 @@
-# Bài Đọc Thêm 12: Xử Lý Triệt Để Lỗi Không Mở Được File Office (.docx, .xlsx) Trong Antigravity
+# Bài Đọc Thêm 12: Xử Lý Triệt Để Lỗi Không Mở Được File Office (.docx, .xlsx, .pptx, .pdf) Trong Antigravity Với Microsoft MarkItDown
 
 > 📺 **Nguồn Video tham khảo:** [Antigravity 2.0 Không Mở Được File Office? Đây Là Cách Fix Chỉ 1 Dòng](https://www.youtube.com/watch?v=5JnobuoKgQQ) (Thời lượng: 05:18 — Kênh PieLikeClaw)
 
-![Fix lỗi không mở được file Office](../assets/screenshots/video_frames/5JnobuoKgQQ_thumb.webp)
+![Kho thư viện Microsoft MarkItDown](../assets/screenshots/video_frames/5JnobuoKgQQ_frame_00-45.jpg)
+> 📸 *Ảnh chụp màn hình thực tế từ video (mốc 00:45): Thư viện mã nguồn mở Microsoft MarkItDown chuyên chuyển đổi tài liệu Office sang Markdown cho AI.*
 
 ---
 
-## ❗ Nguyên Nhân Khiến Antigravity Báo Lỗi Khi Mở File Word, Excel
+## ❗ Nguyên Nhân Khiến Antigravity Báo Lỗi Khi Đọc File Office
 
-Khi mới bắt đầu sử dụng Antigravity, rất nhiều học viên bấm vào file Word (`.docx`) hoặc Excel (`.xlsx`) thì nhận được thông báo lỗi:
+Khi bạn ném các file Word (`.docx`), Excel (`.xlsx`), PowerPoint (`.pptx`) hay PDF vào Antigravity, LLM thường lúng túng hoặc báo lỗi file nhị phân (binary):
 > *"The file is not displayed in the text editor because it is either binary or uses an unsupported text encoding."*
 
-![Màn hình cảnh báo tệp nhị phân Office](../assets/screenshots/video_frames/vd12_fix_file_office_loi.jpg)
-> 📸 *Ảnh chụp màn hình thực tế từ video: Lỗi phổ biến khi mở file nhị phân của Microsoft Office trên giao diện biên tập văn bản thuần.*
-
-* **Nguyên nhân:** File Word, Excel, PowerPoint thực chất là các gói file nén nhị phân dạng ZIP, không phải là văn bản thuần túy như Markdown (`.md`) hay Text (`.txt`). Do đó trình đọc code cơ bản không thể hiển thị ký tự trực tiếp.
+Nguyên nhân là cấu trúc tệp Office thực chất là các gói nén XML nhị phân. Để AI đọc và phân tích mượt mà, cách tối ưu nhất là chuyển đổi nội dung sang định dạng **Markdown thuần**.
 
 ---
 
-## 🛠️ Cách Sửa Nhanh Chỉ Trong 1 Bước (1 Click Hoặc 1 Dòng Lệnh)
+## 🚀 Giải Pháp "1 Dòng Lệnh": Microsoft MarkItDown
 
-![Khắc phục nhanh chóng bằng tiện ích mở rộng hoặc câu lệnh ngắn](../assets/screenshots/video_frames/vd12_chi_mot_dong_lenh.jpg)
-> 📸 *Ảnh chụp màn hình thực tế từ video: Hướng dẫn cài đặt Extension hiển thị tài liệu Office trực tiếp ngay trong ứng dụng.*
+Trong video, tác giả giới thiệu công cụ mã nguồn mở cực kỳ mạnh mẽ từ Microsoft mang tên **MarkItDown**.
 
-### Cách 1: Cài Extension qua giao diện (Khuyên dùng cho Newbie)
-1. Bấm tổ hợp phím **`Ctrl + Shift + X`** (trên Windows) hoặc **`Cmd + Shift + X`** (trên Mac).
-2. Gõ tìm kiếm tiện ích **`Office Viewer`** và bấm **Install**.
-3. Từ nay trở đi, bạn click chuột vào bất kỳ file `.docx`, `.xlsx` hay `.pptx` nào, màn hình sẽ hiển thị tài liệu đẹp mắt như trong MS Office!
+![Các định dạng được hỗ trợ bởi MarkItDown](../assets/screenshots/video_frames/5JnobuoKgQQ_frame_01-40.jpg)
+> 📸 *Ảnh chụp màn hình thực tế từ video (mốc 01:40): Danh mục định dạng khổng lồ được MarkItDown hỗ trợ (PDF, Word, PowerPoint, Excel, Images qua EXIF/OCR, Audio qua Speech-to-Text, ZIP files).*
 
-### Cách 2: Nhờ AI cài đặt thư viện đọc dữ liệu ngầm
-Nếu bạn muốn AI có thể tự đọc hiểu và trích xuất dữ liệu bên trong các file Excel/Word mà không cần hiển thị giao diện, chỉ cần gõ vào khung chat:
-> *"Hãy cài đặt thư viện python-docx và openpyxl để xử lý file tài liệu Office cho tôi."*
+### Cài đặt siêu nhanh trong 1 dòng:
+Chỉ cần mở Terminal trong Antigravity và chạy:
+```bash
+pip install markitdown
+```
 
-AI sẽ tự động cấu hình môi trường trong vài giây và sẵn sàng xử lý mọi văn bản báo cáo cho bạn!
+---
+
+## 📂 Thực Chiến Trong Antigravity: Đọc Hàng Loạt File Đa Định Dạng
+
+Chỉ cần ném các tệp tài liệu hỗn hợp (`.docx`, `.xlsx`, `.pptx`, `.pdf`, `.jpg`, `.mp3`) vào thư mục dự án của Antigravity:
+
+![Thư mục tài liệu đa định dạng trong Antigravity](../assets/screenshots/video_frames/5JnobuoKgQQ_frame_03-20.jpg)
+> 📸 *Ảnh chụp màn hình thực tế từ video (mốc 03:20): Cấu trúc thư mục chứa cùng lúc Word, Excel, PowerPoint, PDF, Ảnh và Audio trong Antigravity 2.0.*
+
+### Yêu cầu AI xử lý tự động:
+Nhập prompt đơn giản cho Antigravity:
+> *"Hãy dùng MarkItDown đọc toàn bộ các tài liệu trong thư mục này và tạo cho tôi một bản tóm tắt tổng quan (Overview Artifact) bằng tiếng Việt."*
+
+![Kết quả tạo Overview Artifact từ nhiều file](../assets/screenshots/video_frames/5JnobuoKgQQ_frame_03-55.jpg)
+> 📸 *Ảnh chụp màn hình thực tế từ video (mốc 03:55): Antigravity tự động trích xuất nội dung toàn bộ 7 file phức tạp và trình bày bảng tổng kết trực quan.*
+
+### 💡 Lưu ý giá trị:
+1. **Bảo mật cục bộ 100%:** MarkItDown xử lý hoàn toàn trên máy cục bộ, không gửi tài liệu ra bên ngoài.
+2. **Hỗ trợ cả OCR và Transcribe:** Nếu kết hợp thêm Azure OpenAI hoặc Speech model, MarkItDown có thể mô tả cả biểu đồ trong ảnh và bóc băng file ghi âm cuộc họp.

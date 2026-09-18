@@ -2,7 +2,8 @@
 
 > 📺 **Nguồn Video tham khảo:** [AI Văn Phòng #5: AI Tự Viết Script Cho Mọi Cuộc Họp | Scrum Master Agent](https://www.youtube.com/watch?v=xLehvqex9gc) (Thời lượng: 09:04 — Kênh PieLikeClaw)
 
-![AI Tự Viết Script Cho Mọi Cuộc Họp](../assets/screenshots/video_frames/xLehvqex9gc_thumb.webp)
+![Tài liệu Scrum Master Sprint Ceremonies Guide](../assets/screenshots/video_frames/xLehvqex9gc_01-45.jpg)
+> 📸 *Ảnh chụp màn hình thực tế từ video (mốc 01:45): Tài liệu chuẩn hóa nghi thức Scrum Master Sprint Ceremonies Guide (.docx) và khung kịch bản Facilitator Script.*
 
 ---
 
@@ -17,27 +18,41 @@ Trong môi trường doanh nghiệp hiện đại, những người làm quản 
 
 Chuẩn bị kịch bản dẫn dắt (Facilitation Script), đặc biệt là các cuộc họp bằng tiếng Anh với lãnh đạo nước ngoài, thường tiêu tốn hàng giờ đồng hồ và gây căng thẳng tâm lý.
 
-![Nạp quy chuẩn điều phối cuộc họp cho AI](../assets/screenshots/video_frames/vd17_snapshot_1.jpg)
-> 📸 *Ảnh chụp màn hình thực tế từ video: Đóng gói các quy chuẩn Scrum Guide thành biểu mẫu Agent để AI hiểu sâu từng loại cuộc họp.*
+![Tự động hóa xây dựng Prompt từ tài liệu nghiệp vụ](../assets/screenshots/video_frames/xLehvqex9gc_04-45.jpg)
+> 📸 *Ảnh chụp màn hình thực tế từ video (mốc 04:45): Ra lệnh cho AI tự phân tích tài liệu nghiệp vụ để sinh ra file prompt chuẩn hóa điều phối cuộc họp.*
 
 ---
 
-## 🤖 Giải Pháp: Xây Dựng Meeting Facilitator Agent Trong Antigravity
+## 🤖 Giải Pháp: Xây Dựng POM (Prompt Object Model) Cho Scrum Master
 
-Thay vì tự ngồi vắt óc soạn kịch bản mỗi sáng, bạn chỉ cần nạp bộ quy tắc điều phối vào Antigravity và để AI tự động hóa việc này:
+Thay vì mỗi lần họp lại gõ một prompt rời rạc, tác giả đóng gói thành một file prompt chuẩn mực `.prompt.md`:
 
-![AI tự động xuất kịch bản chi tiết từng phút cho cuộc họp](../assets/screenshots/video_frames/vd17_snapshot_2.jpg)
-> 📸 *Ảnh chụp màn hình thực tế từ video: Kịch bản điều phối cuộc họp Demo sản phẩm được AI sinh ra chi tiết từ lời chào, chuyển tiếp người nói đến phần hỏi đáp.*
+![Cấu trúc file scrum-master-prep.prompt.md](../assets/screenshots/video_frames/xLehvqex9gc_06-05.jpg)
+> 📸 *Ảnh chụp màn hình thực tế từ video (mốc 06:05): Cấu trúc file prompt chuẩn POM gồm: Thông tin đầu vào & Yêu cầu đầu ra (Agenda timebox, Facilitator Script, Báo cáo tóm tắt, Checklist chuẩn bị).*
 
 ### Cấu trúc 5 phần của một Kịch bản Cuộc họp Chuẩn:
 1. **Opening (Chào mừng & Giới thiệu bối cảnh):** Lời chào lịch sự, nêu rõ mục tiêu cuộc họp và cảm ơn các bên liên quan đã dành thời gian.
-2. **Sprint Highlights (Tổng kết thành tựu):** Tóm tắt nhanh những hạng mục quan trọng đã hoàn thành trong kỳ.
+2. **Sprint Highlights (Tổng kết thành tựu):** Tóm tắt nhanh những hạng mục quan trọng đã hoàn thành trong kỳ (Velocity, Story points).
 3. **Showcase Transitions (Dẫn dắt thuyết trình):** Lời chuyển giao mạch lạc giữa các thành viên lên trình bày từng tính năng/kết quả.
 4. **Stakeholder Feedback (Thu thập phản hồi):** Đặt câu hỏi gợi mở để Lãnh đạo và các bên liên quan góp ý mang tính xây dựng.
 5. **Action Items & Closing (Tổng kết & Giao việc):** Chốt lại các việc cần làm tiếp theo, rủi ro cần phòng ngừa và kết thúc cuộc họp đúng giờ.
 
 ---
 
+## 🚀 Thực Thi Trực Tiếp Trong Antigravity IDE
+
+Chỉ cần gọi file prompt đã tạo và nạp thông tin cuộc họp trong Antigravity:
+
+![Gọi file prompt Scrum Master trong Antigravity](../assets/screenshots/video_frames/xLehvqex9gc_07-35.jpg)
+> 📸 *Ảnh chụp màn hình thực tế từ video (mốc 07:35): Thao tác gõ `@scrum-master-prep.prompt.md` trong Antigravity IDE.*
+
+### Kết Quả Nhận Được Chỉ Sau 3 Phút:
+
+![AI xuất Agenda 60 phút và Facilitator Script chi tiết](../assets/screenshots/video_frames/xLehvqex9gc_08-35.jpg)
+> 📸 *Ảnh chụp màn hình thực tế từ video (mốc 08:35): AI tạo hoàn chỉnh Agenda 60 phút phân bổ từng mốc thời gian và Facilitator Script từng lời thoại cho người điều phối.*
+
+---
+
 ## 💡 Bài Học Thực Chiến Cho Dân Công Sở
-* **Chỉ mất 3 phút trước giờ G:** Bạn chỉ cần gõ `@Scrum_Master_Prep [Loại cuộc họp]`, AI sẽ xuất ngay một kịch bản song ngữ (Việt - Anh) sắc sảo để bạn tự tin làm chủ phòng họp.
+* **Chỉ mất 3 phút trước giờ G:** Bạn chỉ cần gõ `@scrum-master-prep.prompt.md [Loại cuộc họp]`, AI sẽ xuất ngay một kịch bản song ngữ (Việt - Anh) sắc sảo để bạn tự tin làm chủ phòng họp.
 * **AI là "chiếc phao cứu sinh" về ngôn ngữ:** Giúp người không giỏi tiếng Anh tự tin dẫn dắt các cuộc họp quốc tế chuyên nghiệp mà không còn nỗi sợ "nói vấp hay bí từ".
