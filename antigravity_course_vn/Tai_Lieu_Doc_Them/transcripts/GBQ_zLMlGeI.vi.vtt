@@ -1,0 +1,229 @@
+WEBVTT
+Kind: captions
+Language: vi
+
+00:00:00.000 --> 00:00:04.532
+bảo tạo PowerPoint từ một PowerPoint từ chương trình Document Linkage mới,
+
+00:00:04.832 --> 00:00:07.572
+Docs, chỉ cần những thông tin chính.
+
+00:00:08.092 --> 00:00:11.212
+Và thế để xem xem AI của mình làm được như thế nào nha.
+
+00:00:14.743 --> 00:00:19.004
+Đây là bản Powerpoint mà AI mình đã đã tạo cho mình.
+
+00:00:19.524 --> 00:00:23.124
+Nó khá là đơn giản và cũng chỉ là liệt kê những thư mục
+
+00:00:24.344 --> 00:00:26.764
+đơn giản nhất về cái workflow của mình và
+
+00:00:26.586 --> 00:00:30.106
+Chào các bạn, hôm nay mình lại làm series về AI công việc văn
+
+00:00:30.107 --> 00:00:34.266
+phòng. Tập trước, mình đã dùng skill của anh Ivan để tạo một skill
+
+00:00:34.267 --> 00:00:36.726
+cơ bản về Excel cho AI của mình.
+
+00:00:37.166 --> 00:00:41.126
+Hôm nay mình sẽ dùng skill khác của anh Ivan để về PowerPoint.
+
+00:00:41.506 --> 00:00:45.126
+Kỹ năng này của anh cũng đang được hơn 40.000 người tải xuống và
+
+00:00:45.127 --> 00:00:47.866
+sử dụng. Nếu bạn có ý tưởng nào hay, hãy comment bên dưới.
+
+00:00:48.366 --> 00:00:51.486
+Nếu bạn thấy hay, hãy like, share và subscribe để mình có thêm động
+
+00:00:51.487 --> 00:00:56.006
+lực làm những video tiếp theo. Đây là skill của anh Ivan và
+
+00:00:56.007 --> 00:00:59.026
+đã ăn được hơn 40.000 người tài xuống.
+
+00:00:59.466 --> 00:01:02.466
+Bây giờ mình đã sử dụng con Cloud Code của mình để tóm tắt
+
+00:01:02.467 --> 00:01:04.786
+xem skill của anh Ivan làm được những gì nha.
+
+00:01:07.747 --> 00:01:12.087
+Đây là mình đã sử dụng con code code để tóm tắt skill PowerPoint
+
+00:01:12.088 --> 00:01:14.607
+này của anh. Skill này mục đích là tạo,
+
+00:01:14.807 --> 00:01:19.007
+kiểm tra và chỉnh sửa các bài thuyết minh PowerPoint focus về bố cục,
+
+00:01:19.407 --> 00:01:23.047
+template, placeholder và nốt và biểu đồ để kiểm soát chất lượng hình ảnh.
+
+00:01:23.487 --> 00:01:27.247
+Có 6 quy tắc chính là chọn workflow trước khi sửa,
+
+00:01:27.827 --> 00:01:30.227
+kiểm kê các text trước khi thay đổi nội dung,
+
+00:01:30.587 --> 00:01:32.627
+khớp nối nội dung và placeholder thực tế,
+
+00:01:33.187 --> 00:01:36.947
+bảo tồn ngôn ngữ hình ảnh của text, và chạy QA trên nội dung
+
+00:01:36.948 --> 00:01:40.247
+và hình ảnh riêng biệt, giữ định dạng để có thể dễ dàng chia sẻ
+
+00:01:40.248 --> 00:01:44.827
+và review. Và anh chỉ ra một số lỗi thường gặp là placeholder
+
+00:01:44.828 --> 00:01:47.529
+và biểu đồ mẫu sống sót. nếu rõ ràng,
+
+00:01:47.869 --> 00:01:50.349
+chỉnh sửa trực tiếp thất bại nếu có vấn đề nằm ở layout,
+
+00:01:50.829 --> 00:01:54.549
+rồi font thay thế, rồi note and comment media chia sẻ liên kết,
+
+00:01:55.009 --> 00:01:57.249
+và tỷ lệ khung hình, thế nào cho khớp.
+
+00:01:57.389 --> 00:02:01.969
+Đó là cơ bản những luật và quy tắc của anh về PowerPoint.
+
+00:02:02.689 --> 00:02:06.269
+Và để copy, bạn chỉ cần lên trang của anh và copy,
+
+00:02:06.689 --> 00:02:11.189
+mình đã copy cái skill này của anh về máy của mình.
+
+00:02:11.190 --> 00:02:15.489
+Chỉ copy đến tận placeholder.
+
+00:02:15.949 --> 00:02:18.909
+Bạn có thể ignore related skills với feedback.
+
+00:02:19.689 --> 00:02:21.869
+Sau khi copy về placeholder,
+
+00:02:22.029 --> 00:02:25.649
+mình đã copy về powerpoint skill của mình đây. Mình chỉ copy tất cả
+
+00:02:25.650 --> 00:02:28.840
+về. Sau khi đó,
+
+00:02:29.000 --> 00:02:32.080
+mình sẽ mở con Anti-Gravity của mình lên,
+
+00:02:33.080 --> 00:02:38.380
+và đầu tiên mình sẽ như là Word
+
+00:02:38.381 --> 00:02:41.740
+với cả Excel, mình đầu tiên mình sẽ bảo là có thể biến cái
+
+00:02:41.741 --> 00:02:46.300
+skill PowerPoint của mình để thành skill chính của
+
+00:02:46.301 --> 00:02:49.200
+AI có thể gọi trong cái thư mục này không.
+
+00:02:49.201 --> 00:02:52.480
+Đó. Thì mình sẽ bảo AI làm như vậy.
+
+00:02:53.320 --> 00:02:55.540
+Đây là những điều mà mình muốn AI làm.
+
+00:02:56.120 --> 00:03:04.860
+Bạn có thể kiểm tra skill Powerpoint MD
+
+00:03:04.861 --> 00:03:09.431
+thành một skill trên mạng. Trên OAI có thể đọc trên folder này và
+
+00:03:09.432 --> 00:03:16.071
+mỗi khi mình chỉnh sửa, PowerPoint5 thì
+
+00:03:16.072 --> 00:03:22.111
+đều dùng skill này và mình sẽ để con Gemini mình chạy OK,
+
+00:03:22.431 --> 00:03:24.771
+nó đã chạy xong và nó đã update ra một số luật.
+
+00:03:25.051 --> 00:03:27.691
+Để mình đọc qua xem nó đã update luật nhanh như thế nào nha.
+
+00:03:28.731 --> 00:03:32.211
+Ở đây thì nó thêm cả PowerPoint để review nữa.
+
+00:03:32.931 --> 00:03:37.802
+Excel Office như là Doc Excel. và mỗi khi chạy
+
+00:03:37.803 --> 00:03:42.862
+qua Powerpoint thì nó sẽ phải đọc cái file Powerpoint
+
+00:03:42.863 --> 00:03:47.502
+này trước, đọc skill của anh Ivan trước từ skillpowerpoint.md
+
+00:03:48.882 --> 00:03:54.282
+Ok, let đến với demo nào Thì mình sẽ
+
+00:03:54.283 --> 00:04:01.622
+tạo Powerpoint từ file document này của mình Bây
+
+00:04:01.623 --> 00:04:05.372
+giờ mình sẽ bảo AI của mình để tạo PowerPoint từ document này.
+
+00:04:10.842 --> 00:04:15.503
+Đây mình sẽ chia sẻ và mình sẽ bảo tạo PowerPoint từ một PowerPoint
+
+00:04:15.504 --> 00:04:18.163
+từ chương trình Document Linkage mới, Docs,
+
+00:04:18.583 --> 00:04:23.163
+chỉ cần những thông tin chính. Và thế để xem xem AI của
+
+00:04:23.164 --> 00:04:24.123
+mình làm được như thế nào nha.
+
+00:04:32.129 --> 00:04:36.209
+Xong, con AI của mình đã tạo xong một Powerpoint cho mình tên là
+
+00:04:36.210 --> 00:04:38.429
+chương trình liên kết tóm tắt Powerpoint.
+
+00:04:38.629 --> 00:04:41.649
+Để mình mở ra xem Powerpoint như thế nào nha.
+
+00:04:44.169 --> 00:04:46.529
+Chương trình liên kết tóm tắt. Đây.
+
+00:04:50.609 --> 00:04:55.040
+Đây là bản Powerpoint mà AI mình đã đã tạo cho mình.
+
+00:04:55.560 --> 00:04:59.160
+Nó khá là đơn giản và cũng chỉ là liệt kê những thư mục
+
+00:05:00.380 --> 00:05:03.360
+đơn giản nhất về cái workflow của mình và PowerPoint,
+
+00:05:03.560 --> 00:05:04.720
+không có một template nào cả.
+
+00:05:05.049 --> 00:05:07.868
+Mình luôn có POM Setup Skill ở dưới mô tả.
+
+00:05:08.228 --> 00:05:10.388
+Nếu bạn có ý tưởng nào hay, hãy comment bên dưới.
+
+00:05:10.668 --> 00:05:14.168
+Hãy like, share và subscribe để mình có thêm động lực làm những video
+
+00:05:14.169 --> 00:05:15.688
+tiếp theo. Thank you.
+

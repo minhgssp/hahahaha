@@ -97,4 +97,25 @@ Thư mục này tổng hợp các bài viết chuyên đề được đúc kết
 
 ---
 
+### [Bài 14: Dạy AI Kỹ Năng Word — Tự Động Sửa Văn Bản Chuyên Nghiệp](Bai_Doc_14_Day_AI_Ky_Nang_Word_Sua_File_Chuyen_Nghiep.md)
+* **Thời lượng gốc:** 5 phút 24 giây (Chia sẻ bởi PieLikeClaw)
+* **Nội dung chính:** Nạp bộ quy tắc định dạng tài liệu chuẩn vào Antigravity để AI tự sửa file `.docx` mà không làm vỡ Heading, lệch bảng biểu hay mất Footnotes.
+* 🔗 [Xem video gốc trên YouTube](https://www.youtube.com/watch?v=G6pkv8GEXGw)
+
+---
+
+### [Bài 15: Excel Skill Cho AI — Tự Động Sửa Lỗi Công Thức & Chuẩn Hóa Bảng Tính](Bai_Doc_15_Excel_Skill_Cho_AI_Tu_Dong_Sua_Loi_Dinh_Dang.md)
+* **Thời lượng gốc:** 6 phút 13 giây (Chia sẻ bởi PieLikeClaw)
+* **Nội dung chính:** Nhận diện 7 bẫy chết người khi AI thao tác với bảng tính (mất công thức động, cắt cụt số dài trên 15 ký tự) và cách thiết lập bộ Skill Excel bảo vệ dữ liệu.
+* 🔗 [Xem video gốc trên YouTube](https://www.youtube.com/watch?v=BPhJifuAFps)
+
+---
+
+### [Bài 16: Đánh Giá Thực Tế AI Tự Làm Slide PowerPoint Từ Tài Liệu Văn Bản](Bai_Doc_16_AI_Tu_Tao_PowerPoint_Tu_Tai_Lieu_Thuc_Te.md)
+* **Thời lượng gốc:** 5 phút 16 giây (Chia sẻ bởi PieLikeClaw)
+* **Nội dung chính:** Phân tích ưu nhược điểm khi yêu cầu AI đọc văn bản đề án và tự sinh slide PowerPoint, cách kết hợp với Slide Master để đạt hiệu quả tối ưu.
+* 🔗 [Xem video gốc trên YouTube](https://www.youtube.com/watch?v=GBQ_zLMlGeI)
+
+---
+
 > 📂 *Toàn bộ tệp phụ đề gốc (transcript) dạng văn bản và ảnh chụp màn hình minh họa đã được lưu trữ tại `transcripts/` và `../assets/screenshots/video_frames/`.*

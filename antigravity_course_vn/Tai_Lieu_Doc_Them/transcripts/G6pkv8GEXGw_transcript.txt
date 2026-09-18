@@ -1,0 +1,79 @@
+nhé. Đây là file Word Trên file này nó không có một cái file
+nó rất là messy và nó không có một
+rất là xấu và nó chỉ liệt kê tất cả những thông tin thôi
+mình không có chỉnh sửa và làm tất cả những gì với cái file
+này bạn có thể thấy đây Bây giờ mình sẽ bảo con AntiGravity
+con Gemini Pro 3 của mình ở trên AntiGravity để nó chỉnh sửa lại
+file này dựa trên các skill mà anh Ivan đã chia sẻ thì
+xem nó sẽ chỉnh sửa thế nào nhé File mới này,
+bạn đã thấy đây, nó đã chỉnh sửa Sửa lại dựa trên skill của
+anh Ivan Đó, nó rất đẹp hơn rất là nhiều
+Chào các bạn, hôm nay mình sẽ làm về AI văn phòng tập 2.
+Tập trước, mình đã setup Anti-Gravity để edit,
+chỉnh sửa những tác vụ văn phòng. Hôm nay mình sẽ bắt đầu với
+Word. Mình sẽ tạo ra kỹ năng AI để chỉnh sửa và tạo ra
+những luật cơ bản nhất về Word. Thực sự,
+mình không có nhiều kiến thức về Word. Những luật cơ bản này đến
+từ anh Ivan ở trên OpenClaw và đã được gần 70.000 người tải
+xuống và sử dụng. Nếu bạn thấy hay,
+hãy like, share, subscribe để mình có thêm động lực làm những video tiếp
+theo. Let's do it! So đây là anh
+Ivan và kỹ năng của anh ấy về Word.
+Nào Cách nào để đọc, tạo và edit Word.
+Thì cả kỹ năng này là một số kỹ năng cơ bản về Word.
+Đây, mình đã dịch và mở trên AntiGravity.
+Let's try to do AntiGravity để xem nha.
+Đây là những luật cơ bản của anh Ivan mình đã dịch sang tiếng
+Việt. Những quy tắc xử lý làm sao những file .docx XML
+không phải thuộc tính thuần văn bản xử lý như thế nào thành văn
+bản Word. Và một số các bài toán định danh bảo
+toàn style của file thì định danh phải chia thành nhiều lớp
+như là style đoạn văn, style ký tự.
+và một số điều luật riêng.
+Đây là những điều luật về hệ thống đánh số,
+đánh số file như thế nào, đánh số trang như thế nào,
+hình thức như thế nào, thụt lề ra sao, đó. Và bố cục trang,
+đó, đây anh có những luật về bố cục trang,
+về lề, hướng, tiêu đề, chân trang, đánh số.
+Và, và tiếp theo sẽ là theo dõi và thay đổi,
+thay đổi bình luận. những bình luận ở trên file Word phải edit
+như thế nào, đấy, anh có những luật riêng này cho những thứ
+đấy cách trình bày như thế nào. Và anh cũng sắp có một số
+luật về các lỗi phổ biến.
+Rồi sau khi bạn đã có skill này thì bạn làm cách nào để
+lưu cái skill này vào folder của bạn Thì mình chỉ hỏi con
+Gemini Pro của mình là hãy dùng skill
+này để tạo thành một cái skill Bạn có thể apply
+cái skill này thành một cái AI skill trên cái folder này được không
+để sau mỗi lần mình tạo hoặc chỉnh sửa file Word,
+bạn đều dùng cái skill này. Đó.
+Thì nó đã tuân thủ theo và nó đã tạo ra 2 cái dot
+rule file và core dot rule file.
+Các file này ở đây thì mình đọc qua những file này nha,
+thì file này thì nó sẽ bảo là: trước khi nó làm hoặc là
+nó làm việc với bất cứ file word nào đó thì nó luôn luôn
+đọc cái file skill của mình trước Cái file gốc của anh Ivan
+trước sau đó thì nó mới bắt đầu tiến hành chỉnh sửa và làm
+tất cả mọi thứ với file word đó hãy đến với Demo nhé.
+Đây là file Word Trên file này nó không có một cái file, nó
+rất là messy và nó không có gì, rất
+là xấu và nó chỉ liệt kê tất cả những thông tin thôi, mình
+không có chỉnh sửa và làm tất cả những gì với cái file này
+bạn có thể thấy đây Bây giờ mình sẽ bảo con AntiGravity
+con Gemini Pro 3 của mình ở trên AntiGravity để nó chỉnh sửa lại
+file này dựa trên các skill mà anh Ivan đã chia sẻ thì
+xem nó sẽ chỉnh sửa thế nào nhé Đây là Anti-Gravity
+của mình. Đó, sau đó mình chỉ bảo là viết file word này thành
+file đẹp thành file mới đẹp sao cho,
+hãy viết lại file good này thành file mới sao cho đẹp,
+thế thôi và mình quăng cái file này của mình lên rồi
+để xem nó sẽ chạy mình đã xóa đi rồi,
+bây giờ mình sẽ chạy lại xem nó chạy như thế nào nha. Ok,
+nó đã chạy xong và nó đã tạo ra một file mới Xem file
+này xem nó đã chỉnh sửa như thế nào nha. Ok,
+nó đã tạo file mới đây Để mình mở ra xem đó File mới
+này, bạn đã thấy đây, nó đã chỉnh sửa Sửa lại dựa trên skill
+của anh Ivan Đó, nó rất đẹp hơn rất là nhiều Và được
+thành table, tạo thành các bản báo cáo Đó
+là những kỹ năng cơ bản về Word Đến từ anh Ivan
+Nếu bạn thấy hay, hãy like và chia sẻ video Thank you

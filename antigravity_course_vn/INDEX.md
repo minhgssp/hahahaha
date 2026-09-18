@@ -74,6 +74,9 @@ Khóa học được thiết kế theo phương pháp "Cầm tay chỉ việc", 
 * 📑 **[Bài 11: Giải Mã Sự Kiện Google Tách Antigravity Cho Người Dùng Phổ Thông](Tai_Lieu_Doc_Them/Bai_Doc_11_Giai_Ma_Suki_Google_Tach_Antigravity_Cho_Nguoi_Dung_Pho_Thong.md)**
 * 📑 **[Bài 12: Xử Lý Triệt Để Lỗi Không Mở Được File Office (.docx, .xlsx) Trong Antigravity](Tai_Lieu_Doc_Them/Bai_Doc_12_Xu_Ly_Triet_De_Loi_Khong_Mo_Duoc_File_Office_Trong_Antigravity.md)**
 * 📑 **[Bài 13: Tự Động Hóa Hẹn Giờ Lên Lịch Đăng Bài Với Scheduled Tasks](Tai_Lieu_Doc_Them/Bai_Doc_13_Tu_Dong_Hoa_Lich_Trinh_Hen_Gio_Dang_Bai_Scheduled_Tasks.md)**
+* 📑 **[Bài 14: Dạy AI Kỹ Năng Word — Tự Động Sửa Văn Bản Chuyên Nghiệp](Tai_Lieu_Doc_Them/Bai_Doc_14_Day_AI_Ky_Nang_Word_Sua_File_Chuyen_Nghiep.md)**
+* 📑 **[Bài 15: Excel Skill Cho AI — Tự Động Sửa Lỗi Công Thức & Chuẩn Hóa Bảng Tính](Tai_Lieu_Doc_Them/Bai_Doc_15_Excel_Skill_Cho_AI_Tu_Dong_Sua_Loi_Dinh_Dang.md)**
+* 📑 **[Bài 16: Đánh Giá Thực Tế AI Tự Làm Slide PowerPoint Từ Tài Liệu Văn Bản](Tai_Lieu_Doc_Them/Bai_Doc_16_AI_Tu_Tao_PowerPoint_Tu_Tai_Lieu_Thuc_Te.md)**
 * 📊 **[Báo cáo Đánh giá Sư phạm Tích hợp Giáo trình](Tai_Lieu_Doc_Them/Danh_Gia_Tich_Hop_Giao_Trinh.md)**
 
 ---

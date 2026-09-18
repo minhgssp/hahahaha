@@ -1,0 +1,75 @@
+bảo tạo PowerPoint từ một PowerPoint từ chương trình Document Linkage mới,
+Docs, chỉ cần những thông tin chính.
+Và thế để xem xem AI của mình làm được như thế nào nha.
+Đây là bản Powerpoint mà AI mình đã đã tạo cho mình.
+Nó khá là đơn giản và cũng chỉ là liệt kê những thư mục
+đơn giản nhất về cái workflow của mình và
+Chào các bạn, hôm nay mình lại làm series về AI công việc văn
+phòng. Tập trước, mình đã dùng skill của anh Ivan để tạo một skill
+cơ bản về Excel cho AI của mình.
+Hôm nay mình sẽ dùng skill khác của anh Ivan để về PowerPoint.
+Kỹ năng này của anh cũng đang được hơn 40.000 người tải xuống và
+sử dụng. Nếu bạn có ý tưởng nào hay, hãy comment bên dưới.
+Nếu bạn thấy hay, hãy like, share và subscribe để mình có thêm động
+lực làm những video tiếp theo. Đây là skill của anh Ivan và
+đã ăn được hơn 40.000 người tài xuống.
+Bây giờ mình đã sử dụng con Cloud Code của mình để tóm tắt
+xem skill của anh Ivan làm được những gì nha.
+Đây là mình đã sử dụng con code code để tóm tắt skill PowerPoint
+này của anh. Skill này mục đích là tạo,
+kiểm tra và chỉnh sửa các bài thuyết minh PowerPoint focus về bố cục,
+template, placeholder và nốt và biểu đồ để kiểm soát chất lượng hình ảnh.
+Có 6 quy tắc chính là chọn workflow trước khi sửa,
+kiểm kê các text trước khi thay đổi nội dung,
+khớp nối nội dung và placeholder thực tế,
+bảo tồn ngôn ngữ hình ảnh của text, và chạy QA trên nội dung
+và hình ảnh riêng biệt, giữ định dạng để có thể dễ dàng chia sẻ
+và review. Và anh chỉ ra một số lỗi thường gặp là placeholder
+và biểu đồ mẫu sống sót. nếu rõ ràng,
+chỉnh sửa trực tiếp thất bại nếu có vấn đề nằm ở layout,
+rồi font thay thế, rồi note and comment media chia sẻ liên kết,
+và tỷ lệ khung hình, thế nào cho khớp.
+Đó là cơ bản những luật và quy tắc của anh về PowerPoint.
+Và để copy, bạn chỉ cần lên trang của anh và copy,
+mình đã copy cái skill này của anh về máy của mình.
+Chỉ copy đến tận placeholder.
+Bạn có thể ignore related skills với feedback.
+Sau khi copy về placeholder,
+mình đã copy về powerpoint skill của mình đây. Mình chỉ copy tất cả
+về. Sau khi đó,
+mình sẽ mở con Anti-Gravity của mình lên,
+và đầu tiên mình sẽ như là Word
+với cả Excel, mình đầu tiên mình sẽ bảo là có thể biến cái
+skill PowerPoint của mình để thành skill chính của
+AI có thể gọi trong cái thư mục này không.
+Đó. Thì mình sẽ bảo AI làm như vậy.
+Đây là những điều mà mình muốn AI làm.
+Bạn có thể kiểm tra skill Powerpoint MD
+thành một skill trên mạng. Trên OAI có thể đọc trên folder này và
+mỗi khi mình chỉnh sửa, PowerPoint5 thì
+đều dùng skill này và mình sẽ để con Gemini mình chạy OK,
+nó đã chạy xong và nó đã update ra một số luật.
+Để mình đọc qua xem nó đã update luật nhanh như thế nào nha.
+Ở đây thì nó thêm cả PowerPoint để review nữa.
+Excel Office như là Doc Excel. và mỗi khi chạy
+qua Powerpoint thì nó sẽ phải đọc cái file Powerpoint
+này trước, đọc skill của anh Ivan trước từ skillpowerpoint.md
+Ok, let đến với demo nào Thì mình sẽ
+tạo Powerpoint từ file document này của mình Bây
+giờ mình sẽ bảo AI của mình để tạo PowerPoint từ document này.
+Đây mình sẽ chia sẻ và mình sẽ bảo tạo PowerPoint từ một PowerPoint
+từ chương trình Document Linkage mới, Docs,
+chỉ cần những thông tin chính. Và thế để xem xem AI của
+mình làm được như thế nào nha.
+Xong, con AI của mình đã tạo xong một Powerpoint cho mình tên là
+chương trình liên kết tóm tắt Powerpoint.
+Để mình mở ra xem Powerpoint như thế nào nha.
+Chương trình liên kết tóm tắt. Đây.
+Đây là bản Powerpoint mà AI mình đã đã tạo cho mình.
+Nó khá là đơn giản và cũng chỉ là liệt kê những thư mục
+đơn giản nhất về cái workflow của mình và PowerPoint,
+không có một template nào cả.
+Mình luôn có POM Setup Skill ở dưới mô tả.
+Nếu bạn có ý tưởng nào hay, hãy comment bên dưới.
+Hãy like, share và subscribe để mình có thêm động lực làm những video
+tiếp theo. Thank you.

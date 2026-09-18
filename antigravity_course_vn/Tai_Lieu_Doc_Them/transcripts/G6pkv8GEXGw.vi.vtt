@@ -1,0 +1,241 @@
+WEBVTT
+Kind: captions
+Language: vi
+
+00:00:00.000 --> 00:00:04.814
+nhé. Đây là file Word Trên file này nó không có một cái file
+
+00:00:04.815 --> 00:00:09.894
+nó rất là messy và nó không có một
+
+00:00:09.895 --> 00:00:12.414
+rất là xấu và nó chỉ liệt kê tất cả những thông tin thôi
+
+00:00:12.415 --> 00:00:15.394
+mình không có chỉnh sửa và làm tất cả những gì với cái file
+
+00:00:15.395 --> 00:00:20.554
+này bạn có thể thấy đây Bây giờ mình sẽ bảo con AntiGravity
+
+00:00:20.555 --> 00:00:25.014
+con Gemini Pro 3 của mình ở trên AntiGravity để nó chỉnh sửa lại
+
+00:00:25.015 --> 00:00:29.794
+file này dựa trên các skill mà anh Ivan đã chia sẻ thì
+
+00:00:29.795 --> 00:00:33.848
+xem nó sẽ chỉnh sửa thế nào nhé File mới này,
+
+00:00:34.468 --> 00:00:38.389
+bạn đã thấy đây, nó đã chỉnh sửa Sửa lại dựa trên skill của
+
+00:00:38.390 --> 00:00:41.149
+anh Ivan Đó, nó rất đẹp hơn rất là nhiều
+
+00:00:42.189 --> 00:00:45.309
+Chào các bạn, hôm nay mình sẽ làm về AI văn phòng tập 2.
+
+00:00:45.689 --> 00:00:48.349
+Tập trước, mình đã setup Anti-Gravity để edit,
+
+00:00:48.529 --> 00:00:51.369
+chỉnh sửa những tác vụ văn phòng. Hôm nay mình sẽ bắt đầu với
+
+00:00:51.370 --> 00:00:55.469
+Word. Mình sẽ tạo ra kỹ năng AI để chỉnh sửa và tạo ra
+
+00:00:55.470 --> 00:00:57.609
+những luật cơ bản nhất về Word. Thực sự,
+
+00:00:57.829 --> 00:01:01.049
+mình không có nhiều kiến thức về Word. Những luật cơ bản này đến
+
+00:01:01.050 --> 00:01:05.769
+từ anh Ivan ở trên OpenClaw và đã được gần 70.000 người tải
+
+00:01:05.770 --> 00:01:07.849
+xuống và sử dụng. Nếu bạn thấy hay,
+
+00:01:08.109 --> 00:01:12.789
+hãy like, share, subscribe để mình có thêm động lực làm những video tiếp
+
+00:01:12.790 --> 00:01:18.569
+theo. Let's do it! So đây là anh
+
+00:01:18.570 --> 00:01:21.069
+Ivan và kỹ năng của anh ấy về Word.
+
+00:01:21.529 --> 00:01:24.730
+Nào Cách nào để đọc, tạo và edit Word.
+
+00:01:25.450 --> 00:01:28.030
+Thì cả kỹ năng này là một số kỹ năng cơ bản về Word.
+
+00:01:28.630 --> 00:01:31.870
+Đây, mình đã dịch và mở trên AntiGravity.
+
+00:01:33.010 --> 00:01:35.530
+Let's try to do AntiGravity để xem nha.
+
+00:01:36.490 --> 00:01:39.630
+Đây là những luật cơ bản của anh Ivan mình đã dịch sang tiếng
+
+00:01:39.631 --> 00:01:46.070
+Việt. Những quy tắc xử lý làm sao những file .docx XML
+
+00:01:46.071 --> 00:01:49.330
+không phải thuộc tính thuần văn bản xử lý như thế nào thành văn
+
+00:01:49.331 --> 00:01:54.170
+bản Word. Và một số các bài toán định danh bảo
+
+00:01:54.171 --> 00:01:58.750
+toàn style của file thì định danh phải chia thành nhiều lớp
+
+00:01:58.751 --> 00:02:01.430
+như là style đoạn văn, style ký tự.
+
+00:02:01.892 --> 00:02:04.892
+và một số điều luật riêng.
+
+00:02:05.252 --> 00:02:07.412
+Đây là những điều luật về hệ thống đánh số,
+
+00:02:08.052 --> 00:02:10.932
+đánh số file như thế nào, đánh số trang như thế nào,
+
+00:02:11.392 --> 00:02:15.192
+hình thức như thế nào, thụt lề ra sao, đó. Và bố cục trang,
+
+00:02:15.532 --> 00:02:17.912
+đó, đây anh có những luật về bố cục trang,
+
+00:02:18.072 --> 00:02:20.992
+về lề, hướng, tiêu đề, chân trang, đánh số.
+
+00:02:23.072 --> 00:02:25.752
+Và, và tiếp theo sẽ là theo dõi và thay đổi,
+
+00:02:25.872 --> 00:02:30.412
+thay đổi bình luận. những bình luận ở trên file Word phải edit
+
+00:02:30.413 --> 00:02:33.752
+như thế nào, đấy, anh có những luật riêng này cho những thứ
+
+00:02:33.753 --> 00:02:38.532
+đấy cách trình bày như thế nào. Và anh cũng sắp có một số
+
+00:02:38.533 --> 00:02:41.792
+luật về các lỗi phổ biến.
+
+00:02:45.513 --> 00:02:49.073
+Rồi sau khi bạn đã có skill này thì bạn làm cách nào để
+
+00:02:49.074 --> 00:02:53.633
+lưu cái skill này vào folder của bạn Thì mình chỉ hỏi con
+
+00:02:53.634 --> 00:03:00.053
+Gemini Pro của mình là hãy dùng skill
+
+00:03:00.054 --> 00:03:04.893
+này để tạo thành một cái skill Bạn có thể apply
+
+00:03:04.894 --> 00:03:08.313
+cái skill này thành một cái AI skill trên cái folder này được không
+
+00:03:08.314 --> 00:03:11.333
+để sau mỗi lần mình tạo hoặc chỉnh sửa file Word,
+
+00:03:11.713 --> 00:03:13.993
+bạn đều dùng cái skill này. Đó.
+
+00:03:14.433 --> 00:03:18.373
+Thì nó đã tuân thủ theo và nó đã tạo ra 2 cái dot
+
+00:03:18.374 --> 00:03:21.913
+rule file và core dot rule file.
+
+00:03:21.934 --> 00:03:24.794
+Các file này ở đây thì mình đọc qua những file này nha,
+
+00:03:25.494 --> 00:03:28.594
+thì file này thì nó sẽ bảo là: trước khi nó làm hoặc là
+
+00:03:28.595 --> 00:03:32.594
+nó làm việc với bất cứ file word nào đó thì nó luôn luôn
+
+00:03:32.595 --> 00:03:37.274
+đọc cái file skill của mình trước Cái file gốc của anh Ivan
+
+00:03:37.275 --> 00:03:41.474
+trước sau đó thì nó mới bắt đầu tiến hành chỉnh sửa và làm
+
+00:03:41.475 --> 00:03:44.367
+tất cả mọi thứ với file word đó hãy đến với Demo nhé.
+
+00:03:44.687 --> 00:03:49.768
+Đây là file Word Trên file này nó không có một cái file, nó
+
+00:03:49.769 --> 00:03:54.328
+rất là messy và nó không có gì, rất
+
+00:03:54.329 --> 00:03:56.908
+là xấu và nó chỉ liệt kê tất cả những thông tin thôi, mình
+
+00:03:56.909 --> 00:03:59.888
+không có chỉnh sửa và làm tất cả những gì với cái file này
+
+00:03:59.889 --> 00:04:04.848
+bạn có thể thấy đây Bây giờ mình sẽ bảo con AntiGravity
+
+00:04:04.849 --> 00:04:09.308
+con Gemini Pro 3 của mình ở trên AntiGravity để nó chỉnh sửa lại
+
+00:04:09.309 --> 00:04:14.088
+file này dựa trên các skill mà anh Ivan đã chia sẻ thì
+
+00:04:14.089 --> 00:04:18.988
+xem nó sẽ chỉnh sửa thế nào nhé Đây là Anti-Gravity
+
+00:04:18.989 --> 00:04:23.508
+của mình. Đó, sau đó mình chỉ bảo là viết file word này thành
+
+00:04:23.509 --> 00:04:27.149
+file đẹp thành file mới đẹp sao cho,
+
+00:04:27.829 --> 00:04:30.669
+hãy viết lại file good này thành file mới sao cho đẹp,
+
+00:04:30.749 --> 00:04:35.829
+thế thôi và mình quăng cái file này của mình lên rồi
+
+00:04:35.830 --> 00:04:39.629
+để xem nó sẽ chạy mình đã xóa đi rồi,
+
+00:04:39.729 --> 00:04:45.707
+bây giờ mình sẽ chạy lại xem nó chạy như thế nào nha. Ok,
+
+00:04:45.907 --> 00:04:49.787
+nó đã chạy xong và nó đã tạo ra một file mới Xem file
+
+00:04:49.788 --> 00:04:55.287
+này xem nó đã chỉnh sửa như thế nào nha. Ok,
+
+00:04:55.507 --> 00:04:59.707
+nó đã tạo file mới đây Để mình mở ra xem đó File mới
+
+00:04:59.708 --> 00:05:04.348
+này, bạn đã thấy đây, nó đã chỉnh sửa Sửa lại dựa trên skill
+
+00:05:04.349 --> 00:05:09.048
+của anh Ivan Đó, nó rất đẹp hơn rất là nhiều Và được
+
+00:05:09.049 --> 00:05:13.868
+thành table, tạo thành các bản báo cáo Đó
+
+00:05:13.869 --> 00:05:18.388
+là những kỹ năng cơ bản về Word Đến từ anh Ivan
+
+00:05:18.389 --> 00:05:22.528
+Nếu bạn thấy hay, hãy like và chia sẻ video Thank you
+

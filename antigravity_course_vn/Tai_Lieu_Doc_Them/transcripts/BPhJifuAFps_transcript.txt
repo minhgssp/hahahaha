@@ -1,0 +1,83 @@
+bài lần trước khi tải Anti-Gravity Mình, Đây mình đã convert,
+mình đã bảo con AntiGravity để trả lời file Excel của mình
+Và tự động tạo một bản Excel mới Đây là bản
+Excel mới Bây giờ mình sẽ dùng con Gemini của mình và sử dụng
+skill của Excel để xem kết quả xem thế nào nha. Đây
+là file nó đã tinh chỉnh lại.
+Đó. Không còn lỗi nữa,
+Chào các bạn, hôm nay mình sẽ làm về AI văn phòng tập 3.
+Tập trước mình đã dùng skill của anh Ivan để tạo một skill cơ
+bản về Word cho con AI của mình. Hôm nay mình sẽ dùng skill
+khác của anh về Excel. Kỹ năng này của anh đang được hơn 60.000
+người tải xuống và sử dụng. Nếu bạn thấy hay,
+hãy like, share, subscribe để mình có thêm động lực làm những video tiếp
+theo nha. Ok, mình đã dùng ClawCode để tóm tắt xem kỹ năng này
+của anh sẽ có gì nào. Đây
+là mình đã dùng tóm tắt kỹ năng của anh Mình hỏi con ClawCode
+là hãy tóm tắt kỹ năng này, skill này được không?
+Và đây là bản tóm tắt của con ClawCode Mục đích của skill này
+là hỗ trợ đọc và chỉnh sửa file Excel với độ chính xác cao
+về công thức, định dạng và ngày tháng và cấu trúc của workbook,
+Khi nào dùng và khi làm việc với Excel, đặc biệt là khi cần
+có những công thức, định dạng,
+ô ghép hoặc là cần tương thích đa nền tảng.
+7 quy tắc cốt lõi. Đầu tiên là chọn công cụ đúng mục đích.
+Phải dùng Pandas để cho phân tích dữ liệu và OpenPyXL khi cần
+công thức hoặc là style hoặc là ghép.
+Ngày tháng, số serial, được lưu dưới dạng số nguyên,
+bắt đầu từ 1900 nên cần xử lý cẩn thận.
+Giữ công thức trong Excel, không hardcode.
+Tất cả công thức phải được viết từ những công thức từ Excel để
+workbook còn sống. Bảo vệ dữ liệu,
+số điện thoại, mã zip. Nên định dạng dưới dạng text thì Excel
+có thể tự cắt số quá 15 chữ số.
+Giữ nguyên cấu trúc của workbook, không thay đổi style,
+thứ tự sheet, vùng in,
+filter. Có những yêu cầu tính toán lại trước khi giao.
+Open Excel không tự tính toán công thức kiểm tra lại không còn lỗi
+và tối ưu cho file lớn.
+Đó. Và anh cũng đưa ra một số 7 bẫy phổ biến về Excel
+tự động. Chuyển đổi ID thành số dạng khác và lưu sai chế độ
+có thể làm mất công thức. Google Sheets hoặc LibreOffice có thể hiển
+thị khác các hàm mới. Và đó là skill của anh.
+Anh ấy chỉ chia sẻ một số quy tắc và bẫy về
+Excel. Và mình đã tải skill này về
+Anti-Gravity và mình đã lưu ở dưới dạng đây.
+Đây là skill của anh ấy trên trang web mà mình vừa copy về.
+Đó. Rồi mình chỉ bảo con AntiGravity của mình là Bạn
+có thể skill Excel này thành một skill trên AI Folder để mỗi khi
+mình tạo hoặc chỉnh sửa file Excel, mình đều dùng skill này và mình
+làm y hệt với Word. Thì nó sẽ update cái rule
+của mình và cursor rule của mình để mỗi khi mình hoàn thành bất
+kỳ thao tác nào với Excel thì nó sẽ đọc cái skill của
+anh Ivan này trước. Trước khi bắt đầu làm.
+Ok, hãy đến với demo nha.
+Mình, à,
+Trong lần trước mình có một, à,
+Ở giữa bài lần trước khi tải Anti-Gravity Mình,
+Đây mình đã convert, mình đã bảo con AntiGravity
+để trả lời file Excel của mình Và tự động tạo một bản
+Excel mới Đây là bản Excel mới Bây
+giờ mình sẽ dùng con Gemini của mình và sử dụng skill của Excel
+để xem kết quả xem thế nào nha. Bây
+giờ mình sẽ bảo con Excel của mình là tạo một file khác
+file khác, file Excel khác,
+để,
+Từ file cũ của mình xem kết quả sẽ thế nào.
+Ok, con Gemini Pro 3 của mình đã hoàn thành xong.
+Và đây là một số lỗi mà nó phát hiện ra từ skill mới
+của anh. Phân biệt vạch đỏ công thức,
+input vào công thức. Đó, chỉnh sửa một số lỗi về formula công thức
+này. Đó, và giao diện định dạng,
+nó formatting lại xem nó đẹp hơn không. Mình chưa mở ra nên là
+mình chưa biết. Ok, hãy mở ra xem file này xem thế nào nha.
+Excel tinh chỉnh. Đó.
+Đây là file nó đã tinh chỉnh lại.
+Đó. Không còn lỗi nữa,
+không còn bị lỗi như file lần trước nữa.
+Đây là mình chỉ cần, Đó,
+tại vì số dài quá.
+Đó. Những số serial number.
+Và đó là skill của anh Ivan.
+Nó đã chỉnh sửa lại format đẹp hơn và sửa một số lỗi từ
+bản cũ. Thank you for watching.
