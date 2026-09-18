@@ -11,7 +11,7 @@ Khóa học được thiết kế theo phương pháp "Cầm tay chỉ việc", 
 1. **[0.1 Giới thiệu về Antigravity cho Dân Văn Phòng](Module_0_Getting_Started/0.1_Introduction.md)**
    - Hiểu rõ Antigravity là gì: "AI có tay chân" so với chatbot thông thường (ChatGPT/Gemini).
 2. **[0.2 Hướng dẫn Cài đặt & Thiết lập Dễ dàng](Module_0_Getting_Started/0.2_Installation_Setup.md)**
-   - Các bước cài đặt đơn giản trên Windows/Mac và làm quen màn hình khởi động.
+   - Cài đặt Antigravity 2.0 (phân biệt CLI vs IDE), chọn model siêu tốc Gemini 3.8 Flash và hiểu cơ chế hồi phục quota.
 3. **[0.3 Hướng dẫn Mở Thư mục Khóa học (Workspace)](Module_0_Getting_Started/0.3_Opening_Course_Folder.md)**
    - Thao tác mở thư mục bài học và kiểm tra danh mục tài liệu ở cột bên trái.
 
@@ -23,7 +23,7 @@ Khóa học được thiết kế theo phương pháp "Cầm tay chỉ việc", 
 1. **[1.1 Chào mừng đến với TaskFlow (Bối cảnh Thực hành)](Module_1_Fundamentals/1.1_Welcome.md)**
    - Nhận việc tại công ty TaskFlow, làm quen 3 đồng nghiệp: Alex (CEO), Sarah (HR), Mike (Sales). *(Lệnh: `/start-1-1`)*
 2. **[1.2 Làm chủ Giao diện Antigravity (Interface Overview)](Module_1_Fundamentals/1.2_Files_Formats.md)**
-   - 3 khu vực làm việc chính, phím tắt xem trước (`Ctrl+Shift+V`) và phím gọi tên file `@`. *(Lệnh: `/start-1-2`)*
+   - 3 khu vực làm việc chính, phím gọi file `@` và cài Extension đọc tài liệu Word (.docx), PowerPoint (.pptx), Excel (.xlsx), PDF. *(Lệnh: `/start-1-2`)*
 3. **[1.3 Những Tác vụ Đầu tiên cùng AI (First Tasks)](Module_1_Fundamentals/1.3_First_Tasks.md)**
    - Sửa file có sẵn, biến ghi chú thô thành email và tổng hợp nhiều tài liệu cùng lúc. *(Lệnh: `/start-1-3`)*
 4. **[1.4 Mẫu (Templates) & Quy trình (Workflows)](Module_1_Fundamentals/1.4_Templates_Workflows.md)**
